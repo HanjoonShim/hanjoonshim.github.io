@@ -20,12 +20,9 @@ sections:
       title: |-
         <strong>HANJOON SHIM</strong>
       text: |- 
-        {{ $html := "<em>emphasized</em>" }}
-        <font>
-          <strong><i><font size=5><font color="white">
+        <strong><i><font color="white">
           Ph.D in Aerospace Engineering
           </i></strong>
-        </font>
         </br></br>      
 
       button:
