@@ -19,15 +19,13 @@ sections:
     content:
       title: |-
         <strong>HANJOON SHIM</strong>
-      text: |- 
-        <strong><i><font color="white">
-          Ph.D in Aerospace Engineering
-          </i></strong>
-        </br></br>      
+      text: |-
+        <i>Ph.D in Aerospace Engineering</i>
+        </br></br>
 
       button:
         text:
-          Get Started          
+          Launch 🚀         
         url: aboutme/
 
     design:
@@ -37,7 +35,7 @@ sections:
 
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['200px', '0', '200px', '0']
+        padding: ['230px', '0', '230px', '0']
        
       # css_class: dark
       background:
@@ -45,7 +43,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: index_background.jpg
           filters:
-            brightness: 0.7
+            brightness: 0.6
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.  
           size: cover
           position: center
