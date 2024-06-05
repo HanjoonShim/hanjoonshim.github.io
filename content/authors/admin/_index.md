@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 심한준
+title: Hanjoon Shim
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Seoul National University
     url: https://openai.com/
 
 # Social network links
