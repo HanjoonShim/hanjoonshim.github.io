@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "6rem"
 
 sections:
 
@@ -20,6 +20,7 @@ sections:
       title: |-
         <strong>HANJOON SHIM</strong>
       text: |- 
+        {{ $html := "<em>emphasized</em>" }}
         <font>
           <strong><i><font size=5><font color="white">
           Ph.D in Aerospace Engineering
