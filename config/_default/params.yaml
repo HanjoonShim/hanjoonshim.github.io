@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: emerald
+  color: blue
 
 # SEO
 marketing:
@@ -40,8 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: |-
-      © {year} Hanjoon Shim. This work is licensed under {license}
+    notice: '© {year} Hanjoon Shim. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
