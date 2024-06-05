@@ -6,9 +6,38 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "10rem"
 
 sections:
+
+  #-------------------------------------------------------------
+  # Section1: Image (Hanjoon Shim)
+  #-------------------------------------------------------------
+  - block: markdown
+
+    content:
+      title: 'Hanjoon Shim'
+      subtitle: ''
+      text: ""
+
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['400px', '0', '400px', '0']
+
+      css_class: dark
+      background:
+        image:
+          # Add your image background to `assets/media/`.
+          filename: index_background.jpg
+          filters:
+            brightness: 0.7
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.  
+          size: cover
+          position: center
+          parallax: true
+
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -20,16 +49,11 @@ sections:
         url: uploads/resume.pdf
     design:
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      # background:
+      #   color: black
+
+
+
   - block: markdown
     content:
       title: '📚 My Research'
