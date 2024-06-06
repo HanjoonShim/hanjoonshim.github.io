@@ -48,35 +48,35 @@ sections:
   #-------------------------------------------------------------
   # Domestic Journal Paper
   #-------------------------------------------------------------
-  - block: collection
-    content:
-      title: </br></br></br></br>Domestic Journal Paper
-      text: ""
-      # filters:
-      #   folders:
-      #     - pub-conference
-      #   exclude_featured: false
-    design:
-      view: citation
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '20px', '0', '20px']
+  # - block: collection
+  #   content:
+  #     title: </br></br></br></br>Domestic Journal Paper
+  #     text: ""
+  #     # filters:
+  #     #   folders:
+  #     #     - pub-conference
+  #     #   exclude_featured: false
+  #   design:
+  #     view: citation
+  #     spacing:
+  #     # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['0', '20px', '0', '20px']
 
   #-------------------------------------------------------------
   # Domestic Conference Paper
   #-------------------------------------------------------------
-  - block: collection
-    content:
-      title: </br></br></br></br>Domestic Conference Paper
-      text: ""
-      # filters:
-      #   folders:
-      #     - pub-conference
-      #   exclude_featured: false
-    design:
-      view: citation
-      spacing:
-      # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '20px', '0', '20px']
+  # - block: collection
+  #   content:
+  #     title: </br></br></br></br>Domestic Conference Paper
+  #     text: ""
+  #     # filters:
+  #     #   folders:
+  #     #     - pub-conference
+  #     #   exclude_featured: false
+  #   design:
+  #     view: citation
+  #     spacing:
+  #     # Customize the section spacing. Order is top, right, bottom, left.
+  #       padding: ['0', '20px', '0', '20px']
      
 ---

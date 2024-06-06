@@ -9,7 +9,7 @@ main:
     url: aboutme/
     weight: 1
   - name: Experience
-    url: experience/
+    url: aboutme/#experience
     weight: 2
   - name: Publications
     url: publications/

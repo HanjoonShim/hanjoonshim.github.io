@@ -46,8 +46,7 @@ interests:
   - HILS
 
 
-education:
-  
+education: 
   - area: Ph.D., Aerospace Engineering
     institution: Seoul National University, Seoul, Korea
     date_start: 2019-09-01
@@ -85,7 +84,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit

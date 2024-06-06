@@ -23,7 +23,7 @@ publication_types: ["paper-conference"]
 # Publication name and optional abbreviated publication name.
 publication: |-
     *Proceedings of the 2018 International Technical Meeting of The Institute of Navigation*, Reston, Virginia, Jan 2018, pp. 56-71.
-    <span style="background-color: grey; font-weight: bold;">&nbsp;Speaker&nbsp;</span>
+    <span style="background-color: grey; font-weight: bold; color: white;">&nbsp;Speaker&nbsp;</span>
 
 publication_short: ""
 

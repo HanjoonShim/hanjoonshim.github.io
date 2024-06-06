@@ -26,13 +26,56 @@ sections:
     design:
       css_class: dark
       background:
-         gradient_start: '#000000'         
-         gradient_end: '#303040'
-         gradient_angle: 180
+         gradient_start: '#181818'         
+         gradient_end: '#4682B4'
+         gradient_angle: 0
 
   #-------------------------------------------------------------
-  # Section2: Fetured Research
+  # Section2: Featured Publications
   #-------------------------------------------------------------
+
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - pub-journal
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+
+  #-------------------------------------------------------------
+  # Section3: Experience
+  #-------------------------------------------------------------
+  - block: resume-experience
+    id: experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+      
+
+  # - block: resume-skills
+  #   content:
+  #     title: Skills & Hobbies
+  #     username: admin
+  #   design:
+  #     show_skill_percentage: false
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
+
 
   # - block: markdown
   #   content:
@@ -49,17 +92,7 @@ sections:
   #     columns: '1'
 
 
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - pub-journal
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 1
+
 
   # - block: collection
   #   content:
