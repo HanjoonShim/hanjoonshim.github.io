@@ -34,15 +34,15 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/hanjoon-shim
   - icon: academicons/google-scholar
-    url: https://https://scholar.google.com/citations?user=RLkR0CoAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=RLkR0CoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - GPS Applications in LEO
   - RTK Relative Navigation
-  - AOCS
   - CubeSat
+  - AOCS
   - HILS
 
 

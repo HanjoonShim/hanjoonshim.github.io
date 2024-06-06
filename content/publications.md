@@ -25,7 +25,7 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '0', '10px']
+        padding: ['0', '20px', '0', '20px']
 
   #-------------------------------------------------------------
   # International Conference Paper
@@ -43,7 +43,7 @@ sections:
       # Reduce spacing
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '0', '10px']
+        padding: ['0', '20px', '0', '20px']
 
   #-------------------------------------------------------------
   # Domestic Journal Paper
@@ -60,7 +60,7 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '0', '10px']
+        padding: ['0', '20px', '0', '20px']
 
   #-------------------------------------------------------------
   # Domestic Conference Paper
@@ -77,6 +77,6 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '10px', '0', '10px']
+        padding: ['0', '20px', '0', '20px']
      
 ---
