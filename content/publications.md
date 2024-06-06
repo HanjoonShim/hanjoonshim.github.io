@@ -40,10 +40,10 @@ sections:
     content:
       title: Domestic Journal Paper
       text: ""
-      filters:
-        folders:
-          - pub-conference
-        exclude_featured: false
+      # filters:
+      #   folders:
+      #     - pub-conference
+      #   exclude_featured: false
     design:
       view: citation
      
