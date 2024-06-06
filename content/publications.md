@@ -15,7 +15,7 @@ sections:
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: International Journal Paper (SCIE/SCOPUS)
+      title: </br></br></br></br>International Journal Paper (SCIE/SCOPUS)
       text: ""
       filters:
         folders:
@@ -25,14 +25,14 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '5px', '0', '5px']
+        padding: ['0', '10px', '0', '10px']
 
   #-------------------------------------------------------------
   # International Conference Paper
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: International Conference Paper
+      title: </br></br></br></br>International Conference Paper
       text: ""
       filters:
         folders:
@@ -43,14 +43,14 @@ sections:
       # Reduce spacing
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '5px', '0', '5px']
+        padding: ['0', '10px', '0', '10px']
 
   #-------------------------------------------------------------
   # Domestic Journal Paper
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: Domestic Journal Paper
+      title: </br></br></br></br>Domestic Journal Paper
       text: ""
       # filters:
       #   folders:
@@ -60,14 +60,14 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '5px', '0', '5px']
+        padding: ['0', '10px', '0', '10px']
 
   #-------------------------------------------------------------
   # Domestic Conference Paper
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: Domestic Conference Paper
+      title: </br></br></br></br>Domestic Conference Paper
       text: ""
       # filters:
       #   folders:
@@ -77,7 +77,6 @@ sections:
       view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '5px', '0', '5px']
+        padding: ['0', '10px', '0', '10px']
      
-
 ---
