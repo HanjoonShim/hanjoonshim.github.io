@@ -39,9 +39,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GPS Applications in LEO
+  - RTK Relative Navigation
+  - Attitude and Orbit Control System
+  - CubeSat (Small Satellites)
+  - Hardware-in-the-Loop Simulation
+
 
 education:
   - area: PhD Artificial Intelligence
@@ -134,12 +137,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Korean
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -175,4 +176,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ph.D candidate has been training in aerospace engineering with strong sociable skills developed from extensive team projects experiences and ability to work leading a team or as part of a team. Special expertise in the following areas:

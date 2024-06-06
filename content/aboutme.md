@@ -1,17 +1,17 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: 'aboutme'
+date: 2024-6-6
 type: landing
 
 design:
   # Default section spacing
-  spacing: "10rem"
+  spacing: "4rem"
 
 sections:
 
   #-------------------------------------------------------------
-  # Section1: Image (Hanjoon Shim)
+  # Section1: Admin (Hanjoon Shim)
   #-------------------------------------------------------------
   
   - block: resume-biography-3
@@ -22,13 +22,13 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: "uploads/resume.pdf"
     design:
       css_class: dark
-      # background:
-      #   color: black
-
-
+      background:
+         gradient_start: '#000000'         
+         gradient_end: '#303040'
+         gradient_angle: 180
 
   - block: markdown
     content:
