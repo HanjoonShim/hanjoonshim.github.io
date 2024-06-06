@@ -10,6 +10,9 @@ design:
 # Page sections
 sections:
 
+  #-------------------------------------------------------------
+  # International Journal Paper (SCIE/SCOPUS)
+  #-------------------------------------------------------------
   - block: collection
     content:
       title: International Journal Paper (SCIE/SCOPUS)
@@ -20,7 +23,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '5px', '0', '5px']
 
+  #-------------------------------------------------------------
+  # International Conference Paper
+  #-------------------------------------------------------------
   - block: collection
     content:
       title: International Conference Paper
@@ -34,8 +43,11 @@ sections:
       # Reduce spacing
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0', '50px', '0', '50px']
+        padding: ['0', '5px', '0', '5px']
 
+  #-------------------------------------------------------------
+  # Domestic Journal Paper
+  #-------------------------------------------------------------
   - block: collection
     content:
       title: Domestic Journal Paper
@@ -46,6 +58,26 @@ sections:
       #   exclude_featured: false
     design:
       view: citation
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '5px', '0', '5px']
+
+  #-------------------------------------------------------------
+  # Domestic Conference Paper
+  #-------------------------------------------------------------
+  - block: collection
+    content:
+      title: Domestic Conference Paper
+      text: ""
+      # filters:
+      #   folders:
+      #     - pub-conference
+      #   exclude_featured: false
+    design:
+      view: citation
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '5px', '0', '5px']
      
 
 ---
