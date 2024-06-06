@@ -36,4 +36,16 @@ sections:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0', '50px', '0', '50px']
 
+  - block: collection
+    content:
+      title: Domestic Journal Paper
+      text: ""
+      filters:
+        folders:
+          - pub-conference
+        exclude_featured: false
+    design:
+      view: citation
+     
+
 ---
