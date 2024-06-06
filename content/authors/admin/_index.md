@@ -32,52 +32,52 @@ profiles:
   # - icon: brands/github
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hanjoon-shim
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://https://scholar.google.com/citations?user=RLkR0CoAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
   - GPS Applications in LEO
   - RTK Relative Navigation
-  - Attitude and Orbit Control System
-  - CubeSat (Small Satellites)
-  - Hardware-in-the-Loop Simulation
+  - AOCS
+  - CubeSat
+  - HILS
 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  
+  - area: Ph.D., Aerospace Engineering
+    institution: Seoul National University, Seoul, Korea
+    date_start: 2019-09-01
+    date_end: 2024-08-29
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Precise GPS Relative Navigation for CubeSat Rendezvous </br> 
+      (Advisor. Changdon Kee)
     button:
-      text: 'Read Thesis'
+      text: 'Dissertation'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Sc., Mechanical and Aerospace Engineering
+    institution: Seoul National University, Seoul, Korea
+    date_start: 2017-03-02
+    date_end: 2019-02-28
+    summary: |
+      HILS Verification of Low Earth Orbit Cube-Satellite Attitude Determination and Control System Using Helmholtz Cage </br>
+      (Advisor. Changdon Kee)
+    button:
+      text: 'Thesis'
+      url: 'https://s-space.snu.ac.kr/handle/10371/150647'
+
+  - area: B.Sc., Mechanical and Control Engineering
+    institution: Handong Global University, Pohang, Korea
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Guidance Sensors for Low-Cost Drones with Autonomous Recharging Capability </br>
+      (Advisor. Wonsang Ra)
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -88,17 +88,6 @@ work:
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
