@@ -1,28 +1,24 @@
 ---
 
 #-------------------------------------------------------------
-title: "In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite"
+title: "Development and Verification of Attitude Determination and Control Algorithm for SNUGLITE Cube Satellite"
 authors:
-- O-Jong Kim
-- admin
+- Minkyu Choi
 - Sunkyoung Yu
-- Yonghwan Bae
+- O-Jong Kim
+- Heekwon No
+- admin
 - Changdon Kee
-- Hakdu Kim
-- Jungchul Lee
-- Jinhee Han
-- Sanghyuck Han
-- Yeonju Choi
-date: "2020-04-05T00:00:00Z"
+date: "2018-01-29T00:00:00Z"
 doi: "https://doi.org/10.3390/app10072507​"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-29T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Applied Sciences, 10*(no.7:2507)"
