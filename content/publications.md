@@ -31,6 +31,9 @@ sections:
         exclude_featured: false
     design:
       view: citation
-
+      # Reduce spacing
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '50px', '0', '50px']
 
 ---

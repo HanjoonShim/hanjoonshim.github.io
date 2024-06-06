@@ -30,7 +30,7 @@ abstract: This study is aimed at addressing the practical challenges of conducti
 
 tags:
 - SNUGLITE-I
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -46,10 +46,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Single-axis HILS environment for verification of the CubeSat attitude determination and control system. The CubeSat is hung on a string and generates a magnetic field from a Helmholtz cage. Sunlight is simulated by a halogen lamp.'
+  focal_point: ""
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

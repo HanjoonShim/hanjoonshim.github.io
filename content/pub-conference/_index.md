@@ -1,5 +1,5 @@
 ---
-title: Publications-Journal
+title: Publications-Conference
 cms_exclude: true
 
 # View.

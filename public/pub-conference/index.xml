@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications-Journal | Hanjoon Shim</title>
+    <title>Publications-Conference | Hanjoon Shim</title>
     <link>http://localhost:1313/pub-conference/</link>
       <atom:link href="http://localhost:1313/pub-conference/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications-Journal</description>
+    <description>Publications-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications-Journal</title>
+      <title>Publications-Conference</title>
       <link>http://localhost:1313/pub-conference/</link>
     </image>
     
