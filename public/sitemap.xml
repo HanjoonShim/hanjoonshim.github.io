@@ -142,11 +142,19 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/202302/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pub-djournal/202302/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/pub-djournal/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/snuglite-ii/</loc>
+    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/pub-conference/202302/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -166,6 +174,10 @@
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/pub-djournal/202301/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/pub-conference/202301/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -178,19 +190,7 @@
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-djournal/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/pub-djournal/202301/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/pub-djournal/202001/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/pub-djournal/202302/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

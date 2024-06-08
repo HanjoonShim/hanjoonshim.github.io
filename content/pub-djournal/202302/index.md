@@ -1,19 +1,23 @@
 ---
 
 #-------------------------------------------------------------
-title: "Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites"
+title: "Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements"
 authors:
 - admin
+- Yonghwan Bae
+- Jaeuk Park
+- Hojoon Jeong
+- Jikang Lee
 - O-Jong Kim
-- Sunkyoung Yu
 - Changdon Kee
-- Dong-Hyun Cho 
-- Hae-Dong Kim
-date: "2020-12-01T00:00:00Z"
-# doi: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002656314​"
+- Kibeom Kwon
+- Cheol Hea Koo
+- In Hoi Koo
+date: "2023-10-01T00:00:00Z"
+doi: "https://doi.org/10.5139/JKSAS.2023.51.10.721​"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-01T00:00:00Z"
+publishDate: "2023-10-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,24 +25,26 @@ publishDate: "2020-12-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Positioning, Navigation, and Timing 9*, no.4, pp. 357-366. 10.11003/JPNT.2020.9.4.357"
+publication: |-
+    *Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 51*, Issue 10, pp. 721-731
+    <span style="background-color: red; font-weight: bold; color: white;">&nbsp;Best&nbsp;Paper Selected&nbsp;</span>
 publication_short: ""
 
-abstract: This paper addressed a relative navigation method for autonomous rendezvous and docking of cube-satellites using single frequency Differential GPS (DGPS) under the intermittent communication between satellites. Since the ionospheric error of GPS measurement is variable depending on the visible satellites, a few meters error of relative navigation is occurred in the Low-Earth Orbit (LEO) environment. Therefore, it is essential to remove the ionospheric error to perform relative navigation. Besides, an intermittent communication period for receiving GPS measurements of the target satellite is limited for getting information every sampling time. To solve this problem, a method combining range domain DGPS and orbit propagation is proposed in this paper. The proposed method improves the performance of DGPS by using Hatch filter and solves an intermittent communication problem by estimating the relative position and velocity using Hill-Clohessy-Wiltshire Equation. Through the simulation, it is verified that the suggested algorithm provides the relative position error within RMS 0.5 m and the relative velocity error within RMS 3 cm/s. Furthermore, it has the advantage that it is suitable for real-time implementation using single-frequency GPS measurements and is computationally efficient.
+abstract: This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBC based processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS.
 
 tags:
-- KARDSAT
+- SNUGLITE-II
 featured: false
 
 # links: 
-# - name: ""
-# url_pdf: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002656314
+# - name: 511007.pdf
+url_pdf: uploads/pub-dj-202302.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002656314'
+url_source: ''
 url_video: ''
 
 # Featured image
@@ -53,7 +59,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [KARDSAT]
+projects: [SNUGLITE-II]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

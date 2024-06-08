@@ -327,7 +327,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-851249736&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-361789542&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -345,7 +345,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-851249736&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-361789542&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -962,6 +962,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
+      <link>http://localhost:1313/pub-djournal/202302/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pub-djournal/202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
       <link>http://localhost:1313/pub-conference/202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
@@ -1052,6 +1060,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
+      <link>http://localhost:1313/pub-djournal/202301/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pub-djournal/202301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
       <link>http://localhost:1313/pub-conference/202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
@@ -1101,26 +1117,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
-      <link>http://localhost:1313/pub-djournal/202301/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202301/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
       <link>http://localhost:1313/pub-djournal/202001/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pub-djournal/202001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
-      <link>http://localhost:1313/pub-djournal/202302/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202302/</guid>
       <description></description>
     </item>
     

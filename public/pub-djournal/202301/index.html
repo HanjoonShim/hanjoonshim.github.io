@@ -41,7 +41,7 @@
   
     
   
-  <meta name="description" content="This paper addressed a relative navigation method for autonomous rendezvous and docking of cube-satellites using single frequency Differential GPS (DGPS) under the intermittent communication between satellites. Since the ionospheric error of GPS measurement is variable depending on the visible satellites, a few meters error of relative navigation is occurred in the Low-Earth Orbit (LEO) environment. Therefore, it is essential to remove the ionospheric error to perform relative navigation. Besides, an intermittent communication period for receiving GPS measurements of the target satellite is limited for getting information every sampling time. To solve this problem, a method combining range domain DGPS and orbit propagation is proposed in this paper. The proposed method improves the performance of DGPS by using Hatch filter and solves an intermittent communication problem by estimating the relative position and velocity using Hill-Clohessy-Wiltshire Equation. Through the simulation, it is verified that the suggested algorithm provides the relative position error within RMS 0.5 m and the relative velocity error within RMS 3 cm/s. Furthermore, it has the advantage that it is suitable for real-time implementation using single-frequency GPS measurements and is computationally efficient." />
+  <meta name="description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/pub-djournal/202301/" />
@@ -186,16 +186,16 @@
   <meta property="og:site_name" content="Hanjoon Shim" />
   <meta property="og:url" content="http://localhost:1313/pub-djournal/202301/" />
   <meta property="og:title" content="Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat | Hanjoon Shim" />
-  <meta property="og:description" content="This paper addressed a relative navigation method for autonomous rendezvous and docking of cube-satellites using single frequency Differential GPS (DGPS) under the intermittent communication between satellites. Since the ionospheric error of GPS measurement is variable depending on the visible satellites, a few meters error of relative navigation is occurred in the Low-Earth Orbit (LEO) environment. Therefore, it is essential to remove the ionospheric error to perform relative navigation. Besides, an intermittent communication period for receiving GPS measurements of the target satellite is limited for getting information every sampling time. To solve this problem, a method combining range domain DGPS and orbit propagation is proposed in this paper. The proposed method improves the performance of DGPS by using Hatch filter and solves an intermittent communication problem by estimating the relative position and velocity using Hill-Clohessy-Wiltshire Equation. Through the simulation, it is verified that the suggested algorithm provides the relative position error within RMS 0.5 m and the relative velocity error within RMS 3 cm/s. Furthermore, it has the advantage that it is suitable for real-time implementation using single-frequency GPS measurements and is computationally efficient." /><meta property="og:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." /><meta property="og:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2020-12-01T00:00:00&#43;00:00"
+        content="2023-03-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-12-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-03-01T00:00:00&#43;00:00">
   
 
   
@@ -400,6 +400,13 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
     
       
       
@@ -419,9 +426,6 @@
         
       
     
-  
-  
-  
   
   
   
@@ -1053,7 +1057,15 @@
             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
         </span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+    class="hb-sidebar-custom-link
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
+    href="/pub-djournal/202302/"
+    
+  >Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements
+    </a>
+              
+            </li><li class="flex flex-col open"><a
     class="hb-sidebar-custom-link
       sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
     href="/pub-djournal/202301/"
@@ -1066,14 +1078,6 @@
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/pub-djournal/202001/"
-    
-  >Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites
-    </a>
-              
-            </li><li class="flex flex-col "><a
-    class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/pub-djournal/202302/"
     
   >Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites
     </a>
@@ -1154,7 +1158,7 @@
       <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</h1>
 
       <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Dec 1, 2020</span><span class="mx-1">·</span>
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 1, 2023</span><span class="mx-1">·</span>
         
           
           
@@ -1262,7 +1266,7 @@
 
         
           <div class="font-bold text-2xl">Abstract</div>
-          <div>This paper addressed a relative navigation method for autonomous rendezvous and docking of cube-satellites using single frequency Differential GPS (DGPS) under the intermittent communication between satellites. Since the ionospheric error of GPS measurement is variable depending on the visible satellites, a few meters error of relative navigation is occurred in the Low-Earth Orbit (LEO) environment. Therefore, it is essential to remove the ionospheric error to perform relative navigation. Besides, an intermittent communication period for receiving GPS measurements of the target satellite is limited for getting information every sampling time. To solve this problem, a method combining range domain DGPS and orbit propagation is proposed in this paper. The proposed method improves the performance of DGPS by using Hatch filter and solves an intermittent communication problem by estimating the relative position and velocity using Hill-Clohessy-Wiltshire Equation. Through the simulation, it is verified that the suggested algorithm provides the relative position error within RMS 0.5 m and the relative velocity error within RMS 3 cm/s. Furthermore, it has the advantage that it is suitable for real-time implementation using single-frequency GPS measurements and is computationally efficient.</div>
+          <div>This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS.</div>
         
 
         
@@ -1294,9 +1298,9 @@
       </div>
 
       
-  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2020-12-01T00:00:00.000Z">
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2023-03-01T00:00:00.000Z">
     <span>Last updated on</span>
-    Dec 1, 2020</time>
+    Mar 1, 2023</time>
 
       <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
         
@@ -1563,6 +1567,22 @@
   <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
   <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
     <div class="">
+      
+        <a class="group flex no-underline" href="/pub-djournal/202302/">
+          <span
+            class="mt-[-0.3rem] me-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline rtl:hidden">&larr;</span></span>
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</span>
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                Oct 1, 2023
+              
+            </span>
+          </span>
+        </a>
       
     </div>
     <div class="">

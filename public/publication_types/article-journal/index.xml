@@ -54,6 +54,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
+      <link>http://localhost:1313/pub-djournal/202302/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pub-djournal/202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Development of Hardware-In-the-Loop Simulation for CubeSat Platform: Focusing on Magnetometer and Magnetorquer</title>
       <link>http://localhost:1313/pub-journal/202302/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
@@ -136,6 +144,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
+      <link>http://localhost:1313/pub-djournal/202301/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pub-djournal/202301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Probabilistic Determination Algorithm for Detumbling and Angular Rate Convergence using a Three-Axis Magnetometer</title>
       <link>http://localhost:1313/pub-journal/202201/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
@@ -177,26 +193,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
-      <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
-      <link>http://localhost:1313/pub-djournal/202301/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202301/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
       <link>http://localhost:1313/pub-djournal/202001/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pub-djournal/202001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
-      <link>http://localhost:1313/pub-djournal/202302/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202302/</guid>
       <description></description>
     </item>
     
