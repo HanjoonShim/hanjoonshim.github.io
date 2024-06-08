@@ -35,6 +35,10 @@ sections:
           size: cover
           position: center
           parallax: false
+          
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['30px', '550px', '70px', '550px']
 
   #-------------------------------------------------------------
   # Section2: Experience
@@ -48,6 +52,12 @@ sections:
       date_format: 'Jan 2006'
       # Education or Experience section first?
       is_education_first: false
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+
 
   #-------------------------------------------------------------
   # Section2: Featured Publications
@@ -65,11 +75,6 @@ sections:
       view: article-grid
       columns: 1
 
-
-  - block: resume-awards
-    content:
-      title: Awards
-      username: admin
 
 # - block: markdown
   #   content:

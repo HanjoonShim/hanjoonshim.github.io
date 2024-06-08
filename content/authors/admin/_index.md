@@ -16,12 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D Candidate
+role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Seoul National University
-    url: https://openai.com/
+    url: https://https://gnss.snu.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,7 +36,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=RLkR0CoAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2816-8836
 
 interests:
   - GPS Applications in LEO
@@ -45,7 +45,8 @@ interests:
   - AOCS
   - HILS
 
-
+#-------------------------------------------------------------
+  
 education: 
   - area: Ph.D., Aerospace Engineering
     institution: Seoul National University, Seoul, Korea
@@ -80,19 +81,42 @@ education:
       Guidance Sensors for Low-Cost Drones with Autonomous Recharging Capability </br>
       (Advisor. Wonsang Ra)
 
+#-------------------------------------------------------------
+
 work:
-  - position: Graduate Student Researcher
+  - position: Research Assistant
     company_name: GNSS Laboratory, Seoul National University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-09-01
     date_end: ''
     summary: |-
-      Responsibilities include:
-      -
-      SNUGLITE 
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+  - position: Graduate Student Full-time Researcher
+    company_name: GNSS Laboratory, Seoul National University
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-03-01
+    date_end: 2024-08-31
+    summary: |-
+
+  - position: Undergraduate Internship
+    company_name: Smart Autonomous System Laboratory, Handong Global University
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-08-01
+    date_end: 2016-06-01
+    summary: |-
+
+  - position: Sergent, Mandatory Military Service
+    company_name: Republic of Korea Army
+    company_url: ''
+    company_logo: ''
+    date_start: 2011-01-11
+    date_end: 2012-10-14
+    summary: |-
+
+#-------------------------------------------------------------
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -146,16 +170,7 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
@@ -168,4 +183,8 @@ awards:
 
 ## About Me
 
-Ph.D candidate has been training in aerospace engineering with strong sociable skills developed from extensive team projects experiences and ability to work leading a team or as part of a team. Special expertise in the following areas:
+Ph.D candidate has been training in aerospace engineering with 
+strong sociable skills developed from extensive team projects 
+experiences and ability to work leading a team or as part of a team. 
+</br>
+Special expertise in the following areas:

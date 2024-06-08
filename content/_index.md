@@ -21,9 +21,9 @@ sections:
         <span style="font-size: 55px; font-weight: bold;">HANJOON SHIM</span>
 
       text: |-
-        </br>
+        
         <i>Ph.D in Aerospace Engineering</i>
-        </br></br>
+        </br></br></br>
         
       button:
         text: About Me
@@ -36,7 +36,7 @@ sections:
 
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['230px', '0', '235px', '0']
+        padding: ['158px', '0', '180px', '0']
        
       # css_class: dark
       background:
