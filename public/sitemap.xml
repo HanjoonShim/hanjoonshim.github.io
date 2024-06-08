@@ -2,195 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>https://hanjoonshim.github.io/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://hanjoonshim.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/article-journal/</loc>
+    <loc>https://hanjoonshim.github.io/publication_types/article-journal/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/202401/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/202401/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://hanjoonshim.github.io/publication_types/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/snuglite-iii/</loc>
+    <loc>https://hanjoonshim.github.io/tags/snuglite-iii/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hanjoonshim.github.io/tags/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://hanjoonshim.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
+    <loc>https://hanjoonshim.github.io/publications/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/paper-conference/</loc>
+    <loc>https://hanjoonshim.github.io/publication_types/paper-conference/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/202401/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/202401/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/get-started/</loc>
+    <loc>https://hanjoonshim.github.io/post/get-started/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/academic/</loc>
+    <loc>https://hanjoonshim.github.io/tags/academic/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://hanjoonshim.github.io/post/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox/</loc>
+    <loc>https://hanjoonshim.github.io/tags/hugo-blox/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://hanjoonshim.github.io/tags/markdown/</loc>
     <lastmod>2023-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://hanjoonshim.github.io/tags/hugo/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pandas/</loc>
+    <loc>https://hanjoonshim.github.io/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://hanjoonshim.github.io/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/pytorch/</loc>
+    <loc>https://hanjoonshim.github.io/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/scikit/</loc>
+    <loc>https://hanjoonshim.github.io/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/second-brain/</loc>
+    <loc>https://hanjoonshim.github.io/tags/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/wowchemy/</loc>
+    <loc>https://hanjoonshim.github.io/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/second-brain/</loc>
+    <loc>https://hanjoonshim.github.io/post/second-brain/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/data-visualization/</loc>
+    <loc>https://hanjoonshim.github.io/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/teach-courses/</loc>
+    <loc>https://hanjoonshim.github.io/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo-blox-builder/</loc>
+    <loc>https://hanjoonshim.github.io/tags/hugo-blox-builder/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/javascript/</loc>
+    <loc>https://hanjoonshim.github.io/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/js/</loc>
+    <loc>https://hanjoonshim.github.io/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/python/</loc>
+    <loc>https://hanjoonshim.github.io/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://hanjoonshim.github.io/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://hanjoonshim.github.io/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/post/project-management/</loc>
+    <loc>https://hanjoonshim.github.io/post/project-management/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/202302/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/202302/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/snuglite-ii/</loc>
+    <loc>https://hanjoonshim.github.io/tags/snuglite-ii/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/202302/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/202302/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/snuglite-i/</loc>
+    <loc>https://hanjoonshim.github.io/tags/snuglite-i/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/kardsat/</loc>
+    <loc>https://hanjoonshim.github.io/tags/kardsat/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/202301/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/202301/</loc>
     <lastmod>2023-04-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/202301/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/202301/</loc>
     <lastmod>2023-01-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hanjoonshim.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/202201/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/202201/</loc>
     <lastmod>2022-03-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-journal/202001/</loc>
+    <loc>https://hanjoonshim.github.io/pub-journal/202001/</loc>
     <lastmod>2020-04-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/202001/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/202001/</loc>
     <lastmod>2020-01-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/pub-conference/201801/</loc>
+    <loc>https://hanjoonshim.github.io/pub-conference/201801/</loc>
     <lastmod>2018-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/aboutme/</loc>
+    <loc>https://hanjoonshim.github.io/aboutme/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
