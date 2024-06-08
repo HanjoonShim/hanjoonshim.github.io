@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications-DomesticConference | Hanjoon Shim</title>
+    <link>http://localhost:1313/pub-domesticjournal-copy/</link>
+      <atom:link href="http://localhost:1313/pub-domesticjournal-copy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications-DomesticConference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications-DomesticConference</title>
+      <link>http://localhost:1313/pub-domesticjournal-copy/</link>
+    </image>
+    
+  </channel>
+</rss>

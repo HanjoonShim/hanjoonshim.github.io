@@ -3,6 +3,7 @@
 title: 'aboutme'
 date: 2024-6-6
 type: landing
+widget: experience
 
 design:
   # Default section spacing
@@ -24,7 +25,7 @@ sections:
         text: Download CV
         url: "https://hanjoonshim.github.io/uploads/resume.pdf"
     design:
-      # css_class: dark
+      # css_class: light
       background:
         image:
           # Add your image background to `assets/media/`.
@@ -55,9 +56,8 @@ sections:
 
   - block: resume-awards
     content:
-      title: Awards
+      title: Awards and Honors
       username: admin
-
 
   #-------------------------------------------------------------
   # Section2: Featured Publications

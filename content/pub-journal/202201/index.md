@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.jstage.jst.go.jp/article/tjsass/65/2/65_T-20-32/_pdf/-char/en
+url_pdf: 'https://www.jstage.jst.go.jp/article/tjsass/65/2/65_T-20-32/_pdf/-char/en'
 url_code: ''
 url_dataset: ''
 url_poster: ''

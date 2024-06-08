@@ -74,7 +74,7 @@ education:
 
   - area: B.Sc., Mechanical and Control Engineering
     institution: Handong Global University, Pohang, Korea
-    year: 2017
+    year: 2016
     date_start: 2010-03-01
     date_end: 2016-08-31
     summary: |
@@ -163,22 +163,69 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+  - title: ⭐ Best Presentation Award – ION GNSS+ 2023
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2023-09-01'
+    awarder: The Institute of Navigation (ION)
+    # icon: coursera
+    summary: 
+  
+  - title: ⭐ Minister Award - 2019 Korea CubeSat Contest
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2022-11-01'
+    awarder: Minister of Science and ICT, Republic of Korea
+    # icon: coursera
+    summary: 
+  
+  - title: Director Award - 2022 Korea CubeSat Contest Finalist
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2022-11-01'
+    awarder: Korea Aerospace Research Institute (KARI)
+    # icon: coursera
+    summary:
 
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: ⭐ Best Paper Presentation Award – 2021 KSAS Fall Conference
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2022-04-01'
+    awarder: The Korean Society for Aeronautical and Space Sciences (KSAS)
+    # icon: coursera
+    summary:
+
+  - title: Director Award - 2019 Korea CubeSat Contest Finalist
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2020-02-01'
+    awarder: Korea Aerospace Research Institute (KARI)
+    # icon: coursera
+    summary:
+
+  - title: ⭐ Director Award - 2015 Korea CubeSat Contest
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2019-04-01'
+    awarder: President of Korea Aerospace Research Institute (KARI)
+    # icon: coursera
+    summary:
+
+  - title: Aviation Specialized University Excellent Talent Certificate
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2019-03-01'
+    awarder: Minister of Ministry of Land, Infrastructure and Transport, Republic of Korea
+    # icon: icons/gnss.png
+    summary:
+
+  - title: Director Award - Capstone Contest
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # certificate_url: https://www.datacamp.com
+    date: '2015-12-01'
+    awarder: School of Mechanical and Control Engineering, Handong Global University
+    # icon: coursera
+    summary:
 ---
 
 ## About Me
