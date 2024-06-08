@@ -49,6 +49,7 @@ interests:
 education: 
   - area: Ph.D., Aerospace Engineering
     institution: Seoul National University, Seoul, Korea
+    year: 2024
     date_start: 2019-09-01
     date_end: 2024-08-29
     summary: |
@@ -60,6 +61,7 @@ education:
 
   - area: M.Sc., Mechanical and Aerospace Engineering
     institution: Seoul National University, Seoul, Korea
+    year: 2019
     date_start: 2017-03-02
     date_end: 2019-02-28
     summary: |
@@ -71,8 +73,9 @@ education:
 
   - area: B.Sc., Mechanical and Control Engineering
     institution: Handong Global University, Pohang, Korea
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    year: 2017
+    date_start: 2010-03-01
+    date_end: 2016-08-31
     summary: |
       Guidance Sensors for Low-Cost Drones with Autonomous Recharging Capability </br>
       (Advisor. Wonsang Ra)
@@ -86,7 +89,7 @@ work:
     date_end: ''
     summary: |-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
