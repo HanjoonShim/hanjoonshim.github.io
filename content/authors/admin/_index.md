@@ -27,8 +27,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: 'mailto:hanjos@snu.ac.kr'
+    label: E-mail
   # - icon: brands/github
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -81,15 +81,16 @@ education:
       (Advisor. Wonsang Ra)
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Graduate Student Researcher
+    company_name: GNSS Laboratory, Seoul National University
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
     summary: |-
       Responsibilities include:
-      - 
+      -
+      SNUGLITE 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 

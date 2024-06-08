@@ -15,7 +15,8 @@ sections:
   #-------------------------------------------------------------
   - block: cta-card
     content:
-      title: |-        
+      title: |-
+        
         [<span style="font-size: 55px; font-weight: bold;">HANJOON SHIM</span>](aboutme/)        
 
       text: |-
