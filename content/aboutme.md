@@ -38,7 +38,7 @@ sections:
           
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '550px', '70px', '550px']
+        padding: ['30px', '0px', '70px', '0px']
 
   #-------------------------------------------------------------
   # Section2: Experience
