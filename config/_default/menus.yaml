@@ -8,9 +8,9 @@ main:
   - name: About Me
     url: aboutme/
     weight: 1
-  - name: Experience
-    url: aboutme/#experience
-    weight: 2
+  # - name: Experience
+  #   url: aboutme/#experience
+  #   weight: 2
   - name: Publications
     url: publications/
     weight: 3
@@ -23,3 +23,4 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+ 

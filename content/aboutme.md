@@ -14,7 +14,7 @@ sections:
   # Section1: Admin (Hanjoon Shim)
   #-------------------------------------------------------------
   
-  - block: resume-biography-3
+  - block: resume-biography-2
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin

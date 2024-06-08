@@ -10,19 +10,24 @@ type: landing
 
 sections:
 
+  # [<span style="font-size: 55px; font-weight: bold;">HANJOON SHIM</span>](aboutme/)
+
   #-------------------------------------------------------------
   # Section1: Image (Hanjoon Shim)
   #-------------------------------------------------------------
   - block: cta-card
     content:
       title: |-
-        
-        [<span style="font-size: 55px; font-weight: bold;">HANJOON SHIM</span>](aboutme/)        
+        <span style="font-size: 55px; font-weight: bold;">HANJOON SHIM</span>
 
       text: |-
         </br>
         <i>Ph.D in Aerospace Engineering</i>
-        </br></br>   
+        </br></br>
+        
+      button:
+        text: About Me
+        url: aboutme/  
 
     design:
       card:
@@ -31,7 +36,7 @@ sections:
 
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['160px', '0', '200px', '0']
+        padding: ['230px', '0', '235px', '0']
        
       # css_class: dark
       background:
@@ -39,7 +44,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: index_background.jpg
           filters:
-            brightness: 0.6
+            brightness: 0.5
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.  
           size: cover
           position: center
