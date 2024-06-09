@@ -75,6 +75,19 @@ sections:
       view: article-grid
       columns: 1
 
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        <a href="/publications" style="color: #6495ED;">
+          <span style="color: #6495ED;">See all publications</span>
+        </a>
+
+    design:
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0px', '0px', '0px', '0px']
 
 # - block: markdown
   #   content:

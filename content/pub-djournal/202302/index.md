@@ -26,7 +26,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: |-
-    *Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 51*, Issue 10, pp. 721-731
+    *Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 51*, Issue 10, pp. 721-731.
     <span style="background-color: red; font-weight: bold; color: white;">&nbsp;Best&nbsp;Paper Selected&nbsp;</span>
 publication_short: ""
 

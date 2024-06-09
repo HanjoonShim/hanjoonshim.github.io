@@ -20,9 +20,6 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Teaching
+  - name: Testing
     url: teaching/
     weight: 40
-  - name: test
-    url: pub-dconference/
-    weight: 4
