@@ -8,7 +8,7 @@ authors:
 - O-Jong Kim
 - Heekwon No
 - admin
-- Changdon Kee
+- kee
 date: "2018-01-29T00:00:00Z"
 doi: "https://doi.org/10.33012/2018.15534​"
 

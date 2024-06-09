@@ -14,6 +14,7 @@ sections:
   # International Journal Paper (SCIE/SCOPUS)
   #-------------------------------------------------------------
   - block: collection
+    id: pub-ij
     content:
       title: |-
         <div style="text-align: center;">
@@ -34,6 +35,7 @@ sections:
   # International Conference Paper
   #-------------------------------------------------------------
   - block: collection
+    id: pub-ic
     content:
       title: |-
         <div style="text-align: center;">
@@ -55,6 +57,7 @@ sections:
   # Domestic Journal Paper
   #-------------------------------------------------------------
   - block: collection
+    id: pub-dj
     content:
       title: |-
         <div style="text-align: center;">
@@ -75,6 +78,7 @@ sections:
   # Domestic Conference Paper
   #-------------------------------------------------------------
   - block: markdown
+    id: pub-dc
     content:
       title: |-
         <div style="text-align: center;">
@@ -118,5 +122,5 @@ sections:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0', '20px', '0', '20px']
-     
+
 ---

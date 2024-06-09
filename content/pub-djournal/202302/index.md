@@ -9,7 +9,7 @@ authors:
 - Hojoon Jeong
 - Jikang Lee
 - O-Jong Kim
-- Changdon Kee
+- kee
 - Kibeom Kwon
 - Cheol Hea Koo
 - In Hoi Koo

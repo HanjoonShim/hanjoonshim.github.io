@@ -7,7 +7,7 @@ authors:
 - O-Jong Kim
 - Minhuck Park
 - Minkyu Choi
-- Changdon Kee
+- kee
 date: "2023-07-12T00:00:00Z"
 doi: "https://doi.org/10.1109/ACCESS.2023.3294565"
 

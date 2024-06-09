@@ -4,7 +4,7 @@
 title: "Highly Efficient Real-Time Kinematic-Based Precise Relative Navigation for Autonomous Rendezvous CubeSat"
 authors:
 - admin
-- Changdon Kee
+- kee
 date: "2024-06-01T00:00:00Z"
 doi: " "
 

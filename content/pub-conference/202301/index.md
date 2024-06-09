@@ -6,7 +6,7 @@ authors:
 - Jaeuk Park
 - admin
 - Yonghwan Bae
-- Changdon Kee
+- kee
 - Sunkyoung Yu
 date: "2023-01-24T00:00:00Z"
 doi: "https://doi.org/10.33012/2023.18600"

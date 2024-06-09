@@ -7,7 +7,7 @@ authors:
 - O-Jong Kim
 - Hwigyeom Kim
 - admin
-- Changdon Kee
+- kee
 date: "2022-03-04T00:00:00Z"
 doi: "https://doi.org/10.2322/tjsass.65.76​"
 

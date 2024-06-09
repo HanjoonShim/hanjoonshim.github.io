@@ -5,7 +5,7 @@ title: "Verification and Hardware Implementation of Single-Frequency RTK-Based P
 authors:
 - admin
 - Yonghwan Bae
-- Changdon Kee
+- kee
 - In Hoi Koo
 date: "2024-01-23T00:00:00Z"
 doi: "https://doi.org/10.33012/2024.19486"

@@ -6,7 +6,7 @@ authors:
 - admin
 - Yonghwan Bae
 - Jae Woong Hwang
-- Changdon Kee
+- kee
 - In Hoi Koo
 date: "2023-09-11T00:00:00Z"
 doi: "https://doi.org/10.33012/2023.19371"

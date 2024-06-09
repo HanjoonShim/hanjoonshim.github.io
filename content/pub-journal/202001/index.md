@@ -7,7 +7,7 @@ authors:
 - admin
 - Sunkyoung Yu
 - Yonghwan Bae
-- Changdon Kee
+- kee
 - Hakdu Kim
 - Jungchul Lee
 - Jinhee Han

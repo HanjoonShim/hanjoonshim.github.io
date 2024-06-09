@@ -7,7 +7,7 @@ authors:
 - O-Jong Kim
 - admin
 - Yonghwan Bae
-- Changdon Kee
+- kee
 - Hakdu Kim
 - Jungchul Lee
 - Jinhee Han

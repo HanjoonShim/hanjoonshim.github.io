@@ -5,7 +5,7 @@ title: "Real-time Software Verification Technique of Attitude Determination and 
 authors:
 - admin
 - Yonghwan Bae
-- Changdon Kee
+- kee
 date: "2023-03-01T00:00:00Z"
 doi: "https://doi.org/10.5139/JKSAS.2023.51.3.207​"
 

@@ -74,34 +74,23 @@ sections:
     design:
       view: article-grid
       columns: 1
-
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-
-        <a href="/publications" style="color: #6495ED;">
-          <span style="color: #6495ED;">See all publications</span>
-        </a>
-
-    design:
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['0px', '0px', '0px', '0px']
+        padding: ['0px', '30px', '0px', '30px']
 
-# - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-  #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-  #       Please reach out to collaborate 😃
-        
-  #   design:
-  #     columns: '1'
+  - block: cta-button-list2
+    content:
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: See all journal papers
+          url: ../publications/#pub-ij
+        - text: See all conference papers
+          url: ../publications/#pub-ic
+        # - text: See domestic journal papers
+        #   url: ../publications/#pub-dj
+        # - text: See domestic conference papers
+        #   url: ../publications/#pub-dc
 
 
   # - block: collection

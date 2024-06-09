@@ -115,4 +115,9 @@ sections:
           ✅심한준, 김영진, 이재홍, 나원상, "고도유지 제어기를 포함한 자율이동체의 관성항법 알고리듬 수직채널 안정화루프 설계", 2015년 대한전기학회 하계학술대회 논문집, 전라남도 무주 리조트, 대한민국, 2015
 
         </div>
+
+    design:
+      spacing:
+      # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['0', '20px', '0', '20px']
 ---
