@@ -23,3 +23,6 @@ main:
   - name: Teaching
     url: teaching/
     weight: 40
+  - name: test
+    url: pub-dconference/
+    weight: 4

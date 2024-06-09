@@ -15,7 +15,10 @@ sections:
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: </br></br></br> ⭐ International Journal Paper (SCIE / SCOPUS)
+      title: |-
+        <div style="text-align: center;">
+          </br></br></br> ⭐ International Journal Paper </br>(SCIE / SCOPUS)
+        </div>
       text: ""
       filters:
         folders:
@@ -32,7 +35,10 @@ sections:
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: </br></br></br> ⭐ International Conference Paper
+      title: |-
+        <div style="text-align: center;">
+          </br></br></br> ⭐ International Conference Paper
+        </div>
       text: ""
       filters:
         folders:
@@ -50,7 +56,10 @@ sections:
   #-------------------------------------------------------------
   - block: collection
     content:
-      title: </br></br></br>Domestic Journal Paper (in Korean)
+      title: |-
+        <div style="text-align: center;">
+          </br></br></br>Domestic Journal Paper </br>(in Korean)
+        </div>
       text: ""
       filters:
         folders:
@@ -65,16 +74,14 @@ sections:
   #-------------------------------------------------------------
   # Domestic Conference Paper
   #-------------------------------------------------------------
-  - block: collection
+  - block: markdown
     content:
-      title: </br></br></br>Domestic Conference Paper (in Korean)
+      title: |-
+        <div style="text-align: center;">
+          </br></br></br> Domestic Conference Paper </br>(in Korean)
+        </div>
       text: ""
-      filters:
-        folders:
-          - pub-dconference
-        exclude_featured: false
     design:
-      view: citation
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0', '20px', '0', '20px']

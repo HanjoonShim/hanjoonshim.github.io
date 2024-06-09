@@ -41,7 +41,7 @@
   
     
   
-  <meta name="description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBC based processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." />
+  <meta name="description" content="SNUGLITE-II is a standard 3U CubeSat that was launched on June 21, 2022, at 16:00 Korea Standard Time (KST) as a payload on the Nuri (KSLV-II) rocket. It was subsequently ejected from the picosatellite orbital deployer(P-POD) of the Performance Verification Satellite (PVSAT) at around 16:23 on July 3rd. The first communication with the CubeSat was successfully established when it responded to a command from the ground station at approximately 03:24 the next day. This paper presents the operational results of the SNUGLITE-II CubeSat, which were obtained during a 10-day period from July 3rd to July 12th. The data used for analysis were collected through the ground station located in Building 302 of Seoul National University, as well as from ground stations operated by SatNogs, a network of amateur radio enthusiasts. Additionally, satellite status information recorded by the ground station command was collected and classified chronologically. The collected data consists of beacon data transmitted by the SNUGLITE-II CubeSat at 10-second intervals in the UHF  band. It encompasses various information, including satellite uplink commands, GPS navigation data, power levels, attitude control, sensor measurements, temperature readings, and identification flags. By analyzing the collected data, the operational conditions of the SNUGLITE-II CubeSat were evaluated. The performance of the domestically developed GPS receiver for the CubeSat was verified, and the technical operation results of the self-developed attitude determination and control system were confirmed." />
 
   
   <link rel="alternate" hreflang="en-us" href="http://localhost:1313/pub-djournal/202302/" />
@@ -186,7 +186,7 @@
   <meta property="og:site_name" content="Hanjoon Shim" />
   <meta property="og:url" content="http://localhost:1313/pub-djournal/202302/" />
   <meta property="og:title" content="Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements | Hanjoon Shim" />
-  <meta property="og:description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBC based processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." /><meta property="og:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="SNUGLITE-II is a standard 3U CubeSat that was launched on June 21, 2022, at 16:00 Korea Standard Time (KST) as a payload on the Nuri (KSLV-II) rocket. It was subsequently ejected from the picosatellite orbital deployer(P-POD) of the Performance Verification Satellite (PVSAT) at around 16:23 on July 3rd. The first communication with the CubeSat was successfully established when it responded to a command from the ground station at approximately 03:24 the next day. This paper presents the operational results of the SNUGLITE-II CubeSat, which were obtained during a 10-day period from July 3rd to July 12th. The data used for analysis were collected through the ground station located in Building 302 of Seoul National University, as well as from ground stations operated by SatNogs, a network of amateur radio enthusiasts. Additionally, satellite status information recorded by the ground station command was collected and classified chronologically. The collected data consists of beacon data transmitted by the SNUGLITE-II CubeSat at 10-second intervals in the UHF  band. It encompasses various information, including satellite uplink commands, GPS navigation data, power levels, attitude control, sensor measurements, temperature readings, and identification flags. By analyzing the collected data, the operational conditions of the SNUGLITE-II CubeSat were evaluated. The performance of the domestically developed GPS receiver for the CubeSat was verified, and the technical operation results of the self-developed attitude determination and control system were confirmed." /><meta property="og:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -519,6 +519,25 @@
       
     
   
+    
+      
+      
+        
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+        
+        
+      
+    
   
 
 
@@ -699,6 +718,20 @@
           
           href="/publications/"
         >Publications</a
+        >
+      </li>
+      
+      
+      
+      
+      
+      
+      <li class="nav-item">
+        <a
+          class="nav-link "
+          
+          href="/pub-dconference/"
+        >test</a
         >
       </li>
       
@@ -1322,7 +1355,7 @@
 
         
           <div class="font-bold text-2xl">Abstract</div>
-          <div>This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBC based processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS.</div>
+          <div>SNUGLITE-II is a standard 3U CubeSat that was launched on June 21, 2022, at 16:00 Korea Standard Time (KST) as a payload on the Nuri (KSLV-II) rocket. It was subsequently ejected from the picosatellite orbital deployer(P-POD) of the Performance Verification Satellite (PVSAT) at around 16:23 on July 3rd. The first communication with the CubeSat was successfully established when it responded to a command from the ground station at approximately 03:24 the next day. This paper presents the operational results of the SNUGLITE-II CubeSat, which were obtained during a 10-day period from July 3rd to July 12th. The data used for analysis were collected through the ground station located in Building 302 of Seoul National University, as well as from ground stations operated by SatNogs, a network of amateur radio enthusiasts. Additionally, satellite status information recorded by the ground station command was collected and classified chronologically. The collected data consists of beacon data transmitted by the SNUGLITE-II CubeSat at 10-second intervals in the UHF  band. It encompasses various information, including satellite uplink commands, GPS navigation data, power levels, attitude control, sensor measurements, temperature readings, and identification flags. By analyzing the collected data, the operational conditions of the SNUGLITE-II CubeSat were evaluated. The performance of the domestically developed GPS receiver for the CubeSat was verified, and the technical operation results of the self-developed attitude determination and control system were confirmed.</div>
         
 
         

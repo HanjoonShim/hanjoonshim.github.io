@@ -47,7 +47,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Single-axis HILS environment for verification of the CubeSat attitude determination and control system. The CubeSat is hung on a string and generates a magnetic field from a Helmholtz cage. Sunlight is simulated by a halogen lamp.'
+  caption:
   focal_point: ""
   preview_only: false
 
