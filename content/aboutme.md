@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: </br></br>Featured Publications
       filters:
         folders:
           - pub-journal

@@ -109,7 +109,7 @@ sections:
         <body class="flex items-center justify-center min-h-screen">
           <div class="flex flex-col items-center">
             <a href="../pub-dconference/" class="inline-block text-center">
-              <button class="border-2 border-black bg-gray-500 text-white py-2 px-4 hover:bg-gray-700 transition-colors duration-300 rounded-lg">
+              <button class="bg-gray-500 text-white py-2 px-4 hover:bg-gray-700 transition-colors duration-300 rounded-lg">
                 <div style="font-size: 15px; font-weight: bold">  
                   See more
                 </div>
