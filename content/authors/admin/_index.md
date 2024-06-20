@@ -228,10 +228,16 @@ awards:
     summary:
 ---
 
-## About Me
+<div class="section-subheading mb-3">
+<span style="font-weight: bold; font-size: 25px; color: white">
+</br> About Me  </br>
+</span>
+</div>
 
+<span style="color: white;"> 
 Ph.D candidate has been training in aerospace engineering with 
 strong sociable skills developed from extensive team projects 
 experiences and ability to work leading a team or as part of a team. 
 </br>
 Special expertise in the following areas:
+</span>

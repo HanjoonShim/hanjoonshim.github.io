@@ -17,6 +17,18 @@
 {{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
 {{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+      .network-icon a {
+          color: white; /* 아이콘 색상을 흰색으로 지정 */
+      }
+      .network-icon a:hover {
+          color: #cccccc; /* 아이콘을 호버할 때 색상 변경 (선택 사항) */
+      }
+  </style>
+</head>
 
 <div class="resume-biography px-3 flex flex-col md:flex-row justify-center gap-12">
   <div class="flex-none m-w-[120px] mx-auto md:mx-0">
@@ -26,8 +38,8 @@
   {{- $img = resources.Get (path.Join "media" .) -}}
   {{ if $img }}
     {{- $img = $img.Process "webp" -}}
-    <div class="w-full bg-gray-200 dark:bg-gray-900 flex flex-wrap items-center justify-center">
-      <div class="w-full bg-white rounded dark:bg-gray-800">
+    <div class="w-full bg-gray-200 bg-gray-900 flex flex-wrap items-center justify-center">
+      <div class="w-full bg-white rounded bg-gray-800">
         <div class="h-2/4 sm:h-64 overflow-hidden w-full">
           <img class="w-full object-cover"
                src="{{$img.RelPermalink}}"
@@ -44,13 +56,13 @@
 
     <div class="avatar-wrapper {{ if $img }}-mt-[105px]{{else}}mt-5{{end}}">
       {{ $avatar_image := $avatar.Fill "150x150 Center" }}
-      <img class="avatar rounded-full bg-white dark:bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
+      <img class="avatar rounded-full bg-white bg-gray-800 p-1" src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}"
            width="{{ $avatar_image.Width }}" height="{{ $avatar_image.Height }}">
       {{with $person.status.icon}}<span class="avatar-emoji">{{.|emojify}}</span>{{end}}
     </div>
     {{ end }}
 
-    <div class="portrait-title dark:text-white">
+    <div class="portrait-title text-white">
 
       <div class="text-3xl font-bold mb-2 mt-6">
         {{- if $person.name_pronunciation -}}
@@ -74,7 +86,7 @@
       {{ end }}
     </div>
 
-    <ul class="network-icon dark:text-zinc-100">
+    <ul class="network-icon text-zinc-100">
       {{ range $person.profiles }}
       {{ $pack := or .icon_pack "fas" }}
       {{ $pack_prefix := $pack }}
@@ -102,7 +114,7 @@
     
     <div class="flex justify-center items-center flex-col">
       {{ with $block.content.button }}
-      <a href="{{.url}}" target="_blank" class="inline-flex items-center px-4 py-2 text-sm font-semibold text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700"><svg class="w-3.5 h-3.5 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+      <a href="{{.url}}" target="_blank" class="inline-flex items-center px-4 py-2 text-sm font-semibold text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 bg-gray-800 text-gray-400 border-gray-600 hover:text-white hover:bg-gray-700 focus:ring-gray-700"><svg class="w-3.5 h-3.5 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
         <path d="M14.707 7.793a1 1 0 0 0-1.414 0L11 10.086V1.5a1 1 0 0 0-2 0v8.586L6.707 7.793a1 1 0 1 0-1.414 1.414l4 4a1 1 0 0 0 1.416 0l4-4a1 1 0 0 0-.002-1.414Z"/>
         <path d="M18 12h-2.55l-2.975 2.975a3.5 3.5 0 0 1-4.95 0L4.55 12H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-4a2 2 0 0 0-2-2Zm-3 5a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"/>
       </svg> {{.text}}</a>
@@ -113,14 +125,14 @@
 
   <div class="flex-auto max-w-prose md:mt-10">
     {{ with ($block.content.text | emojify | $page.RenderString) | default $person_page.Content }}
-    <div class="pt-2 justify-content-center prose prose-slate dark:prose-invert">
+    <div class="pt-2 justify-content-center prose prose-slate prose-invert">
       <div class="bio-text" {{ with $block.design.biography.style }}{{ (printf "style=\"%s\"" .) | safe.HTMLAttr }}{{end}}>
         {{ . }}
       </div>
     </div>
     {{ end }}
 
-  <div class="grid grid-cols-1 gap-4 justify-between mt-6 dark:text-gray-300">
+  <div class="grid grid-cols-1 gap-4 justify-between mt-6 text-gray-300">
 
     {{ with $person.interests }}
     <div class="">
@@ -137,7 +149,7 @@
 
   </div>
 
-  <div class="grid grid-cols-1 gap-4 justify-between mt-6 dark:text-gray-300">
+  <div class="grid grid-cols-1 gap-4 justify-between mt-6 text-gray-300">
 
     {{ with $person.education }}
     <div class="">

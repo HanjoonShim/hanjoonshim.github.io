@@ -6,14 +6,14 @@ title: Changdon Kee
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Hanjoon
-last_name: Shim
+# first_name: Hanjoon
+# last_name: Shim
 
 # Is this the primary user of the site?
 superuser: false
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Professor

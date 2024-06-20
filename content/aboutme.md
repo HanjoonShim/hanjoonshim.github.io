@@ -31,7 +31,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: index_background.jpg
           filters:
-            brightness: 0.3
+            brightness: 0.4
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.  
           size: cover
           position: center
@@ -39,7 +39,7 @@ sections:
           
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['30px', '0px', '70px', '0px']
+        padding: ['30px', '0px', '75px', '0px']
 
   #-------------------------------------------------------------
   # Section2: Experience
