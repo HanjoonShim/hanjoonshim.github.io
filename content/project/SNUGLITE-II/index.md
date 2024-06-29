@@ -2,7 +2,7 @@
 title: SNUGLITE-II
 summary: Easily learn Python in 10 minutes!
 date: 2023-10-24
-type: docs
+# type: docs
 math: false
 tags:
   - Python

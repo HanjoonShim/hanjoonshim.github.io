@@ -2,7 +2,7 @@
 title: Projects
 # summary: My courses
 # type: landing
-view: article-grid
+view: article-grid #추가됨
 
 # cascade:
 #   - _target:
