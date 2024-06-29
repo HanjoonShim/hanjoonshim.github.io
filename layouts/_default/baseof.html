@@ -4,7 +4,8 @@
 {{- $language_code := site.LanguageCode | default "en-us" -}}
 <!-- <html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{else}}dir="ltr"{{end}}
       data-wc-theme-default="{{ (lower site.Params.appearance.mode) | default "system" }}"> -->
-<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{else}}dir="ltr"{{end}}>
+<html lang="{{$language_code}}" {{ if in site.Data.i18n.rtl.rtl $language_code }}dir="rtl"{{else}}dir="ltr"{{end}}
+      data-wc-theme-default="{{ default "light" }}">
   {{ partial "site_head" . }}
   <!-- <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top"> -->
   <body class="page-wrapper" id="top">
