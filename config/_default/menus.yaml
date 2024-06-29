@@ -9,9 +9,9 @@ main:
     url: aboutme/
     weight: 1
 
-  # - name: Experience
-  #   url: aboutme/#experience
-  #   weight: 2
+  - name: Test
+    url: post/
+    weight: 2
 
   - name: Publications
     url: publications/
