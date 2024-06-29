@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-II | Hanjoon Shim</title>
-    <link>http://localhost:1313/tags/snuglite-ii/</link>
-      <atom:link href="http://localhost:1313/tags/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoonshim.github.io/tags/snuglite-ii/</link>
+      <atom:link href="https://hanjoonshim.github.io/tags/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-II</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hanjoonshim.github.io/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png</url>
       <title>SNUGLITE-II</title>
-      <link>http://localhost:1313/tags/snuglite-ii/</link>
+      <link>https://hanjoonshim.github.io/tags/snuglite-ii/</link>
     </image>
     
     <item>
       <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
-      <link>http://localhost:1313/pub-djournal/202302/</link>
+      <link>https://hanjoonshim.github.io/pub-djournal/202302/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202302/</guid>
+      <guid>https://hanjoonshim.github.io/pub-djournal/202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/pub-conference/202302/</link>
+      <link>https://hanjoonshim.github.io/pub-conference/202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-conference/202302/</guid>
+      <guid>https://hanjoonshim.github.io/pub-conference/202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
-      <link>http://localhost:1313/pub-djournal/202301/</link>
+      <link>https://hanjoonshim.github.io/pub-djournal/202301/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202301/</guid>
+      <guid>https://hanjoonshim.github.io/pub-djournal/202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>http://localhost:1313/pub-conference/202301/</link>
+      <link>https://hanjoonshim.github.io/pub-conference/202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-conference/202301/</guid>
+      <guid>https://hanjoonshim.github.io/pub-conference/202301/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>KARDSAT | Hanjoon Shim</title>
-    <link>http://localhost:1313/tags/kardsat/</link>
-      <atom:link href="http://localhost:1313/tags/kardsat/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoonshim.github.io/tags/kardsat/</link>
+      <atom:link href="https://hanjoonshim.github.io/tags/kardsat/index.xml" rel="self" type="application/rss+xml" />
     <description>KARDSAT</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hanjoonshim.github.io/media/icon_hu1646e31826c86f0a59e51cffe8e959e5_16660_512x512_fill_lanczos_center_3.png</url>
       <title>KARDSAT</title>
-      <link>http://localhost:1313/tags/kardsat/</link>
+      <link>https://hanjoonshim.github.io/tags/kardsat/</link>
     </image>
     
     <item>
       <title>Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers</title>
-      <link>http://localhost:1313/pub-journal/202301/</link>
+      <link>https://hanjoonshim.github.io/pub-journal/202301/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-journal/202301/</guid>
+      <guid>https://hanjoonshim.github.io/pub-journal/202301/</guid>
       <description>&lt;!-- 
 
 
@@ -55,9 +55,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
-      <link>http://localhost:1313/pub-djournal/202001/</link>
+      <link>https://hanjoonshim.github.io/pub-djournal/202001/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pub-djournal/202001/</guid>
+      <guid>https://hanjoonshim.github.io/pub-djournal/202001/</guid>
       <description></description>
     </item>
     
