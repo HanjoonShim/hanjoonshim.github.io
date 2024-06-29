@@ -7,16 +7,16 @@ main:
   # Biography
   - name: About Me
     url: aboutme/
-    weight: 1
-
-  - name: Test
-    url: post/
-    weight: 2
+    weight: 10
 
   - name: Publications
     url: publications/
-    weight: 3
+    weight: 20
 
   - name: Projects
     url: project/
-    weight: 4
+    weight: 30
+
+  - name: Media
+    url: post/
+    weight: 40
