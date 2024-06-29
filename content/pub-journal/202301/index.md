@@ -32,7 +32,7 @@ abstract: This paper proposes a global positioning system (GPS) based relative n
 tags:
 - KARDSAT
 - SNUGLITE-III
-featured: false
+featured: true
 
 # links:
 # - name: ""

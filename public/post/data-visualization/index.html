@@ -668,7 +668,8 @@
 
 </head>
 
-  <body class="dark:bg-hb-dark dark:text-white page-wrapper" id="top">
+  
+  <body class="page-wrapper" id="top">
     <div id="page-bg"></div>
     <div class="page-header sticky top-0 z-30">
       
@@ -1257,7 +1258,7 @@
 
 
 
-<div id="chart-178643925" class="chart"></div>
+<div id="chart-723195846" class="chart"></div>
 <script>
   async function fetchChartJSON() {
     console.debug('Hugo Blox fetching chart JSON...')
@@ -1275,7 +1276,7 @@
 
       fetchChartJSON().then(chart => {
         console.debug('Plotting chart...')
-        window.Plotly.newPlot('chart-178643925', chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot('chart-723195846', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

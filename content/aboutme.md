@@ -73,7 +73,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 1
+      columns: 3
       spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['0px', '30px', '0px', '30px']

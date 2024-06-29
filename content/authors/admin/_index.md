@@ -16,12 +16,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Seoul National University
-    url: https://https://gnss.snu.ac.kr/
+    url: https://gnss.snu.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -84,7 +84,7 @@ education:
 #-------------------------------------------------------------
 
 work:
-  - position: Research Assistant
+  - position: Postdoctoral Researcher
     company_name: GNSS Laboratory, Seoul National University
     company_url: ''
     company_logo: ''
@@ -235,9 +235,9 @@ awards:
 </div>
 
 <span style="color: white;"> 
-Ph.D candidate has been training in aerospace engineering with 
-strong sociable skills developed from extensive team projects 
-experiences and ability to work leading a team or as part of a team. 
+Ph.D in Aerospace Engineering with strong interpersonal skills developed through 
+extensive team project experiences. Demonstrated ability to lead teams effectively 
+and collaborate as a valuable team member.
 </br>
 Special expertise in the following areas:
 </span>

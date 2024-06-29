@@ -17,7 +17,7 @@ publishDate: "2024-06-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ION Navigation* (Under Review)"
+publication: "*Navigation, 71 (3)*, navi.XXX. (Accepted)"
 publication_short: ""
 
 abstract: 
@@ -27,7 +27,7 @@ abstract:
 
 tags:
 - SNUGLITE-III
-featured: false
+featured: true
 
 # links:
 # - name: ""
