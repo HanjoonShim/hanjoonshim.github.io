@@ -818,8 +818,8 @@
     <div class="article-style">
       <!-------------------------------------------------------------------------------------->
 <h3 id="kari-rendezvousdocking-satellite-kardsat-cubesat-gps-relative-navigation-project">KARI Rendezvous&amp;Docking SATellite (KARDSAT) CubeSat GPS Relative Navigation Project</h3>
-<p>The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was not launched, and only the technology development was carried out. A national report on the relevant technology is available <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;" target="_blank" rel="noopener">here</a>.</p>
-<p>This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the Project Manager, handling all aspects from documentation to practical implementation, with guidance from one postdoctoral researcher. I was responsible for the following tasks: designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code. <a href="/publication/ij_202301/">See related publication</a>.</p>
+<p>The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was <strong>not launched</strong>, and <strong>only the technology development</strong> was carried out. A national report on the relevant technology is available <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;" target="_blank" rel="noopener">here</a>.</p>
+<p>This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the <strong>Project Manager</strong>, handling all aspects from documentation to <strong>practical implementation</strong>, with guidance from one postdoctoral researcher. I was responsible for the following tasks: <em>designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code</em>. <a href="/publication/ij_202301/">See related publication</a>.</p>
 <ul>
 <li><strong>Project Management</strong>
 <ul>
@@ -839,20 +839,16 @@
 <p><strong><a href="#1-kardsat-cubesat">1. KARDSAT CubeSat</a></strong></br>
    <a href="#11-system-configuration">1.1. System Configuration</a> </br>
    <a href="#12-operation-scenario">1.2. Operation Scenario</a> </br>
-<strong><a href="#2-attitude-determination-and-control-system-adcs">2. Attitude Determination and Control System (ADCS)</a></strong></br>
-   <a href="#21-software-in-the-loop-simulation-sils">2.1. Software-In-the-Loop Simulation (SILS)</a> </br>
-   <a href="#22-hardware-in-the-loop-simulation-hils">2.2. Hardware-In-the-Loop Simulation (HILS)</a> </br>
-<strong><a href="#3-operation-results">3. Operation Results</a></strong></br>
-   <a href="#31-cubesat-gps-l1l2c-receiver">3.1. CubeSat GPS L1/L2C Receiver</a> </br>
-   <a href="#32-adcs">3.2. ADCS</a> </br></p>
+<strong><a href="#2-gps-relative-navigation-system">2. GPS Relative Navigation System</a></strong></br>
+   <a href="#21-overall-block-diagram">2.1. Overall Block Diagram</a> </br>
+   <a href="#22-software-in-the-loop-simulation-sils">2.2. Software-In-the-Loop Simulation (SILS)</a> </br>
+   <a href="#23-processor-in-the-loop-simulation-pils">2.3. Processor-In-the-Loop Simulation (PILS)</a> </br></p>
 </br>
 <!-------------------------------------------------------------------------------------->
 <h2 id="1-kardsat-cubesat"><strong>1. KARDSAT CubeSat</strong></h2>
 <!-------------------------------------------------------------------------------------->
 <h3 id="11-system-configuration">1.1. System Configuration</h3>
-<p><strong>Table. System Configuration of the SNUGLITE-I CubeSat</strong> </br>
-<em>DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;</em>
-<em>UHF: ultra-high frequency</em></p>
+<p><strong>Table. System Configuration of the KARDSAT CubeSat</strong> </br></p>
 <table>
   <thead>
       <tr>
@@ -863,43 +859,39 @@
   <tbody>
       <tr>
           <td style="text-align: left">Mass</td>
-          <td style="text-align: left">1.9 kg</td>
+          <td style="text-align: left">Chaser 6U: 12 kg</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Target 3U: 5 kg</td>
       </tr>
       <tr>
           <td style="text-align: left">Dimension</td>
-          <td style="text-align: left">100x100x227 mm (2U)</td>
+          <td style="text-align: left">200x100x340.5 mm (6U)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">100x100x340.5 mm (3U)</td>
       </tr>
       <tr>
           <td style="text-align: left">Orbit</td>
-          <td style="text-align: left">575 km, SSO</td>
+          <td style="text-align: left">700 km, SSO</td>
       </tr>
       <tr>
-          <td style="text-align: left">Uplink</td>
-          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand)</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Downink</td>
-          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)</td>
+          <td style="text-align: left">Link</td>
+          <td style="text-align: left">UHF (Uplink, Downlink)</td>
       </tr>
       <tr>
           <td style="text-align: left"></td>
-          <td style="text-align: left">S-Band (2405MHz), DQPSK, 1 Mbps (mission data)</td>
-      </tr>
-      <tr>
-          <td style="text-align: left">Payloads</td>
-          <td style="text-align: left">SNU L1/L2C GPS Receiver x2 (1st gen)</td>
-      </tr>
-      <tr>
-          <td style="text-align: left"></td>
-          <td style="text-align: left">3-axis fluxgate magnetometer w/ deployable boom</td>
+          <td style="text-align: left">S-Band (Uplink, Downlink)</td>
       </tr>
       <tr>
           <td style="text-align: left">Actuators</td>
-          <td style="text-align: left">PCB-based magnetorquer x3</td>
+          <td style="text-align: left">6-DOF Thruster, Reaction Wheel, Magnetorquer</td>
       </tr>
       <tr>
           <td style="text-align: left">Reference</td>
-          <td style="text-align: left">NORAD 43784, COSIPAR 2018-099AC, <a href="https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404" target="_blank" rel="noopener">SatNOGS</a>, <a href="https://space.skyrocket.de/doc_sdat/snuglite.htm" target="_blank" rel="noopener">Gunter&rsquo;s Space</a></td>
+          <td style="text-align: left"><a href="https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;" target="_blank" rel="noopener">Report on National R&amp;D</a></td>
       </tr>
   </tbody>
 </table>
@@ -923,22 +915,51 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="fig1.jpg" alt="Operation Scenario of ADCS" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="Operation Scenario of KARDSAT" srcset="
+               /project/kardsat/fig1_hu16425577306847354062.webp 400w,
+               /project/kardsat/fig1_hu18327165189859475776.webp 760w,
+               /project/kardsat/fig1_hu10711390331171196175.webp 1200w"
+               src="/project/kardsat/fig1_hu16425577306847354062.webp"
+               width="760"
+               height="405"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Test Schedule" srcset="
+               /project/kardsat/fig2_hu5776858599280836025.webp 400w,
+               /project/kardsat/fig2_hu14715371550847175700.webp 760w,
+               /project/kardsat/fig2_hu12409124727275415765.webp 1200w"
+               src="/project/kardsat/fig2_hu5776858599280836025.webp"
+               width="760"
+               height="541"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite&rsquo;s nadir-pointing to collect data.</p>
+<p>The Chaser is equipped with thrusters for orbital control, visual sensors for shape recognition and attitude estimation of the Target, and a docking device for demonstration purposes. The Target features an LED marker to facilitate the Chaser&rsquo;s attitude estimation and a drag device for deorbiting after mission completion. Upon deployment from the P-POD, the two satellites will gradually drift apart due to orbital perturbations, estimated to reach a distance of approximately 500 km within three days until they establish communication for orbital control. After the first contact, the Chaser will perform orbital maneuvers to approach the Target, controlled by commands from the ground station until they are about 2 km apart. Within this range, relative navigation and control will bring them closer to within approximately 10 meters. The Target will transmit its orbital information to the Chaser, which will estimate the relative distance and execute the necessary maneuvers. Once within 10 meters, the Chaser will use its visual sensors for shape recognition and state estimation before initiating docking control. After successful docking, the Chaser will immediately detach and use its remaining fuel to lower its altitude, while the Target will deploy its drag device.</p>
+<p><strong>This research project</strong> aims to develop a <strong>relative GPS system for KARDSAT</strong>, utilized during Tests #1 to #5 as shown in the diagrams, with a requirement to <em>achieve sub-meter real-time GPS relative navigation and deliver flight code as the project&rsquo;s goal</em>.</p>
 </br>
 </br>
 <!-------------------------------------------------------------------------------------->
-<h2 id="2-attitude-determination-and-control-system-adcs"><strong>2. Attitude Determination and Control System (ADCS)</strong></h2>
-<p>Related to my Master’s thesis <a href="/publication/thesis_master/">here</a>.</p>
-<h3 id="21-software-in-the-loop-simulation-sils">2.1. Software-In-the-Loop Simulation (SILS)</h3>
-<h4 id="algorithm-design-developed-based-on-work-inherited-from-previous-graduates">Algorithm design: Developed based on work inherited from previous graduates</h4>
-<ul>
-<li>SILS based on MATLAB</li>
-<li>Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)</li>
-<li>Attitude control: LQR controller (magnetorquer only)</li>
-</ul>
+<h2 id="2-gps-relative-navigation-system"><strong>2. GPS Relative Navigation System</strong></h2>
+<h3 id="21-overall-block-diagram">2.1. Overall Block Diagram</h3>
 <p>
 
 
@@ -957,41 +978,91 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="fig2.jpg" alt="Overall Block Diagram" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="Overall Block Diagram" srcset="
+               /project/kardsat/fig3_hu11789596731813513176.webp 400w,
+               /project/kardsat/fig3_hu7773135394290277188.webp 760w,
+               /project/kardsat/fig3_hu1356952548445545758.webp 1200w"
+               src="/project/kardsat/fig3_hu11789596731813513176.webp"
+               width="760"
+               height="248"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="System Scheduling" srcset="
+               /project/kardsat/fig4_hu1678234290858058030.webp 400w,
+               /project/kardsat/fig4_hu11804443630857257605.webp 760w,
+               /project/kardsat/fig4_hu8440559820205320072.webp 1200w"
+               src="/project/kardsat/fig4_hu1678234290858058030.webp"
+               width="760"
+               height="205"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<h3 id="22-software-in-the-loop-simulation-sils">2.2. Software-In-the-Loop Simulation (SILS)</h3>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="SILS Concept" srcset="
+               /project/kardsat/fig5_hu1576130787861353464.webp 400w,
+               /project/kardsat/fig5_hu49266936641859181.webp 760w,
+               /project/kardsat/fig5_hu2857745537004298221.webp 1200w"
+               src="/project/kardsat/fig5_hu1576130787861353464.webp"
+               width="688"
+               height="180"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<ul>
+<li>SILS based on MATLAB (Module seperated)</li>
+</ul>
 <p><strong>Video</strong>:
 
     
         
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BvxYcQGIri8?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/MB0Wlfjf6kE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
           ></iframe>
         </div>
 
 </br>
 </br></p>
 <!-------------------------------------------------------------------------------------->
-<h3 id="22-hardware-in-the-loop-simulation-hils">2.2. Hardware-In-the-Loop Simulation (HILS)</h3>
-<h4 id="helmholtz-cage-design-and-assembly">Helmholtz cage design and assembly</h4>
+<h3 id="23-processor-in-the-loop-simulation-pils">2.3. Processor-In-the-Loop Simulation (PILS)</h3>
 <ul>
-<li>3-axis magnetic cotrol based classical control (PI controller, 50Hz)</li>
-<li>Codevision based on Atemega 128, C language
-</br></li>
-</ul>
-<p><strong>Video</strong>:
-
-    
-        
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UxprlKqgqGU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-          ></iframe>
-        </div>
-</p>
-</br>
-<h4 id="single-axis-hils-verification-using-helmholtz-cage">Single-axis HILS verification using Helmholtz cage</h4>
-<ul>
-<li>ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results <a href="/publication/ij_202302/">here</a>.</li>
+<li>Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results <a href="/publication/ij_202302/">here</a>.</li>
 </ul>
 <p>
 
@@ -1011,29 +1082,27 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="fig3.jpg" alt="HILS Verification" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="PILS Concept" srcset="
+               /project/kardsat/fig6_hu10472465917935923540.webp 400w,
+               /project/kardsat/fig6_hu17370394901886017254.webp 760w,
+               /project/kardsat/fig6_hu3943212206133727682.webp 1200w"
+               src="/project/kardsat/fig6_hu10472465917935923540.webp"
+               width="688"
+               height="182"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p><strong>Video (50x Fast)</strong>:
+<p><strong>Video</strong>:
 
     
         
         <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/57kuwjo1NHc?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kGWjDo7wkRs?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
           ></iframe>
         </div>
 </p>
 </br>
-</br>
-<!-------------------------------------------------------------------------------------->
-<h2 id="3-operation-results"><strong>3. Operation Results</strong></h2>
-<h3 id="31-cubesat-gps-l1l2c-receiver">3.1. CubeSat GPS L1/L2C Receiver</h3>
-<p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
-<!-------------------------------------------------------------------------------------->
-<h3 id="32-adcs">3.2. ADCS</h3>
-<p>After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.</p>
-</br>
-<p>For more details, refer to the paper on in-orbit results <a href="/publication/ij_202001/">here</a>.</p>
+<p>For more details, refer to the paper on GPS-based relative navigation <a href="/publication/ij_202301/">here</a>.</p>
 </br>
 <!-------------------------------------------------------------------------------------->
 <h1 id="for-more-information-refer-to-the-related-publications-below-">For more information, refer to the related publications below. :)</h1>

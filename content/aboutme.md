@@ -99,6 +99,16 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
+        - title: Best Paper Seleted – 2022 KSAS Fall Conference
+          certificate_url: '/awards/2023_ksas.jpg' #static /awards
+          date_end: ''
+          date_start: '2023-10-06'
+          description: ''
+          icon: ksas
+          organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
+          organization_url: https://ksas.or.kr/
+          url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11531094&language=ko_KR&hasTopBanner=true'
+
         - title: Best Presentation Award – ION GNSS+ 2023
           certificate_url: '/awards/2023_ion.jpg' #static /awards
           date_end: ''
@@ -107,7 +117,6 @@ sections:
           icon: ion
           organization: The Institute of Navigation (ION), USA
           organization_url: https://www.ion.org/
-          url: ''
 
         - title: Minister Award - 2019 Korea CubeSat Contest
           certificate_url: '/awards/2022_kor_cubesat.jpg' #static /awards
@@ -117,7 +126,6 @@ sections:
           icon: korgov
           organization: Minister of Science and ICT, Republic of Korea
           organization_url: https://www.msit.go.kr/
-          url: ''
 
         - title: Director Award - 2022 Korea CubeSat Contest Finalist
           certificate_url: '/awards/2022_kari_cubesat.jpg'
@@ -127,7 +135,6 @@ sections:
           icon: kari
           organization: Korea Aerospace Research Institute (KARI), Korea
           organization_url: https://www.kari.re.kr/
-          url: ''
 
         - title: Best Paper Presentation Award – 2021 KSAS Fall Conference
           certificate_url: '/awards/2021_ksas.jpg'
@@ -137,7 +144,6 @@ sections:
           icon: ksas
           organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
           organization_url: https://ksas.or.kr/
-          url: ''
 
         - title: Director Award - 2019 Korea CubeSat Contest Finalist
           certificate_url: /awards/2020_kari_cubesat.jpg
@@ -147,7 +153,6 @@ sections:
           icon: kari
           organization: Korea Aerospace Research Institute (KARI), Korea
           organization_url: https://www.kari.re.kr/
-          url: ''
 
         - title: Director Award - 2015 Korea CubeSat Contest
           certificate_url: '/awards/2015_kari_cubesat.jpg'
@@ -157,7 +162,6 @@ sections:
           icon: kari
           organization: Korea Aerospace Research Institute (KARI), Korea
           organization_url: https://www.kari.re.kr/
-          url: ''
 
         - title: Aviation Specialized University Excellent Talent Certificate
           certificate_url: '/awards/2019_kor_certificate.jpg'
@@ -167,7 +171,6 @@ sections:
           icon: korgov
           organization: Minister of Ministry of Land, Infrastructure and Transport, Republic of Korea
           organization_url: https://www.molit.go.kr
-          url: ''
 
         - title: Director Award - Capstone Contest
           certificate_url: '/awards/2015_hgu_capstone.jpg'
@@ -177,7 +180,7 @@ sections:
           icon: hgu
           organization: School of Mechanical and Control Engineering, Handong Global University, Korea
           organization_url: https://www.handong.edu/
-          url: ''
+
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

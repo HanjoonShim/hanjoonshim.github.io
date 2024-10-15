@@ -17,9 +17,9 @@ image:
 
 ### KARI Rendezvous&Docking SATellite (KARDSAT) CubeSat GPS Relative Navigation Project
 
-The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was not launched, and only the technology development was carried out. A national report on the relevant technology is available [here](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;).
+The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was **not launched**, and **only the technology development** was carried out. A national report on the relevant technology is available [here](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;).
 
-This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the Project Manager, handling all aspects from documentation to practical implementation, with guidance from one postdoctoral researcher. I was responsible for the following tasks: designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code. [See related publication](/publication/ij_202301/).
+This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the **Project Manager**, handling all aspects from documentation to **practical implementation**, with guidance from one postdoctoral researcher. I was responsible for the following tasks: *designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code*. [See related publication](/publication/ij_202301/).
 
 - **Project Management**
      - Managed all tasks related to project oversight, including proposal writing, presentation preparation, and report generation.
@@ -36,12 +36,10 @@ This project was conducted from 2019 to 2020. As the first doctoral student invo
 **[1. KARDSAT CubeSat](#1-kardsat-cubesat)**</br>
 &nbsp;&nbsp;&nbsp;[1.1. System Configuration](#11-system-configuration) </br>
 &nbsp;&nbsp;&nbsp;[1.2. Operation Scenario](#12-operation-scenario) </br>
-**[2. Attitude Determination and Control System (ADCS)](#2-attitude-determination-and-control-system-adcs)**</br>
-&nbsp;&nbsp;&nbsp;[2.1. Software-In-the-Loop Simulation (SILS)](#21-software-in-the-loop-simulation-sils) </br>
-&nbsp;&nbsp;&nbsp;[2.2. Hardware-In-the-Loop Simulation (HILS)](#22-hardware-in-the-loop-simulation-hils) </br>
-**[3. Operation Results](#3-operation-results)**</br>
-&nbsp;&nbsp;&nbsp;[3.1. CubeSat GPS L1/L2C Receiver](#31-cubesat-gps-l1l2c-receiver) </br>
-&nbsp;&nbsp;&nbsp;[3.2. ADCS](#32-adcs) </br>
+**[2. GPS Relative Navigation System](#2-gps-relative-navigation-system)**</br>
+&nbsp;&nbsp;&nbsp;[2.1. Overall Block Diagram](#21-overall-block-diagram) </br>
+&nbsp;&nbsp;&nbsp;[2.2. Software-In-the-Loop Simulation (SILS)](#22-software-in-the-loop-simulation-sils) </br>
+&nbsp;&nbsp;&nbsp;[2.3. Processor-In-the-Loop Simulation (PILS)](#23-processor-in-the-loop-simulation-pils) </br>
 
 </br>
 
@@ -53,96 +51,69 @@ This project was conducted from 2019 to 2020. As the first doctoral student invo
 
 ### 1.1. System Configuration
 
-**Table. System Configuration of the SNUGLITE-I CubeSat** </br>
-*DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;*
-*UHF: ultra-high frequency*
-| System     | Description         |
-|------------|---------------------|
-| Mass       | 1.9 kg              | 
-| Dimension  | 100x100x227 mm (2U) |
-| Orbit      | 575 km, SSO         |
-| Uplink     | UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand) |
-| Downink    | UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)   |
-|            | S-Band (2405MHz), DQPSK, 1 Mbps (mission data)       |
-| Payloads   | SNU L1/L2C GPS Receiver x2 (1st gen)                 |
-|            | 3-axis fluxgate magnetometer w/ deployable boom      |
-| Actuators  | PCB-based magnetorquer x3                            |
-| Reference  | NORAD 43784, COSIPAR 2018-099AC, [SatNOGS](https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404), [Gunter's Space](https://space.skyrocket.de/doc_sdat/snuglite.htm) |
+**Table. System Configuration of the KARDSAT CubeSat** </br>
+| System     | Description           |
+|------------|-----------------------|
+| Mass       | Chaser 6U: 12 kg      |
+|            | Target 3U: 5 kg       |
+| Dimension  | 200x100x340.5 mm (6U) |
+|            | 100x100x340.5 mm (3U) |
+| Orbit      | 700 km, SSO           |
+| Link       | UHF (Uplink, Downlink) |
+|            | S-Band (Uplink, Downlink) |
+| Actuators  | 6-DOF Thruster, Reaction Wheel, Magnetorquer |
+| Reference  | [Report on National R&D](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;)  |
 
 <!-------------------------------------------------------------------------------------->
 
 ### 1.2. Operation Scenario
 
-![Operation Scenario of ADCS](fig1.jpg)
+![Operation Scenario of KARDSAT](fig1.jpg)
+![Test Schedule](fig2.jpg)
 
- The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite's nadir-pointing to collect data.
+The Chaser is equipped with thrusters for orbital control, visual sensors for shape recognition and attitude estimation of the Target, and a docking device for demonstration purposes. The Target features an LED marker to facilitate the Chaser's attitude estimation and a drag device for deorbiting after mission completion. Upon deployment from the P-POD, the two satellites will gradually drift apart due to orbital perturbations, estimated to reach a distance of approximately 500 km within three days until they establish communication for orbital control. After the first contact, the Chaser will perform orbital maneuvers to approach the Target, controlled by commands from the ground station until they are about 2 km apart. Within this range, relative navigation and control will bring them closer to within approximately 10 meters. The Target will transmit its orbital information to the Chaser, which will estimate the relative distance and execute the necessary maneuvers. Once within 10 meters, the Chaser will use its visual sensors for shape recognition and state estimation before initiating docking control. After successful docking, the Chaser will immediately detach and use its remaining fuel to lower its altitude, while the Target will deploy its drag device.
+
+**This research project** aims to develop a **relative GPS system for KARDSAT**, utilized during Tests #1 to #5 as shown in the diagrams, with a requirement to *achieve sub-meter real-time GPS relative navigation and deliver flight code as the project's goal*.
+
 
 </br>
 </br>
 
 <!-------------------------------------------------------------------------------------->
 
-## **2. Attitude Determination and Control System (ADCS)**
+## **2. GPS Relative Navigation System**
 
-Related to my Master’s thesis [here](/publication/thesis_master/).
+### 2.1. Overall Block Diagram
 
-### 2.1. Software-In-the-Loop Simulation (SILS)
+![Overall Block Diagram](fig3.jpg)
 
-#### Algorithm design: Developed based on work inherited from previous graduates
- - SILS based on MATLAB 
- - Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)
- - Attitude control: LQR controller (magnetorquer only)
+![System Scheduling](fig4.jpg)
 
-![Overall Block Diagram](fig2.jpg)
+### 2.2. Software-In-the-Loop Simulation (SILS)
 
+![SILS Concept](fig5.jpg)
+
+ - SILS based on MATLAB (Module seperated) 
 
 **Video**:
-    {{< youtube BvxYcQGIri8 >}}
+    {{< youtube MB0Wlfjf6kE >}}
 </br>
 </br>
 
 <!-------------------------------------------------------------------------------------->
 
-### 2.2. Hardware-In-the-Loop Simulation (HILS)
+### 2.3. Processor-In-the-Loop Simulation (PILS)
 
-#### Helmholtz cage design and assembly
- - 3-axis magnetic cotrol based classical control (PI controller, 50Hz)
- - Codevision based on Atemega 128, C language
-</br>
+ - Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results [here](/publication/ij_202302/).
 
-**Video**:
-    {{< youtube UxprlKqgqGU >}}
+![PILS Concept](fig6.jpg)
 
-</br>
-
-#### Single-axis HILS verification using Helmholtz cage
- - ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results [here](/publication/ij_202302/).
-
-![HILS Verification](fig3.jpg)
-
- **Video (50x Fast)**:
-    {{< youtube 57kuwjo1NHc >}}
-
-</br>
-</br>
-
-<!-------------------------------------------------------------------------------------->
-
-## **3. Operation Results**
-
-### 3.1. CubeSat GPS L1/L2C Receiver
-
-Due to a failure in the communication module's uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.
-
-<!-------------------------------------------------------------------------------------->
-
-### 3.2. ADCS 
-
-After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.
+ **Video**:
+    {{< youtube kGWjDo7wkRs >}}
 
 </br>
 
- For more details, refer to the paper on in-orbit results [here](/publication/ij_202001/).
+ For more details, refer to the paper on GPS-based relative navigation [here](/publication/ij_202301/).
 
 </br>
 
