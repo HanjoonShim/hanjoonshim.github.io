@@ -14,131 +14,158 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+<!-------------------------------------------------------------------------------------->
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+### Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+The SNUGLITE-I CubeSat was selected as a finalist in the "2019 CubeSat Competition" organized by the Korea Aerospace Research Institute, with a total funding of 475 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results [here](/publication/ij_202001/).
 
-## Video
+This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an **Attitude Determination and Control System (ADCS)** engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. [See related publication](/publication/ij_202302/).
 
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
+-	**Developed ADCS Algorithm**
+     - EKF-based attitde determination system (Sun+Gyro+Mag)
+     - LQR-based attitude control system (magnetometer only)
+     - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS
+-	**Developed a HILS platform for ADCS**
+     - Single-axis ADCS HILS Verification
+     - Design and fabrication of the Helmholtz cage
 
-{{< youtube D2vj0WcvH5c >}}
+</br>
 
-**Youtube**:
+<!-------------------------------------------------------------------------------------->
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+## **Index**
 
-**Bilibili**:
+**[1. SNUGLITE-II CubeSat](#1-snuglite-i-cubesat)**</br>
+&nbsp;&nbsp;&nbsp;[1.1. SNUGLITE Team (2019)](#11-system-configuration) </br>
+&nbsp;&nbsp;&nbsp;[1.2. System Configuration](#11-system-configuration) </br>
+&nbsp;&nbsp;&nbsp;[1.3. Operation Scenario](#12-operation-scenario) </br>
+**[2. Attitude Determination and Control System (ADCS)](#2-attitude-determination-and-control-system-adcs)**</br>
+&nbsp;&nbsp;&nbsp;[2.1. Overall Block Diagram](#21-software-in-the-loop-simulation-sils) </br>
+&nbsp;&nbsp;&nbsp;[2.2. Software-In-the-Loop Simulation (SILS)](#21-software-in-the-loop-simulation-sils) </br>
+&nbsp;&nbsp;&nbsp;[2.3. Processor-In-the-Loop Simulation (PILS)](#22-hardware-in-the-loop-simulation-hils) </br>
+&nbsp;&nbsp;&nbsp;[2.4. Hardware-In-the-Loop Simulation (HILS)](#22-hardware-in-the-loop-simulation-hils) </br>
+**[3. Assembly, Integration, and Test (AIT)](#1-snuglite-i-cubesat)**</br>
+&nbsp;&nbsp;&nbsp;[3.1. Hardware Design (PCB)](#21-software-in-the-loop-simulation-sils) </br>
+&nbsp;&nbsp;&nbsp;[3.2. Assembly and Integration](#21-software-in-the-loop-simulation-sils) </br>
+&nbsp;&nbsp;&nbsp;[3.3. Environment Test](#21-software-in-the-loop-simulation-sils) </br>
+**[4. Operation Results](#3-operation-results)**</br>
+&nbsp;&nbsp;&nbsp;[4.1. Launch and Initial Operation](#41-cubesat-gps-l1l2c-receiver) </br>
+&nbsp;&nbsp;&nbsp;[4.2. CubeSat GPS L1/L2C Receiver](#31-cubesat-gps-l1l2c-receiver) </br>
+&nbsp;&nbsp;&nbsp;[4.3. ADCS](#32-adcs) </br>
 
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
+</br>
 
-**Video file**
+<!-------------------------------------------------------------------------------------->
 
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
+## **1. SNUGLITE-II CubeSat**
 
-    {{</* video src="my_video.mp4" controls="yes" */>}}
+<!-------------------------------------------------------------------------------------->
 
-## Podcast
+### 1.1. System Configuration
 
-You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
+**Table. System Configuration of the SNUGLITE-I CubeSat** </br>
+*DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;*
+*UHF: ultra-high frequency*
+| System     | Description         |
+|------------|---------------------|
+| Mass       | 1.9 kg              | 
+| Dimension  | 100x100x227 mm (2U) |
+| Orbit      | 575 km, SSO         |
+| Uplink     | UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand) |
+| Downink    | UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)   |
+|            | S-Band (2405MHz), DQPSK, 1 Mbps (mission data)       |
+| Payloads   | SNU L1/L2C GPS Receiver x2 (1st gen)                 |
+|            | 3-axis fluxgate magnetometer w/ deployable boom      |
+| Actuators  | PCB-based magnetorquer x3                            |
+| Reference  | NORAD 43784, COSIPAR 2018-099AC, [SatNOGS](https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404), [Gunter's Space](https://space.skyrocket.de/doc_sdat/snuglite.htm) |
 
-    {{</* audio src="ambient-piano.mp3" */>}}
+<!-------------------------------------------------------------------------------------->
 
-Try it out:
+### 1.2. Operation Scenario
 
-{{< audio src="ambient-piano.mp3" >}}
+![Operation Scenario](fig1.jpg)
 
-## Test students
+ The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite's nadir-pointing to collect data.
 
-Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
+<!-------------------------------------------------------------------------------------->
 
-```markdown
-{{</* spoiler text="👉 Click to view the solution" */>}}
-You found me!
-{{</* /spoiler */>}}
-```
+### 1.3. Launch
 
-renders as
+On December 3, 2018, at 18:32:00+00:00 (UTC), SNUGLITE-I was launched as part of Spaceflight Industries' SSO-A multi-satellite mission on a Falcon-9 v1.2 (Block 5) rocket.
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+**Video**:
+    {{< youtube Wq8kS6UoOrQ >}}
 
-## Math
+</br>
+</br>
 
-Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
+<!-------------------------------------------------------------------------------------->
 
-To render _inline_ or _block_ math, wrap your LaTeX math with `{{</* math */>}}$...${{</* /math */>}}` or `{{</* math */>}}$$...$${{</* /math */>}}`, respectively.
+## **2. Attitude Determination and Control System (ADCS)**
 
-{{% callout note %}}
-We wrap the LaTeX math in the Hugo Blox _math_ shortcode to prevent Hugo rendering our math as Markdown.
-{{% /callout %}}
+Related to my Master’s thesis [here](/publication/thesis_master/).
 
-Example **math block**:
+### 2.1. Software-In-the-Loop Simulation (SILS)
 
-```latex
-{{</* math */>}}
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
-$$
-{{</* /math */>}}
-```
+#### Algorithm design: Developed based on work inherited from previous graduates
+ - SILS based on MATLAB 
+ - Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)
+ - Attitude control: LQR controller (magnetorquer only)
 
-renders as
-
-{{< math >}}
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-{{< /math >}}
-
-Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
-
-Example **multi-line math** using the math linebreak (`\\`):
-
-```latex
-{{</* math */>}}
-$$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
-{{</* /math */>}}
-```
-
-renders as
-
-{{< math >}}
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-{{< /math >}}
-
-## Code
-
-Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
+![Overall Block Diagram](fig2.jpg)
 
 
-    ```python
-    import pandas as pd
-    data = pd.read_csv("data.csv")
-    data.head()
-    ```
+**Video**:
+    {{< youtube BvxYcQGIri8 >}}
+</br>
+</br>
 
-renders as
+<!-------------------------------------------------------------------------------------->
 
-```python
-import pandas as pd
-data = pd.read_csv("data.csv")
-data.head()
-```
+### 2.2. Hardware-In-the-Loop Simulation (HILS)
 
-## Inline Images
+#### Helmholtz cage design and assembly
+ - 3-axis magnetic cotrol based classical control (PI controller, 50Hz)
+ - Codevision based on Atemega 128, C language
+</br>
 
-```go
-{{</* icon name="python" */>}} Python
-```
+**Video**:
+    {{< youtube UxprlKqgqGU >}}
 
-renders as
+</br>
 
-{{< icon name="python" >}} Python
+#### Single-axis HILS verification using Helmholtz cage
+ - ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results [here](/publication/ij_202302/).
 
-## Did you find this page helpful? Consider sharing it 🙌
+![HILS Verification](fig3.jpg)
+
+ **Video (50x Fast)**:
+    {{< youtube 57kuwjo1NHc >}}
+
+</br>
+</br>
+
+<!-------------------------------------------------------------------------------------->
+
+## **3. Operation Results**
+
+### 3.1. CubeSat GPS L1/L2C Receiver
+
+Due to a failure in the communication module's uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.
+
+<!-------------------------------------------------------------------------------------->
+
+### 3.2. ADCS 
+
+After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.
+
+</br>
+
+ For more details, refer to the paper on in-orbit results [here](/publication/ij_202001/).
+
+</br>
+
+<!-------------------------------------------------------------------------------------->
+
+ # For more information, refer to the related publications below. :)

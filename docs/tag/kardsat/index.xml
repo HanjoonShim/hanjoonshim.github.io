@@ -278,6 +278,11 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pseudorange-based relative navigation system (sub-meter level accuracy)&lt;/li&gt;
+&lt;li&gt;Highly efficient range-domain differential GPS (DGPS) algorithm using the Hatch filter&lt;/li&gt;
+&lt;li&gt;Handles intermittent communication and failures in the inter-satellite link using an orbital propagation module&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -297,15 +302,18 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;System Scheduling&#34; srcset=&#34;
-               /project/kardsat/fig4_hu1678234290858058030.webp 400w,
+               /project/kardsat/fig4_hu577713246503032665.webp 400w,
                /project/kardsat/fig4_hu11804443630857257605.webp 760w,
                /project/kardsat/fig4_hu8440559820205320072.webp 1200w&#34;
-               src=&#34;https://hanjoonshim.github.io/project/kardsat/fig4_hu1678234290858058030.webp&#34;
+               src=&#34;https://hanjoonshim.github.io/project/kardsat/fig4_hu577713246503032665.webp&#34;
                width=&#34;760&#34;
                height=&#34;205&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p&gt;As shown in the figure, GPS measurements are transmitted from KARDSAT(Target) at 10-second intervals, triggering the use of the DGPS and orbital propagation modules.&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
 &lt;p&gt;
 
@@ -336,7 +344,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;SILS based on MATLAB (Module seperated)&lt;/li&gt;
+&lt;li&gt;SILS developed on MATLAB (Module seperated)&lt;/li&gt;
+&lt;li&gt;Data handling module: GPS LEO simulator (providing GPS L1 measurements and ephemeris data)&lt;/li&gt;
+&lt;li&gt;MATLAB simulation designed for real-time capability&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
 
@@ -351,9 +361,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoonshim.github.io/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -373,15 +380,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PILS Concept&#34; srcset=&#34;
-               /project/kardsat/fig6_hu10472465917935923540.webp 400w,
+               /project/kardsat/fig6_hu4151706604445218715.webp 400w,
                /project/kardsat/fig6_hu17370394901886017254.webp 760w,
                /project/kardsat/fig6_hu3943212206133727682.webp 1200w&#34;
-               src=&#34;https://hanjoonshim.github.io/project/kardsat/fig6_hu10472465917935923540.webp&#34;
+               src=&#34;https://hanjoonshim.github.io/project/kardsat/fig6_hu4151706604445218715.webp&#34;
                width=&#34;688&#34;
                height=&#34;182&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB-based relative navigation module was implemented identically on the On-Board Computer (OBC)&lt;/li&gt;
+&lt;li&gt;Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC).&lt;/li&gt;
+&lt;li&gt;Verified real-time execution on the OBC, and delivered the flight code for the mission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The video below shows the results from the MATLAB data handling module during the execution of the PILS. It outputs the relative navigation results based on 10-second orbital propagation for GPS measurements provided at 1-second intervals.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
 
     
@@ -391,6 +404,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
           &gt;&lt;/iframe&gt;
         &lt;/div&gt;
 &lt;/p&gt;
+&lt;/br&gt;
 &lt;/br&gt;
 &lt;p&gt;For more details, refer to the paper on GPS-based relative navigation &lt;a href=&#34;https://hanjoonshim.github.io/publication/ij_202301/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/br&gt;

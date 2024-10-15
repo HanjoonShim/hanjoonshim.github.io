@@ -816,122 +816,249 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p><a href="https://hugoblox.com" target="_blank" rel="noopener">Hugo Blox Builder</a> is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.</p>
-<p><strong>Embed videos, podcasts, code, LaTeX math, and even test students!</strong></p>
-<p>On this page, you&rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.</p>
-<h2 id="video">Video</h2>
-<p>Teach your course by sharing videos with your students. Choose from one of the following approaches:</p>
+      <!-------------------------------------------------------------------------------------->
+<h3 id="seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project">Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project</h3>
+<p>The SNUGLITE-I CubeSat was selected as a finalist in the &ldquo;2019 CubeSat Competition&rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 475 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results <a href="/publication/ij_202001/">here</a>.</p>
+<p>This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an <strong>Attitude Determination and Control System (ADCS)</strong> engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. <a href="/publication/ij_202302/">See related publication</a>.</p>
+<ul>
+<li><strong>Developed ADCS Algorithm</strong>
+<ul>
+<li>EKF-based attitde determination system (Sun+Gyro+Mag)</li>
+<li>LQR-based attitude control system (magnetometer only)</li>
+<li>Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS</li>
+</ul>
+</li>
+<li><strong>Developed a HILS platform for ADCS</strong>
+<ul>
+<li>Single-axis ADCS HILS Verification</li>
+<li>Design and fabrication of the Helmholtz cage</li>
+</ul>
+</li>
+</ul>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h2 id="index"><strong>Index</strong></h2>
+<p><strong><a href="#1-snuglite-i-cubesat">1. SNUGLITE-II CubeSat</a></strong></br>
+   <a href="#11-system-configuration">1.1. SNUGLITE Team (2019)</a> </br>
+   <a href="#11-system-configuration">1.2. System Configuration</a> </br>
+   <a href="#12-operation-scenario">1.3. Operation Scenario</a> </br>
+<strong><a href="#2-attitude-determination-and-control-system-adcs">2. Attitude Determination and Control System (ADCS)</a></strong></br>
+   <a href="#21-software-in-the-loop-simulation-sils">2.1. Overall Block Diagram</a> </br>
+   <a href="#21-software-in-the-loop-simulation-sils">2.2. Software-In-the-Loop Simulation (SILS)</a> </br>
+   <a href="#22-hardware-in-the-loop-simulation-hils">2.3. Processor-In-the-Loop Simulation (PILS)</a> </br>
+   <a href="#22-hardware-in-the-loop-simulation-hils">2.4. Hardware-In-the-Loop Simulation (HILS)</a> </br>
+<strong><a href="#1-snuglite-i-cubesat">3. Assembly, Integration, and Test (AIT)</a></strong></br>
+   <a href="#21-software-in-the-loop-simulation-sils">3.1. Hardware Design (PCB)</a> </br>
+   <a href="#21-software-in-the-loop-simulation-sils">3.2. Assembly and Integration</a> </br>
+   <a href="#21-software-in-the-loop-simulation-sils">3.3. Environment Test</a> </br>
+<strong><a href="#3-operation-results">4. Operation Results</a></strong></br>
+   <a href="#41-cubesat-gps-l1l2c-receiver">4.1. Launch and Initial Operation</a> </br>
+   <a href="#31-cubesat-gps-l1l2c-receiver">4.2. CubeSat GPS L1/L2C Receiver</a> </br>
+   <a href="#32-adcs">4.3. ADCS</a> </br></p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h2 id="1-snuglite-ii-cubesat"><strong>1. SNUGLITE-II CubeSat</strong></h2>
+<!-------------------------------------------------------------------------------------->
+<h3 id="11-system-configuration">1.1. System Configuration</h3>
+<p><strong>Table. System Configuration of the SNUGLITE-I CubeSat</strong> </br>
+<em>DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;</em>
+<em>UHF: ultra-high frequency</em></p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">System</th>
+          <th style="text-align: left">Description</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">Mass</td>
+          <td style="text-align: left">1.9 kg</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Dimension</td>
+          <td style="text-align: left">100x100x227 mm (2U)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Orbit</td>
+          <td style="text-align: left">575 km, SSO</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Uplink</td>
+          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Downink</td>
+          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">S-Band (2405MHz), DQPSK, 1 Mbps (mission data)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Payloads</td>
+          <td style="text-align: left">SNU L1/L2C GPS Receiver x2 (1st gen)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">3-axis fluxgate magnetometer w/ deployable boom</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Actuators</td>
+          <td style="text-align: left">PCB-based magnetorquer x3</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">Reference</td>
+          <td style="text-align: left">NORAD 43784, COSIPAR 2018-099AC, <a href="https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404" target="_blank" rel="noopener">SatNOGS</a>, <a href="https://space.skyrocket.de/doc_sdat/snuglite.htm" target="_blank" rel="noopener">Gunter&rsquo;s Space</a></td>
+      </tr>
+  </tbody>
+</table>
+<!-------------------------------------------------------------------------------------->
+<h3 id="12-operation-scenario">1.2. Operation Scenario</h3>
+<p>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="fig1.jpg" alt="Operation Scenario" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p>The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite&rsquo;s nadir-pointing to collect data.</p>
+<!-------------------------------------------------------------------------------------->
+<h3 id="13-launch">1.3. Launch</h3>
+<p>On December 3, 2018, at 18:32:00+00:00 (UTC), SNUGLITE-I was launched as part of Spaceflight Industries&rsquo; SSO-A multi-satellite mission on a Falcon-9 v1.2 (Block 5) rocket.</p>
+<p><strong>Video</strong>:
 
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/D2vj0WcvH5c?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-<p><strong>Youtube</strong>:</p>
-<pre><code>{{&lt; youtube w7Ft2ymGmfc &gt;}}
-</code></pre>
-<p><strong>Bilibili</strong>:</p>
-<pre><code>{{&lt; bilibili id=&quot;BV1WV4y1r7DF&quot; &gt;}}
-</code></pre>
-<p><strong>Video file</strong></p>
-<p>Videos may be added to a page by either placing them in your <code>assets/media/</code> media library or in your <a href="https://gohugo.io/content-management/page-bundles/" target="_blank" rel="noopener">page&rsquo;s folder</a>, and then embedding them with the <em>video</em> shortcode:</p>
-<pre><code>{{&lt; video src=&quot;my_video.mp4&quot; controls=&quot;yes&quot; &gt;}}
-</code></pre>
-<h2 id="podcast">Podcast</h2>
-<p>You can add a podcast or music to a page by placing the MP3 file in the page&rsquo;s folder or the media library folder and then embedding the audio on your page with the <em>audio</em> shortcode:</p>
-<pre><code>{{&lt; audio src=&quot;ambient-piano.mp3&quot; &gt;}}
-</code></pre>
-<p>Try it out:</p>
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-<audio controls >
-  <source src="/project/snuglite-ii/ambient-piano.mp3" type="audio/mpeg">
-</audio>
-
-<h2 id="test-students">Test students</h2>
-<p>Provide a simple yet fun self-assessment by revealing the solutions to challenges with the <code>spoiler</code> shortcode:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="nt">spoiler</span> <span class="na">text</span><span class="o">=</span><span class="s">&#34;👉 Click to view the solution&#34;</span> <span class="p">&gt;</span>}}
-</span></span><span class="line"><span class="cl">You found me!
-</span></span><span class="line"><span class="cl">{{<span class="p">&lt;</span> <span class="p">/</span><span class="nt">spoiler</span> <span class="p">&gt;</span>}}
-</span></span></code></pre></div><p>renders as</p>
-<details class="spoiler "  id="spoiler-2">
-  <summary>👉 Click to view the solution</summary>
-  <p>You found me 🎉</p>
-</details>
-<h2 id="math">Math</h2>
-<p>Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the <code>math</code> option in your <code>config/_default/params.yaml</code> file.</p>
-<p>To render <em>inline</em> or <em>block</em> math, wrap your LaTeX math with <code>{{&lt; math &gt;}}$...${{&lt; /math &gt;}}</code> or <code>{{&lt; math &gt;}}$$...$${{&lt; /math &gt;}}</code>, respectively.</p>
-<div class="alert alert-note">
-  <div>
-    We wrap the LaTeX math in the Hugo Blox <em>math</em> shortcode to prevent Hugo rendering our math as Markdown.
-  </div>
-</div>
-<p>Example <strong>math block</strong>:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-latex" data-lang="latex"><span class="line"><span class="cl"><span class="nb">{{</span>&lt; math &gt;<span class="nb">}}</span>
-</span></span><span class="line"><span class="cl"><span class="sb">$$</span><span class="nb">
-</span></span></span><span class="line"><span class="cl"><span class="nb"></span><span class="nv">\gamma</span><span class="nb">_{n} </span><span class="o">=</span><span class="nb"> </span><span class="nv">\frac</span><span class="nb">{ </span><span class="nv">\left</span><span class="nb"> | </span><span class="nv">\left</span><span class="nb"> </span><span class="o">(</span><span class="nv">\mathbf</span><span class="nb"> x_{n} </span><span class="o">-</span><span class="nb"> </span><span class="nv">\mathbf</span><span class="nb"> x_{n</span><span class="o">-</span><span class="m">1</span><span class="nb">} </span><span class="nv">\right</span><span class="nb"> </span><span class="o">)</span><span class="nb">^T </span><span class="nv">\left</span><span class="nb"> </span><span class="o">[</span><span class="nv">\nabla</span><span class="nb"> F </span><span class="o">(</span><span class="nv">\mathbf</span><span class="nb"> x_{n}</span><span class="o">)</span><span class="nb"> </span><span class="o">-</span><span class="nb"> </span><span class="nv">\nabla</span><span class="nb"> F </span><span class="o">(</span><span class="nv">\mathbf</span><span class="nb"> x_{n</span><span class="o">-</span><span class="m">1</span><span class="nb">}</span><span class="o">)</span><span class="nb"> </span><span class="nv">\right</span><span class="nb"> </span><span class="o">]</span><span class="nb"> </span><span class="nv">\right</span><span class="nb"> |}{</span><span class="nv">\left</span><span class="nb"> </span><span class="nv">\|\nabla</span><span class="nb"> F</span><span class="o">(</span><span class="nv">\mathbf</span><span class="nb">{x}_{n}</span><span class="o">)</span><span class="nb"> </span><span class="o">-</span><span class="nb"> </span><span class="nv">\nabla</span><span class="nb"> F</span><span class="o">(</span><span class="nv">\mathbf</span><span class="nb">{x}_{n</span><span class="o">-</span><span class="m">1</span><span class="nb">}</span><span class="o">)</span><span class="nb"> </span><span class="nv">\right</span><span class="nb"> </span><span class="nv">\|</span><span class="nb">^</span><span class="m">2</span><span class="nb">}
-</span></span></span><span class="line"><span class="cl"><span class="nb"></span><span class="s">$$</span>
-</span></span><span class="line"><span class="cl"><span class="nb">{{</span>&lt; /math &gt;<span class="nb">}}</span>
-</span></span></code></pre></div><p>renders as</p>
-
-
-
-$$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
-
-<p>Example <strong>inline math</strong> <code>{{&lt; math &gt;}}$\nabla F(\mathbf{x}_{n})${{&lt; /math &gt;}}</code> renders as 
-
-$\nabla F(\mathbf{x}_{n})$.</p>
-<p>Example <strong>multi-line math</strong> using the math linebreak (<code>\\</code>):</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-latex" data-lang="latex"><span class="line"><span class="cl"><span class="nb">{{</span>&lt; math &gt;<span class="nb">}}</span>
-</span></span><span class="line"><span class="cl"><span class="sb">$$</span><span class="nb">f</span><span class="o">(</span><span class="nb">k;p_{</span><span class="m">0</span><span class="nb">}^{</span><span class="o">*</span><span class="nb">}</span><span class="o">)</span><span class="nb"> </span><span class="o">=</span><span class="nb"> </span><span class="nv">\begin</span><span class="nb">{cases}p_{</span><span class="m">0</span><span class="nb">}^{</span><span class="o">*</span><span class="nb">} &amp; </span><span class="nv">\text</span><span class="nb">{if }k</span><span class="o">=</span><span class="m">1</span><span class="nb">, </span><span class="nv">\\</span><span class="nb">
-</span></span></span><span class="line"><span class="cl"><span class="nb"></span><span class="m">1</span><span class="o">-</span><span class="nb">p_{</span><span class="m">0</span><span class="nb">}^{</span><span class="o">*</span><span class="nb">} &amp; </span><span class="nv">\text</span><span class="nb">{if }k</span><span class="o">=</span><span class="m">0</span><span class="nb">.</span><span class="nv">\end</span><span class="nb">{cases}</span><span class="s">$$</span>
-</span></span><span class="line"><span class="cl"><span class="nb">{{</span>&lt; /math &gt;<span class="nb">}}</span>
-</span></span></code></pre></div><p>renders as</p>
-
-
-
-
-$$
-f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
-1-p_{0}^{*} & \text{if }k=0.\end{cases}
-$$
-
-
-<h2 id="code">Code</h2>
-<p>Hugo Blox Builder utilises Hugo&rsquo;s Markdown extension for highlighting code syntax. The code theme can be selected in the <code>config/_default/params.yaml</code> file.</p>
-<pre><code>```python
-import pandas as pd
-data = pd.read_csv(&quot;data.csv&quot;)
-data.head()
-```
-</code></pre>
-<p>renders as</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
-</span></span><span class="line"><span class="cl"><span class="n">data</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="s2">&#34;data.csv&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl"><span class="n">data</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
-</span></span></code></pre></div><h2 id="inline-images">Inline Images</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-go" data-lang="go"><span class="line"><span class="cl"><span class="p">{{&lt;</span> <span class="nx">icon</span> <span class="nx">name</span><span class="p">=</span><span class="s">&#34;python&#34;</span> <span class="p">&gt;}}</span> <span class="nx">Python</span>
-</span></span></code></pre></div><p>renders as</p>
+        
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Wq8kS6UoOrQ?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          ></iframe>
+        </div>
+</p>
+</br>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h2 id="2-attitude-determination-and-control-system-adcs"><strong>2. Attitude Determination and Control System (ADCS)</strong></h2>
+<p>Related to my Master’s thesis <a href="/publication/thesis_master/">here</a>.</p>
+<h3 id="21-software-in-the-loop-simulation-sils">2.1. Software-In-the-Loop Simulation (SILS)</h3>
+<h4 id="algorithm-design-developed-based-on-work-inherited-from-previous-graduates">Algorithm design: Developed based on work inherited from previous graduates</h4>
+<ul>
+<li>SILS based on MATLAB</li>
+<li>Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)</li>
+<li>Attitude control: LQR controller (magnetorquer only)</li>
+</ul>
 <p>
-  <i class="fas fa-python  pr-1 fa-fw"></i> Python</p>
-<h2 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="fig2.jpg" alt="Overall Block Diagram" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>Video</strong>:
+
+    
+        
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BvxYcQGIri8?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          ></iframe>
+        </div>
+
+</br>
+</br></p>
+<!-------------------------------------------------------------------------------------->
+<h3 id="22-hardware-in-the-loop-simulation-hils">2.2. Hardware-In-the-Loop Simulation (HILS)</h3>
+<h4 id="helmholtz-cage-design-and-assembly">Helmholtz cage design and assembly</h4>
+<ul>
+<li>3-axis magnetic cotrol based classical control (PI controller, 50Hz)</li>
+<li>Codevision based on Atemega 128, C language
+</br></li>
+</ul>
+<p><strong>Video</strong>:
+
+    
+        
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UxprlKqgqGU?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          ></iframe>
+        </div>
+</p>
+</br>
+<h4 id="single-axis-hils-verification-using-helmholtz-cage">Single-axis HILS verification using Helmholtz cage</h4>
+<ul>
+<li>ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results <a href="/publication/ij_202302/">here</a>.</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img src="fig3.jpg" alt="HILS Verification" loading="lazy" data-zoomable /></div>
+  </div></figure>
+</p>
+<p><strong>Video (50x Fast)</strong>:
+
+    
+        
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/57kuwjo1NHc?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+          ></iframe>
+        </div>
+</p>
+</br>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h2 id="3-operation-results"><strong>3. Operation Results</strong></h2>
+<h3 id="31-cubesat-gps-l1l2c-receiver">3.1. CubeSat GPS L1/L2C Receiver</h3>
+<p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
+<!-------------------------------------------------------------------------------------->
+<h3 id="32-adcs">3.2. ADCS</h3>
+<p>After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.</p>
+</br>
+<p>For more details, refer to the paper on in-orbit results <a href="/publication/ij_202001/">here</a>.</p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h1 id="for-more-information-refer-to-the-related-publications-below-">For more information, refer to the related publications below. :)</h1>
 
     </div>
 

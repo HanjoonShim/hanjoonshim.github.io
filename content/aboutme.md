@@ -62,8 +62,10 @@ sections:
           location: Seoul
           date_start: '2017-03-01'
           date_end: '2024-08-31'
-          description: |2-
+          description: |-
+              MSc, PhD Advisor: Changdon Kee </br>
               Related Projects:
+              * [SNUGLITE-III CubeSat (2022-)](/project/snuglite-iii/)
               * [SNUGLITE-II CubeSat (2019-2022)](/project/snuglite-ii/)
               * [KARDSAT CubeSat (2019-2020)](/project/kardsat/)
               * [SNUGLITE-I CubeSat (2017-2019)](/project/snuglite-i/)
@@ -75,6 +77,8 @@ sections:
           location: Pohang
           date_start: '2015-08-01'
           date_end: '2016-06-01'
+          description: |-
+              BSc Advisor: Wonsang Ra
 
         - title: Sergent, Mandatory Military Service
           company: Republic of Korea Army
@@ -82,7 +86,7 @@ sections:
           company_logo: roka
           location: Yang-gu
           date_start: '2011-01-11'
-          date_end: '2012-10-14'
+          date_end: '2012-10-14'          
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.

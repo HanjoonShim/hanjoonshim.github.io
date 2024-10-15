@@ -82,9 +82,7 @@ user_groups:
 
 </br>
 </br>
-PhD in Aerospace Engineering with strong interpersonal skills developed through 
-extensive team project experiences. Demonstrated ability to lead teams effectively 
-and collaborate as a valuable team member.
+PhD in Aerospace Engineering with strong interpersonal skills developed through extensive team project experiences. Demonstrated ability to lead teams effectively and collaborate as a valuable team member.
 </br>
 </br>
 Special expertise in the following areas:

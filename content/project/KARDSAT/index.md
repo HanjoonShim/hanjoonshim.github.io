@@ -87,13 +87,25 @@ The Chaser is equipped with thrusters for orbital control, visual sensors for sh
 
 ![Overall Block Diagram](fig3.jpg)
 
+ - Pseudorange-based relative navigation system (sub-meter level accuracy)
+ - Highly efficient range-domain differential GPS (DGPS) algorithm using the Hatch filter
+ - Handles intermittent communication and failures in the inter-satellite link using an orbital propagation module
+
 ![System Scheduling](fig4.jpg)
+
+As shown in the figure, GPS measurements are transmitted from KARDSAT(Target) at 10-second intervals, triggering the use of the DGPS and orbital propagation modules.
+
+</br>
+
+<!-------------------------------------------------------------------------------------->
 
 ### 2.2. Software-In-the-Loop Simulation (SILS)
 
 ![SILS Concept](fig5.jpg)
 
- - SILS based on MATLAB (Module seperated) 
+ - SILS developed on MATLAB (Module seperated) 
+ - Data handling module: GPS LEO simulator (providing GPS L1 measurements and ephemeris data)
+ - MATLAB simulation designed for real-time capability
 
 **Video**:
     {{< youtube MB0Wlfjf6kE >}}
@@ -104,13 +116,18 @@ The Chaser is equipped with thrusters for orbital control, visual sensors for sh
 
 ### 2.3. Processor-In-the-Loop Simulation (PILS)
 
- - Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results [here](/publication/ij_202302/).
-
 ![PILS Concept](fig6.jpg)
+
+ - MATLAB-based relative navigation module was implemented identically on the On-Board Computer (OBC)
+ - Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC).
+ - Verified real-time execution on the OBC, and delivered the flight code for the mission
+
+The video below shows the results from the MATLAB data handling module during the execution of the PILS. It outputs the relative navigation results based on 10-second orbital propagation for GPS measurements provided at 1-second intervals.
 
  **Video**:
     {{< youtube kGWjDo7wkRs >}}
 
+</br>
 </br>
 
  For more details, refer to the paper on GPS-based relative navigation [here](/publication/ij_202301/).
