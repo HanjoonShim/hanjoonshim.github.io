@@ -5,6 +5,7 @@
 
 title: Hanjoon Shim | 심한준 # Website name
 baseURL: 'https://hanjoonshim.github.io/' # Website URL
+publishDir: "docs"
 
 ############################
 ## LANGUAGE

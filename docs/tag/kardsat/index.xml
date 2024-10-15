@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KARDSAT | Hanjoon Shim | 심한준</title>
+    <link>https://hanjoonshim.github.io/tag/kardsat/</link>
+      <atom:link href="https://hanjoonshim.github.io/tag/kardsat/index.xml" rel="self" type="application/rss+xml" />
+    <description>KARDSAT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanjoonshim.github.io/media/icon_hu11317848045098793874.png</url>
+      <title>KARDSAT</title>
+      <link>https://hanjoonshim.github.io/tag/kardsat/</link>
+    </image>
+    
+    <item>
+      <title>Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers</title>
+      <link>https://hanjoonshim.github.io/publication/ij_202301/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/publication/ij_202301/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
+      <link>https://hanjoonshim.github.io/publication/dj_202001/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/publication/dj_202001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Differential GPS Relative Navigation System Implementation and Verification of KARDSAT Cube-Satllites for Autonomous Rendezvous and Docking Missions</title>
+      <link>https://hanjoonshim.github.io/publication/dc_202004/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/publication/dc_202004/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative Navigation for Autonomous Rendezvous and Docking of Nano-Satellite Based on DGPS</title>
+      <link>https://hanjoonshim.github.io/publication/dc_201904/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/publication/dc_201904/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KARDSAT (2019-2020)</title>
+      <link>https://hanjoonshim.github.io/project/kardsat/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/project/kardsat/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;kari-rendezvousdocking-satellite-kardsat-cubesat-gps-relative-navigation-project&#34;&gt;KARI Rendezvous&amp;amp;Docking SATellite (KARDSAT) CubeSat GPS Relative Navigation Project&lt;/h3&gt;
+&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was not launched, and only the technology development was carried out. A national report on the relevant technology is available &lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the Project Manager, handling all aspects from documentation to practical implementation, with guidance from one postdoctoral researcher. I was responsible for the following tasks: designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code. &lt;a href=&#34;https://hanjoonshim.github.io/publication/ij_202301/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed all tasks related to project oversight, including proposal writing, presentation preparation, and report generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developed a real-time single-frequency GPS-based relative navigation system&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a Deci-meter level spacecraft DGPS navigation system (GPS L1 only).&lt;/li&gt;
+&lt;li&gt;Conducted SILS (Matlab) and PILS (Linux-gcc, C)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-kardsat-cubesat&#34;&gt;1. KARDSAT CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#2-attitude-determination-and-control-system-adcs&#34;&gt;2. Attitude Determination and Control System (ADCS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#3-operation-results&#34;&gt;3. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+   &lt;a href=&#34;#31-cubesat-gps-l1l2c-receiver&#34;&gt;3.1. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#32-adcs&#34;&gt;3.2. ADCS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;1-kardsat-cubesat&#34;&gt;&lt;strong&gt;1. KARDSAT CubeSat&lt;/strong&gt;&lt;/h2&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;11-system-configuration&#34;&gt;1.1. System Configuration&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Table. System Configuration of the SNUGLITE-I CubeSat&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;&lt;/em&gt;
+&lt;em&gt;UHF: ultra-high frequency&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;System&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mass&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1.9 kg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dimension&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100x100x227 mm (2U)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Orbit&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;575 km, SSO&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Uplink&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Downink&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S-Band (2405MHz), DQPSK, 1 Mbps (mission data)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Payloads&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SNU L1/L2C GPS Receiver x2 (1st gen)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3-axis fluxgate magnetometer w/ deployable boom&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Actuators&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;PCB-based magnetorquer x3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reference&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;NORAD 43784, COSIPAR 2018-099AC, &lt;a href=&#34;https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig1.jpg&#34; alt=&#34;Operation Scenario of ADCS&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite&amp;rsquo;s nadir-pointing to collect data.&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;2-attitude-determination-and-control-system-adcs&#34;&gt;&lt;strong&gt;2. Attitude Determination and Control System (ADCS)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Related to my Master’s thesis &lt;a href=&#34;https://hanjoonshim.github.io/publication/thesis_master/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
+&lt;h4 id=&#34;algorithm-design-developed-based-on-work-inherited-from-previous-graduates&#34;&gt;Algorithm design: Developed based on work inherited from previous graduates&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;SILS based on MATLAB&lt;/li&gt;
+&lt;li&gt;Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)&lt;/li&gt;
+&lt;li&gt;Attitude control: LQR controller (magnetorquer only)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig2.jpg&#34; alt=&#34;Overall Block Diagram&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BvxYcQGIri8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+
+&lt;/br&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/h3&gt;
+&lt;h4 id=&#34;helmholtz-cage-design-and-assembly&#34;&gt;Helmholtz cage design and assembly&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;3-axis magnetic cotrol based classical control (PI controller, 50Hz)&lt;/li&gt;
+&lt;li&gt;Codevision based on Atemega 128, C language
+&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/UxprlKqgqGU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;h4 id=&#34;single-axis-hils-verification-using-helmholtz-cage&#34;&gt;Single-axis HILS verification using Helmholtz cage&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoonshim.github.io/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig3.jpg&#34; alt=&#34;HILS Verification&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video (50x Fast)&lt;/strong&gt;:
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/57kuwjo1NHc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;3-operation-results&#34;&gt;&lt;strong&gt;3. Operation Results&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;31-cubesat-gps-l1l2c-receiver&#34;&gt;3.1. CubeSat GPS L1/L2C Receiver&lt;/h3&gt;
+&lt;p&gt;Due to a failure in the communication module&amp;rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.&lt;/p&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;32-adcs&#34;&gt;3.2. ADCS&lt;/h3&gt;
+&lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoonshim.github.io/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below-&#34;&gt;For more information, refer to the related publications below. :)&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

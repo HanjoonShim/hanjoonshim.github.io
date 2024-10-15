@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wonsup Choi | Hanjoon Shim | 심한준</title>
+    <link>https://hanjoonshim.github.io/author/wonsup-choi/</link>
+      <atom:link href="https://hanjoonshim.github.io/author/wonsup-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wonsup Choi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hanjoonshim.github.io/media/icon_hu11317848045098793874.png</url>
+      <title>Wonsup Choi</title>
+      <link>https://hanjoonshim.github.io/author/wonsup-choi/</link>
+    </image>
+    
+    <item>
+      <title>Verification of Space GPS Receiver Navigation Performance Using a Cube Satellite</title>
+      <link>https://hanjoonshim.github.io/publication/ic_202001/</link>
+      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hanjoonshim.github.io/publication/ic_202001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
