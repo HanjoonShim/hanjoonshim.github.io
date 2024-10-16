@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yonghwan Bae | Hanjoon Shim | 심한준</title>
-    <link>https://hanjoonshim.github.io/author/yonghwan-bae/</link>
-      <atom:link href="https://hanjoonshim.github.io/author/yonghwan-bae/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yonghwan-bae/</link>
+      <atom:link href="http://localhost:1313/author/yonghwan-bae/index.xml" rel="self" type="application/rss+xml" />
     <description>Yonghwan Bae</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanjoonshim.github.io/media/icon_hu11317848045098793874.png</url>
+      <url>http://localhost:1313/media/icon_hu11317848045098793874.png</url>
       <title>Yonghwan Bae</title>
-      <link>https://hanjoonshim.github.io/author/yonghwan-bae/</link>
+      <link>http://localhost:1313/author/yonghwan-bae/</link>
     </image>
     
     <item>
       <title>[Not Published]Analysis of Orbit Control System Using Aerodynamic Drag  for Propellant-less Rendezvous Mission of SNUGLITE-III CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202404/</link>
+      <link>http://localhost:1313/publication/dc_202404/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202404/</guid>
+      <guid>http://localhost:1313/publication/dc_202404/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development of Orbit Control System Using Aerodynamic Drag for Autonomous Formation Flying Mission of SNUGLITE-Ⅲ</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202403/</link>
+      <link>http://localhost:1313/publication/dc_202403/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202403/</guid>
+      <guid>http://localhost:1313/publication/dc_202403/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Critical Design of SNUGLITE-III Cube-satellite for Formation Flight Mission</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202402/</link>
+      <link>http://localhost:1313/publication/dc_202402/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202402/</guid>
+      <guid>http://localhost:1313/publication/dc_202402/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development of GPS Precise Relative Navigation System for Autonomous Rendezvous-Docking Mission of SNUGLITE-III CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202401/</link>
+      <link>http://localhost:1313/publication/dc_202401/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202401/</guid>
+      <guid>http://localhost:1313/publication/dc_202401/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,17 +122,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/ic_202401/</link>
+      <link>http://localhost:1313/publication/ic_202401/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ic_202401/</guid>
+      <guid>http://localhost:1313/publication/ic_202401/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Relative Motion after Inter-Satellite Separation for Formation Flying Mission of SNUGLITE-Ⅲ</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202307/</link>
+      <link>http://localhost:1313/publication/dc_202307/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202307/</guid>
+      <guid>http://localhost:1313/publication/dc_202307/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -157,9 +157,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Ground Experiments and Performance Analysis of SNUGLITE-Ⅲ Cube Satellite for GPS Attitude Determination</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202306/</link>
+      <link>http://localhost:1313/publication/dc_202306/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202306/</guid>
+      <guid>http://localhost:1313/publication/dc_202306/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -184,9 +184,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Verification Technique for the Single-Frequency RTK Relative Navigation Algorithm of SNUGLITE-III CubeSat Performing Autonomous Formation Flying</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202305/</link>
+      <link>http://localhost:1313/publication/dc_202305/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202305/</guid>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -211,25 +211,25 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
-      <link>https://hanjoonshim.github.io/publication/dj_202302/</link>
+      <link>http://localhost:1313/publication/dj_202302/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dj_202302/</guid>
+      <guid>http://localhost:1313/publication/dj_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/ic_202302/</link>
+      <link>http://localhost:1313/publication/ic_202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ic_202302/</guid>
+      <guid>http://localhost:1313/publication/ic_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Critical Design of Electrical Power Subsystem of SNUGLITE-III CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202304/</link>
+      <link>http://localhost:1313/publication/dc_202304/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202304/</guid>
+      <guid>http://localhost:1313/publication/dc_202304/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -254,9 +254,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Result of Satellite Telemetry Analysis of SNUGLITE-I CubeSat for 4 Years</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202303/</link>
+      <link>http://localhost:1313/publication/dc_202303/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202303/</guid>
+      <guid>http://localhost:1313/publication/dc_202303/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -281,9 +281,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Preliminary Design of Electrical Power Subsystem of SNUGLITE-III Cube Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202302/</link>
+      <link>http://localhost:1313/publication/dc_202302/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202302/</guid>
+      <guid>http://localhost:1313/publication/dc_202302/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -308,9 +308,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Preliminary Design of SNUGLITE-III Cube-satellite for Formation Flight based GPS Radio Occultation</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202301/</link>
+      <link>http://localhost:1313/publication/dc_202301/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202301/</guid>
+      <guid>http://localhost:1313/publication/dc_202301/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -335,25 +335,25 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/dj_202301/</link>
+      <link>http://localhost:1313/publication/dj_202301/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dj_202301/</guid>
+      <guid>http://localhost:1313/publication/dj_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>https://hanjoonshim.github.io/publication/ic_202301/</link>
+      <link>http://localhost:1313/publication/ic_202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ic_202301/</guid>
+      <guid>http://localhost:1313/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial Operation Result of SNUGLITE-II Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202201/</link>
+      <link>http://localhost:1313/publication/dc_202201/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202201/</guid>
+      <guid>http://localhost:1313/publication/dc_202201/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -378,9 +378,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Rendezvous Technology of SNU CubeSat (SNUGLITE-III) Using Only GPS Receivers</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202203/</link>
+      <link>http://localhost:1313/publication/dc_202203/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202203/</guid>
+      <guid>http://localhost:1313/publication/dc_202203/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -405,9 +405,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SNUGLITE-II Cubesat Ground Station Configuration and Ground Operation Test</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202202/</link>
+      <link>http://localhost:1313/publication/dc_202202/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202202/</guid>
+      <guid>http://localhost:1313/publication/dc_202202/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -432,9 +432,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Integer Ambiguity Estimation for SNUGLITE-II Cube Satellite GNSS-based Attitude Determination</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202006/</link>
+      <link>http://localhost:1313/publication/dc_202006/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202006/</guid>
+      <guid>http://localhost:1313/publication/dc_202006/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -459,9 +459,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Quaternion-based Optimal Controller Design for SNUGLITE-II Cube Satellite Attitude Control System</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202007/</link>
+      <link>http://localhost:1313/publication/dc_202007/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202007/</guid>
+      <guid>http://localhost:1313/publication/dc_202007/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -486,9 +486,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Centimeter-level Precision Smartphone Navigation Using RTK</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202005/</link>
+      <link>http://localhost:1313/publication/dc_202005/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202005/</guid>
+      <guid>http://localhost:1313/publication/dc_202005/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -513,9 +513,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Performance Analysis of GPS/GALLILEO-Based Attitude Determination for CubeSatellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202003/</link>
+      <link>http://localhost:1313/publication/dc_202003/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202003/</guid>
+      <guid>http://localhost:1313/publication/dc_202003/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -540,9 +540,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A Preliminary Design of SNUGLITE-II Cube-Satellite for 3D Atmospheric Remote Sensing with GPS Radio Occultation</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202001/</link>
+      <link>http://localhost:1313/publication/dc_202001/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202001/</guid>
+      <guid>http://localhost:1313/publication/dc_202001/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -567,9 +567,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Long-Tem Operational Results and Analysis of the SNUGLITE Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202002/</link>
+      <link>http://localhost:1313/publication/dc_202002/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202002/</guid>
+      <guid>http://localhost:1313/publication/dc_202002/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -594,25 +594,25 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/ij_202001/</link>
+      <link>http://localhost:1313/publication/ij_202001/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ij_202001/</guid>
+      <guid>http://localhost:1313/publication/ij_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Using a Cube Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/ic_202001/</link>
+      <link>http://localhost:1313/publication/ic_202001/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ic_202001/</guid>
+      <guid>http://localhost:1313/publication/ic_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of Helmholtz Cage for Verification of Attitude Determination and Control System SNUGLITE Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201905/</link>
+      <link>http://localhost:1313/publication/dc_201905/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201905/</guid>
+      <guid>http://localhost:1313/publication/dc_201905/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -637,9 +637,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Orbit Determination and Performance Analysis by Using Navigation Solution Received from SNUGLITE Cube Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201906/</link>
+      <link>http://localhost:1313/publication/dc_201906/</link>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201906/</guid>
+      <guid>http://localhost:1313/publication/dc_201906/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -664,9 +664,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Attitude Determination of Cube-Satellite using Multiple GPS Antennas</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201903/</link>
+      <link>http://localhost:1313/publication/dc_201903/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201903/</guid>
+      <guid>http://localhost:1313/publication/dc_201903/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -691,9 +691,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Analysis of On-board GPS Receiver Navigation Solutions for SNUGLITE Cubesat</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201901/</link>
+      <link>http://localhost:1313/publication/dc_201901/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201901/</guid>
+      <guid>http://localhost:1313/publication/dc_201901/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -718,9 +718,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development and Launch Preparation of SNUGLITE Cube-satellite Observing Space Weather and Earthquake using GNSS signals</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201803/</link>
+      <link>http://localhost:1313/publication/dc_201803/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201803/</guid>
+      <guid>http://localhost:1313/publication/dc_201803/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -745,9 +745,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SNUGLITE Cubesat Ground Station Communication and Control System Operation Test</title>
-      <link>https://hanjoonshim.github.io/publication/dc_201804/</link>
+      <link>http://localhost:1313/publication/dc_201804/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_201804/</guid>
+      <guid>http://localhost:1313/publication/dc_201804/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

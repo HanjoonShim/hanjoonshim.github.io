@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jinhee Han | Hanjoon Shim | 심한준</title>
-    <link>https://hanjoonshim.github.io/author/jinhee-han/</link>
-      <atom:link href="https://hanjoonshim.github.io/author/jinhee-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jinhee-han/</link>
+      <atom:link href="http://localhost:1313/author/jinhee-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinhee Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanjoonshim.github.io/media/icon_hu11317848045098793874.png</url>
+      <url>http://localhost:1313/media/icon_hu11317848045098793874.png</url>
       <title>Jinhee Han</title>
-      <link>https://hanjoonshim.github.io/author/jinhee-han/</link>
+      <link>http://localhost:1313/author/jinhee-han/</link>
     </image>
     
     <item>
       <title>Long-Tem Operational Results and Analysis of the SNUGLITE Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/dc_202002/</link>
+      <link>http://localhost:1313/publication/dc_202002/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/dc_202002/</guid>
+      <guid>http://localhost:1313/publication/dc_202002/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,17 +41,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/ij_202001/</link>
+      <link>http://localhost:1313/publication/ij_202001/</link>
       <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ij_202001/</guid>
+      <guid>http://localhost:1313/publication/ij_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Using a Cube Satellite</title>
-      <link>https://hanjoonshim.github.io/publication/ic_202001/</link>
+      <link>http://localhost:1313/publication/ic_202001/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoonshim.github.io/publication/ic_202001/</guid>
+      <guid>http://localhost:1313/publication/ic_202001/</guid>
       <description></description>
     </item>
     
