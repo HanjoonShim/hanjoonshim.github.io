@@ -3,7 +3,7 @@
 <!-- Last Published: October 16, 2024 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.2760dd4badab300d92fa0314c5beb250.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -285,8 +324,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/snuglite-ii/" />
-<link rel="canonical" href="http://localhost:1313/project/snuglite-ii/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/project/snuglite-ii/" />
+<link rel="canonical" href="https://hanjoon.com/project/snuglite-ii/" />
 
 
 
@@ -316,7 +355,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/project/snuglite-ii/featured.jpg" />
+<meta property="twitter:image" content="https://hanjoon.com/project/snuglite-ii/featured.jpg" />
 
 
 
@@ -324,11 +363,11 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/project/snuglite-ii/" />
+<meta property="og:url" content="https://hanjoon.com/project/snuglite-ii/" />
 <meta property="og:title" content="SNUGLITE-II (2019-2022) | Hanjoon Shim | 심한준" />
 <meta property="og:description" content="- 3U CubeSat mission (Launch: Jun 2022)
 - Funded by *Korea Aerospace Research Institute (KARI)* ($330,000 USD)
-- Finalist in the *2019 Korea CubeSat Competition*" /><meta property="og:image" content="http://localhost:1313/project/snuglite-ii/featured.jpg" /><meta property="og:locale" content="en-us" />
+- Finalist in the *2019 Korea CubeSat Competition*" /><meta property="og:image" content="https://hanjoon.com/project/snuglite-ii/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -361,12 +400,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/project/snuglite-ii/"
+    "@id": "https://hanjoon.com/project/snuglite-ii/"
   },
   "headline": "SNUGLITE-II (2019-2022)",
   
   "image": [
-    "http://localhost:1313/project/snuglite-ii/featured.jpg"
+    "https://hanjoon.com/project/snuglite-ii/featured.jpg"
   ],
   
   "datePublished": "2019-09-01T00:00:00Z",
@@ -382,7 +421,7 @@
     "name": "Hanjoon Shim",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu11814057332388922898.png"
+      "url": "https://hanjoon.com/media/icon_hu11814057332388922898.png"
     }
   },
   "description": "- 3U CubeSat mission (Launch: Jun 2022)\n- Funded by *Korea Aerospace Research Institute (KARI)* ($330,000 USD)\n- Finalist in the *2019 Korea CubeSat Competition*"
@@ -438,7 +477,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -804,10 +843,10 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 442px; max-height: 500px;">
   <div style="position: relative">
-    <img src="/project/snuglite-ii/featured_hu12413164227285696815.webp" width="720" height="480" alt="" class="featured-image">
-    <span class="article-header-caption">Embed rich media such as videos and LaTeX math</span>
+    <img src="/project/snuglite-ii/featured_hu7112692986484521647.webp" width="442" height="500" alt="" class="featured-image">
+    <span class="article-header-caption">SNUGLITE-II CubeSat</span>
   </div>
 </div>
 
@@ -818,20 +857,35 @@
     <div class="article-style">
       <!-------------------------------------------------------------------------------------->
 <h3 id="seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project">Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project</h3>
-<p>The SNUGLITE-I CubeSat was selected as a finalist in the &ldquo;2019 CubeSat Competition&rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 475 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results <a href="/publication/ij_202001/">here</a>.</p>
-<p>This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an <strong>Attitude Determination and Control System (ADCS)</strong> engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. <a href="/publication/ij_202302/">See related publication</a>.</p>
+<p>The SNUGLITE-II CubeSat was selected as a finalist in the &ldquo;2019 CubeSat Competition&rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 475 million KRW. The main mission was to develop a 2nd generation of dual-frequency L1/L2C GPS receiver which developed in <a href="/project/snuglite-i/">SNUGLITE-I CubeSat project</a>. 이것은 mm급의 반송파 측정치의 품질 향상과 소형화를 목표로 했다. 이를 활용하여 GPS Radio Occultation (RO)를 통해 3D 지구대기관측을 수행하는것이 임무이다. 기술임무로는 세계최초로 3U 큐브위성에 적용되는 GPS 단독 자세결정 시스템 개발, 그리고 독자적인 반작용휠 기반 자세제어 시스템 개발이다. SNUGLITE-II는 표준 3U 규격의 큐브위성으로, 대한민국 최초 실용위성 발사체인 누리호(KSLV-II)에 탑재된 성능검증위성의 P-POD 속에 탑재되어 2022년 6월 21일 발사되었다. SNUGLITE-II는 약 11일 간의 정상 동작 (시운전모드)를 거쳐 양방향 통신(UHF)를 통해 일부 임무데이터를 수신하였으나, 갑작스런 통신 두절이 발생하여 공식적인 운용을 종료하였다. For more details, refer to the paper on in-orbit results (in Korean) <a href="/publication/ij_202001/">here</a>.</p>
+<p>이 프로젝트는 2019년부터 2022년까지 수행되었으며, 저는 SNUGLITE 팀의 팀장으로써 2019 CubeSat Competition의 예비설계 단계부터 발사까지의 모든 과정을 주도하였다. Project Manager을 수행하면서도, attitude control system enginneer의 역할을 수행하였고, flight software 개발, hardware 설계, 그리고 assembly, integration, and test의 모든 일련의 과정을 주도적으로 진행하여 서브시스템을 맡아 기술개발도 진행하여 큐브위성 프로젝트를 통해 위성 개발의 모든 일련 과정을 배웠다.</p>
 <ul>
-<li><strong>Developed ADCS Algorithm</strong>
+<li><strong>Project Manager</strong>
 <ul>
-<li>EKF-based attitde determination system (Sun+Gyro+Mag)</li>
-<li>LQR-based attitude control system (magnetometer only)</li>
+<li>SNUGLITE 팀 리더로써 프로젝트 주도 리더쉽 발휘</li>
+<li>시스템설계, 예비설계, 상세설계, 시험준비상태 검토회의, 선적검토회의 등으 모든 마일스톤 회의를 맡음</li>
+<li>예산관리, 일정관리, 보고서, 시스템설계 진행</li>
+</ul>
+</li>
+<li><strong>Developed Attitute Control System (ACS) Algorithm</strong>
+<ul>
+<li>쿼터니언 기반의 자세제어 시스템 개발</li>
+<li>LQR-based attitude control system (반작용휠+자기토커)</li>
 <li>Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS</li>
 </ul>
 </li>
-<li><strong>Developed a HILS platform for ADCS</strong>
+<li><strong>Developed Flight Software</strong>
 <ul>
-<li>Single-axis ADCS HILS Verification</li>
-<li>Design and fabrication of the Helmholtz cage</li>
+<li>Real-time OS 기반 소프트웨어 개발 (FreeRTOS, Gomspace A3200 OBC)</li>
+<li>round-robin based scheduling (ADCS) program</li>
+<li>priority-based scheduling (CDH) program</li>
+</ul>
+</li>
+<li><strong>Assembly, Integration, and Test (AIT)</strong>
+<ul>
+<li>위성 조립의 모든 과정 수행</li>
+<li>서브시스템 시험 후 전체 소프트웨어 통합 진행 (센서 캘리브레이션 포함)</li>
+<li>발사체 진동시험 및 우주환경시험</li>
 </ul>
 </li>
 </ul>
@@ -839,10 +893,10 @@
 <!-------------------------------------------------------------------------------------->
 <h2 id="index"><strong>Index</strong></h2>
 <p><strong><a href="#1-snuglite-i-cubesat">1. SNUGLITE-II CubeSat</a></strong></br>
-   <a href="#11-system-configuration">1.1. SNUGLITE Team (2019)</a> </br>
-   <a href="#11-system-configuration">1.2. System Configuration</a> </br>
-   <a href="#12-operation-scenario">1.3. Operation Scenario</a> </br>
-<strong><a href="#2-attitude-determination-and-control-system-adcs">2. Attitude Determination and Control System (ADCS)</a></strong></br>
+   <a href="#11-snuglite-team-2019">1.1. SNUGLITE Team (2019)</a> </br>
+   <a href="#12-system-configuration">1.2. System Configuration</a> </br>
+   <a href="#13-operation-scenario">1.3. Operation Scenario</a> </br>
+<strong><a href="#2-attitude-control-system-acs">2. Attitude Control System (ADCS)</a></strong></br>
    <a href="#21-software-in-the-loop-simulation-sils">2.1. Overall Block Diagram</a> </br>
    <a href="#21-software-in-the-loop-simulation-sils">2.2. Software-In-the-Loop Simulation (SILS)</a> </br>
    <a href="#22-hardware-in-the-loop-simulation-hils">2.3. Processor-In-the-Loop Simulation (PILS)</a> </br>
@@ -851,15 +905,86 @@
    <a href="#21-software-in-the-loop-simulation-sils">3.1. Hardware Design (PCB)</a> </br>
    <a href="#21-software-in-the-loop-simulation-sils">3.2. Assembly and Integration</a> </br>
    <a href="#21-software-in-the-loop-simulation-sils">3.3. Environment Test</a> </br>
-<strong><a href="#3-operation-results">4. Operation Results</a></strong></br>
-   <a href="#41-cubesat-gps-l1l2c-receiver">4.1. Launch and Initial Operation</a> </br>
-   <a href="#31-cubesat-gps-l1l2c-receiver">4.2. CubeSat GPS L1/L2C Receiver</a> </br>
-   <a href="#32-adcs">4.3. ADCS</a> </br></p>
+<strong><a href="#4-operation-results">4. Operation Results</a></strong></br>
+   <a href="#41-launch-and-initial-operation">4.1. Launch and Initial Operation</a> </br>
+   <a href="#42-cubesat-gps-l1l2c-receiver">4.2. CubeSat GPS L1/L2C Receiver</a> </br>
+   <a href="#43-acs">4.3. ACS</a> </br></p>
 </br>
 <!-------------------------------------------------------------------------------------->
 <h2 id="1-snuglite-ii-cubesat"><strong>1. SNUGLITE-II CubeSat</strong></h2>
 <!-------------------------------------------------------------------------------------->
-<h3 id="11-system-configuration">1.1. System Configuration</h3>
+<h3 id="11-snuglite-team-2019">1.1. SNUGLITE Team (2019)</h3>
+<p><strong>Table. SNUGLITE Team Member and Role (2019)</strong></p>
+<p style="font-size: 0.8em;">
+<sup>1</sup> PM: Project Manager, 
+<sup>2</sup> SYS: Satellite System,
+<sup>3</sup> FSW: Flight Software,
+<sup>4</sup> ACS: Attitude Control System,
+<sup>5</sup> AIT: Assembly, Integration, and Test
+<sup>6</sup> EPS: Electrical Power System,
+<sup>7</sup> COM: Comuunication Sytstem,
+<sup>8</sup> GND: Ground Station,
+<sup>9</sup> STR: Structure System, 
+<sup>10</sup> THR: Thermal System,
+<sup>11</sup> PAY1: Payload1 (GPS Receiver),
+<sup>12</sup> PAY2: Payload2 (GPS Attitude Determination),
+<sup>13</sup> PAY3: Payload3 (Camera)
+<sup>14</sup> EOP: End of Project
+</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Name</th>
+          <th style="text-align: left">Role</th>
+          <th style="text-align: left">Participation Period</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><a href="/author/changdon-kee/">Changdon Kee</a></td>
+          <td style="text-align: left">Supervisor</td>
+          <td style="text-align: left">-</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/o-jong-kim/">O-Jong Kim</a></td>
+          <td style="text-align: left">Technical Adviser (SNUGLITE-I Team Leader)</td>
+          <td style="text-align: left">~&lsquo;20.8</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/kybeon-kwon/">Kybeom Kwon</a></td>
+          <td style="text-align: left">Adviser (Associate Professor)</td>
+          <td style="text-align: left">&lsquo;21.2~EOP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/hanjoon-shim/"><strong>Hanjoon Shim</strong></a></td>
+          <td style="text-align: left"><strong><sup>1</sup>PM, <sup>2</sup>SYS, <sup>3</sup>FSW, <sup>4</sup>ACS, <sup>5</sup>AIT, <sup>11</sup>PAY1</strong></td>
+          <td style="text-align: left"><strong>~EOP</strong></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/yonghwan-bae">Yonghwan Bae</a></td>
+          <td style="text-align: left"><sup>7</sup>COM, <sup>8</sup>GND, <sup>12</sup>PAY2</td>
+          <td style="text-align: left">~EOP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/hojoon-jeong">Hojoon Jeong</a></td>
+          <td style="text-align: left"><sup>5</sup>AIT, <sup>9</sup>STR, <sup>10</sup>THR</td>
+          <td style="text-align: left">~EOP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/jaeuk-park">Jaeuk Park</a></td>
+          <td style="text-align: left"><sup>6</sup>EPS, <sup>7</sup>COM, <sup>11</sup>PAY3</td>
+          <td style="text-align: left">~EOP</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><a href="/author/jikang-lee">Jikang Lee</a></td>
+          <td style="text-align: left"><sup>5</sup>AIT, <sup>9</sup>STR, <sup>10</sup>THR</td>
+          <td style="text-align: left">&lsquo;20.7~EOP</td>
+      </tr>
+  </tbody>
+</table>
+<br>
+<!-------------------------------------------------------------------------------------->
+<h3 id="12-system-configuration">1.2. System Configuration</h3>
 <p><strong>Table. System Configuration of the SNUGLITE-I CubeSat</strong> </br>
 <em>DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;</em>
 <em>UHF: ultra-high frequency</em></p>
@@ -873,48 +998,56 @@
   <tbody>
       <tr>
           <td style="text-align: left">Mass</td>
-          <td style="text-align: left">1.9 kg</td>
+          <td style="text-align: left">3.15 kg</td>
       </tr>
       <tr>
           <td style="text-align: left">Dimension</td>
-          <td style="text-align: left">100x100x227 mm (2U)</td>
+          <td style="text-align: left">100x100x340 mm (3U, undeployed)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">100x414x340 mm (deployed)</td>
       </tr>
       <tr>
           <td style="text-align: left">Orbit</td>
-          <td style="text-align: left">575 km, SSO</td>
+          <td style="text-align: left">700 km, SSO</td>
       </tr>
       <tr>
           <td style="text-align: left">Uplink</td>
-          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telecommand)</td>
+          <td style="text-align: left">VHF (145.9 MHz), AX.25, GMSK 9.6 kbps (telecommand)</td>
       </tr>
       <tr>
           <td style="text-align: left">Downink</td>
-          <td style="text-align: left">UHF (437.275MHz), AX.25, GMSK 9.6 kbps (telemetry)</td>
+          <td style="text-align: left">UHF (436.49 MHz), AX.25, GMSK 9.6 kbps (telemetry)</td>
       </tr>
       <tr>
           <td style="text-align: left"></td>
-          <td style="text-align: left">S-Band (2405MHz), DQPSK, 1 Mbps (mission data)</td>
+          <td style="text-align: left">S-Band (2405 MHz), DQPSK, 1 Mbps (mission data)</td>
       </tr>
       <tr>
           <td style="text-align: left">Payloads</td>
-          <td style="text-align: left">SNU L1/L2C GPS Receiver x2 (1st gen)</td>
+          <td style="text-align: left">SNU L1/L2C GPS Receiver x2 (2nd gen)</td>
       </tr>
       <tr>
           <td style="text-align: left"></td>
-          <td style="text-align: left">3-axis fluxgate magnetometer w/ deployable boom</td>
+          <td style="text-align: left">CubeSat GPS Attitude Determination Module (World 1st)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left">Commercial Camera (Gopro Hero8)</td>
       </tr>
       <tr>
           <td style="text-align: left">Actuators</td>
-          <td style="text-align: left">PCB-based magnetorquer x3</td>
+          <td style="text-align: left">Reaction wheel x3, Magnetorquer x3</td>
       </tr>
       <tr>
           <td style="text-align: left">Reference</td>
-          <td style="text-align: left">NORAD 43784, COSIPAR 2018-099AC, <a href="https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404" target="_blank" rel="noopener">SatNOGS</a>, <a href="https://space.skyrocket.de/doc_sdat/snuglite.htm" target="_blank" rel="noopener">Gunter&rsquo;s Space</a></td>
+          <td style="text-align: left">NORAD 52899, <a href="https://db.satnogs.org/satellite/YFNZ-9504-4902-9033-1722" target="_blank" rel="noopener">SatNOGS</a>, <a href="https://space.skyrocket.de/doc_sdat/snuglite-2.htm" target="_blank" rel="noopener">Gunter&rsquo;s Space</a></td>
       </tr>
   </tbody>
 </table>
 <!-------------------------------------------------------------------------------------->
-<h3 id="12-operation-scenario">1.2. Operation Scenario</h3>
+<h3 id="13-operation-scenario">1.3. Operation Scenario</h3>
 <p>
 
 
@@ -933,26 +1066,54 @@
 
 <figure  >
   <div class="d-flex justify-content-center">
-    <div class="w-100" ><img src="fig1.jpg" alt="Operation Scenario" loading="lazy" data-zoomable /></div>
+    <div class="w-100" ><img alt="Operation Scenario" srcset="
+               /project/snuglite-ii/fig1_hu16783839243042089944.webp 400w,
+               /project/snuglite-ii/fig1_hu9861889053648278921.webp 760w,
+               /project/snuglite-ii/fig1_hu4002929105692547801.webp 1200w"
+               src="/project/snuglite-ii/fig1_hu16783839243042089944.webp"
+               width="633"
+               height="400"
+               loading="lazy" data-zoomable /></div>
   </div></figure>
 </p>
-<p>The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite&rsquo;s nadir-pointing to collect data.</p>
-<!-------------------------------------------------------------------------------------->
-<h3 id="13-launch">1.3. Launch</h3>
-<p>On December 3, 2018, at 18:32:00+00:00 (UTC), SNUGLITE-I was launched as part of Spaceflight Industries&rsquo; SSO-A multi-satellite mission on a Falcon-9 v1.2 (Block 5) rocket.</p>
-<p><strong>Video</strong>:
-
-    
-        
-        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-          <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Wq8kS6UoOrQ?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-          ></iframe>
-        </div>
-</p>
+<p><strong>1) Intial Mode (~5days)</strong></p>
+<ul>
+<li>Flight software initialization</li>
+<li>VHF/UHF antenna deployment (60 seconds after ejection)</li>
+<li>Beacon transmission (every 20 seconds)</li>
+<li>Detumbling control and convergence check</li>
+<li>Solar panel deployment (automatic operation or ground station command after angular velocity converged)</li>
+</ul>
+<p><strong>2) Standby mode (1 week ~ end of operation)</strong></p>
+<ul>
+<li>Activate the GPS receiver</li>
+<li>Beacon transmission (every 10 seconds)</li>
+<li>Waiting for ground command</li>
+<li>Satellite commissioning and condition check</li>
+<li>Nadir pointing control</li>
+</ul>
+<p><strong>3) Mission mode (1 month ~ end of operation)</strong></p>
+<ul>
+<li>Collect GPS measurements</li>
+<li>Collect camera image</li>
+<li>Collect magnetometer, gyroscope, and sun sensor measurements</li>
+<li>Nadir pointing control</li>
+</ul>
+<p><strong>4) Communication mode (command  switching)</strong></p>
+<ul>
+<li>Transmission of mission data (S-Band, UHF)</li>
+<li>Ground station tracking control</li>
+</ul>
+<p><strong>5) Safe mode (command switching)</strong></p>
+<ul>
+<li>Beacon transmission (every 20 seconds)</li>
+<li>Angular velocity decay control</li>
+</ul>
+<p>SNUGLITE-II 큐브위성의 운용에서 수집된 데이터는 초기모드~대기모드에서 수행된 위성의 시운전 및 상태 점검 상황에서 수집된 것이다. 데이터는 시스템 운용 시나리오에 따라, 대기모드에서 단계적으로 지상국 명령을 통해 수집된 위성 상황 발생 기록, 연속 비콘 기록 데이터, 그리고 서울대 지상국과 해외 아마추어 지상국(SatNOGS)를 통해 수집된 비콘 데이터들로 구성된다.</p>
 </br>
 </br>
 <!-------------------------------------------------------------------------------------->
-<h2 id="2-attitude-determination-and-control-system-adcs"><strong>2. Attitude Determination and Control System (ADCS)</strong></h2>
+<h2 id="2-attitude-control-system-acs"><strong>2. Attitude Control System (ACS)</strong></h2>
 <p>Related to my Master’s thesis <a href="/publication/thesis_master/">here</a>.</p>
 <h3 id="21-software-in-the-loop-simulation-sils">2.1. Software-In-the-Loop Simulation (SILS)</h3>
 <h4 id="algorithm-design-developed-based-on-work-inherited-from-previous-graduates">Algorithm design: Developed based on work inherited from previous graduates</h4>
@@ -1048,12 +1209,30 @@
 </br>
 </br>
 <!-------------------------------------------------------------------------------------->
-<h2 id="3-operation-results"><strong>3. Operation Results</strong></h2>
-<h3 id="31-cubesat-gps-l1l2c-receiver">3.1. CubeSat GPS L1/L2C Receiver</h3>
+<h2 id="3-assembly-integration-and-test-ait"><strong>3. Assembly, Integration, and Test (AIT)</strong></h2>
+<h3 id="31-hardware-design-pcb">3.1. Hardware Design (PCB)</h3>
 <p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
+</br>
 <!-------------------------------------------------------------------------------------->
-<h3 id="32-adcs">3.2. ADCS</h3>
+<h3 id="32-assembly-and-integration">3.2. Assembly and Integration</h3>
 <p>After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.</p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h3 id="33-environment-test">3.3. Environment Test</h3>
+<p>After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.</p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h2 id="4-operation-results"><strong>4. Operation Results</strong></h2>
+<h3 id="41-launch-and-initial-operation">4.1. Launch and Initial Operation</h3>
+<p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h3 id="42-cubesat-gps-l1l2c-receiver">4.2. CubeSat GPS L1/L2C Receiver</h3>
+<p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
+</br>
+<!-------------------------------------------------------------------------------------->
+<h3 id="43-acs">4.3. ACS</h3>
+<p>Due to a failure in the communication module&rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.</p>
 </br>
 <p>For more details, refer to the paper on in-orbit results <a href="/publication/ij_202001/">here</a>.</p>
 </br>
@@ -1070,7 +1249,7 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tag/python/">Python</a>
+  <a class="badge badge-light" href="/tag/snuglite-ii/">SNUGLITE-II</a>
   
 </div>
 
@@ -1091,7 +1270,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F&amp;text=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F&amp;text=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1108,7 +1287,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F&amp;t=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F&amp;t=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1127,7 +1306,7 @@
         
       
       <li>
-        <a href="mailto:?subject=SNUGLITE-II%20%282019-2022%29&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=SNUGLITE-II%20%282019-2022%29&amp;body=https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1144,7 +1323,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F&amp;title=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F&amp;title=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1161,7 +1340,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=SNUGLITE-II&#43;%282019-2022%29%20http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=SNUGLITE-II&#43;%282019-2022%29%20https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1178,7 +1357,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fproject%2Fsnuglite-ii%2F&amp;title=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fhanjoon.com%2Fproject%2Fsnuglite-ii%2F&amp;title=SNUGLITE-II&#43;%282019-2022%29" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -2590,7 +2769,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.50933d940896e49f984a778650d5f7f5.js"></script>
 
 
 
@@ -2671,7 +2850,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
 
 
 
@@ -2685,11 +2864,11 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -2722,7 +2901,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
