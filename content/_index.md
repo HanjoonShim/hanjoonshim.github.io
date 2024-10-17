@@ -69,7 +69,7 @@ sections:
     content:
       title: Latest News
       text: ""
-      count: 5
+      count: 10
       filters:
         folders: 
           - post

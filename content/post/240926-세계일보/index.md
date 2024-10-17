@@ -1,7 +1,8 @@
 ---
 title: |-
-  Media Report on October 17, 2024
+  Media Report on October 17, 2024 - 서울대, 4차 누리호에 ‘3차원 대기 관측’ 큐브위성 태운다
 summary: |-
+  - **Title: SNU to Launch CubeSat for ‘3D Atmospheric Observation’ on 4th Nuri**
   - Source: 세계일보
   - Language: Korean
   - Tag: SNUGLITE-III
@@ -14,7 +15,7 @@ tags:
 - media
 - SNUGLITE-III
 
-featured: true
+featured: false
 
 ---
 

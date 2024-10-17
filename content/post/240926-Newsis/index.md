@@ -1,7 +1,8 @@
 ---
 title: |-
-  Media Report on October 17, 2024
+  Media Report on October 17, 2024 - 큐브위성 스누그라이트-3 소개하는 심한준 연구원
 summary: |-
+  - **Title: Researcher Hanjoon Shim introduces SNUGLITE-III CubeSat**
   - Source: Newsis; 뉴시스
   - Language: Korean
   - Tag: SNUGLITE-III
