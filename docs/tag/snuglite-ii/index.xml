@@ -240,35 +240,36 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <guid>https://hanjoon.com/project/snuglite-ii/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project&lt;/h3&gt;
-&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 475 million KRW. The main mission was to develop a 2nd generation of dual-frequency L1/L2C GPS receiver which developed in &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I CubeSat project&lt;/a&gt;. 이것은 mm급의 반송파 측정치의 품질 향상과 소형화를 목표로 했다. 이를 활용하여 GPS Radio Occultation (RO)를 통해 3D 지구대기관측을 수행하는것이 임무이다. 기술임무로는 세계최초로 3U 큐브위성에 적용되는 GPS 단독 자세결정 시스템 개발, 그리고 독자적인 반작용휠 기반 자세제어 시스템 개발이다. SNUGLITE-II는 표준 3U 규격의 큐브위성으로, 대한민국 최초 실용위성 발사체인 누리호(KSLV-II)에 탑재된 성능검증위성의 P-POD 속에 탑재되어 2022년 6월 21일 발사되었다. SNUGLITE-II는 약 11일 간의 정상 동작 (시운전모드)를 거쳐 양방향 통신(UHF)를 통해 일부 임무데이터를 수신하였으나, 갑작스런 통신 두절이 발생하여 공식적인 운용을 종료하였다. For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;이 프로젝트는 2019년부터 2022년까지 수행되었으며, 저는 SNUGLITE 팀의 팀장으로써 2019 CubeSat Competition의 예비설계 단계부터 발사까지의 모든 과정을 주도하였다. Project Manager을 수행하면서도, attitude control system enginneer의 역할을 수행하였고, flight software 개발, hardware 설계, 그리고 assembly, integration, and test의 모든 일련의 과정을 주도적으로 진행하여 서브시스템을 맡아 기술개발도 진행하여 큐브위성 프로젝트를 통해 위성 개발의 모든 일련 과정을 배웠다.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 475 million KRW. The primary mission was to develop the second generation of the dual-frequency L1/L2C GPS receiver, which was originally developed in the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I CubeSat project&lt;/a&gt;. The project aimed to improve the quality of millimeter-level carrier phase measurements and to miniaturize the receiver. Using this advanced GPS receiver, the mission included conducting 3D Earth atmospheric observations through GPS Radio Occultation (RO). Technological objectives included the world&amp;rsquo;s first stand-alone GPS-based attitude determination system implemented in a 3U CubeSat, as well as the development of an indigenous reaction wheel-based attitude control system.
+SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s first indigenous orbital launch vehicle, the Nuri (KSLV-II), as part of the performance verification satellite payload in a P-POD, on June 21, 2022. After &lt;em&gt;approximately 11 days of nominal operation in commissioning mode and receiving partial mission data via UHF bi-directional communication, a sudden loss of communication occurred&lt;/em&gt;, leading to the official end of the mission. For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project ran from 2019 to 2022, and I served as &lt;strong&gt;the team leader&lt;/strong&gt; of the SNUGLITE team, overseeing every stage from preliminary design during the 2019 CubeSat Competition to the satellite&amp;rsquo;s launch. In addition to my role as &lt;strong&gt;Project Manager&lt;/strong&gt;, I took on the responsibilities of &lt;strong&gt;Attitude Control System (ACS)&lt;/strong&gt; engineer, leading the development of the &lt;strong&gt;flight software&lt;/strong&gt;, &lt;strong&gt;hardware design&lt;/strong&gt;, and the &lt;strong&gt;assembly, integration, and test&lt;/strong&gt; processes. Through this CubeSat project, I gained hands-on experience in all stages of satellite development.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Manager&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;SNUGLITE 팀 리더로써 프로젝트 주도 리더쉽 발휘&lt;/li&gt;
-&lt;li&gt;시스템설계, 예비설계, 상세설계, 시험준비상태 검토회의, 선적검토회의 등으 모든 마일스톤 회의를 맡음&lt;/li&gt;
-&lt;li&gt;예산관리, 일정관리, 보고서, 시스템설계 진행&lt;/li&gt;
+&lt;li&gt;Led the SNUGLITE team with proactive leadership throughout the project&lt;/li&gt;
+&lt;li&gt;Organized and led all milestone meetings, including system design, preliminary design, detailed design, test readiness review, and shipment review&lt;/li&gt;
+&lt;li&gt;Managed budget, schedules, reports, and system design processes&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Developed Attitute Control System (ACS) Algorithm&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;쿼터니언 기반의 자세제어 시스템 개발&lt;/li&gt;
-&lt;li&gt;LQR-based attitude control system (반작용휠+자기토커)&lt;/li&gt;
+&lt;li&gt;Developed a quaternion-based attitude control system&lt;/li&gt;
+&lt;li&gt;Implemented an LQR-based attitude control system using reaction wheels and magnetic torquers&lt;/li&gt;
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Developed Flight Software&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Real-time OS 기반 소프트웨어 개발 (FreeRTOS, Gomspace A3200 OBC)&lt;/li&gt;
-&lt;li&gt;round-robin based scheduling (ADCS) program&lt;/li&gt;
-&lt;li&gt;priority-based scheduling (CDH) program&lt;/li&gt;
+&lt;li&gt;Developed software based on a real-time OS (FreeRTOS, Gomspace A3200 OBC)&lt;/li&gt;
+&lt;li&gt;Round-robin-based scheduling (ADCS) program&lt;/li&gt;
+&lt;li&gt;Priority-based scheduling (CDH) program&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Assembly, Integration, and Test (AIT)&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;위성 조립의 모든 과정 수행&lt;/li&gt;
-&lt;li&gt;서브시스템 시험 후 전체 소프트웨어 통합 진행 (센서 캘리브레이션 포함)&lt;/li&gt;
-&lt;li&gt;발사체 진동시험 및 우주환경시험&lt;/li&gt;
+&lt;li&gt;Performed all stages of satellite assembly&lt;/li&gt;
+&lt;li&gt;Led the integration of subsystems and completed software integration (including sensor calibration)&lt;/li&gt;
+&lt;li&gt;Conducted far-field tests, vibration tests for launch, and space environment testing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -279,11 +280,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
    &lt;a href=&#34;#11-snuglite-team-2019&#34;&gt;1.1. SNUGLITE Team (2019)&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-control-system-acs&#34;&gt;2. Attitude Control System (ADCS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#2-attitude-control-system-acs&#34;&gt;2. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
    &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.4. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.3. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
 &lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;3. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
    &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.1. Hardware Design (PCB)&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.2. Assembly and Integration&lt;/a&gt; &lt;/br&gt;
@@ -330,7 +330,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://hanjoon.com/author/o-jong-kim/&#34;&gt;O-Jong Kim&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Technical Adviser (SNUGLITE-I Team Leader)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Technical Adviser (Former Team Leader, 2018)&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;~&amp;lsquo;20.8&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -368,7 +368,40 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;12-system-configuration&#34;&gt;1.2. System Configuration&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Table. System Configuration of the SNUGLITE-I CubeSat&lt;/strong&gt; &lt;/br&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II CubeSat: Before and after deployment&#34; srcset=&#34;
+               /project/snuglite-ii/fig2_hu6523298949508132476.webp 400w,
+               /project/snuglite-ii/fig2_hu17663994641044758285.webp 760w,
+               /project/snuglite-ii/fig2_hu13546525313890480162.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig2_hu6523298949508132476.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;382&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. SNUGLITE-II CubeSat: Before and after deployment
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;The SNUGLITE-III CubeSat consists of two deployment systems that automatically deploy once angular velocity damping is completed. The overall system configuration and the components used are listed in the table below.&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Table. System Configuration of the SNUGLITE-II CubeSat&lt;/strong&gt; &lt;/br&gt;
 &lt;em&gt;DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;&lt;/em&gt;
 &lt;em&gt;UHF: ultra-high frequency&lt;/em&gt;&lt;/p&gt;
 &lt;table&gt;
@@ -413,7 +446,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;CubeSat GPS Attitude Determination Module (World 1st)&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CubeSat GPS Attitude Determination Module&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -429,6 +462,169 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Table. Parts List of the SNUGLITE-II CubeSat&lt;/strong&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Subsystem&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Part Name&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Manufacturer&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;STR&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS 3U Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Primary Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;COM&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;HISPICO Transmitter&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S-band TX&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IQ Spacecom&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;HISPICO Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S-band Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;IQ Spacecom&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS Dipole Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;UHF/VHF Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS Comm Module&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Communication Module&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ISIS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;OBC&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace DMC-3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Docking Board&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Nanomind A3200&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Onboard Computer&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;EPS&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;NanoPower P31u&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;EPS Board&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;NanoPower BP4&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Battery Pack&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;P110 Solar Panel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Solar Panel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Interstage GSSB&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Interstage Panels&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Gomspace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;ADCS&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cubewheel Small&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reaction Wheel&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cubespace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;CubeTorquer Small&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Magnetic Torquer Rod&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Cubespace&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Payload&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Samyang 8mm F3.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Camera Lens&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Samyang Optics&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GPS Patch Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GPS Antenna&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Matterwaves&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GoPro Hero 7 Black&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Camera Module&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GoPro&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SNU GPS Receiver&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;GPS Receiver x3&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;In-house&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Camera Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Camera Fixing Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;In-house&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S-Band Antenna Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Deploy Structure&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;In-house&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SNU Interface Board&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Storage, Connector, SPI&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;In-house&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The overall electrical interface is illustrated in the following figure. The electrical interface is primarily divided into two OBCs, which serve as the basis for the Command and Data Handling (CDH) and Attitude Determination and Control System (ADCS) modules. The CDH manages communication and overall satellite operations, while the ADCS OBC integrates the attitude control and GPS attitude determination modules.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Electrical Interface Diagram&#34; srcset=&#34;
+               /project/snuglite-ii/fig3_hu3938213967938024438.webp 400w,
+               /project/snuglite-ii/fig3_hu13157416975144336658.webp 760w,
+               /project/snuglite-ii/fig3_hu1586367071599043606.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig3_hu3938213967938024438.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;430&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/h3&gt;
 &lt;p&gt;
@@ -459,6 +655,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Operation Scenario
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;p&gt;&lt;strong&gt;1) Intial Mode (~5days)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Flight software initialization&lt;/li&gt;
@@ -492,19 +691,12 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;li&gt;Beacon transmission (every 20 seconds)&lt;/li&gt;
 &lt;li&gt;Angular velocity decay control&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;SNUGLITE-II 큐브위성의 운용에서 수집된 데이터는 초기모드~대기모드에서 수행된 위성의 시운전 및 상태 점검 상황에서 수집된 것이다. 데이터는 시스템 운용 시나리오에 따라, 대기모드에서 단계적으로 지상국 명령을 통해 수집된 위성 상황 발생 기록, 연속 비콘 기록 데이터, 그리고 서울대 지상국과 해외 아마추어 지상국(SatNOGS)를 통해 수집된 비콘 데이터들로 구성된다.&lt;/p&gt;
+&lt;p&gt;The data collected during the operation of the SNUGLITE-II CubeSat was gathered during the initial mode to standby mode, focusing on the satellite&amp;rsquo;s commissioning and status check. The data comprises records of satellite status occurrences collected through ground station commands in standby mode according to the system operation scenario, continuous beacon log data, and beacon data collected from the SNU ground station and overseas amateur ground stations (SatNOGS).&lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-control-system-acs&#34;&gt;&lt;strong&gt;2. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Related to my Master’s thesis &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
-&lt;h4 id=&#34;algorithm-design-developed-based-on-work-inherited-from-previous-graduates&#34;&gt;Algorithm design: Developed based on work inherited from previous graduates&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;SILS based on MATLAB&lt;/li&gt;
-&lt;li&gt;Attitude determination: Extended Kalman filter (combined with coarse sun sensor, magnetometer, and gyroscope)&lt;/li&gt;
-&lt;li&gt;Attitude control: LQR controller (magnetorquer only)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-i&#34;&gt;SNUGLITE-I&lt;/a&gt;. In SNUGLITE-II, the addition of a reaction wheel required the design of a precise attitude controller, which I led throughout the entire process. The design of the overall attitude control system is illustrated in the following figure.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -523,15 +715,62 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig2.jpg&#34; alt=&#34;Overall Block Diagram&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram of ADCS&#34; srcset=&#34;
+               /project/snuglite-ii/fig4_hu1706807801090141612.webp 400w,
+               /project/snuglite-ii/fig4_hu1760437008228634050.webp 760w,
+               /project/snuglite-ii/fig4_hu7994266372262222740.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig4_hu1706807801090141612.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;598&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Overall Block Diagram of ADCS
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;The development concept for creating the ACS is as follows. As the objective was demonstration, thorough validation was essential, which was achieved by systematically performing the traditional SILS-PILS-HILS verification stages. The programs utilized during this phase included MATLAB, Visual Studio, and Linux Eclipse. Related papers can be referenced &lt;a href=&#34;https://hanjoon.com/publication/dj_202301&#34;&gt;here&lt;/a&gt; (in Korean).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Design Concept of ADCS&#34; srcset=&#34;
+               /project/snuglite-ii/fig5_hu12999885782372458663.webp 400w,
+               /project/snuglite-ii/fig5_hu286005068353219095.webp 760w,
+               /project/snuglite-ii/fig5_hu17896671763028631965.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig5_hu12999885782372458663.webp&#34;
+               width=&#34;603&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Design Philosophy of ADCS
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SILS based on MATLAB&lt;/li&gt;
+&lt;li&gt;Attitude control: LQR controller (quaternion-based, reaction wheel and magnetorquer)&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
 
     
         
         &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BvxYcQGIri8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/0PIwyOxHvbQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
           &gt;&lt;/iframe&gt;
         &lt;/div&gt;
 
@@ -539,53 +778,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/h3&gt;
-&lt;h4 id=&#34;helmholtz-cage-design-and-assembly&#34;&gt;Helmholtz cage design and assembly&lt;/h4&gt;
+&lt;h4 id=&#34;single-axis-attitude-control-system-verificaton-not-published-yet-limited-informationpublicationij_202502&#34;&gt;Single-axis attitude control system verificaton &lt;a href=&#34;https://hanjoon.com/publication/ij_202502&#34;&gt;(Not Published Yet: Limited Information)&lt;/a&gt;&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;3-axis magnetic cotrol based classical control (PI controller, 50Hz)&lt;/li&gt;
-&lt;li&gt;Codevision based on Atemega 128, C language
-&lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;PILS: ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC)&lt;/li&gt;
+&lt;li&gt;Attitude determination: Extended Kalman filter (Sun+Magnetometer+Gyro)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: Reaction Wheel (In-house, EM), SNUGLITE-II (EM)
 
     
         
         &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/UxprlKqgqGU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-          &gt;&lt;/iframe&gt;
-        &lt;/div&gt;
-&lt;/p&gt;
-&lt;/br&gt;
-&lt;h4 id=&#34;single-axis-hils-verification-using-helmholtz-cage&#34;&gt;Single-axis HILS verification using Helmholtz cage&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig3.jpg&#34; alt=&#34;HILS Verification&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Video (50x Fast)&lt;/strong&gt;:
-
-    
-        
-        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/57kuwjo1NHc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gW9uifM1stU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
           &gt;&lt;/iframe&gt;
         &lt;/div&gt;
 &lt;/p&gt;
@@ -594,30 +797,298 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;3-assembly-integration-and-test-ait&#34;&gt;&lt;strong&gt;3. Assembly, Integration, and Test (AIT)&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;31-hardware-design-pcb&#34;&gt;3.1. Hardware Design (PCB)&lt;/h3&gt;
-&lt;p&gt;Due to a failure in the communication module&amp;rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All necessary interface boards for the satellite were designed and manufactured by &lt;strong&gt;Hanjoon Shim&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Components of SNUGLITE-II&#34; srcset=&#34;
+               /project/snuglite-ii/fig6_hu11305749370484111894.webp 400w,
+               /project/snuglite-ii/fig6_hu13065994435324744222.webp 760w,
+               /project/snuglite-ii/fig6_hu9452370702280858691.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig6_hu11305749370484111894.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;395&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Components of SNUGLITE-II
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;32-assembly-and-integration&#34;&gt;3.2. Assembly and Integration&lt;/h3&gt;
-&lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assembly: &lt;strong&gt;Hanjoon Shim&lt;/strong&gt;, Hojoon Jeong&lt;/li&gt;
+&lt;li&gt;Conducted all software tests associated with integration after assembly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: SNUGLITE-II (FM) Assembly
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/e7yEBUSffRc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;33-environment-test&#34;&gt;3.3. Environment Test&lt;/h3&gt;
-&lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Far-field test was conducted by hiking up Gwanak Mountain next to Seoul National University.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Far-field Test&#34; srcset=&#34;
+               /project/snuglite-ii/fig7_hu13543809020204755626.webp 400w,
+               /project/snuglite-ii/fig7_hu11031835938561512588.webp 760w,
+               /project/snuglite-ii/fig7_hu4901001149556851905.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig7_hu13543809020204755626.webp&#34;
+               width=&#34;450&#34;
+               height=&#34;600&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Far-field Test
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted vibration tests and thermal vacuum tests at the KTL Space Component Testing Center in Jinju.&lt;/li&gt;
+&lt;li&gt;The vibration test levels were less than 5g, indicating no significant structural issues.&lt;/li&gt;
+&lt;li&gt;The GPS receiver firmware required updates during the thermal vacuum test (cold failure).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II EVT&#34; srcset=&#34;
+               /project/snuglite-ii/fig8_hu4141530902346137142.webp 400w,
+               /project/snuglite-ii/fig8_hu16601052499586460068.webp 760w,
+               /project/snuglite-ii/fig8_hu16893694853920219811.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig8_hu4141530902346137142.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. SNUGLITE-II Thermal Vaccum Test
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: SNUGLITE-II (FM) EVT
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/afOmFAcKJaU?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;34-mass-property-test&#34;&gt;3.4. Mass Property Test&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mass property testing and installation of the P-POD within the PVSAT (Performance Verification Satellite) were conducted at the Korea Aerospace Research Institute.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: Mass Property Test (in Korean)
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/B8jkIAlyAAM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;4-operation-results&#34;&gt;&lt;strong&gt;4. Operation Results&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;41-launch-and-initial-operation&#34;&gt;4.1. Launch and Initial Operation&lt;/h3&gt;
-&lt;p&gt;Due to a failure in the communication module&amp;rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;On June 21, 2022, at approximately 16:00 (UTC+9), the SNUGLITE-II CubeSat was launched from the Naro Space Center in Goheung, South Korea, aboard the KSLV-II (Nuri) launch vehicle along with a performance verification satellite.&lt;/li&gt;
+&lt;li&gt;On July 3, at approximately 16:23, the CubeSat was ejected from the P-POD of the performance verification satellite and successfully reached a sun-synchronous orbit at an altitude of 700 km.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: KSLV-II Nuri Launch at Naro-Space Center in Korea
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aQdeC8jOxvo?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
 &lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: SNUGLITE-II CubeSat Ejection from PVSAT
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dA4ncYvF6eM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;Immediately after ejection, an attempt was made to receive the beacon signal from the SNUGLITE-II CubeSat at the ground station located in Building 302 at Seoul National University; however, there was an issue with the deployment of the VHF/UHF antenna.&lt;/li&gt;
+&lt;li&gt;The CubeSat responded to the antenna deployment command sent from the ground station, resulting in the successful deployment of the VHF/UHF antenna and normal reception of the beacon signal.&lt;/li&gt;
+&lt;li&gt;The CubeSat was ejected with a slow initial angular velocity, and angular velocity stabilization was completed within 1 hour and 30 minutes.&lt;/li&gt;
+&lt;li&gt;The GPS receiver operated successfully, and the system&amp;rsquo;s time synchronization, as well as position and velocity information, was received and synchronized correctly.&lt;/li&gt;
+&lt;li&gt;Subsequently, successful reception of state information recorded during three orbital cycles was achieved via low-speed UHF communication (9600 bps) through an average of four commands per day from the ground station.&lt;/li&gt;
+&lt;li&gt;The recorded state information allowed for an analysis of the normal operation of the satellite&amp;rsquo;s software and potential hardware defects.&lt;/li&gt;
+&lt;li&gt;Communication was lost after 12 days of operation.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;42-cubesat-gps-l1l2c-receiver&#34;&gt;4.2. CubeSat GPS L1/L2C Receiver&lt;/h3&gt;
-&lt;p&gt;Due to a failure in the communication module&amp;rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Normal operation was confirmed through the position, time, and velocity information received from the GPS receiver in the satellite beacon.&lt;/li&gt;
+&lt;li&gt;The GPS position measurement included in the data from SatNOGS, the SNU Ground Station, and satellite playback is shown below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position1&#34; srcset=&#34;
+               /project/snuglite-ii/fig9_hu5154668578604049635.webp 400w,
+               /project/snuglite-ii/fig9_hu16572612594675976394.webp 760w,
+               /project/snuglite-ii/fig9_hu17050012190188760728.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig9_hu5154668578604049635.webp&#34;
+               width=&#34;512&#34;
+               height=&#34;288&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. SNUGLITE-II GPS Receiver Position 
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position2&#34; srcset=&#34;
+               /project/snuglite-ii/fig10_hu16709398222492389820.webp 400w,
+               /project/snuglite-ii/fig10_hu4849238697893483685.webp 760w,
+               /project/snuglite-ii/fig10_hu9044396991758593107.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig10_hu16709398222492389820.webp&#34;
+               width=&#34;385&#34;
+               height=&#34;308&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. SNUGLITE-II GPS Receiver Position vs TLE
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;43-acs&#34;&gt;4.3. ACS&lt;/h3&gt;
-&lt;p&gt;Due to a failure in the communication module&amp;rsquo;s uplink, the primary mission of the SNUGLITE-I CubeSat could not be fully verified, resulting in a partial success. However, the GPS receiver development, the core mission of SNUGLITE-I, was successfully completed. The beacon transmits navigation information every 10 seconds, and this data has been used for orbit determination, successfully validating the GPS receiver.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Successful angular velocity stabilization and maintenance of Earth-pointing attitude using the magnetorquer were achieved.&lt;/li&gt;
+&lt;li&gt;The angular velocity recorded in the beacon is represented as a probability density distribution in the figure below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Angular Velocity&#34; srcset=&#34;
+               /project/snuglite-ii/fig11_hu11825325546763760686.webp 400w,
+               /project/snuglite-ii/fig11_hu10285481335785854482.webp 760w,
+               /project/snuglite-ii/fig11_hu9309249729578941177.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig11_hu11825325546763760686.webp&#34;
+               width=&#34;525&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. SNUGLITE-II Angular Velocity in-Orbit
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below-&#34;&gt;For more information, refer to the related publications below. :)&lt;/h1&gt;
