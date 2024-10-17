@@ -1,5 +1,5 @@
 ---
-title: SNUGLITE-III
+title: SNUGLITE-III (2022-)
 summary: |-
   - 6U(3U+3U) CubeSat mission (Launch: Nov 2025)
   - Funded by *Korea Aerospace Research Institute (KARI)* ($600,000 USD)

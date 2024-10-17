@@ -69,11 +69,11 @@ sections:
     content:
       title: Latest News
       text: ""
-      count: 10
+      count: 5
       filters:
         folders: 
-          - post
-        featured_only: true
+          - event
+        featured_only: false
         order: desc  # 최신 포스트를 우선 표시
     design:
       view: compact

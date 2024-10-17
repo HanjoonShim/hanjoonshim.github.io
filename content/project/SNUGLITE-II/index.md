@@ -95,7 +95,7 @@ This project ran from 2019 to 2022, and I served as **the team leader** of the S
 | Name                                      | Role                                          | Participation Period |
 |-------------------------------------------|-----------------------------------------------|-----------|
 | [Changdon Kee](/author/changdon-kee/)     | Supervisor                                    | -         |
-| [O-Jong Kim](/author/o-jong-kim/)         | Technical Adviser (Former Team Leader, 2018)  | ~'20.8    |
+| [O-Jong Kim](/author/o-jong-kim/)         | Technical Adviser (Former team leader, SNUGLITE-I) | ~'20.8    |
 | [Kybeom Kwon](/author/kybeon-kwon/)       | Adviser (Associate Professor)                 | '21.2~EOP |
 | [**Hanjoon Shim**](/author/hanjoon-shim/) | **<sup>1</sup>PM, <sup>2</sup>SYS, <sup>3</sup>FSW, <sup>4</sup>ACS, <sup>5</sup>AIT, <sup>11</sup>PAY1** | **~EOP** |
 | [Yonghwan Bae](/author/yonghwan-bae)      | <sup>7</sup>COM, <sup>8</sup>GND, <sup>12</sup>PAY2 | ~EOP |
