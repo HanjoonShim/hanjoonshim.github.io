@@ -131,7 +131,7 @@ sections:
           organization: Minister of Science and ICT, Republic of Korea
           organization_url: https://www.msit.go.kr/
 
-        - title: Director Award - 2022 Korea CubeSat Contest Finalist
+        - title: Certificate - 2022 Korea CubeSat Contest Finalist
           certificate_url: '/awards/2022_kari_cubesat.jpg'
           date_end: ''
           date_start: '2022-11-01'
@@ -149,7 +149,7 @@ sections:
           organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
           organization_url: https://ksas.or.kr/
 
-        - title: Director Award - 2019 Korea CubeSat Contest Finalist
+        - title: Certificate - 2019 Korea CubeSat Contest Finalist
           certificate_url: /awards/2020_kari_cubesat.jpg
           date_end: ''
           date_start: '2020-02-01'

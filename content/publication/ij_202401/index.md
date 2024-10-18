@@ -17,7 +17,7 @@ publishDate: "2024-08-12T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Navigation, 71 (3)*, navi.661"
+publication: "*NAVIGATION: Journal of the Institute of Navigation, 71 (3)*, navi.661"
 publication_short: ""
 
 abstract: This study addresses the practical challenges associated with real-time kinematic relative navigation for cube satellites (CubeSats) performing rendezvous missions in a low Earth orbit (LEO). Considering the limitations of CubeSats, we propose a method to achieve precise centimeter-level relative navigation using single-frequency Global Positioning System (GPS) measurements. By using GPS visibility and minimizing errors in the LEO, our approach eliminates the need for additional sensors. We employed range-domain differential GPS with a Hatch filter to enhance the pseudorange accuracy. Double-difference integer ambiguities were resolved epoch-by-epoch using the least-squares ambiguity decorrelation adjustment (LAMBDA) technique without filters, to ensure efficiency. The algorithm was applied to CubeSat hardware, integrating cycle-slip detection and CubeSat-tailored ground plane designs. Simulations validated the algorithm’s performance in LEO, and its real-world efficacy was evaluated through ground-based measurements in an open-sky environment. Considering hardware constraints, our method demonstrates the feasibility of achieving centimeter-level relative navigation for CubeSats, effectively and economically addressing a crucial need in autonomous space missions.
