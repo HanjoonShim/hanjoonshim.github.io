@@ -47,7 +47,7 @@ This project ran from 2019 to 2022, and I served as **the team leader** of the S
 
 ## **Index**
 
-**[1. SNUGLITE-II CubeSat](#1-snuglite-i-cubesat)**</br>
+**[1. SNUGLITE-II CubeSat](#1-snuglite-ii-cubesat)**</br>
 &nbsp;&nbsp;&nbsp;[1.1. SNUGLITE Team (2019)](#11-snuglite-team-2019) </br>
 &nbsp;&nbsp;&nbsp;[1.2. System Configuration](#12-system-configuration) </br>
 &nbsp;&nbsp;&nbsp;[1.3. Operation Scenario](#13-operation-scenario) </br>
