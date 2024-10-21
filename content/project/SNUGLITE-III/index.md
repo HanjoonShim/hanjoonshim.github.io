@@ -19,22 +19,15 @@ image:
 
 The SNUGLITE-III CubeSat was selected as a finalist in the "2022 CubeSat Competition" organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the [SNUGLITE-I](/project/snuglite-i/) and [SNUGLITE-II](/project/snuglite-ii/) missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University's GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.
 
-This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes.
+This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes. I was responsible for the following tasks. 
 
-
-
-이 프로젝트는 2022년부터 2026년까지 진행되는 것이 예정되어 있다. SNUGLITE-II 큐브위성 개발진이 대부분 참여하였으며, 나는 박사과정 학생으로 팀 리더에게 자문을 하면서 attitute control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test을 개발을 진행중이며 postdoctoral researcher으로써 SNUGLITE-II를 개발한 모든 경험을 기반으로 개발에 전념중이다. 
-
--	**GPS Relative Nagigation System (RN)**
-     - 세계최초 저궤도 위성용 realtime kinematic (RTK) relative navigation system 개발
+- **GPS Relative Nagigation System (RN)** [[Doctorial Dissertation]](/publication/thesis_phd/)
+     - *World's first* real-time kinematic (RTK) relative navigation system 
      - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS
--	**Developed Attitute Control System (ACS) Algorithm**
+- **Developed Attitute Control System (ACS) Algorithm**
      - Based on SNUGLITE-II ACS
      - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS
--	**Developed Attitute Control System (ACS) Algorithm**
-     - Based on SNUGLITE-II ACS
-     - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS
--	**Developed Flight Software**
+- **Developed Flight Software**
      - Developed software based on a real-time OS (FreeRTOS, Gomspace A3200 OBC)
      - Round-robin-based scheduling (ADCS) program
      - Priority-based scheduling (CDH) program
@@ -54,6 +47,7 @@ This project is set to run from 2022 to 2026. The development team includes memb
 &nbsp;&nbsp;&nbsp;[1.1. SNUGLITE Team (2022)](#11-snuglite-team-2022) </br>
 &nbsp;&nbsp;&nbsp;[1.2. System Configuration](#12-system-configuration) </br>
 &nbsp;&nbsp;&nbsp;[1.3. Operation Scenario](#13-operation-scenario) </br>
+**[2. GPS Relative Navigation System (RN)](#2-gps-relative-nagigation-system-rn)**</br>
 
 </br>
 
@@ -65,7 +59,7 @@ This project is set to run from 2022 to 2026. The development team includes memb
 
 ### 1.1. SNUGLITE Team (2022)
 
-**Table. SNUGLITE Team Member and Role (2022)**
+**Table. SNUGLITE Team Member and Role**
 <p style="font-size: 0.8em;">
 <sup>1</sup> RN: GPS Relative Navigation System, 
 <sup>2</sup> FSW: Flight Software,
@@ -90,10 +84,11 @@ This project is set to run from 2022 to 2026. The development team includes memb
 | [Changdon Kee](/author/changdon-kee/)      | Supervisor                                    | -         |
 | [**Hanjoon Shim**](/author/hanjoon-shim/)  | **Technical Adviser (Former team leader, SNUGLITE-II)** | **~Now** |
 |                                            | **<sup>1</sup>RN, <sup>2</sup>FSW, <sup>3</sup>ACS, <sup>4</sup>AIT, <sup>5</sup>OCS, <sup>15</sup>PAY2** |  |
-| [Yonghwan Bae](/author/yonghwan-bae)       | <sup>6</sup>PM, <sup>2</sup>FSW, <sup>4</sup>AIT, <sup>8</sup>ADS, <sup>10</sup>COM, <sup>11</sup>GND | ~EOP |
+| [Yonghwan Bae](/author/yonghwan-bae)       | Team Leader                                        | ~EOP |
+|                                            | <sup>6</sup>PM, <sup>2</sup>FSW, <sup>4</sup>AIT, <sup>8</sup>ADS, <sup>10</sup>COM, <sup>11</sup>GND |      |
 | [Hojoon Jeong](/author/hojoon-jeong)       | <sup>5</sup>AIT, <sup>9</sup>STR, <sup>14</sup>PAY1 | ~EOP |
 | [Jaeuk Park](/author/jaeuk-park)           | <sup>9</sup>EPS, <sup>10</sup>COM, <sup>11</sup>GND | ~EOP |
-| [Jae Woong Hwang](/author/jae-woong-hwang) | <sup>5</sup>OCS, <sup>11</sup>PAY1                  | ~EOP |
+| [Jae Woong Hwang](/author/jae-woong-hwang) | <sup>5</sup>OCS, <sup>11</sup>PAY1                  | ~Now |
 | [Seongjin Park](/author/jae-woong-hwang)   | <sup>11</sup>PAY2                                   | ~EOP |
 | [Jikang Lee](/author/jikang-lee)           | <sup>10</sup>THR                                    | ~'24.3 |
 
@@ -103,8 +98,62 @@ This project is set to run from 2022 to 2026. The development team includes memb
 
 ### 1.2. System Configuration
 
-![SNUGLITE-III CubeSat: Before and after seperation](fig2.jpg)
+![SNUGLITE-III CubeSat: Before and after seperation](fig1.jpg)
 
 <p style="text-align: center;"><strong>
 Fig. SNUGLITE-III CubeSat: Before and after seperation
+</strong></p></br>
+
+The SNUGLITE-III CubeSat consists of two 3U CubeSats that automatically seperate during the mission. The overall system configuration and the components used are listed in the table below.
+
+</br>
+
+**Table. System Configuration of the SNUGLITE-III CubeSat** </br>
+*DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;*
+*UHF: ultra-high frequency*
+| System     | Description         |
+|------------|---------------------|
+| Mass       | A: 3.1 kg           | 
+|            | B: 3.1 kg           | 
+| Dimension  | 100x100x340 mm (6U, Joint)               |
+|            | 100x414x340 mm (3U, Seperated)           |
+| Orbit      | 600 km, SSO                              |
+| Uplink     | UHF, AX.25, GMSK 9.6 kbps (telecommand)  |
+| Downink    | UHF, AX.25, GMSK 9.6 kbps (telemetry)    |
+|            | S-Band (2405 MHz), DQPSK, 1 Mbps (mission data)      |
+| Payloads   | SNU L1/L2C GPS Receiver x3 (3rd gen)                 |
+|            | Electro Magnetic Docking Device                      |
+|            | Inter-Satellite-Link (LoRa SX1262)                   |
+| Actuators  | Reaction wheel x3, Magnetorquer x3                   |
+| Reference  | - |
+
+</br>
+
+<!-------------------------------------------------------------------------------------->
+
+### 1.3. Operation Scenario
+
+![Operation Scenario](fig2.jpg)
+<p style="text-align: center;"><strong>
+Fig. Operation Scenario
+</strong></p></br>
+
+</br>
+</br>
+
+<!-------------------------------------------------------------------------------------->
+
+<!-------------------------------------------------------------------------------------->
+
+## **2. GPS Relative Nagigation System (RN)**
+
+![Concept of GPS Relative Navigation System](fig3.jpg)
+<p style="text-align: center;"><strong>
+Fig. Concept of GPS Relative Navigation System
+</strong></p></br>
+
+
+![Overall Block Diagram of RN](fig4.jpg)
+<p style="text-align: center;"><strong>
+Fig. Overall Block Diagram of RN
 </strong></p></br>

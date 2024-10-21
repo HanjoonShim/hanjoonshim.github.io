@@ -708,20 +708,12 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <description>&lt;h1 id=&#34;-under-construction-&#34;&gt;! Under Construction !&lt;/h1&gt;
 &lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-iii-project-ongoing&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-III Project (Ongoing)&lt;/h3&gt;
 &lt;p&gt;The SNUGLITE-III CubeSat was selected as a finalist in the &amp;ldquo;2022 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I&lt;/a&gt; and &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii/&#34;&gt;SNUGLITE-II&lt;/a&gt; missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University&amp;rsquo;s GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.&lt;/p&gt;
-&lt;p&gt;This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes.&lt;/p&gt;
-&lt;p&gt;이 프로젝트는 2022년부터 2026년까지 진행되는 것이 예정되어 있다. SNUGLITE-II 큐브위성 개발진이 대부분 참여하였으며, 나는 박사과정 학생으로 팀 리더에게 자문을 하면서 attitute control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test을 개발을 진행중이며 postdoctoral researcher으로써 SNUGLITE-II를 개발한 모든 경험을 기반으로 개발에 전념중이다.&lt;/p&gt;
+&lt;p&gt;This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes. I was responsible for the following tasks.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;세계최초 저궤도 위성용 realtime kinematic (RTK) relative navigation system 개발&lt;/li&gt;
-&lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Developed Attitute Control System (ACS) Algorithm&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Based on SNUGLITE-II ACS&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;World&amp;rsquo;s first&lt;/em&gt; real-time kinematic (RTK) relative navigation system&lt;/li&gt;
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -756,13 +748,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-iii-cubesat&#34;&gt;1. SNUGLITE-III CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
    &lt;a href=&#34;#11-snuglite-team-2022&#34;&gt;1.1. SNUGLITE Team (2022)&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-nagigation-system-rn&#34;&gt;2. GPS Relative Navigation System (RN)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-iii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-III CubeSat&lt;/strong&gt;&lt;/h2&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;11-snuglite-team-2022&#34;&gt;1.1. SNUGLITE Team (2022)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Table. SNUGLITE Team Member and Role (2022)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Table. SNUGLITE Team Member and Role&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&#34;font-size: 0.8em;&#34;&gt;
 &lt;sup&gt;1&lt;/sup&gt; RN: GPS Relative Navigation System, 
 &lt;sup&gt;2&lt;/sup&gt; FSW: Flight Software,
@@ -807,8 +800,13 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://hanjoon.com/author/yonghwan-bae&#34;&gt;Yonghwan Bae&lt;/a&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;PM, &lt;sup&gt;2&lt;/sup&gt;FSW, &lt;sup&gt;4&lt;/sup&gt;AIT, &lt;sup&gt;8&lt;/sup&gt;ADS, &lt;sup&gt;10&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;GND&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Team Leader&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;~EOP&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;sup&gt;6&lt;/sup&gt;PM, &lt;sup&gt;2&lt;/sup&gt;FSW, &lt;sup&gt;4&lt;/sup&gt;AIT, &lt;sup&gt;8&lt;/sup&gt;ADS, &lt;sup&gt;10&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;GND&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://hanjoon.com/author/hojoon-jeong&#34;&gt;Hojoon Jeong&lt;/a&gt;&lt;/td&gt;
@@ -823,7 +821,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Jae Woong Hwang&lt;/a&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;sup&gt;5&lt;/sup&gt;OCS, &lt;sup&gt;11&lt;/sup&gt;PAY1&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;~EOP&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;~Now&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Seongjin Park&lt;/a&gt;&lt;/td&gt;
@@ -858,12 +856,188 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;fig2.jpg&#34; alt=&#34;SNUGLITE-III CubeSat: Before and after seperation&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-III CubeSat: Before and after seperation&#34; srcset=&#34;
+               /project/snuglite-iii/fig1_hu10648598842197173457.webp 400w,
+               /project/snuglite-iii/fig1_hu3242483529218366971.webp 760w,
+               /project/snuglite-iii/fig1_hu14939884770755795530.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-iii/fig1_hu10648598842197173457.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-III CubeSat: Before and after seperation
-&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;</description>
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;The SNUGLITE-III CubeSat consists of two 3U CubeSats that automatically seperate during the mission. The overall system configuration and the components used are listed in the table below.&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;&lt;strong&gt;Table. System Configuration of the SNUGLITE-III CubeSat&lt;/strong&gt; &lt;/br&gt;
+&lt;em&gt;DQPSK: differential quadrature phase-shift keying; GMSK: Gaussian minimum shift keying;&lt;/em&gt;
+&lt;em&gt;UHF: ultra-high frequency&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;System&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Mass&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;A: 3.1 kg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;B: 3.1 kg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Dimension&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100x100x340 mm (6U, Joint)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;100x414x340 mm (3U, Seperated)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Orbit&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;600 km, SSO&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Uplink&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;UHF, AX.25, GMSK 9.6 kbps (telecommand)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Downink&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;UHF, AX.25, GMSK 9.6 kbps (telemetry)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;S-Band (2405 MHz), DQPSK, 1 Mbps (mission data)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Payloads&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;SNU L1/L2C GPS Receiver x3 (3rd gen)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Electro Magnetic Docking Device&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Inter-Satellite-Link (LoRa SX1262)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Actuators&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reaction wheel x3, Magnetorquer x3&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Reference&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario&#34; srcset=&#34;
+               /project/snuglite-iii/fig2_hu7630554725900034625.webp 400w,
+               /project/snuglite-iii/fig2_hu14569003965988957075.webp 760w,
+               /project/snuglite-iii/fig2_hu13859174795524999547.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-iii/fig2_hu7630554725900034625.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;381&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Operation Scenario
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;2-gps-relative-nagigation-system-rn&#34;&gt;&lt;strong&gt;2. GPS Relative Nagigation System (RN)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Concept of GPS Relative Navigation System&#34; srcset=&#34;
+               /project/snuglite-iii/fig3_hu13895426471807426044.webp 400w,
+               /project/snuglite-iii/fig3_hu15921156588633662754.webp 760w,
+               /project/snuglite-iii/fig3_hu4847857844083823051.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-iii/fig3_hu13895426471807426044.webp&#34;
+               width=&#34;569&#34;
+               height=&#34;400&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Concept of GPS Relative Navigation System
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram of RN&#34; srcset=&#34;
+               /project/snuglite-iii/fig4_hu9866126566213261292.webp 400w,
+               /project/snuglite-iii/fig4_hu7630838904778828690.webp 760w,
+               /project/snuglite-iii/fig4_hu10273386976024907932.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-iii/fig4_hu9866126566213261292.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
+Fig. Overall Block Diagram of RN
+&lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+</description>
     </item>
     
   </channel>

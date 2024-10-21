@@ -97,7 +97,8 @@ This project ran from 2019 to 2022, and I served as **the team leader** of the S
 | [Changdon Kee](/author/changdon-kee/)     | Supervisor                                    | -         |
 | [O-Jong Kim](/author/o-jong-kim/)         | Technical Adviser (Former team leader, SNUGLITE-I) | ~'20.8    |
 | [Kybeom Kwon](/author/kybeon-kwon/)       | Adviser (Associate Professor)                 | '21.2~EOP |
-| [**Hanjoon Shim**](/author/hanjoon-shim/) | **<sup>1</sup>PM, <sup>2</sup>SYS, <sup>3</sup>FSW, <sup>4</sup>ACS, <sup>5</sup>AIT, <sup>11</sup>PAY1** | **~EOP** |
+| [**Hanjoon Shim**](/author/hanjoon-shim/) | **Team Leader**                                   | **~EOP** |
+|                                           | **<sup>1</sup>PM, <sup>2</sup>SYS, <sup>3</sup>FSW, <sup>4</sup>ACS, <sup>5</sup>AIT, <sup>11</sup>PAY1** |   |
 | [Yonghwan Bae](/author/yonghwan-bae)      | <sup>7</sup>COM, <sup>8</sup>GND, <sup>12</sup>PAY2 | ~EOP |
 | [Hojoon Jeong](/author/hojoon-jeong)      | <sup>5</sup>AIT, <sup>9</sup>STR, <sup>10</sup>THR  | ~EOP |
 | [Jaeuk Park](/author/jaeuk-park)          | <sup>6</sup>EPS, <sup>7</sup>COM, <sup>11</sup>PAY3 | ~EOP |
@@ -131,7 +132,7 @@ The SNUGLITE-III CubeSat consists of two deployment systems that automatically d
 | Uplink     | VHF (145.9 MHz), AX.25, GMSK 9.6 kbps (telecommand)  |
 | Downink    | UHF (436.49 MHz), AX.25, GMSK 9.6 kbps (telemetry)   |
 |            | S-Band (2405 MHz), DQPSK, 1 Mbps (mission data)      |
-| Payloads   | SNU L1/L2C GPS Receiver x2 (2nd gen)                 |
+| Payloads   | SNU L1/L2C GPS Receiver x3 (2nd gen)                 |
 |            | CubeSat GPS Attitude Determination Module            |
 |            | Commercial Camera (Gopro Hero8)                      |
 | Actuators  | Reaction wheel x3, Magnetorquer x3                   |

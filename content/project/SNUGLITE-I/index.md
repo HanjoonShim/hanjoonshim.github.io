@@ -24,8 +24,8 @@ This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 
 -	**Developed ADCS Algorithm**
      - EKF-based attitde determination system (Sun+Gyro+Mag)
      - LQR-based attitude control system (magnetometer only)
-     - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS
--	**Developed a HILS platform for ADCS**
+     - Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS 
+-	**Developed a HILS platform for ADCS** [[Master's Thesis]](/publication/thesis_master/)
      - Single-axis ADCS HILS Verification
      - Design and fabrication of the Helmholtz cage
 
@@ -39,7 +39,7 @@ This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 
 &nbsp;&nbsp;&nbsp;[1.1. System Configuration](#11-system-configuration) </br>
 &nbsp;&nbsp;&nbsp;[1.2. Operation Scenario](#12-operation-scenario) </br>
 &nbsp;&nbsp;&nbsp;[1.3. Launch](#13-launch) </br>
-**[2. Attitude Determination and Control System (ADCS)](#2-attitude-determination-and-control-system-adcs)**</br>
+**[2. Attitude Determination and Control System (ADCS)](#2-attitude-determination-and-control-system-adcs)** </br> 
 &nbsp;&nbsp;&nbsp;[2.1. Software-In-the-Loop Simulation (SILS)](#21-software-in-the-loop-simulation-sils) </br>
 &nbsp;&nbsp;&nbsp;[2.2. Hardware-In-the-Loop Simulation (HILS)](#22-hardware-in-the-loop-simulation-hils) </br>
 **[3. Operation Results](#3-operation-results)**</br>
