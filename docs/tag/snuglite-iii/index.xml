@@ -396,6 +396,32 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Media Report on Mar 13, 2024</title>
+      <link>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <description>&lt;h2 id=&#34;대한민국-우주산업-클러스터-출범행사httpswwwpresidentgokrnewsroomphoto_newsww65s2ax&#34;&gt;&lt;a href=&#34;https://www.president.go.kr/newsroom/photo_news/ww65s2Ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;대한민국 우주산업 클러스터 출범행사&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: Launching Ceremony of the Republic of Korea Space Industry Cluster&lt;/li&gt;
+&lt;li&gt;Source: 대한민국 대통령실 (Office of the President of the Republic of Korea)&lt;/li&gt;
+&lt;li&gt;Language: Korean&lt;/li&gt;
+&lt;li&gt;Invited to an event hosted by the Ministry of Science and ICT, Republic of Korea&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+
+    
+        
+        &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qJtjWuwdOuQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+          &gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+
+&lt;/br&gt;&lt;/p&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat</title>
       <link>https://hanjoon.com/publication/ic_202401/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
@@ -749,7 +775,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
    &lt;a href=&#34;#11-snuglite-team-2022&#34;&gt;1.1. SNUGLITE Team (2022)&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
    &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-nagigation-system-rn&#34;&gt;2. GPS Relative Navigation System (RN)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-nagigation-rn-system&#34;&gt;2. GPS Relative Navigation System (RN)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#3-attitude-control-system-acs&#34;&gt;3. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#4-assembly-integration-and-test-ait&#34;&gt;4. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-iii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-III CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -973,8 +1001,9 @@ Fig. Operation Scenario
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
-&lt;!--------------------------------------------------------------------------------------&gt;
-&lt;h2 id=&#34;2-gps-relative-nagigation-system-rn&#34;&gt;&lt;strong&gt;2. GPS Relative Nagigation System (RN)&lt;/strong&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-gps-relative-nagigation-rn-system&#34;&gt;&lt;strong&gt;2. GPS Relative Nagigation (RN) System&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The GPS relative navigation (RN) system was developed based on the experience from the &lt;a href=&#34;https://hanjoon.com/project/kardsat&#34;&gt;KARDSAT&lt;/a&gt;.  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt; and the published representative paper &lt;a href=&#34;https://hanjoon.com/publication/ij_202401/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The concept of the GPS RN system is shown in the figure below. Orbit propagation serves as a backup in case of inter-satellite link failures.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1006,6 +1035,11 @@ Fig. Operation Scenario
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Concept of GPS Relative Navigation System
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;Carrier-phase-based relative navigation system (cm-level accuracy)&lt;/li&gt;
+&lt;li&gt;Highly efficient RTK algorithm using the LAMBDA technique (reduced computation load for CubeSat platform)&lt;/li&gt;
+&lt;li&gt;Handles intermittent communication and failures in the inter-satellite link using an orbital propagation module&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;
 
 
@@ -1037,6 +1071,19 @@ Fig. Concept of GPS Relative Navigation System
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of RN
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;3-attitude-control-system-acs&#34;&gt;&lt;strong&gt;3. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii&#34;&gt;SNUGLITE-II&lt;/a&gt;. In SNUGLITE-III, an attitude control is utilized for orbital control.&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;4-assembly-integration-and-test-ait&#34;&gt;&lt;strong&gt;4. Assembly, Integration, and Test (AIT)&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;will be updated.&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
 </description>
     </item>
     

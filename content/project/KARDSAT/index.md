@@ -136,4 +136,4 @@ The video below shows the results from the MATLAB data handling module during th
 
 <!-------------------------------------------------------------------------------------->
 
- # For more information, refer to the related publications below. :)
+ # For more information, refer to the related publications below.

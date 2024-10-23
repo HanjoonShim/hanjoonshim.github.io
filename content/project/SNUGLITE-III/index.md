@@ -47,7 +47,9 @@ This project is set to run from 2022 to 2026. The development team includes memb
 &nbsp;&nbsp;&nbsp;[1.1. SNUGLITE Team (2022)](#11-snuglite-team-2022) </br>
 &nbsp;&nbsp;&nbsp;[1.2. System Configuration](#12-system-configuration) </br>
 &nbsp;&nbsp;&nbsp;[1.3. Operation Scenario](#13-operation-scenario) </br>
-**[2. GPS Relative Navigation System (RN)](#2-gps-relative-nagigation-system-rn)**</br>
+**[2. GPS Relative Navigation System (RN)](#2-gps-relative-nagigation-rn-system)**</br>
+**[3. Attitude Control System (ACS)](#3-attitude-control-system-acs)**</br>
+**[4. Assembly, Integration, and Test (AIT)](#4-assembly-integration-and-test-ait)**</br>
 
 </br>
 
@@ -143,17 +145,46 @@ Fig. Operation Scenario
 
 <!-------------------------------------------------------------------------------------->
 
-<!-------------------------------------------------------------------------------------->
+## **2. GPS Relative Nagigation (RN) System**
 
-## **2. GPS Relative Nagigation System (RN)**
+The GPS relative navigation (RN) system was developed based on the experience from the [KARDSAT](/project/kardsat).  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my [[Doctorial Dissertation]](/publication/thesis_phd/) and the published representative paper [here](/publication/ij_202401/).
+
+The concept of the GPS RN system is shown in the figure below. Orbit propagation serves as a backup in case of inter-satellite link failures.
 
 ![Concept of GPS Relative Navigation System](fig3.jpg)
 <p style="text-align: center;"><strong>
 Fig. Concept of GPS Relative Navigation System
 </strong></p></br>
 
+ - Carrier-phase-based relative navigation system (cm-level accuracy)
+ - Highly efficient RTK algorithm using the LAMBDA technique (reduced computation load for CubeSat platform)
+ - Handles intermittent communication and failures in the inter-satellite link using an orbital propagation module
 
 ![Overall Block Diagram of RN](fig4.jpg)
 <p style="text-align: center;"><strong>
 Fig. Overall Block Diagram of RN
 </strong></p></br>
+
+</br>
+
+<!-------------------------------------------------------------------------------------->
+
+## **3. Attitude Control System (ACS)**
+
+The attitude control system was developed based on the experience from [SNUGLITE-II](/project/snuglite-ii). In SNUGLITE-III, an attitude control is utilized for orbital control.
+
+
+
+</br>
+</br>
+<!-------------------------------------------------------------------------------------->
+
+## **4. Assembly, Integration, and Test (AIT)** 
+
+will be updated.
+
+</br>
+</br>
+<!-------------------------------------------------------------------------------------->
+
+ # For more information, refer to the related publications below.

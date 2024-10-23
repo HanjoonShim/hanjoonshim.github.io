@@ -380,4 +380,4 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 
 <!-------------------------------------------------------------------------------------->
 
- # For more information, refer to the related publications below. :)
+ # For more information, refer to the related publications below.

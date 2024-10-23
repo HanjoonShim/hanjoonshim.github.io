@@ -3,7 +3,7 @@ title: |-
   Media Report on Sep 4, 2022
 
 summary: |-
-  - Title: Their passion launched into Nuri
+  - **Title: Their passion launched into Nuri**
   - Source: 대학신문
   - Language: Korean
   - Tag: SNUGLITE-II
