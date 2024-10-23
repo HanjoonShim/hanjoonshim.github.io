@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Hanjoon Shim | 심한준</title>
-    <link>https://hanjoon.com/publication-type/paper-conference/</link>
-      <atom:link href="https://hanjoon.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanjoon.com/media/icon_hu7702362406093051998.png</url>
+      <url>http://localhost:1313/media/icon_hu7702362406093051998.png</url>
       <title>Paper-Conference</title>
-      <link>https://hanjoon.com/publication-type/paper-conference/</link>
+      <link>http://localhost:1313/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat</title>
-      <link>https://hanjoon.com/publication/ic_202401/</link>
+      <link>http://localhost:1313/publication/ic_202401/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/publication/ic_202401/</guid>
+      <guid>http://localhost:1313/publication/ic_202401/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>https://hanjoon.com/publication/ic_202302/</link>
+      <link>http://localhost:1313/publication/ic_202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/publication/ic_202302/</guid>
+      <guid>http://localhost:1313/publication/ic_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>https://hanjoon.com/publication/ic_202301/</link>
+      <link>http://localhost:1313/publication/ic_202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/publication/ic_202301/</guid>
+      <guid>http://localhost:1313/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Using a Cube Satellite</title>
-      <link>https://hanjoon.com/publication/ic_202001/</link>
+      <link>http://localhost:1313/publication/ic_202001/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/publication/ic_202001/</guid>
+      <guid>http://localhost:1313/publication/ic_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and Verification of Attitude Determination and Control Algorithm for SNUGLITE Cube Satellite</title>
-      <link>https://hanjoon.com/publication/ic_201801/</link>
+      <link>http://localhost:1313/publication/ic_201801/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/publication/ic_201801/</guid>
+      <guid>http://localhost:1313/publication/ic_201801/</guid>
       <description></description>
     </item>
     

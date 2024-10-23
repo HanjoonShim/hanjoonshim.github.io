@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Hanjoon Shim | 심한준</title>
-    <link>https://hanjoon.com/event/</link>
-      <atom:link href="https://hanjoon.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/event/</link>
+      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hanjoon.com/media/icon_hu7702362406093051998.png</url>
+      <url>http://localhost:1313/media/icon_hu7702362406093051998.png</url>
       <title>News</title>
-      <link>https://hanjoon.com/event/</link>
+      <link>http://localhost:1313/event/</link>
     </image>
     
     <item>
       <title>Personal Homepage Released Test</title>
-      <link>https://hanjoon.com/event/241015-release/</link>
+      <link>http://localhost:1313/event/241015-release/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/241015-release/</guid>
+      <guid>http://localhost:1313/event/241015-release/</guid>
       <description>&lt;p&gt;Congraturations Personal Homepage Opened!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Media Report on Sep 26, 2024</title>
-      <link>https://hanjoon.com/event/240926/</link>
+      <link>http://localhost:1313/event/240926/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240926/</guid>
+      <guid>http://localhost:1313/event/240926/</guid>
       <description>&lt;h2 id=&#34;1-큐브위성-스누그라이트-3-소개하는-심한준-연구원httpswwwnewsiscomviewnisi20240926_0020534523&#34;&gt;1) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;큐브위성 스누그라이트-3 소개하는 심한준 연구원&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Researcher Hanjoon Shim introduces SNUGLITE-III CubeSat&lt;/li&gt;
@@ -61,7 +61,7 @@
                /event/240926/fig2_hu13049737355516337889.webp 400w,
                /event/240926/fig2_hu7664610224174616292.webp 760w,
                /event/240926/fig2_hu10963470994626738684.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig2_hu13049737355516337889.webp&#34;
+               src=&#34;http://localhost:1313/event/240926/fig2_hu13049737355516337889.webp&#34;
                width=&#34;720&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,7 +96,7 @@
                /event/240926/fig3_hu4314079997547259648.webp 400w,
                /event/240926/fig3_hu15938613725731880485.webp 760w,
                /event/240926/fig3_hu2109960482887124149.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig3_hu4314079997547259648.webp&#34;
+               src=&#34;http://localhost:1313/event/240926/fig3_hu4314079997547259648.webp&#34;
                width=&#34;720&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -131,7 +131,7 @@
                /event/240926/fig4_hu2506766925686672638.webp 400w,
                /event/240926/fig4_hu4118594164363574251.webp 760w,
                /event/240926/fig4_hu2280865524424700370.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig4_hu2506766925686672638.webp&#34;
+               src=&#34;http://localhost:1313/event/240926/fig4_hu2506766925686672638.webp&#34;
                width=&#34;720&#34;
                height=&#34;525&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -165,7 +165,7 @@
                /event/240926/fig5_hu6667134304254332310.webp 400w,
                /event/240926/fig5_hu10637640127617923601.webp 760w,
                /event/240926/fig5_hu13941829846586480988.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig5_hu6667134304254332310.webp&#34;
+               src=&#34;http://localhost:1313/event/240926/fig5_hu6667134304254332310.webp&#34;
                width=&#34;719&#34;
                height=&#34;487&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -200,7 +200,7 @@
                /event/240926/fig6_hu11257890768525540646.webp 400w,
                /event/240926/fig6_hu11777512957826088237.webp 760w,
                /event/240926/fig6_hu10461025558212400499.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig6_hu11257890768525540646.webp&#34;
+               src=&#34;http://localhost:1313/event/240926/fig6_hu11257890768525540646.webp&#34;
                width=&#34;662&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -244,9 +244,9 @@
     
     <item>
       <title>Media Report on Mar 13, 2024</title>
-      <link>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <link>http://localhost:1313/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <guid>http://localhost:1313/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
       <description>&lt;h2 id=&#34;대한민국-우주산업-클러스터-출범행사httpswwwpresidentgokrnewsroomphoto_newsww65s2ax&#34;&gt;&lt;a href=&#34;https://www.president.go.kr/newsroom/photo_news/ww65s2Ax&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;대한민국 우주산업 클러스터 출범행사&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Launching Ceremony of the Republic of Korea Space Industry Cluster&lt;/li&gt;
@@ -270,9 +270,9 @@
     
     <item>
       <title>Media Report on Feb 21, 2023</title>
-      <link>https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <link>http://localhost:1313/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <guid>http://localhost:1313/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
       <description>&lt;h2 id=&#34;뉴스페이스-시대-우주경제-개척자와의-대화httpswwwpresidentgokrnewsroomphoto_newshab1brjk&#34;&gt;&lt;a href=&#34;https://www.president.go.kr/newsroom/photo_news/Hab1bRJk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;뉴스페이스 시대 우주경제 개척자와의 대화&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: A conversation with a space economy pioneer in the Newspace era (Invited Event)&lt;/li&gt;
@@ -302,7 +302,7 @@
                /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu17957205176360913206.webp 400w,
                /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu15763382470633645471.webp 760w,
                /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu8337266469251308843.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu17957205176360913206.webp&#34;
+               src=&#34;http://localhost:1313/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu17957205176360913206.webp&#34;
                width=&#34;760&#34;
                height=&#34;481&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -356,9 +356,9 @@
     
     <item>
       <title>Media Report on Sep 23, 2022</title>
-      <link>https://hanjoon.com/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
+      <link>http://localhost:1313/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>http://localhost:1313/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;작지만-강한-큐브위성-뜬다-세계시장-발맞춰-기술력-강화해야httpswwwdongacomnewsarticleall202209231155909621&#34;&gt;&lt;a href=&#34;https://www.donga.com/news/article/all/20220923/115590962/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;작지만 강한 ‘큐브위성’ 뜬다… “세계시장 발맞춰 기술력 강화해야”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Small but strong ‘cube satellite’ is emerging… “Technical capabilities must be strengthened to keep pace with the global market”&lt;/li&gt;
@@ -370,9 +370,9 @@
     
     <item>
       <title>Media Report on Sep 4, 2022</title>
-      <link>https://hanjoon.com/event/220904-snu/</link>
+      <link>http://localhost:1313/event/220904-snu/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220904-snu/</guid>
+      <guid>http://localhost:1313/event/220904-snu/</guid>
       <description>&lt;h2 id=&#34;누리호에-쏘아-올린-그들의-열정httpswwwsnunewscomnewsarticleviewhtmlidxno30937&#34;&gt;&lt;a href=&#34;https://www.snunews.com/news/articleView.html?idxno=30937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호에 쏘아 올린 그들의 열정&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Their passion launched into Nuri&lt;/li&gt;
@@ -384,9 +384,9 @@
     
     <item>
       <title>Media Report on Sep 1, 2022</title>
-      <link>https://hanjoon.com/event/220901-snu/</link>
+      <link>http://localhost:1313/event/220901-snu/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220901-snu/</guid>
+      <guid>http://localhost:1313/event/220901-snu/</guid>
       <description>&lt;h2 id=&#34;a-small-dream-launched-into-spacehttpspeoplesnuackrbbsboardphpbo_table69_enscainterviewwr_id3&#34;&gt;&lt;a href=&#34;https://people.snu.ac.kr/bbs/board.php?bo_table=69_en&amp;amp;sca=Interview&amp;amp;wr_id=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Small Dream Launched Into Space&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Source: SNU People (Seoul National University Magazine), 2022 vol. 69&lt;/li&gt;
@@ -402,9 +402,9 @@
     
     <item>
       <title>Media Report on Aug 1, 2022</title>
-      <link>https://hanjoon.com/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
+      <link>http://localhost:1313/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
+      <guid>http://localhost:1313/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
       <description>&lt;h2 id=&#34;미완의-성공에도-우리-도전은-멈추지-않는다-서울대-snuglite-팀httpswwwsedailycomnewsview269mmuhbfm&#34;&gt;&lt;a href=&#34;https://www.sedaily.com/NewsView/269MMUHBFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;미완의 성공에도 우리 도전은 멈추지 않는다&amp;rsquo; 서울대 SNUGLITE 팀&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: &amp;lsquo;Our challenge does not stop despite unfinished success&amp;rsquo; Seoul National University SNUGLITE Team&lt;/li&gt;
@@ -416,9 +416,9 @@
     
     <item>
       <title>Media Report on Jul 27, 2022</title>
-      <link>https://hanjoon.com/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>http://localhost:1313/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>http://localhost:1313/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;교육이-미래다-우리-세대가-만들어갈-우주-강국-대한민국-기대httpswwwjoongangcokrarticle25089955&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25089955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[교육이 미래다] &amp;ldquo;우리 세대가 만들어갈 우주 강국 대한민국 기대&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: [Education is the Future] &amp;ldquo;Expecting Korea to become a space powerhouse that our generation will create&amp;rdquo;&lt;/li&gt;
@@ -430,9 +430,9 @@
     
     <item>
       <title>Media Report on Jul 06, 2022</title>
-      <link>https://hanjoon.com/event/220706-hellodd/</link>
+      <link>http://localhost:1313/event/220706-hellodd/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220706-hellodd/</guid>
+      <guid>http://localhost:1313/event/220706-hellodd/</guid>
       <description>&lt;h2 id=&#34;윤석열-대통령-우주경제시대-열어가자httpswwwhelloddcomnewsarticleviewhtmlidxno97450&#34;&gt;&lt;a href=&#34;https://www.hellodd.com/news/articleView.html?idxno=97450&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;윤석열 대통령 &amp;ldquo;우주경제시대 열어가자&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: President Yoon, &amp;ldquo;Let&amp;rsquo;s Open the Space Economy Era (Invited Event)&lt;/li&gt;
@@ -445,9 +445,9 @@
     
     <item>
       <title>Media Report on Jul 3, 2022</title>
-      <link>https://hanjoon.com/event/220703-karitv/</link>
+      <link>http://localhost:1313/event/220703-karitv/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220703-karitv/</guid>
+      <guid>http://localhost:1313/event/220703-karitv/</guid>
       <description>&lt;h2 id=&#34;누리호-성능검증위성-세-번째-큐브위성-사출-성공서울대-snuglite-httpsyoutubeda4ncyvf6emsirftlmdcmqwo2lwbt&#34;&gt;&lt;a href=&#34;https://youtu.be/dA4ncYvF6eM?si=RFTlMdCMqWO2LWbT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 성능검증위성, 세 번째 큐브위성 사출 성공(서울대 SNUGLITE-Ⅱ)&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: PVSAT Ejected SNUGLITE-II CubeSat Succesfully&lt;/li&gt;
@@ -469,9 +469,9 @@
     
     <item>
       <title>Media Report on Jun 23, 2022</title>
-      <link>https://hanjoon.com/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>http://localhost:1313/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>http://localhost:1313/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;3년-걸려-큐브위성-만든-학생들-우리-기술-누리호-성공-뿌듯httpswwwjoongangcokrarticle25089955&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25089955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3년 걸려 큐브위성 만든 학생들 “우리 기술 누리호 성공 뿌듯”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Students who built CubeSat after 3 years: “We are proud of our technology’s success with Nuriho”&lt;/li&gt;
@@ -483,12 +483,12 @@
     
     <item>
       <title>Media Report on May 27, 2022</title>
-      <link>https://hanjoon.com/event/220527-jtbc/</link>
+      <link>http://localhost:1313/event/220527-jtbc/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220527-jtbc/</guid>
+      <guid>http://localhost:1313/event/220527-jtbc/</guid>
       <description>&lt;h2 id=&#34;누리호-위성-속에는국과대표-우주-총정리httpsnewsjtbccokrarticlearticleaspxnews_idnb12060503&#34;&gt;&lt;a href=&#34;https://news.jtbc.co.kr/article/article.aspx?news_id=NB12060503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 위성 속에는…&amp;lsquo;국과대표&amp;rsquo; 우주 총정리&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Title: Inside the Nuriho satellite… ‘국과대표’ space summary&lt;/li&gt;
+&lt;li&gt;Title: Inside the Nuriho satellite… &amp;lsquo;국과대표&amp;rsquo; space summary&lt;/li&gt;
 &lt;li&gt;Source: JTBC&lt;/li&gt;
 &lt;li&gt;Language: Korean&lt;/li&gt;
 &lt;/ul&gt;
@@ -497,9 +497,9 @@
     
     <item>
       <title>Media Report on Apr 15, 2022</title>
-      <link>https://hanjoon.com/event/220415-karitv/</link>
+      <link>http://localhost:1313/event/220415-karitv/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220415-karitv/</guid>
+      <guid>http://localhost:1313/event/220415-karitv/</guid>
       <description>&lt;h2 id=&#34;우리-위성을-우리-발사체로-우리-땅에서-쏜다-6월-누리호-2차-발사-탑재위성-공개httpsyoutubeb8jkialyaamsirxrpf18n3el7x6nn&#34;&gt;&lt;a href=&#34;https://youtu.be/B8jkIAlyAAM?si=RXrpF18n3El7X6Nn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;우리 위성을 우리 발사체로 우리 땅에서 쏜다! 6월 누리호 2차 발사 탑재위성 공개&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Launching our satellite from our land with our own launch vehicle! The satellite on board the second launch of Nuri in June has been revealed!&lt;/li&gt;
