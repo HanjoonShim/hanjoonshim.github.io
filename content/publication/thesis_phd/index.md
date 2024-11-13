@@ -4,11 +4,11 @@
 title: "Precise GPS Relative Navigation for CubeSat Rendezvous"
 authors:
 - admin
-date: "2024-08-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-01T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://snu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=82SNU_INST51953490020002591&vid=82SNU&search_scope=ALL&tab=all&lang=ko_KR&context=L'
 url_video: ''
 
 # Featured image

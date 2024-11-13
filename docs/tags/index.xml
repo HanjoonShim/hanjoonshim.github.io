@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tags/</link>
-      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/tags/</link>
+      <atom:link href="https://hanjoon.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7702362406093051998.png</url>
+      <url>https://hanjoon.com/media/icon_hu7702362406093051998.png</url>
       <title>Tags</title>
-      <link>http://localhost:1313/tags/</link>
+      <link>https://hanjoon.com/tags/</link>
     </image>
     
   </channel>

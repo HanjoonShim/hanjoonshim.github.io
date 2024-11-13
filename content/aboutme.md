@@ -103,6 +103,16 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
+        - title: Best Paper Seleted – 2023 KSAS Spring Conference (Co-author)
+          certificate_url: '' #static /awards
+          date_end: ''
+          date_start: '2024-11-13'
+          description: ''
+          icon: ksas
+          organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
+          organization_url: https://ksas.or.kr/
+          url: ''
+
         - title: Best Paper Seleted – 2022 KSAS Fall Conference
           certificate_url: '/awards/2023_ksas.jpg' #static /awards
           date_end: ''

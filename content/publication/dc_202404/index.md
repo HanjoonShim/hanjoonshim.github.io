@@ -1,7 +1,7 @@
 ---
 
 #-------------------------------------------------------------
-title: "[Not Published]Analysis of Orbit Control System Using Aerodynamic Drag  for Propellant-less Rendezvous Mission of SNUGLITE-III CubeSat"
+title: "Analysis of Orbit Control System Using Aerodynamic Drag for Propellant-less Rendezvous Mission of SNUGLITE-III CubeSat"
 authors:
 - Jae Woong Hwang
 - admin
@@ -21,7 +21,7 @@ publication_types: ["domestic-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: |-
-    *Proceedings of the 2nd Space Symposium of the Korean Society for Aeronautical and Space Sciences (KSAS)*, Changwon, Korea, June 2024, pp. XXX-XXX
+    *Proceedings of the 2nd Space Symposium of the Korean Society for Aeronautical and Space Sciences (KSAS)*, Changwon, Korea, June 2024
 publication_short: ""
 
 abstract:

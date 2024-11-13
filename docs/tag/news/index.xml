@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tag/news/</link>
-      <atom:link href="http://localhost:1313/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/tag/news/</link>
+      <atom:link href="https://hanjoon.com/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7702362406093051998.png</url>
+      <url>https://hanjoon.com/media/icon_hu7702362406093051998.png</url>
       <title>News</title>
-      <link>http://localhost:1313/tag/news/</link>
+      <link>https://hanjoon.com/tag/news/</link>
     </image>
     
     <item>
       <title>Personal Homepage Released Test</title>
-      <link>http://localhost:1313/event/241015-release/</link>
+      <link>https://hanjoon.com/event/241015-release/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/241015-release/</guid>
+      <guid>https://hanjoon.com/event/241015-release/</guid>
       <description>&lt;p&gt;Congraturations Personal Homepage Opened!&lt;/p&gt;
 </description>
     </item>

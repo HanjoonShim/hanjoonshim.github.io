@@ -16,16 +16,16 @@ sections:
       text: |-
         </br>
 
-        _Last Update: 2024-08-08_
+        _Last Update: 2024-11-13_
 
         | Category                           | First Author | Co-author |  Total |
         |------------------------------------|:------------:|:---------:|:------:|
         | [Journal (SCIE/SCOPUS)](#id-ij)    |      3       |     2     |  **5** |        
-        | [International Conference](#id-ic) |      2       |     3     |  **5** |
-        | [Domestic Journal](#id-dj)         |      3       |     1     |  **4** |
-        | [Domestic Conference](#id-dc)      |     14       |    22     | **36** |
+        | [International Conference](#id-ic) |      4       |     6     | **10** |
+        | [Domestic Journal](#id-dj)         |      3       |     2     |  **5** |
+        | [Domestic Conference](#id-dc)      |     15       |    23     | **38** |
         | [Thesis](#id-thesis)               |
-        | **Overall Total**                  |   **22**     |  **28**   | **50** |
+        | **Overall Total**                  |   **25**     |  **33**   | **58** |
       
 #---------------------------------------------------------------------------------
 
