@@ -22,8 +22,7 @@ publication_types: ["domestic-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: |-
-    *Proceedings of the 2024 Spring Conference of the Korean Society for Aeronautical and Space Sciences (KSAS)*, Jeju, Korea, April 2024, pp. 774-775.
-    <span style="background-color: red; font-weight: bold; color: white;">&nbsp;Best&nbsp;Paper&nbsp;Presentation&nbsp;</span>
+    *Proceedings of the 2024 Spring Conference of the Korean Society for Aeronautical and Space Sciences (KSAS)*, Jeju, Korea, April 2024, pp. 774-775
 publication_short: ""
 
 abstract:
