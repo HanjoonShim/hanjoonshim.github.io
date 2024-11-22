@@ -103,15 +103,19 @@ sections:
       date_format: Jan 2006
       # Accomplishments.
       items:
-        - title: Best Paper Seleted – 2023 KSAS Spring Conference (Co-author)
-          certificate_url: '' #static /awards
+        - title: Best Paper Seleted – 2024 KSAS Spring Conference (Co-author)
+          certificate_url: '/awards/2024_ksas.jpg' #static /awards
           date_end: ''
           date_start: '2024-11-13'
           description: ''
           icon: ksas
           organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
           organization_url: https://ksas.or.kr/
-          url: ''
+          description: |-
+            Y. Bae, **H. Shim**, J. Hwang, H. Jeong, J. Lee, C. Kee (2024). 
+            <a href="/publication/dc_202402/">"Critical Design of SNUGLITE-III Cube-satellite for Formation Flight Mission"</a>.
+            Proceedings of the 2024 Spring Conference of the Korean Society for Aeronautical and Space Sciences (KSAS), Jeju, Korea, April 2024, pp. 609-610.
+            
 
         - title: Best Paper Seleted – 2022 KSAS Fall Conference
           certificate_url: '/awards/2023_ksas.jpg' #static /awards
@@ -121,7 +125,10 @@ sections:
           icon: ksas
           organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
           organization_url: https://ksas.or.kr/
-          url: 'https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11531094&language=ko_KR&hasTopBanner=true'
+          description: |-
+            **H. Shim**, et al. (2023).
+            <a href="/publication/dj_202302/">"Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements"</a>.
+            Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 51, Issue 10, pp. 721-731.
 
         - title: Best Presentation Award – ION GNSS+ 2023
           certificate_url: '/awards/2023_ion.jpg' #static /awards
@@ -131,6 +138,10 @@ sections:
           icon: ion
           organization: The Institute of Navigation (ION), USA
           organization_url: https://www.ion.org/
+          description: |-
+            **H. Shim**, et al. (2023).
+            <a href="/publication/ic_202302/">"Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat"</a>.
+            Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2023), Denver, Colorado, September 2023, pp. 1474-1486.
 
         - title: Minister Award - 2019 Korea CubeSat Contest
           certificate_url: '/awards/2022_kor_cubesat.jpg' #static /awards
@@ -158,6 +169,11 @@ sections:
           icon: ksas
           organization: The Korean Society for Aeronautical and Space Sciences (KSAS), Korea
           organization_url: https://ksas.or.kr/
+          url: '/publication/dc_202102/'
+          description: |-
+            **H. Shim** and C. Kee. (2021).
+            <a href="/publication/dc_202102/">"HILS Verification of SNUGLITE-II Cube-Satellite Attitude Control System Equipped with Reaction Wheel and Magnetorquer"</a>.
+            Proceedings of the 2021 Fall Conference of the Korean Society for Aeronautical and Space Sciences (KSAS), Jeju, Korea, November 2022, pp. 321-322.
 
         - title: Certificate - 2019 Korea CubeSat Contest Finalist
           certificate_url: /awards/2020_kari_cubesat.jpg
