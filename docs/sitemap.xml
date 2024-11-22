@@ -126,6 +126,14 @@
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://hanjoon.com/tag/blog/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/event/240705-research/</loc>
+    <lastmod>2024-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://hanjoon.com/publication/dc_202404/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,6 +172,10 @@
   </url><url>
     <loc>https://hanjoon.com/publication/ic_202401/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/event/231208-research/</loc>
+    <lastmod>2023-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanjoon.com/publication/dc_202307/</loc>
