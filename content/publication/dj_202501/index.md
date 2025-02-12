@@ -7,11 +7,11 @@ authors:
 - admin
 - Yonghwan Bae
 - kee
-date: "2024-12-01T00:00:00Z"
-doi: "​"
+date: "2025-01-01T00:00:00Z"
+doi: "https://doi.org/10.5139/JKSAS.2025.53.1.77​"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-01T00:00:00Z"
+publishDate: "2025-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,7 +20,7 @@ publication_types: ["domestic-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: |-
-    *Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 52*, Issue 12, pp. XXX-XXX. [Accepted]
+    *Journal of the Korean Society for Aeronautical & Space Sciences, Vol. 53*, Issue 1, pp. 77-89.
 publication_short: ""
 
 abstract: 

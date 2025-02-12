@@ -2,19 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hanjoon.com/publication/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <loc>https://hanjoon.com/publication/dj_202501/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanjoon.com/authors/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/author/bu-gyeom-kim/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanjoon.com/author/changdon-kee/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/publication-type/domestic-journal/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/author/hanjoon-shim/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/author/jae-woong-hwang/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/publication_types/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/publication/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/tag/snuglite-iii/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/tags/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/author/yonghwan-bae/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://hanjoon.com/author/bu-gyeom-kim/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -30,31 +62,7 @@
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://hanjoon.com/author/hanjoon-shim/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/author/jae-woong-hwang/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://hanjoon.com/author/jaegang-kim/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/publication_types/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/tag/snuglite-iii/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/tags/</loc>
-    <lastmod>2024-11-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/author/yonghwan-bae/</loc>
     <lastmod>2024-11-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -191,10 +199,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://hanjoon.com/author/cheol-hea-koo/</loc>
-    <lastmod>2023-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://hanjoon.com/publication-type/domestic-journal/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

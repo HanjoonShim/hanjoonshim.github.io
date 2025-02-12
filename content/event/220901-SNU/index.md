@@ -20,11 +20,11 @@ featured: true
 
 ---
 
-## [A Small Dream Launched Into Space](https://people.snu.ac.kr/bbs/board.php?bo_table=69_en&sca=Interview&wr_id=3)
+## [A Small Dream Launched Into Space](https://people.snu.ac.kr/en/69/3)
 - Source: SNU People (Seoul National University Magazine), 2022 vol. 69
 - Language: English
 
-## [우주에 쏘아올린 작은 꿈](https://people.snu.ac.kr/bbs/board.php?bo_table=69&sca=%EB%8C%80%ED%99%94%EC%9D%98+%EA%B8%B8&wr_id=4)
+## [우주에 쏘아올린 작은 꿈](https://people.snu.ac.kr/69/4)
 - Source: 서울대 사람들 (서울대학교 매거진), 2022 vol. 69
 - Language: Korean
 
