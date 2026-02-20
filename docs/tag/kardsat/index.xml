@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KARDSAT | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/tag/kardsat/</link>
+      <atom:link href="http://localhost:1313/tag/kardsat/index.xml" rel="self" type="application/rss+xml" />
+    <description>KARDSAT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>KARDSAT</title>
+      <link>http://localhost:1313/tag/kardsat/</link>
+    </image>
+    
+    <item>
+      <title>Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers</title>
+      <link>http://localhost:1313/publication/ij_202301/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202301/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
+      <link>http://localhost:1313/publication/dj_202001/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Differential GPS Relative Navigation System Implementation and Verification of KARDSAT Cube-Satllites for Autonomous Rendezvous and Docking Missions</title>
+      <link>http://localhost:1313/publication/dc_202004/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202004/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative Navigation for Autonomous Rendezvous and Docking of Nano-Satellite Based on DGPS</title>
+      <link>http://localhost:1313/publication/dc_201904/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201904/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>(2019-2020) KARDSAT</title>
+      <link>http://localhost:1313/project/kardsat/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/kardsat/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;KARDSAT CubeSat&#34; srcset=&#34;
+               /project/kardsat/title_hu_812a92b720ad08f4.webp 400w,
+               /project/kardsat/title_hu_5511ee6a02eb6e85.webp 760w,
+               /project/kardsat/title_hu_b08a75a52225d1f4.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/title_hu_812a92b720ad08f4.webp&#34;
+               width=&#34;670&#34;
+               height=&#34;502&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
+  &lt;div class=&#34;card-body&#34;&gt;
+    &lt;h5 class=&#34;card-title&#34;&gt;
+      GPS Relative Navigation Project for KARI Rendezvous&amp;Docking SATellite (KARDSAT) CubeSat 
+    &lt;/h5&gt;
+    &lt;dl class=&#34;row mb-3&#34;&gt;
+      &lt;dt class=&#34;col-sm-3&#34;&gt;Participation&lt;/dt&gt;
+      &lt;dd class=&#34;col-sm-9&#34;&gt;2019–2022&lt;/dd&gt;
+      &lt;dt class=&#34;col-sm-3&#34;&gt;Role&lt;/dt&gt;
+      &lt;dd class=&#34;col-sm-9&#34;&gt;Project Manager, Navigation Engineer&lt;/dd&gt;
+    &lt;/dl&gt;
+    &lt;ul&gt;
+      &lt;li&gt;3U+6U CubeSat mission (Launch canceled)&lt;/li&gt;
+      &lt;li&gt;Funded by Korea Aerospace Research Institute (KARI) ($75,000 USD)&lt;/li&gt;
+      &lt;li&gt;Commissioned to develop a GPS-based relative navigation system&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available &lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. &lt;a href=&#34;http://localhost:1313/publication/ij_202301/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Managed all tasks related to project oversight, including proposal writing, presentation preparation, and report generation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Developed a real-time single-frequency GPS-based relative navigation system&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed a Deci-meter level spacecraft DGPS navigation system (GPS L1 only).&lt;/li&gt;
+&lt;li&gt;Conducted SILS (Matlab) and PILS (Linux-gcc, C)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-kardsat-cubesat&#34;&gt;1. KARDSAT CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
+&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-navigation-system&#34;&gt;2. GPS Relative Navigation System&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
+   &lt;a href=&#34;#21-overall-block-diagram&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
+   &lt;a href=&#34;#23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;1-kardsat-cubesat&#34;&gt;&lt;strong&gt;1. KARDSAT CubeSat&lt;/strong&gt;&lt;/h2&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;11-system-configuration&#34;&gt;1.1. System Configuration&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Table. System Configuration of the KARDSAT CubeSat&lt;/strong&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;System&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Mass&lt;/td&gt;
+          &lt;td&gt;Chaser 6U: 12 kg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;Target 3U: 5 kg&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dimension&lt;/td&gt;
+          &lt;td&gt;200x100x340.5 mm (6U)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;100x100x340.5 mm (3U)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Orbit&lt;/td&gt;
+          &lt;td&gt;700 km, SSO&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Link&lt;/td&gt;
+          &lt;td&gt;UHF (Uplink, Downlink)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;S-Band (Uplink, Downlink)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Actuators&lt;/td&gt;
+          &lt;td&gt;6-DOF Thruster, Reaction Wheel, Magnetorquer&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Reference&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report on National R&amp;amp;D&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario of KARDSAT&#34; srcset=&#34;
+               /project/kardsat/fig1_hu_cbb76b0e3c305aaa.webp 400w,
+               /project/kardsat/fig1_hu_b19ed894e8137a2d.webp 760w,
+               /project/kardsat/fig1_hu_9ebb51a449275ab7.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig1_hu_cbb76b0e3c305aaa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;405&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test Schedule&#34; srcset=&#34;
+               /project/kardsat/fig2_hu_15836144f3b686ed.webp 400w,
+               /project/kardsat/fig2_hu_aedd9a0842b13d7d.webp 760w,
+               /project/kardsat/fig2_hu_4b33d40838818526.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig2_hu_15836144f3b686ed.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;541&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;The Chaser is equipped with thrusters for orbital control, visual sensors for shape recognition and attitude estimation of the Target, and a docking device for demonstration purposes. The Target features an LED marker to facilitate the Chaser&amp;rsquo;s attitude estimation and a drag device for deorbiting after mission completion. Upon deployment from the P-POD, the two satellites will gradually drift apart due to orbital perturbations, estimated to reach a distance of approximately 500 km within three days until they establish communication for orbital control. After the first contact, the Chaser will perform orbital maneuvers to approach the Target, controlled by commands from the ground station until they are about 2 km apart. Within this range, relative navigation and control will bring them closer to within approximately 10 meters. The Target will transmit its orbital information to the Chaser, which will estimate the relative distance and execute the necessary maneuvers. Once within 10 meters, the Chaser will use its visual sensors for shape recognition and state estimation before initiating docking control. After successful docking, the Chaser will immediately detach and use its remaining fuel to lower its altitude, while the Target will deploy its drag device.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This research project&lt;/strong&gt; aims to develop a &lt;strong&gt;relative GPS system for KARDSAT&lt;/strong&gt;, utilized during Tests #1 to #5 as shown in the diagrams, with a requirement to &lt;em&gt;achieve sub-meter real-time GPS relative navigation and deliver flight code as the project&amp;rsquo;s goal&lt;/em&gt;.&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;2-gps-relative-navigation-system&#34;&gt;&lt;strong&gt;2. GPS Relative Navigation System&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;21-overall-block-diagram&#34;&gt;2.1. Overall Block Diagram&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram&#34; srcset=&#34;
+               /project/kardsat/fig3_hu_3e8541072b347115.webp 400w,
+               /project/kardsat/fig3_hu_7064d9d03147ccfa.webp 760w,
+               /project/kardsat/fig3_hu_1b213c937638986.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig3_hu_3e8541072b347115.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;248&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pseudorange-based relative navigation system (sub-meter level accuracy)&lt;/li&gt;
+&lt;li&gt;Highly efficient range-domain differential GPS (DGPS) algorithm using the Hatch filter&lt;/li&gt;
+&lt;li&gt;Handles intermittent communication and failures in the inter-satellite link using an orbital propagation module&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;System Scheduling&#34; srcset=&#34;
+               /project/kardsat/fig4_hu_1cd97ad0dfaf5ee0.webp 400w,
+               /project/kardsat/fig4_hu_18f76d70e932cf6f.webp 760w,
+               /project/kardsat/fig4_hu_5e2a6f2c349a9c8c.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig4_hu_1cd97ad0dfaf5ee0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;205&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As shown in the figure, GPS measurements are transmitted from KARDSAT(Target) at 10-second intervals, triggering the use of the DGPS and orbital propagation modules.&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SILS Concept&#34; srcset=&#34;
+               /project/kardsat/fig5_hu_7d3cba5c6f402c31.webp 400w,
+               /project/kardsat/fig5_hu_af606c74706014dd.webp 760w,
+               /project/kardsat/fig5_hu_d1cdc7ab43a201c0.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig5_hu_7d3cba5c6f402c31.webp&#34;
+               width=&#34;688&#34;
+               height=&#34;180&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SILS developed on MATLAB (Module seperated)&lt;/li&gt;
+&lt;li&gt;Data handling module: GPS LEO simulator (providing GPS L1 measurements and ephemeris data)&lt;/li&gt;
+&lt;li&gt;MATLAB simulation designed for real-time capability&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/MB0Wlfjf6kE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+
+&lt;/br&gt;
+&lt;/br&gt;&lt;/p&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PILS Concept&#34; srcset=&#34;
+               /project/kardsat/fig6_hu_96082c890f67ca7b.webp 400w,
+               /project/kardsat/fig6_hu_e80c292a3a18e0c1.webp 760w,
+               /project/kardsat/fig6_hu_fd39fe07b7abf8bc.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/kardsat/fig6_hu_96082c890f67ca7b.webp&#34;
+               width=&#34;688&#34;
+               height=&#34;182&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MATLAB-based relative navigation module was implemented identically on the On-Board Computer (OBC)&lt;/li&gt;
+&lt;li&gt;Implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC).&lt;/li&gt;
+&lt;li&gt;Verified real-time execution on the OBC, and delivered the flight code for the mission&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The video below shows the results from the MATLAB data handling module during the execution of the PILS. It outputs the relative navigation results based on 10-second orbital propagation for GPS measurements provided at 1-second intervals.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+          &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kGWjDo7wkRs?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+        &lt;/div&gt;
+&lt;/p&gt;
+&lt;/br&gt;
+&lt;/br&gt;
+&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation &lt;a href=&#34;http://localhost:1313/publication/ij_202301/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;/br&gt;
+&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

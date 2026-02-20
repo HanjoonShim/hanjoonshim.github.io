@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jooyoung Jang | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/author/jooyoung-jang/</link>
+      <atom:link href="http://localhost:1313/author/jooyoung-jang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jooyoung Jang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>Jooyoung Jang</title>
+      <link>http://localhost:1313/author/jooyoung-jang/</link>
+    </image>
+    
+    <item>
+      <title>Single-Axis Hardware in the Loop Experiment Verification of ADCS for Low Earth Orbit Cube-Satellite</title>
+      <link>http://localhost:1313/publication/dj_201701/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201701/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

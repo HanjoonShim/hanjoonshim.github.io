@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/tag/blog/</link>
+      <atom:link href="http://localhost:1313/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>Blog</title>
+      <link>http://localhost:1313/tag/blog/</link>
+    </image>
+    
+    <item>
+      <title>Research Blog on Jul 05, 2024</title>
+      <link>http://localhost:1313/event/240705-research/</link>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/240705-research/</guid>
+      <description>&lt;p&gt;For this project, an Engineering Model (EM) of the Interstage GSSB was developed. This design replicates all the functions of the Gomspace Interstage GSSB. Since our team only ordered a limited number of Flight Models (FM), an EM was necessary for testing purposes, as additional FM units were too costly. To facilitate rapid development, I designed the EM to be Arduino-compatible and implemented all protocols to match those of the Gomspace FM. Since this panel does not need to operate in space, it is ideal for flight software testing.&lt;/p&gt;
+&lt;/br&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig1&#34; srcset=&#34;
+               /event/240705-research/fig1_hu_ba7a1d348c8f49d4.webp 400w,
+               /event/240705-research/fig1_hu_81e7e0da90fb0ca0.webp 760w,
+               /event/240705-research/fig1_hu_59e0327294fb0b82.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/240705-research/fig1_hu_ba7a1d348c8f49d4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;334&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig2&#34; srcset=&#34;
+               /event/240705-research/fig2_hu_7a9b645184ebd3b9.webp 400w,
+               /event/240705-research/fig2_hu_39179e47532e1914.webp 760w,
+               /event/240705-research/fig2_hu_18173cbb754fdf57.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/240705-research/fig2_hu_7a9b645184ebd3b9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;403&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research Blog on Dec 08, 2023</title>
+      <link>http://localhost:1313/event/231208-research/</link>
+      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/231208-research/</guid>
+      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Fit to Standard 3U Size CubeSats&lt;/li&gt;
+&lt;li&gt;Two series-connected AzurSpace 3G30A solar cells&lt;/li&gt;
+&lt;li&gt;Sun sensor and temperature sensor on a single PCB 1.2mm thick (Gomspace Interstage GSSB is compatible)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/br&gt;
+&lt;p&gt;In the SNUGLITE-III project, one of the main focus (to reduce budget) was on the fabrication of the solar panels for the CubeSat. I was solely responsible for the entire process, from PCB design to fabrication. Using Gomspace products as a benchmark, I ensured that all the solar panels were compatible and could integrate seamlessly with the system. Additionally, I verified the functionality of the panels through vacuum testing and solar simulator experiments, confirming that they performed as expected.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;231208-fig1&#34; srcset=&#34;
+               /event/231208-research/fig1_hu_d88d307a792575aa.webp 400w,
+               /event/231208-research/fig1_hu_730750b710dcbd71.webp 760w,
+               /event/231208-research/fig1_hu_85ea9fa7a516daea.webp 1200w&#34;
+               src=&#34;http://localhost:1313/event/231208-research/fig1_hu_d88d307a792575aa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;212&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

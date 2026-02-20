@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugyeom Kim | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/author/bugyeom-kim/</link>
+      <atom:link href="http://localhost:1313/author/bugyeom-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bugyeom Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>Bugyeom Kim</title>
+      <link>http://localhost:1313/author/bugyeom-kim/</link>
+    </image>
+    
+    <item>
+      <title>Onboard Implementation and Validation of RTK-Based Relative Navigation System for CubeSats</title>
+      <link>http://localhost:1313/publication/ic_202501/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202501/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

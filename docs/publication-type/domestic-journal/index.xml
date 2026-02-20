@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domestic-Journal | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/publication-type/domestic-journal/</link>
+      <atom:link href="http://localhost:1313/publication-type/domestic-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Domestic-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>Domestic-Journal</title>
+      <link>http://localhost:1313/publication-type/domestic-journal/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of Relative Motion after Inter-Satellite Separation for SNUGLITE-III Autonomous Formation Flying Mission</title>
+      <link>http://localhost:1313/publication/dj_202501/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
+      <link>http://localhost:1313/publication/dj_202302/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
+      <link>http://localhost:1313/publication/dj_202301/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
+      <link>http://localhost:1313/publication/dj_202001/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Axis Hardware in the Loop Experiment Verification of ADCS for Low Earth Orbit Cube-Satellite</title>
+      <link>http://localhost:1313/publication/dj_201701/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201701/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

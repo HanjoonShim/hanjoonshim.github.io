@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>REMORA | Hanjoon Shim | 심한준</title>
+    <link>http://localhost:1313/tag/remora/</link>
+      <atom:link href="http://localhost:1313/tag/remora/index.xml" rel="self" type="application/rss+xml" />
+    <description>REMORA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <title>REMORA</title>
+      <link>http://localhost:1313/tag/remora/</link>
+    </image>
+    
+    <item>
+      <title>(2025-now) REMORA</title>
+      <link>http://localhost:1313/project/remora/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/remora/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
+  &lt;div class=&#34;card-body&#34;&gt;
+    &lt;h5 class=&#34;card-title&#34;&gt;
+      REMORA - REndezvous Mission for Orbital Reconstruction of Asteroids: A fleet of Self-driven CubeSats for Tracking and Characterising Asteroids
+    &lt;/h5&gt;
+    &lt;dl class=&#34;row mb-3&#34;&gt;
+      &lt;dt class=&#34;col-sm-3&#34;&gt;Participation&lt;/dt&gt;
+      &lt;dd class=&#34;col-sm-9&#34;&gt;2025–now&lt;/dd&gt;
+      &lt;dt class=&#34;col-sm-3&#34;&gt;Role&lt;/dt&gt;
+      &lt;dd class=&#34;col-sm-9&#34;&gt;GNC Engineer&lt;/dd&gt;
+    &lt;/dl&gt;
+    &lt;ul&gt;
+      &lt;li&gt;UK Research and Innovation Research&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Further detail Link &lt;a href=&#34;https://gtr.ukri.org/projects?ref=MR%2FW009498%2F1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
