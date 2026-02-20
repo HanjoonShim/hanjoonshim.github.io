@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kibeom Kwon | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/kibeom-kwon/</link>
-      <atom:link href="http://localhost:1313/author/kibeom-kwon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/kibeom-kwon/</link>
+      <atom:link href="https://hanjoon.com/author/kibeom-kwon/index.xml" rel="self" type="application/rss+xml" />
     <description>Kibeom Kwon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Kibeom Kwon</title>
-      <link>http://localhost:1313/author/kibeom-kwon/</link>
+      <link>https://hanjoon.com/author/kibeom-kwon/</link>
     </image>
     
     <item>
       <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
-      <link>http://localhost:1313/publication/dj_202302/</link>
+      <link>https://hanjoon.com/publication/dj_202302/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_202302/</guid>
+      <guid>https://hanjoon.com/publication/dj_202302/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaeuk Park | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/jaeuk-park/</link>
-      <atom:link href="http://localhost:1313/author/jaeuk-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/jaeuk-park/</link>
+      <atom:link href="https://hanjoon.com/author/jaeuk-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaeuk Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Jaeuk Park</title>
-      <link>http://localhost:1313/author/jaeuk-park/</link>
+      <link>https://hanjoon.com/author/jaeuk-park/</link>
     </image>
     
     <item>
       <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
-      <link>http://localhost:1313/publication/dj_202302/</link>
+      <link>https://hanjoon.com/publication/dj_202302/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_202302/</guid>
+      <guid>https://hanjoon.com/publication/dj_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Critical Design of Electrical Power Subsystem of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/dc_202304/</link>
+      <link>https://hanjoon.com/publication/dc_202304/</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202304/</guid>
+      <guid>https://hanjoon.com/publication/dc_202304/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -49,9 +49,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Preliminary Design of Electrical Power Subsystem of SNUGLITE-III Cube Satellite</title>
-      <link>http://localhost:1313/publication/dc_202302/</link>
+      <link>https://hanjoon.com/publication/dc_202302/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202302/</guid>
+      <guid>https://hanjoon.com/publication/dc_202302/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -76,9 +76,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Preliminary Design of SNUGLITE-III Cube-satellite for Formation Flight based GPS Radio Occultation</title>
-      <link>http://localhost:1313/publication/dc_202301/</link>
+      <link>https://hanjoon.com/publication/dc_202301/</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202301/</guid>
+      <guid>https://hanjoon.com/publication/dc_202301/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -103,17 +103,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>http://localhost:1313/publication/ic_202301/</link>
+      <link>https://hanjoon.com/publication/ic_202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202301/</guid>
+      <guid>https://hanjoon.com/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Initial Operation Result of SNUGLITE-II Cube-Satellite</title>
-      <link>http://localhost:1313/publication/dc_202201/</link>
+      <link>https://hanjoon.com/publication/dc_202201/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202201/</guid>
+      <guid>https://hanjoon.com/publication/dc_202201/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -138,9 +138,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SNUGLITE-II Cubesat Ground Station Configuration and Ground Operation Test</title>
-      <link>http://localhost:1313/publication/dc_202202/</link>
+      <link>https://hanjoon.com/publication/dc_202202/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202202/</guid>
+      <guid>https://hanjoon.com/publication/dc_202202/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -165,9 +165,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SNUGLITE-II 큐브위성의 전력계 분석</title>
-      <link>http://localhost:1313/publication/dc_202101/</link>
+      <link>https://hanjoon.com/publication/dc_202101/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202101/</guid>
+      <guid>https://hanjoon.com/publication/dc_202101/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -192,9 +192,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A Preliminary Design of SNUGLITE-II Cube-Satellite for 3D Atmospheric Remote Sensing with GPS Radio Occultation</title>
-      <link>http://localhost:1313/publication/dc_202001/</link>
+      <link>https://hanjoon.com/publication/dc_202001/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202001/</guid>
+      <guid>https://hanjoon.com/publication/dc_202001/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

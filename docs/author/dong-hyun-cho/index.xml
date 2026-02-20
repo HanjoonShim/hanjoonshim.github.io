@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dong-Hyun Cho | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/dong-hyun-cho/</link>
-      <atom:link href="http://localhost:1313/author/dong-hyun-cho/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/dong-hyun-cho/</link>
+      <atom:link href="https://hanjoon.com/author/dong-hyun-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Dong-Hyun Cho</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Dong-Hyun Cho</title>
-      <link>http://localhost:1313/author/dong-hyun-cho/</link>
+      <link>https://hanjoon.com/author/dong-hyun-cho/</link>
     </image>
     
     <item>
       <title>Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers</title>
-      <link>http://localhost:1313/publication/ij_202301/</link>
+      <link>https://hanjoon.com/publication/ij_202301/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_202301/</guid>
+      <guid>https://hanjoon.com/publication/ij_202301/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,17 +41,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
-      <link>http://localhost:1313/publication/dj_202001/</link>
+      <link>https://hanjoon.com/publication/dj_202001/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_202001/</guid>
+      <guid>https://hanjoon.com/publication/dj_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time Differential GPS Relative Navigation System Implementation and Verification of KARDSAT Cube-Satllites for Autonomous Rendezvous and Docking Missions</title>
-      <link>http://localhost:1313/publication/dc_202004/</link>
+      <link>https://hanjoon.com/publication/dc_202004/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202004/</guid>
+      <guid>https://hanjoon.com/publication/dc_202004/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -76,9 +76,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Relative Navigation for Autonomous Rendezvous and Docking of Nano-Satellite Based on DGPS</title>
-      <link>http://localhost:1313/publication/dc_201904/</link>
+      <link>https://hanjoon.com/publication/dc_201904/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201904/</guid>
+      <guid>https://hanjoon.com/publication/dc_201904/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

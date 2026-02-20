@@ -3,7 +3,7 @@
 <!-- Last Published: February 20, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.760d30404155faad5fa84b77327b306b.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/snuglite-ii/" />
-<link rel="canonical" href="http://localhost:1313/project/snuglite-ii/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/project/snuglite-ii/" />
+<link rel="canonical" href="https://hanjoon.com/project/snuglite-ii/" />
 
 
 
@@ -292,8 +331,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_3c6080c30eaccfd.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f07257f699f5c0d8.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_41c9529af229542c.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_9ed4fa6f8942954b.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -315,7 +354,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" />
+<meta property="twitter:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" />
 
 
 
@@ -323,9 +362,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/project/snuglite-ii/" />
+<meta property="og:url" content="https://hanjoon.com/project/snuglite-ii/" />
 <meta property="og:title" content="(2019-2022) SNUGLITE-II | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="- 3U CubeSat mission (Launch: Jun 2022)" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="- 3U CubeSat mission (Launch: Jun 2022)" /><meta property="og:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -390,7 +429,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -888,10 +927,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II CubeSat" srcset="
-               /project/snuglite-ii/title_hu_778d11ec98b6432c.webp 400w,
-               /project/snuglite-ii/title_hu_676878a04f409915.webp 760w,
-               /project/snuglite-ii/title_hu_e6a6eebc4e4c18f6.webp 1200w"
-               src="/project/snuglite-ii/title_hu_778d11ec98b6432c.webp"
+               /project/snuglite-ii/title_hu_ca292a264babd492.webp 400w,
+               /project/snuglite-ii/title_hu_d3a5a2366b743f12.webp 760w,
+               /project/snuglite-ii/title_hu_60464b7afa7c23e1.webp 1200w"
+               src="/project/snuglite-ii/title_hu_ca292a264babd492.webp"
                width="442"
                height="500"
                loading="lazy" data-zoomable /></div>
@@ -1067,10 +1106,10 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&rsquo;s first
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II CubeSat: Before and after deployment" srcset="
-               /project/snuglite-ii/fig2_hu_c89665c07f315140.webp 400w,
-               /project/snuglite-ii/fig2_hu_d778ff4c5541b211.webp 760w,
-               /project/snuglite-ii/fig2_hu_96d38ccc484467c4.webp 1200w"
-               src="/project/snuglite-ii/fig2_hu_c89665c07f315140.webp"
+               /project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp 400w,
+               /project/snuglite-ii/fig2_hu_9ac49416a9641189.webp 760w,
+               /project/snuglite-ii/fig2_hu_12f50f07fcabc184.webp 1200w"
+               src="/project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp"
                width="760"
                height="382"
                loading="lazy" data-zoomable /></div>
@@ -1296,10 +1335,10 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Electrical Interface Diagram" srcset="
-               /project/snuglite-ii/fig3_hu_c633574875b37250.webp 400w,
-               /project/snuglite-ii/fig3_hu_62961ef7da0608fc.webp 760w,
-               /project/snuglite-ii/fig3_hu_147ea9095fe70d80.webp 1200w"
-               src="/project/snuglite-ii/fig3_hu_c633574875b37250.webp"
+               /project/snuglite-ii/fig3_hu_fd7728796f157244.webp 400w,
+               /project/snuglite-ii/fig3_hu_5cdbcee79e769790.webp 760w,
+               /project/snuglite-ii/fig3_hu_692966fa26f264e1.webp 1200w"
+               src="/project/snuglite-ii/fig3_hu_fd7728796f157244.webp"
                width="760"
                height="430"
                loading="lazy" data-zoomable /></div>
@@ -1326,10 +1365,10 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Operation Scenario" srcset="
-               /project/snuglite-ii/fig1_hu_821a3ce48f41441f.webp 400w,
-               /project/snuglite-ii/fig1_hu_f4f56d75b52fa7ee.webp 760w,
-               /project/snuglite-ii/fig1_hu_836c36cf5bcd4adf.webp 1200w"
-               src="/project/snuglite-ii/fig1_hu_821a3ce48f41441f.webp"
+               /project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp 400w,
+               /project/snuglite-ii/fig1_hu_98c422273ac083b8.webp 760w,
+               /project/snuglite-ii/fig1_hu_e9605023f2603cfe.webp 1200w"
+               src="/project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp"
                width="633"
                height="400"
                loading="lazy" data-zoomable /></div>
@@ -1396,10 +1435,10 @@ Fig. Operation Scenario
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Overall Block Diagram of ADCS" srcset="
-               /project/snuglite-ii/fig4_hu_18cdb9bd2211465f.webp 400w,
-               /project/snuglite-ii/fig4_hu_4bdda0f627499e22.webp 760w,
-               /project/snuglite-ii/fig4_hu_57d6e9ca3e50a6d1.webp 1200w"
-               src="/project/snuglite-ii/fig4_hu_18cdb9bd2211465f.webp"
+               /project/snuglite-ii/fig4_hu_80b715a226ca9194.webp 400w,
+               /project/snuglite-ii/fig4_hu_fed3f0af19fb6e09.webp 760w,
+               /project/snuglite-ii/fig4_hu_aed9c522c5b1e446.webp 1200w"
+               src="/project/snuglite-ii/fig4_hu_80b715a226ca9194.webp"
                width="760"
                height="598"
                loading="lazy" data-zoomable /></div>
@@ -1428,10 +1467,10 @@ Fig. Overall Block Diagram of ADCS
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Design Concept of ADCS" srcset="
-               /project/snuglite-ii/fig5_hu_3b33c38a60fd171b.webp 400w,
-               /project/snuglite-ii/fig5_hu_25361aa4241a2bba.webp 760w,
-               /project/snuglite-ii/fig5_hu_86545d98eacdbea9.webp 1200w"
-               src="/project/snuglite-ii/fig5_hu_3b33c38a60fd171b.webp"
+               /project/snuglite-ii/fig5_hu_45dc5de101be6866.webp 400w,
+               /project/snuglite-ii/fig5_hu_60f65a41360c6d7c.webp 760w,
+               /project/snuglite-ii/fig5_hu_27f2fcfb32ef7b44.webp 1200w"
+               src="/project/snuglite-ii/fig5_hu_45dc5de101be6866.webp"
                width="603"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -1491,10 +1530,10 @@ Fig. Design Philosophy of ADCS
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Components of SNUGLITE-II" srcset="
-               /project/snuglite-ii/fig6_hu_24efe85d54f3a235.webp 400w,
-               /project/snuglite-ii/fig6_hu_4bb1aaa4327b2487.webp 760w,
-               /project/snuglite-ii/fig6_hu_dc0f58a5aa6f8217.webp 1200w"
-               src="/project/snuglite-ii/fig6_hu_24efe85d54f3a235.webp"
+               /project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp 400w,
+               /project/snuglite-ii/fig6_hu_c754914ff4199489.webp 760w,
+               /project/snuglite-ii/fig6_hu_b77d5b6ff9b43482.webp 1200w"
+               src="/project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp"
                width="760"
                height="395"
                loading="lazy" data-zoomable /></div>
@@ -1540,10 +1579,10 @@ Fig. Components of SNUGLITE-II
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Far-field Test" srcset="
-               /project/snuglite-ii/fig7_hu_15e8f02e05e0aef2.webp 400w,
-               /project/snuglite-ii/fig7_hu_990b7752cce34eb9.webp 760w,
-               /project/snuglite-ii/fig7_hu_e1ea582ac3ee8339.webp 1200w"
-               src="/project/snuglite-ii/fig7_hu_15e8f02e05e0aef2.webp"
+               /project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp 400w,
+               /project/snuglite-ii/fig7_hu_fcfc282b3f20ccfd.webp 760w,
+               /project/snuglite-ii/fig7_hu_ab8e14db504a789f.webp 1200w"
+               src="/project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp"
                width="450"
                height="600"
                loading="lazy" data-zoomable /></div>
@@ -1576,10 +1615,10 @@ Fig. Far-field Test
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II EVT" srcset="
-               /project/snuglite-ii/fig8_hu_8a029b5d15c77437.webp 400w,
-               /project/snuglite-ii/fig8_hu_32f381cf4829e116.webp 760w,
-               /project/snuglite-ii/fig8_hu_3b71768a4c7561eb.webp 1200w"
-               src="/project/snuglite-ii/fig8_hu_8a029b5d15c77437.webp"
+               /project/snuglite-ii/fig8_hu_3cc28176b520acf.webp 400w,
+               /project/snuglite-ii/fig8_hu_1b96cdb328df4c3d.webp 760w,
+               /project/snuglite-ii/fig8_hu_ec6fa5e0ae38845.webp 1200w"
+               src="/project/snuglite-ii/fig8_hu_3cc28176b520acf.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1658,10 +1697,10 @@ Fig. SNUGLITE-II Thermal Vaccum Test
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II Position1" srcset="
-               /project/snuglite-ii/fig9_hu_619befc3d304cf1.webp 400w,
-               /project/snuglite-ii/fig9_hu_b99fff2d0699466c.webp 760w,
-               /project/snuglite-ii/fig9_hu_4f59e195cac2fd62.webp 1200w"
-               src="/project/snuglite-ii/fig9_hu_619befc3d304cf1.webp"
+               /project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp 400w,
+               /project/snuglite-ii/fig9_hu_b69da2d9b95243be.webp 760w,
+               /project/snuglite-ii/fig9_hu_1c39244bfe0c492f.webp 1200w"
+               src="/project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp"
                width="512"
                height="288"
                loading="lazy" data-zoomable /></div>
@@ -1689,10 +1728,10 @@ Fig. SNUGLITE-II GPS Receiver Position
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II Position2" srcset="
-               /project/snuglite-ii/fig10_hu_e3f77e6f7f2f3fe4.webp 400w,
-               /project/snuglite-ii/fig10_hu_5f7b5269cc96497f.webp 760w,
-               /project/snuglite-ii/fig10_hu_14d5c7e9f7a2fd6c.webp 1200w"
-               src="/project/snuglite-ii/fig10_hu_e3f77e6f7f2f3fe4.webp"
+               /project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp 400w,
+               /project/snuglite-ii/fig10_hu_92db0c16352a6776.webp 760w,
+               /project/snuglite-ii/fig10_hu_794a60f0c613ea81.webp 1200w"
+               src="/project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp"
                width="385"
                height="308"
                loading="lazy" data-zoomable /></div>
@@ -1727,10 +1766,10 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-II Angular Velocity" srcset="
-               /project/snuglite-ii/fig11_hu_7a501c6254ac4f1e.webp 400w,
-               /project/snuglite-ii/fig11_hu_ea0783f9c6726fc7.webp 760w,
-               /project/snuglite-ii/fig11_hu_14e2262c406a03c6.webp 1200w"
-               src="/project/snuglite-ii/fig11_hu_7a501c6254ac4f1e.webp"
+               /project/snuglite-ii/fig11_hu_10ed05676ababab4.webp 400w,
+               /project/snuglite-ii/fig11_hu_772d331ea574da8b.webp 760w,
+               /project/snuglite-ii/fig11_hu_572521c5a1a24502.webp 1200w"
+               src="/project/snuglite-ii/fig11_hu_10ed05676ababab4.webp"
                width="525"
                height="400"
                loading="lazy" data-zoomable /></div>
@@ -1751,6 +1790,72 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
         
 
 
+
+<style>
+  .btn-feedback {
+    display: inline-block;
+  }
+  .btn-feedback-negative {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<div class="d-print-none widget--feedback">
+  <h2 class="feedback--title">Feedback</h2>
+  <p class="feedback--question">Was this page helpful?</p>
+  <p class="feedback--response feedback--response-positive">
+    🙏
+  </p>
+  <p class="feedback--response feedback--response-negative">
+    🙏
+  </p>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-positive">
+    😍 Yes
+  </button>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-negative">
+    😡 No
+  </button>
+</div>
+<script>
+  const btnYes = document.querySelector('.btn-feedback-positive');
+  const btnNo = document.querySelector('.btn-feedback-negative');
+  const responseYes = document.querySelector('.feedback--response-positive');
+  const responseNo = document.querySelector('.feedback--response-negative');
+  const disableButtons = () => {
+    btnYes.disabled = true;
+    btnNo.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof gtag !== 'function') return;
+    gtag('event', 'click', {
+      'event_category': 'page_rating',
+      'event_label': window.location.pathname,
+      'value': value,
+      'transport_type': 'beacon',
+      'event_callback': function () {
+        console.debug(`✅ Feedback sent ${value}`);
+      }
+    });
+  };
+  btnYes.addEventListener('click', () => {
+    console.debug('Feedback response: 😍');
+    responseYes.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  btnNo.addEventListener('click', () => {
+    console.debug('Feedback response: 😡');
+    responseNo.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script>
 
 
 
@@ -1908,7 +2013,7 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -2007,11 +2112,11 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -2044,7 +2149,7 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

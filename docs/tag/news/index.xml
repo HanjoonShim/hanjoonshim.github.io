@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tag/news/</link>
-      <atom:link href="http://localhost:1313/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/tag/news/</link>
+      <atom:link href="https://hanjoon.com/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>News</title>
-      <link>http://localhost:1313/tag/news/</link>
+      <link>https://hanjoon.com/tag/news/</link>
     </image>
     
     <item>
       <title>Farewell and New Beginning</title>
-      <link>http://localhost:1313/event/251001-uol/</link>
+      <link>https://hanjoon.com/event/251001-uol/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/251001-uol/</guid>
+      <guid>https://hanjoon.com/event/251001-uol/</guid>
       <description>&lt;p&gt;From March 2017 to September 2025, I have been part of the GNSS Laboratory at Seoul National University, completing my graduate studies and concluding my journey as a postdoctoral researcher.&lt;/p&gt;
 &lt;p&gt;I am deeply grateful to Prof. Changdon Kee, whose pioneering Ph.D. work on Wide-Area DGPS (WADGPS) laid the groundwork for what became today’s Satellite-Based Augmentation Systems (SBAS). His invaluable guidance has shaped my growth as a researcher, and I also extend my sincere thanks to all my colleagues for their companionship and support throughout these years.&lt;/p&gt;
 &lt;p&gt;In particular, I wish for the successful launch of SNUGLITE-III CubeSat scheduled on November 27, 2025. 🚀&lt;/p&gt;
@@ -27,9 +27,9 @@
     
     <item>
       <title>Personal Homepage Released</title>
-      <link>http://localhost:1313/event/241015-release/</link>
+      <link>https://hanjoon.com/event/241015-release/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/241015-release/</guid>
+      <guid>https://hanjoon.com/event/241015-release/</guid>
       <description>&lt;p&gt;I’m excited to announce that my research website is now live!&lt;/p&gt;
 &lt;p&gt;The site serves as a hub for sharing updates on my projects, publications, and other academic activities.
 This platform is designed to showcase my work in spacecraft navigation and CubeSat technologies, with the goal of connecting with fellow researchers and enthusiasts in the field.

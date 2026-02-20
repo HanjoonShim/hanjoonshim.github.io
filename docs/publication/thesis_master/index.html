@@ -3,7 +3,7 @@
 <!-- Last Published: February 20, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.760d30404155faad5fa84b77327b306b.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/thesis_master/" />
-<link rel="canonical" href="http://localhost:1313/publication/thesis_master/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/publication/thesis_master/" />
+<link rel="canonical" href="https://hanjoon.com/publication/thesis_master/" />
 
 
 
@@ -292,8 +331,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_3c6080c30eaccfd.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f07257f699f5c0d8.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_41c9529af229542c.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_9ed4fa6f8942954b.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -315,7 +354,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" />
+<meta property="twitter:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" />
 
 
 
@@ -323,9 +362,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/publication/thesis_master/" />
+<meta property="og:url" content="https://hanjoon.com/publication/thesis_master/" />
 <meta property="og:title" content="HILS Verification of Low Earth Orbit Cube-Satellite Attitude Determination and Control System Using Helmholtz Cage | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="In this thesis, Hardware-In-the-Loop Simulation (HILS) verification of attitude determination and control system (ADCS) is addressed for low earth orbit cube-satellite equipped with a magnetorquer only. Unlike ordinary satellites equipped with reaction wheels, only a magnetorquer is mounted on cube-satellite due to spatial constraints. It is a simple, low-weight, and low-power consumption actuator that enables efficient operation of cube-satellite and aims to maintain nadir-pointing control. In order to achieve the objective of the proposed system, firstly, the equations of motion for the cube-satellite is expressed in terms of the gravity gradient torque, and the input torque calculated from the dipole moment of the magnetorquer and geomagnetic field. Then, a linear system model is obtained by interpreting the uncertainty flowing into the system as noise sources. In addition, extended Kalman filter equations are derived to estimate the attitude of the cube-satellite by defining the reference vector from the sun and magnetic field model, and fusing the sun sensor, magnetometer, and gyroscope measurements. Then, LQR controller can be designed to maintain nadir-pointing by calculating the optimal solution from the cost function composed of a given linear system and input. In order to verify the performance of the proposed system, HILS should be performed considering various constraints of the ground environment. However, it is difficult to verify the above-described system in a ground environment due to limitations in the performance of magnetorquer such as small input torque effected by the magnitude of the geomagnetic field, and decoupled input control. So far, it has been studied that the verification of cube-satellite ADCS for the stabilization of angular velocity, the passive control method which depends on geomagnetic field alignment, and HILS using reaction wheels. HILS of ADCS using only magnetorquer also has been proposed, but the performance analysis was limited due to the constraints of the ground environment. In contrast, the proposed HILS is aimed at verifying magnetorquer mounted cube-satellite ADCS that solves the limitations from unknown error factors of the ground environment. Therefore, in this thesis, HILS verification of cube-satellite ADCS using Helmholtz cage is proposed. It is focused on output characteristics proportional to the magnitude of the external magnetic field of the magnetorquer. In other words, it is solved by controlling the magnetic field vector generated from Helmholtz cage that is the degradation of the estimation performance due to the magnetic field including the statistical error characteristic in the indoor environment and the control performance deterioration due to the small input torque of the magnetorquer which is vulnerable to the disturbance. To construct a magnetic field vector from Helmholtz cage, it is designed using the Biot-Savat law to model the current-magnetic field relationship. Also, it is designed to have a size enough to ensure the magnetic field uniformity of the space including the cube-satellite. The magnetic field vector controller of Helmholtz cage can be easily designed by approximating the transfer function from the derived current-magnetic field equation and using the classical control technique. In this case, cube-satellite is suspended in the inner space of Helmholtz cage to perform single axis HILS verification of ADCS. Since the GPS measurement value cannot be calculated in the indoor experiment environment, the nadir-pointing reference vectors are redefined by the mean measurement values of the simulated sunlight and the magnetic field generated from Helmholtz cage. Then, by defining a coordinate system based on the Helmholtz cage in the proposed HILS environment, nadir-pointing control performance can be expected by the computer simulation. Based on these simulation results, the proposed system can be verified by comparison with actual experimental results. To demonstrate the validity of the proposed method, a single axis HILS verification of ADCS using SNUGLITE cube-satellite is presented. The proposed method can verify the performance of nadir-pointing control on the ground by using only the magnetorquer which is typically installed in cube-satellite. It is also confirmed that the estimation performance and the control reliability of ADCS can be verified effectively compared with the method which does not utilize Helmholtz cage. The proposed HILS verification technique is expected to be used for verification of cube-satellite ADCS for various tasks due to its simplicity and practicality." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="In this thesis, Hardware-In-the-Loop Simulation (HILS) verification of attitude determination and control system (ADCS) is addressed for low earth orbit cube-satellite equipped with a magnetorquer only. Unlike ordinary satellites equipped with reaction wheels, only a magnetorquer is mounted on cube-satellite due to spatial constraints. It is a simple, low-weight, and low-power consumption actuator that enables efficient operation of cube-satellite and aims to maintain nadir-pointing control. In order to achieve the objective of the proposed system, firstly, the equations of motion for the cube-satellite is expressed in terms of the gravity gradient torque, and the input torque calculated from the dipole moment of the magnetorquer and geomagnetic field. Then, a linear system model is obtained by interpreting the uncertainty flowing into the system as noise sources. In addition, extended Kalman filter equations are derived to estimate the attitude of the cube-satellite by defining the reference vector from the sun and magnetic field model, and fusing the sun sensor, magnetometer, and gyroscope measurements. Then, LQR controller can be designed to maintain nadir-pointing by calculating the optimal solution from the cost function composed of a given linear system and input. In order to verify the performance of the proposed system, HILS should be performed considering various constraints of the ground environment. However, it is difficult to verify the above-described system in a ground environment due to limitations in the performance of magnetorquer such as small input torque effected by the magnitude of the geomagnetic field, and decoupled input control. So far, it has been studied that the verification of cube-satellite ADCS for the stabilization of angular velocity, the passive control method which depends on geomagnetic field alignment, and HILS using reaction wheels. HILS of ADCS using only magnetorquer also has been proposed, but the performance analysis was limited due to the constraints of the ground environment. In contrast, the proposed HILS is aimed at verifying magnetorquer mounted cube-satellite ADCS that solves the limitations from unknown error factors of the ground environment. Therefore, in this thesis, HILS verification of cube-satellite ADCS using Helmholtz cage is proposed. It is focused on output characteristics proportional to the magnitude of the external magnetic field of the magnetorquer. In other words, it is solved by controlling the magnetic field vector generated from Helmholtz cage that is the degradation of the estimation performance due to the magnetic field including the statistical error characteristic in the indoor environment and the control performance deterioration due to the small input torque of the magnetorquer which is vulnerable to the disturbance. To construct a magnetic field vector from Helmholtz cage, it is designed using the Biot-Savat law to model the current-magnetic field relationship. Also, it is designed to have a size enough to ensure the magnetic field uniformity of the space including the cube-satellite. The magnetic field vector controller of Helmholtz cage can be easily designed by approximating the transfer function from the derived current-magnetic field equation and using the classical control technique. In this case, cube-satellite is suspended in the inner space of Helmholtz cage to perform single axis HILS verification of ADCS. Since the GPS measurement value cannot be calculated in the indoor experiment environment, the nadir-pointing reference vectors are redefined by the mean measurement values of the simulated sunlight and the magnetic field generated from Helmholtz cage. Then, by defining a coordinate system based on the Helmholtz cage in the proposed HILS environment, nadir-pointing control performance can be expected by the computer simulation. Based on these simulation results, the proposed system can be verified by comparison with actual experimental results. To demonstrate the validity of the proposed method, a single axis HILS verification of ADCS using SNUGLITE cube-satellite is presented. The proposed method can verify the performance of nadir-pointing control on the ground by using only the magnetorquer which is typically installed in cube-satellite. It is also confirmed that the estimation performance and the control reliability of ADCS can be verified effectively compared with the method which does not utilize Helmholtz cage. The proposed HILS verification technique is expected to be used for verification of cube-satellite ADCS for various tasks due to its simplicity and practicality." /><meta property="og:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -358,7 +397,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/thesis_master/"
+    "@id": "https://hanjoon.com/publication/thesis_master/"
   },
   "headline": "HILS Verification of Low Earth Orbit Cube-Satellite Attitude Determination and Control System Using Helmholtz Cage",
   
@@ -375,7 +414,7 @@
     "name": "Hanjoon Shim | 심한준",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu_3f9a8f88bb8da242.png"
+      "url": "https://hanjoon.com/media/icon_hu_da16a18a98dd07de.png"
     }
   },
   "description": "In this thesis, Hardware-In-the-Loop Simulation (HILS) verification of attitude determination and control system (ADCS) is addressed for low earth orbit cube-satellite equipped with a magnetorquer only. Unlike ordinary satellites equipped with reaction wheels, only a magnetorquer is mounted on cube-satellite due to spatial constraints. It is a simple, low-weight, and low-power consumption actuator that enables efficient operation of cube-satellite and aims to maintain nadir-pointing control. In order to achieve the objective of the proposed system, firstly, the equations of motion for the cube-satellite is expressed in terms of the gravity gradient torque, and the input torque calculated from the dipole moment of the magnetorquer and geomagnetic field. Then, a linear system model is obtained by interpreting the uncertainty flowing into the system as noise sources. In addition, extended Kalman filter equations are derived to estimate the attitude of the cube-satellite by defining the reference vector from the sun and magnetic field model, and fusing the sun sensor, magnetometer, and gyroscope measurements. Then, LQR controller can be designed to maintain nadir-pointing by calculating the optimal solution from the cost function composed of a given linear system and input. In order to verify the performance of the proposed system, HILS should be performed considering various constraints of the ground environment. However, it is difficult to verify the above-described system in a ground environment due to limitations in the performance of magnetorquer such as small input torque effected by the magnitude of the geomagnetic field, and decoupled input control. So far, it has been studied that the verification of cube-satellite ADCS for the stabilization of angular velocity, the passive control method which depends on geomagnetic field alignment, and HILS using reaction wheels. HILS of ADCS using only magnetorquer also has been proposed, but the performance analysis was limited due to the constraints of the ground environment. In contrast, the proposed HILS is aimed at verifying magnetorquer mounted cube-satellite ADCS that solves the limitations from unknown error factors of the ground environment. Therefore, in this thesis, HILS verification of cube-satellite ADCS using Helmholtz cage is proposed. It is focused on output characteristics proportional to the magnitude of the external magnetic field of the magnetorquer. In other words, it is solved by controlling the magnetic field vector generated from Helmholtz cage that is the degradation of the estimation performance due to the magnetic field including the statistical error characteristic in the indoor environment and the control performance deterioration due to the small input torque of the magnetorquer which is vulnerable to the disturbance. To construct a magnetic field vector from Helmholtz cage, it is designed using the Biot-Savat law to model the current-magnetic field relationship. Also, it is designed to have a size enough to ensure the magnetic field uniformity of the space including the cube-satellite. The magnetic field vector controller of Helmholtz cage can be easily designed by approximating the transfer function from the derived current-magnetic field equation and using the classical control technique. In this case, cube-satellite is suspended in the inner space of Helmholtz cage to perform single axis HILS verification of ADCS. Since the GPS measurement value cannot be calculated in the indoor experiment environment, the nadir-pointing reference vectors are redefined by the mean measurement values of the simulated sunlight and the magnetic field generated from Helmholtz cage. Then, by defining a coordinate system based on the Helmholtz cage in the proposed HILS environment, nadir-pointing control performance can be expected by the computer simulation. Based on these simulation results, the proposed system can be verified by comparison with actual experimental results. To demonstrate the validity of the proposed method, a single axis HILS verification of ADCS using SNUGLITE cube-satellite is presented. The proposed method can verify the performance of nadir-pointing control on the ground by using only the magnetorquer which is typically installed in cube-satellite. It is also confirmed that the estimation performance and the control reliability of ADCS can be verified effectively compared with the method which does not utilize Helmholtz cage. The proposed HILS verification technique is expected to be used for verification of cube-satellite ADCS for various tasks due to its simplicity and practicality."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -935,7 +974,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F&amp;text=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F&amp;text=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -952,7 +991,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F&amp;t=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F&amp;t=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -971,7 +1010,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
         
       
       <li>
-        <a href="mailto:?subject=HILS%20Verification%20of%20Low%20Earth%20Orbit%20Cube-Satellite%20Attitude%20Determination%20and%20Control%20System%20Using%20Helmholtz%20Cage&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=HILS%20Verification%20of%20Low%20Earth%20Orbit%20Cube-Satellite%20Attitude%20Determination%20and%20Control%20System%20Using%20Helmholtz%20Cage&amp;body=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -988,7 +1027,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F&amp;title=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F&amp;title=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1005,7 +1044,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="whatsapp://send?text=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage%20https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1022,7 +1061,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fthesis_master%2F&amp;title=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fthesis_master%2F&amp;title=HILS&#43;Verification&#43;of&#43;Low&#43;Earth&#43;Orbit&#43;Cube-Satellite&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;Using&#43;Helmholtz&#43;Cage" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1054,7 +1093,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_3f899f8ca8afcc7.jpg" alt="Hanjoon Shim"></a>
+      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_4ecd529b153ff440.jpg" alt="Hanjoon Shim"></a>
     
 
     <div class="media-body">
@@ -1248,7 +1287,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1329,7 +1368,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1343,11 +1382,11 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1380,7 +1419,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/publication-type/thesis/</link>
-      <atom:link href="http://localhost:1313/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/publication-type/thesis/</link>
+      <atom:link href="https://hanjoon.com/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Thesis</title>
-      <link>http://localhost:1313/publication-type/thesis/</link>
+      <link>https://hanjoon.com/publication-type/thesis/</link>
     </image>
     
     <item>
       <title>Precise GPS Relative Navigation for CubeSat Rendezvous</title>
-      <link>http://localhost:1313/publication/thesis_phd/</link>
+      <link>https://hanjoon.com/publication/thesis_phd/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/thesis_phd/</guid>
+      <guid>https://hanjoon.com/publication/thesis_phd/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>HILS Verification of Low Earth Orbit Cube-Satellite Attitude Determination and Control System Using Helmholtz Cage</title>
-      <link>http://localhost:1313/publication/thesis_master/</link>
+      <link>https://hanjoon.com/publication/thesis_master/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/thesis_master/</guid>
+      <guid>https://hanjoon.com/publication/thesis_master/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

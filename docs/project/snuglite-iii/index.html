@@ -3,7 +3,7 @@
 <!-- Last Published: February 20, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.760d30404155faad5fa84b77327b306b.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/snuglite-iii/" />
-<link rel="canonical" href="http://localhost:1313/project/snuglite-iii/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/project/snuglite-iii/" />
+<link rel="canonical" href="https://hanjoon.com/project/snuglite-iii/" />
 
 
 
@@ -292,8 +331,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_3c6080c30eaccfd.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f07257f699f5c0d8.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_41c9529af229542c.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_9ed4fa6f8942954b.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -315,7 +354,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" />
+<meta property="twitter:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" />
 
 
 
@@ -323,9 +362,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/project/snuglite-iii/" />
+<meta property="og:url" content="https://hanjoon.com/project/snuglite-iii/" />
 <meta property="og:title" content="(2022-2025) SNUGLITE-III | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="- 6U(3U&#43;3U) CubeSat mission (Launch: Nov 2025)" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="- 6U(3U&#43;3U) CubeSat mission (Launch: Nov 2025)" /><meta property="og:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -390,7 +429,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -875,10 +914,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="KARDSAT CubeSat" srcset="
-               /project/snuglite-iii/title_hu_12cb9a67118af453.webp 400w,
-               /project/snuglite-iii/title_hu_9f673c1e5a3e512f.webp 760w,
-               /project/snuglite-iii/title_hu_163762f6e1a1bd04.webp 1200w"
-               src="/project/snuglite-iii/title_hu_12cb9a67118af453.webp"
+               /project/snuglite-iii/title_hu_845d0fd450d236b1.webp 400w,
+               /project/snuglite-iii/title_hu_b94476b23eda709f.webp 760w,
+               /project/snuglite-iii/title_hu_af17be37d908e4fd.webp 1200w"
+               src="/project/snuglite-iii/title_hu_845d0fd450d236b1.webp"
                width="717"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -1056,10 +1095,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="SNUGLITE-III CubeSat: Before and after seperation" srcset="
-               /project/snuglite-iii/fig1_hu_aea315f50afb41b4.webp 400w,
-               /project/snuglite-iii/fig1_hu_bcd9b4fcda8c6532.webp 760w,
-               /project/snuglite-iii/fig1_hu_cdd9feb58a99d63c.webp 1200w"
-               src="/project/snuglite-iii/fig1_hu_aea315f50afb41b4.webp"
+               /project/snuglite-iii/fig1_hu_62eb5cbcced78d5b.webp 400w,
+               /project/snuglite-iii/fig1_hu_f5245de67d5dcc00.webp 760w,
+               /project/snuglite-iii/fig1_hu_717c09ed7c2c9232.webp 1200w"
+               src="/project/snuglite-iii/fig1_hu_62eb5cbcced78d5b.webp"
                width="760"
                height="322"
                loading="lazy" data-zoomable /></div>
@@ -1157,10 +1196,10 @@ Fig. SNUGLITE-III CubeSat: Before and after seperation
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Operation Scenario" srcset="
-               /project/snuglite-iii/fig2_hu_f4f8c53067e0449f.webp 400w,
-               /project/snuglite-iii/fig2_hu_ac1f03f89c822520.webp 760w,
-               /project/snuglite-iii/fig2_hu_11095689d45e51c3.webp 1200w"
-               src="/project/snuglite-iii/fig2_hu_f4f8c53067e0449f.webp"
+               /project/snuglite-iii/fig2_hu_1c14ab25a573f06.webp 400w,
+               /project/snuglite-iii/fig2_hu_2528f85253a88915.webp 760w,
+               /project/snuglite-iii/fig2_hu_b1ca1a6741e558c8.webp 1200w"
+               src="/project/snuglite-iii/fig2_hu_1c14ab25a573f06.webp"
                width="760"
                height="381"
                loading="lazy" data-zoomable /></div>
@@ -1194,10 +1233,10 @@ Fig. Operation Scenario
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Concept of GPS Relative Navigation System" srcset="
-               /project/snuglite-iii/fig3_hu_78471917c0072a15.webp 400w,
-               /project/snuglite-iii/fig3_hu_7fc310ad3267494b.webp 760w,
-               /project/snuglite-iii/fig3_hu_d4272c710959ca18.webp 1200w"
-               src="/project/snuglite-iii/fig3_hu_78471917c0072a15.webp"
+               /project/snuglite-iii/fig3_hu_f8303660df652962.webp 400w,
+               /project/snuglite-iii/fig3_hu_d45e1fc749e0263e.webp 760w,
+               /project/snuglite-iii/fig3_hu_5366906891bbe1b6.webp 1200w"
+               src="/project/snuglite-iii/fig3_hu_f8303660df652962.webp"
                width="569"
                height="400"
                loading="lazy" data-zoomable /></div>
@@ -1230,10 +1269,10 @@ Fig. Concept of GPS Relative Navigation System
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="Overall Block Diagram of RN" srcset="
-               /project/snuglite-iii/fig4_hu_5330273f6a02ef34.webp 400w,
-               /project/snuglite-iii/fig4_hu_dff7fdc0a3dfa6f8.webp 760w,
-               /project/snuglite-iii/fig4_hu_e57189cb967b4f1f.webp 1200w"
-               src="/project/snuglite-iii/fig4_hu_5330273f6a02ef34.webp"
+               /project/snuglite-iii/fig4_hu_b85027b4c7f5f966.webp 400w,
+               /project/snuglite-iii/fig4_hu_d088edbed39769e6.webp 760w,
+               /project/snuglite-iii/fig4_hu_47ceaa96aae116a5.webp 1200w"
+               src="/project/snuglite-iii/fig4_hu_b85027b4c7f5f966.webp"
                width="760"
                height="384"
                loading="lazy" data-zoomable /></div>
@@ -1282,6 +1321,72 @@ Fig. Overall Block Diagram of RN
         
 
 
+
+<style>
+  .btn-feedback {
+    display: inline-block;
+  }
+  .btn-feedback-negative {
+    margin-left: 1em;
+  }
+  .feedback--response {
+    display: none;
+    margin-top: 1em;
+  }
+  .feedback--response__visible {
+    display: block;
+  }
+</style>
+<div class="d-print-none widget--feedback">
+  <h2 class="feedback--title">Feedback</h2>
+  <p class="feedback--question">Was this page helpful?</p>
+  <p class="feedback--response feedback--response-positive">
+    🙏
+  </p>
+  <p class="feedback--response feedback--response-negative">
+    🙏
+  </p>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-positive">
+    😍 Yes
+  </button>
+  <button class="btn btn-primary mb-4 btn-feedback btn-feedback-negative">
+    😡 No
+  </button>
+</div>
+<script>
+  const btnYes = document.querySelector('.btn-feedback-positive');
+  const btnNo = document.querySelector('.btn-feedback-negative');
+  const responseYes = document.querySelector('.feedback--response-positive');
+  const responseNo = document.querySelector('.feedback--response-negative');
+  const disableButtons = () => {
+    btnYes.disabled = true;
+    btnNo.disabled = true;
+  };
+  const sendFeedback = (value) => {
+    if (typeof gtag !== 'function') return;
+    gtag('event', 'click', {
+      'event_category': 'page_rating',
+      'event_label': window.location.pathname,
+      'value': value,
+      'transport_type': 'beacon',
+      'event_callback': function () {
+        console.debug(`✅ Feedback sent ${value}`);
+      }
+    });
+  };
+  btnYes.addEventListener('click', () => {
+    console.debug('Feedback response: 😍');
+    responseYes.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(1);
+  });
+  btnNo.addEventListener('click', () => {
+    console.debug('Feedback response: 😡');
+    responseNo.classList.add('feedback--response__visible');
+    disableButtons();
+    sendFeedback(0);
+  });
+</script>
 
 
 
@@ -1439,7 +1544,7 @@ Fig. Overall Block Diagram of RN
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1538,11 +1643,11 @@ Fig. Overall Block Diagram of RN
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1575,7 +1680,7 @@ Fig. Overall Block Diagram of RN
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

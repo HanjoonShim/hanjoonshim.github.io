@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junwon Song | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/junwon-song/</link>
-      <atom:link href="http://localhost:1313/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/junwon-song/</link>
+      <atom:link href="https://hanjoon.com/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Junwon Song</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Junwon Song</title>
-      <link>http://localhost:1313/author/junwon-song/</link>
+      <link>https://hanjoon.com/author/junwon-song/</link>
     </image>
     
     <item>
       <title>SNUGLITE-II Cubesat Ground Station Configuration and Ground Operation Test</title>
-      <link>http://localhost:1313/publication/dc_202202/</link>
+      <link>https://hanjoon.com/publication/dc_202202/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202202/</guid>
+      <guid>https://hanjoon.com/publication/dc_202202/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -3,7 +3,7 @@
 <!-- Last Published: February 20, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.760d30404155faad5fa84b77327b306b.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -286,8 +325,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/event/240926/" />
-<link rel="canonical" href="http://localhost:1313/event/240926/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/event/240926/" />
+<link rel="canonical" href="https://hanjoon.com/event/240926/" />
 
 
 
@@ -295,8 +334,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_3c6080c30eaccfd.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f07257f699f5c0d8.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_41c9529af229542c.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_9ed4fa6f8942954b.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -317,7 +356,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:1313/event/240926/featured.jpg" />
+<meta property="twitter:image" content="https://hanjoon.com/event/240926/featured.jpg" />
 
 
 
@@ -325,12 +364,12 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/event/240926/" />
+<meta property="og:url" content="https://hanjoon.com/event/240926/" />
 <meta property="og:title" content="Media Report on Sep 26, 2024 | Hanjoon Shim | 심한준" />
 <meta property="og:description" content="- **Title: SNUGLITE-III CubeSat Release**
 - Source: Newsis; 머니투데이; 세계일보; 연합뉴스; 이데일리
 - Language: Korean
-- Tag: SNUGLITE-III" /><meta property="og:image" content="http://localhost:1313/event/240926/featured.jpg" /><meta property="og:locale" content="en-us" />
+- Tag: SNUGLITE-III" /><meta property="og:image" content="https://hanjoon.com/event/240926/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -360,13 +399,13 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/event/240926/"
+    "@id": "https://hanjoon.com/event/240926/"
   },
   "name": "Media Report on Sep 26, 2024",
   
   
   "image": [
-    "http://localhost:1313/event/240926/featured.jpg"
+    "https://hanjoon.com/event/240926/featured.jpg"
   ],
   
   "startDate": "2024-09-26T00:00:00Z",
@@ -428,7 +467,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -788,7 +827,7 @@
 
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 480px;">
   <div style="position: relative">
-    <img src="/event/240926/featured_hu_7ab14726ee820983.webp" width="720" height="480" alt="" class="featured-image">
+    <img src="/event/240926/featured_hu_ab224a7343064e4a.webp" width="720" height="480" alt="" class="featured-image">
     
   </div>
 </div>
@@ -854,10 +893,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="240926-newsis-fig2" srcset="
-               /event/240926/fig2_hu_ffed61adec5956f.webp 400w,
-               /event/240926/fig2_hu_a04831b11e4c240d.webp 760w,
-               /event/240926/fig2_hu_756cf6c08c23be34.webp 1200w"
-               src="/event/240926/fig2_hu_ffed61adec5956f.webp"
+               /event/240926/fig2_hu_396741471beaea0d.webp 400w,
+               /event/240926/fig2_hu_1b2f25571be9fa67.webp 760w,
+               /event/240926/fig2_hu_d1f00c22c6fe6502.webp 1200w"
+               src="/event/240926/fig2_hu_396741471beaea0d.webp"
                width="720"
                height="480"
                loading="lazy" data-zoomable /></div>
@@ -889,10 +928,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="240926-newsis-fig3" srcset="
-               /event/240926/fig3_hu_36ed5fa4a89ed699.webp 400w,
-               /event/240926/fig3_hu_4857f4b4869a3673.webp 760w,
-               /event/240926/fig3_hu_e1dd941bb5c0ec16.webp 1200w"
-               src="/event/240926/fig3_hu_36ed5fa4a89ed699.webp"
+               /event/240926/fig3_hu_c88a47565a114b48.webp 400w,
+               /event/240926/fig3_hu_2113ee73677d6416.webp 760w,
+               /event/240926/fig3_hu_e82c1bafc03d26fa.webp 1200w"
+               src="/event/240926/fig3_hu_c88a47565a114b48.webp"
                width="720"
                height="467"
                loading="lazy" data-zoomable /></div>
@@ -924,10 +963,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="240926-newsis-fig4" srcset="
-               /event/240926/fig4_hu_caf3d5694cf45cf6.webp 400w,
-               /event/240926/fig4_hu_27d1f25f78f9243b.webp 760w,
-               /event/240926/fig4_hu_68a2dd3875700b9e.webp 1200w"
-               src="/event/240926/fig4_hu_caf3d5694cf45cf6.webp"
+               /event/240926/fig4_hu_11c505ddd1bb2d8d.webp 400w,
+               /event/240926/fig4_hu_261a7705ac96403b.webp 760w,
+               /event/240926/fig4_hu_76a403ca8c3bb0b.webp 1200w"
+               src="/event/240926/fig4_hu_11c505ddd1bb2d8d.webp"
                width="720"
                height="525"
                loading="lazy" data-zoomable /></div>
@@ -958,10 +997,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="240926-newsis-fig5" srcset="
-               /event/240926/fig5_hu_786f986e8ca70856.webp 400w,
-               /event/240926/fig5_hu_8a729d893710e5e.webp 760w,
-               /event/240926/fig5_hu_7a7c9e9e99540135.webp 1200w"
-               src="/event/240926/fig5_hu_786f986e8ca70856.webp"
+               /event/240926/fig5_hu_1f3f69a49ecfcf8e.webp 400w,
+               /event/240926/fig5_hu_5c6c8cc97fd3b4ea.webp 760w,
+               /event/240926/fig5_hu_5d1639fa116c676b.webp 1200w"
+               src="/event/240926/fig5_hu_1f3f69a49ecfcf8e.webp"
                width="719"
                height="487"
                loading="lazy" data-zoomable /></div>
@@ -993,10 +1032,10 @@
 <figure  >
   <div class="d-flex justify-content-center">
     <div class="w-100" ><img alt="240926-newsis-fig6" srcset="
-               /event/240926/fig6_hu_fc99d6c63e2b4288.webp 400w,
-               /event/240926/fig6_hu_4f5c8cc6821cf54.webp 760w,
-               /event/240926/fig6_hu_13c3f46a46792979.webp 1200w"
-               src="/event/240926/fig6_hu_fc99d6c63e2b4288.webp"
+               /event/240926/fig6_hu_4282cf69115099ab.webp 400w,
+               /event/240926/fig6_hu_f5e0b48e49b01f62.webp 760w,
+               /event/240926/fig6_hu_4476292bd804e7c6.webp 1200w"
+               src="/event/240926/fig6_hu_4282cf69115099ab.webp"
                width="662"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -1069,7 +1108,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F&amp;text=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F&amp;text=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1086,7 +1125,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F&amp;t=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F&amp;t=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1105,7 +1144,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Media%20Report%20on%20Sep%2026%2C%202024&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Media%20Report%20on%20Sep%2026%2C%202024&amp;body=https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1122,7 +1161,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F&amp;title=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F&amp;title=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1139,7 +1178,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024%20http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024%20https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1156,7 +1195,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fevent%2F240926%2F&amp;title=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fhanjoon.com%2Fevent%2F240926%2F&amp;title=Media&#43;Report&#43;on&#43;Sep&#43;26%2C&#43;2024" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1187,7 +1226,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_3f899f8ca8afcc7.jpg" alt="Hanjoon Shim"></a>
+      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_4ecd529b153ff440.jpg" alt="Hanjoon Shim"></a>
     
 
     <div class="media-body">
@@ -1380,7 +1419,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1461,7 +1500,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1475,11 +1514,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1512,7 +1551,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

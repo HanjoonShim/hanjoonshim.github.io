@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REMORA | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tag/remora/</link>
-      <atom:link href="http://localhost:1313/tag/remora/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/tag/remora/</link>
+      <atom:link href="https://hanjoon.com/tag/remora/index.xml" rel="self" type="application/rss+xml" />
     <description>REMORA</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>REMORA</title>
-      <link>http://localhost:1313/tag/remora/</link>
+      <link>https://hanjoon.com/tag/remora/</link>
     </image>
     
     <item>
       <title>(2025-now) REMORA</title>
-      <link>http://localhost:1313/project/remora/</link>
+      <link>https://hanjoon.com/project/remora/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/remora/</guid>
+      <guid>https://hanjoon.com/project/remora/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;

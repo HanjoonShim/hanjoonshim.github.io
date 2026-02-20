@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonggwan Choi | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/bonggwan-choi/</link>
-      <atom:link href="http://localhost:1313/author/bonggwan-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/bonggwan-choi/</link>
+      <atom:link href="https://hanjoon.com/author/bonggwan-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonggwan Choi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Bonggwan Choi</title>
-      <link>http://localhost:1313/author/bonggwan-choi/</link>
+      <link>https://hanjoon.com/author/bonggwan-choi/</link>
     </image>
     
     <item>
       <title>Development and Launch Preparation of SNUGLITE Cube-satellite Observing Space Weather and Earthquake using GNSS signals</title>
-      <link>http://localhost:1313/publication/dc_201803/</link>
+      <link>https://hanjoon.com/publication/dc_201803/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201803/</guid>
+      <guid>https://hanjoon.com/publication/dc_201803/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>위성항법 신호를 이용하여 우주환경관측 및 지진관측 수행을 위한 저궤도 큐브위성 개발</title>
-      <link>http://localhost:1313/publication/dc_201701/</link>
+      <link>https://hanjoon.com/publication/dc_201701/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201701/</guid>
+      <guid>https://hanjoon.com/publication/dc_201701/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

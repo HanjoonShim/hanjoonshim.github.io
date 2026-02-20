@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/publication-type/paper-conference/</link>
-      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/publication-type/paper-conference/</link>
+      <atom:link href="https://hanjoon.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <link>https://hanjoon.com/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>Efficient GNSS-Based Attitude Determination and Integer Ambiguity Resolution for 3U CubeSats</title>
-      <link>http://localhost:1313/publication/ic_202502/</link>
+      <link>https://hanjoon.com/publication/ic_202502/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202502/</guid>
+      <guid>https://hanjoon.com/publication/ic_202502/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Onboard Implementation and Validation of RTK-Based Relative Navigation System for CubeSats</title>
-      <link>http://localhost:1313/publication/ic_202501/</link>
+      <link>https://hanjoon.com/publication/ic_202501/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202501/</guid>
+      <guid>https://hanjoon.com/publication/ic_202501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Propellant-Free Rendezvous Mission of SNUGLITE-III CubeSat: Orbit Control Using Aerodynamic Forces</title>
-      <link>http://localhost:1313/publication/ic_202503/</link>
+      <link>https://hanjoon.com/publication/ic_202503/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202503/</guid>
+      <guid>https://hanjoon.com/publication/ic_202503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precise GPS Relative Navigation for SNUGLITE-III CubeSat Rendezvous Mission: Overcoming Challenges in Precision and Efficiency</title>
-      <link>http://localhost:1313/publication/ic_202403/</link>
+      <link>https://hanjoon.com/publication/ic_202403/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202403/</guid>
+      <guid>https://hanjoon.com/publication/ic_202403/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Low-Cost Satellite Angular Velocity Determination Method through Optical Flow Tracking Based on Flownet</title>
-      <link>http://localhost:1313/publication/ic_202402/</link>
+      <link>https://hanjoon.com/publication/ic_202402/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202402/</guid>
+      <guid>https://hanjoon.com/publication/ic_202402/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/ic_202401/</link>
+      <link>https://hanjoon.com/publication/ic_202401/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202401/</guid>
+      <guid>https://hanjoon.com/publication/ic_202401/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/ic_202302/</link>
+      <link>https://hanjoon.com/publication/ic_202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202302/</guid>
+      <guid>https://hanjoon.com/publication/ic_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>http://localhost:1313/publication/ic_202301/</link>
+      <link>https://hanjoon.com/publication/ic_202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202301/</guid>
+      <guid>https://hanjoon.com/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Using a Cube Satellite</title>
-      <link>http://localhost:1313/publication/ic_202001/</link>
+      <link>https://hanjoon.com/publication/ic_202001/</link>
       <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202001/</guid>
+      <guid>https://hanjoon.com/publication/ic_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and Verification of Attitude Determination and Control Algorithm for SNUGLITE Cube Satellite</title>
-      <link>http://localhost:1313/publication/ic_201801/</link>
+      <link>https://hanjoon.com/publication/ic_201801/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201801/</guid>
+      <guid>https://hanjoon.com/publication/ic_201801/</guid>
       <description></description>
     </item>
     

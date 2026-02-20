@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jae Woong Hwang | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/jae-woong-hwang/</link>
-      <atom:link href="http://localhost:1313/author/jae-woong-hwang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/jae-woong-hwang/</link>
+      <atom:link href="https://hanjoon.com/author/jae-woong-hwang/index.xml" rel="self" type="application/rss+xml" />
     <description>Jae Woong Hwang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Jae Woong Hwang</title>
-      <link>http://localhost:1313/author/jae-woong-hwang/</link>
+      <link>https://hanjoon.com/author/jae-woong-hwang/</link>
     </image>
     
     <item>
       <title>Analysis of Relative Motion after Inter-Satellite Separation for SNUGLITE-III Autonomous Formation Flying Mission</title>
-      <link>http://localhost:1313/publication/dj_202501/</link>
+      <link>https://hanjoon.com/publication/dj_202501/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_202501/</guid>
+      <guid>https://hanjoon.com/publication/dj_202501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of an Autonomous Rendezvous Orbit Control System for SNUGLITE-III CubeSat Using Real-Time Kinematic Based Precise Relative Navigation</title>
-      <link>http://localhost:1313/publication/dc_202405/</link>
+      <link>https://hanjoon.com/publication/dc_202405/</link>
       <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202405/</guid>
+      <guid>https://hanjoon.com/publication/dc_202405/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -49,17 +49,17 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Low-Cost Satellite Angular Velocity Determination Method through Optical Flow Tracking Based on Flownet</title>
-      <link>http://localhost:1313/publication/ic_202402/</link>
+      <link>https://hanjoon.com/publication/ic_202402/</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202402/</guid>
+      <guid>https://hanjoon.com/publication/ic_202402/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis of Orbit Control System Using Aerodynamic Drag for Propellant-less Rendezvous Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/dc_202404/</link>
+      <link>https://hanjoon.com/publication/dc_202404/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202404/</guid>
+      <guid>https://hanjoon.com/publication/dc_202404/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -84,9 +84,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development of Orbit Control System Using Aerodynamic Drag for Autonomous Formation Flying Mission of SNUGLITE-Ⅲ</title>
-      <link>http://localhost:1313/publication/dc_202403/</link>
+      <link>https://hanjoon.com/publication/dc_202403/</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202403/</guid>
+      <guid>https://hanjoon.com/publication/dc_202403/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -111,9 +111,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Critical Design of SNUGLITE-III Cube-satellite for Formation Flight Mission</title>
-      <link>http://localhost:1313/publication/dc_202402/</link>
+      <link>https://hanjoon.com/publication/dc_202402/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202402/</guid>
+      <guid>https://hanjoon.com/publication/dc_202402/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -138,9 +138,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development of GPS Precise Relative Navigation System for Autonomous Rendezvous-Docking Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/dc_202401/</link>
+      <link>https://hanjoon.com/publication/dc_202401/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202401/</guid>
+      <guid>https://hanjoon.com/publication/dc_202401/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -165,9 +165,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Analysis of Relative Motion after Inter-Satellite Separation for Formation Flying Mission of SNUGLITE-Ⅲ</title>
-      <link>http://localhost:1313/publication/dc_202307/</link>
+      <link>https://hanjoon.com/publication/dc_202307/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202307/</guid>
+      <guid>https://hanjoon.com/publication/dc_202307/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -192,9 +192,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/ic_202302/</link>
+      <link>https://hanjoon.com/publication/ic_202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_202302/</guid>
+      <guid>https://hanjoon.com/publication/ic_202302/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minhuck Park | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/minhuck-park/</link>
-      <atom:link href="http://localhost:1313/author/minhuck-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/author/minhuck-park/</link>
+      <atom:link href="https://hanjoon.com/author/minhuck-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Minhuck Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Minhuck Park</title>
-      <link>http://localhost:1313/author/minhuck-park/</link>
+      <link>https://hanjoon.com/author/minhuck-park/</link>
     </image>
     
     <item>
       <title>Development of Hardware-In-the-Loop Simulation for CubeSat Platform: Focusing on Magnetometer and Magnetorquer</title>
-      <link>http://localhost:1313/publication/ij_202302/</link>
+      <link>https://hanjoon.com/publication/ij_202302/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_202302/</guid>
+      <guid>https://hanjoon.com/publication/ij_202302/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -41,9 +41,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Centimeter-level Precision Smartphone Navigation Using RTK</title>
-      <link>http://localhost:1313/publication/dc_202005/</link>
+      <link>https://hanjoon.com/publication/dc_202005/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202005/</guid>
+      <guid>https://hanjoon.com/publication/dc_202005/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Attitude Determination and Control System Verification of SNUGLITE Cube-Satellite on Orbit</title>
-      <link>http://localhost:1313/publication/dc_201902/</link>
+      <link>https://hanjoon.com/publication/dc_201902/</link>
       <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201902/</guid>
+      <guid>https://hanjoon.com/publication/dc_201902/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -95,9 +95,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Development and Launch Preparation of SNUGLITE Cube-satellite Observing Space Weather and Earthquake using GNSS signals</title>
-      <link>http://localhost:1313/publication/dc_201803/</link>
+      <link>https://hanjoon.com/publication/dc_201803/</link>
       <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201803/</guid>
+      <guid>https://hanjoon.com/publication/dc_201803/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -122,9 +122,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>운용 시나리오를 고려한 SNUGLITE 큐브위성의 자세결정 및 제어 시스템 지상환경 HILS</title>
-      <link>http://localhost:1313/publication/dc_201802/</link>
+      <link>https://hanjoon.com/publication/dc_201802/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201802/</guid>
+      <guid>https://hanjoon.com/publication/dc_201802/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

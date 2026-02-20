@@ -3,7 +3,7 @@
 <!-- Last Published: February 20, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.760d30404155faad5fa84b77327b306b.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/dj_202301/" />
-<link rel="canonical" href="http://localhost:1313/publication/dj_202301/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/publication/dj_202301/" />
+<link rel="canonical" href="https://hanjoon.com/publication/dj_202301/" />
 
 
 
@@ -292,8 +331,8 @@
 
 
 
-<link rel="icon" type="image/png" href="/media/icon_hu_3c6080c30eaccfd.png" />
-<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_f07257f699f5c0d8.png" />
+<link rel="icon" type="image/png" href="/media/icon_hu_41c9529af229542c.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_9ed4fa6f8942954b.png" />
 
 <meta name="theme-color" content="#1565c0" />
 
@@ -315,7 +354,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" />
+<meta property="twitter:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" />
 
 
 
@@ -323,9 +362,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:1313/publication/dj_202301/" />
+<meta property="og:url" content="https://hanjoon.com/publication/dj_202301/" />
 <meta property="og:title" content="Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_9c145f3db4f1c376.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS." /><meta property="og:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -358,7 +397,7 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/dj_202301/"
+    "@id": "https://hanjoon.com/publication/dj_202301/"
   },
   "headline": "Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat",
   
@@ -375,7 +414,7 @@
     "name": "Hanjoon Shim | 심한준",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:1313/media/icon_hu_3f9a8f88bb8da242.png"
+      "url": "https://hanjoon.com/media/icon_hu_da16a18a98dd07de.png"
     }
   },
   "description": "This paper presents a real-time software verification technique for the attitude determination and control system (ADCS) of CubeSats. The on-board computer (OBC) of the CubeSat is equipped with a single core and limited redundancy, making it essential for reliable software to be installed. In consideration of cost, development time, resources, and manpower, an accessible software verification method is necessary. Based on this point of view, this paper first performs a model-in-the-loop simulation (MILS) using MATLAB, a commonly used software in educational institutions for ADCS design. Based on the designed model, software verification is performed by separating the space environment simulator, which provides dynamic models and sensor measurements, and the ADCS module. RS-232 communication is used for data input and output between these modules, and MATLAB-based software-in-the-loop simulation (SILS) and OBCbased processor-in-the-loop simulation (PILS), which is implemented in a real-time operating system (RTOS), are performed. The validity of the implemented software is verified by comparing the results. The proposed technique was validated by presenting the numerical errors of the SILS and PILS results of the SNUGLITE-II CubeSat ADCS."
@@ -431,7 +470,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -934,7 +973,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F&amp;text=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F&amp;text=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -951,7 +990,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F&amp;t=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F&amp;t=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -970,7 +1009,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Real-time%20Software%20Verification%20Technique%20of%20Attitude%20Determination%20and%20Control%20System%20for%20CubeSat&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Real-time%20Software%20Verification%20Technique%20of%20Attitude%20Determination%20and%20Control%20System%20for%20CubeSat&amp;body=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -987,7 +1026,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F&amp;title=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F&amp;title=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1004,7 +1043,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat%20https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1021,7 +1060,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fdj_202301%2F&amp;title=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fdj_202301%2F&amp;title=Real-time&#43;Software&#43;Verification&#43;Technique&#43;of&#43;Attitude&#43;Determination&#43;and&#43;Control&#43;System&#43;for&#43;CubeSat" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1053,7 +1092,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_3f899f8ca8afcc7.jpg" alt="Hanjoon Shim"></a>
+      <a href="/author/hanjoon-shim/"><img class="avatar mr-3 avatar-circle" src="/author/hanjoon-shim/avatar_hu_4ecd529b153ff440.jpg" alt="Hanjoon Shim"></a>
     
 
     <div class="media-body">
@@ -1149,7 +1188,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="/author/changdon-kee/"><img class="avatar mr-3 avatar-circle" src="/author/changdon-kee/avatar_hu_8f67bd0e37285db2.jpg" alt="Changdon Kee"></a>
+      <a href="/author/changdon-kee/"><img class="avatar mr-3 avatar-circle" src="/author/changdon-kee/avatar_hu_ff200f798d50dd80.jpg" alt="Changdon Kee"></a>
     
 
     <div class="media-body">
@@ -1281,7 +1320,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1362,7 +1401,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1376,11 +1415,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1413,7 +1452,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
