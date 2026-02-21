@@ -14,9 +14,9 @@
     
     <item>
       <title>Media Report on Nov 07, 2025</title>
-      <link>https://hanjoon.com/event/251107-karitv/</link>
+      <link>https://hanjoon.com/media/251107-karitv/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/251107-karitv/</guid>
+      <guid>https://hanjoon.com/media/251107-karitv/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://youtu.be/PKoc8ouXL_Q?si=OCapyqPFlPpordH4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[누리호4차] 궤도에서 분리 합체? 세계 최초 초정밀 GPS 활용 무추력 자율궤도제어시험 위성 | SNUGLITE-III&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Introducing SNUGLITE-III CubeSat&lt;/li&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Media Report on Oct 31, 2025</title>
-      <link>https://hanjoon.com/event/251031-kari/</link>
+      <link>https://hanjoon.com/media/251031-kari/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/251031-kari/</guid>
+      <guid>https://hanjoon.com/media/251031-kari/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://blog.naver.com/karipr/224059745567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[KARI 누리호 4차 발사 탑재위성 참여기관 시리즈 - 서울대학교]&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Introducing SNUGLITE-III CubeSat&lt;/li&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Farewell and New Beginning</title>
-      <link>https://hanjoon.com/event/251001-uol/</link>
+      <link>https://hanjoon.com/milestone/251001-uol/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/251001-uol/</guid>
+      <guid>https://hanjoon.com/milestone/251001-uol/</guid>
       <description>&lt;p&gt;From March 2017 to September 2025, I have been part of the GNSS Laboratory at Seoul National University, completing my graduate studies and concluding my journey as a postdoctoral researcher.&lt;/p&gt;
 &lt;p&gt;I am deeply grateful to Prof. Changdon Kee, whose pioneering Ph.D. work on Wide-Area DGPS (WADGPS) laid the groundwork for what became today’s Satellite-Based Augmentation Systems (SBAS). His invaluable guidance has shaped my growth as a researcher, and I also extend my sincere thanks to all my colleagues for their companionship and support throughout these years.&lt;/p&gt;
 &lt;p&gt;In particular, I wish for the successful launch of SNUGLITE-III CubeSat scheduled on November 27, 2025. 🚀&lt;/p&gt;
@@ -116,6 +116,78 @@
 
 
 Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental Testing Completed for SNUGLITE-III CubeSat!</title>
+      <link>https://hanjoon.com/milestone/250627-evt/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/250627-evt/</guid>
+      <description>&lt;p&gt;From June 18 to 27, 2025, launch vibration and thermal vacuum tests were completed at the KTL in Jinju, Korea, as part of final pre-launch preparations. SNUGLITE-III is scheduled to launch aboard the Nuri rocket from the Naro Space Center in late November.&lt;/p&gt;
+&lt;p&gt;The CubeSat features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first in-orbit demonstration of GPS RTK relative navigation&lt;/li&gt;
+&lt;li&gt;Autonomous rendezvous and docking without propulsion&lt;/li&gt;
+&lt;li&gt;A GPS-based attitude determination system designed for CubeSats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Grateful to take part in this mission advancing the frontiers of CubeSat technology. Still a long road ahead, but each milestone brings us closer to space.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/250627-evt/fig1_hu_aa6ce0c0571274e2.webp 400w,
+               /milestone/250627-evt/fig1_hu_465fe3fa86b48fd9.webp 760w,
+               /milestone/250627-evt/fig1_hu_cc1bba463a904f45.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/250627-evt/fig1_hu_aa6ce0c0571274e2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig2&#34; srcset=&#34;
+               /milestone/250627-evt/fig2_hu_a7cc5feecda66dbd.webp 400w,
+               /milestone/250627-evt/fig2_hu_aeb149dd5284b89e.webp 760w,
+               /milestone/250627-evt/fig2_hu_534f0a335594cfd2.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/250627-evt/fig2_hu_a7cc5feecda66dbd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -215,9 +287,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Personal Homepage Released</title>
-      <link>https://hanjoon.com/event/241015-release/</link>
+      <link>https://hanjoon.com/milestone/241015-release/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/241015-release/</guid>
+      <guid>https://hanjoon.com/milestone/241015-release/</guid>
       <description>&lt;p&gt;I’m excited to announce that my research website is now live!&lt;/p&gt;
 &lt;p&gt;The site serves as a hub for sharing updates on my projects, publications, and other academic activities.
 This platform is designed to showcase my work in spacecraft navigation and CubeSat technologies, with the goal of connecting with fellow researchers and enthusiasts in the field.
@@ -251,9 +323,9 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
     
     <item>
       <title>Media Report on Sep 26, 2024</title>
-      <link>https://hanjoon.com/event/240926/</link>
+      <link>https://hanjoon.com/media/240926/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240926/</guid>
+      <guid>https://hanjoon.com/media/240926/</guid>
       <description>&lt;h2 id=&#34;1-큐브위성-스누그라이트-3-소개하는-심한준-연구원&#34;&gt;1) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;큐브위성 스누그라이트-3 소개하는 심한준 연구원&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Researcher Hanjoon Shim introduces SNUGLITE-III CubeSat&lt;/li&gt;
@@ -286,10 +358,10 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig2&#34; srcset=&#34;
-               /event/240926/fig2_hu_396741471beaea0d.webp 400w,
-               /event/240926/fig2_hu_1b2f25571be9fa67.webp 760w,
-               /event/240926/fig2_hu_d1f00c22c6fe6502.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig2_hu_396741471beaea0d.webp&#34;
+               /media/240926/fig2_hu_396741471beaea0d.webp 400w,
+               /media/240926/fig2_hu_1b2f25571be9fa67.webp 760w,
+               /media/240926/fig2_hu_d1f00c22c6fe6502.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/240926/fig2_hu_396741471beaea0d.webp&#34;
                width=&#34;720&#34;
                height=&#34;480&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -321,10 +393,10 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig3&#34; srcset=&#34;
-               /event/240926/fig3_hu_c88a47565a114b48.webp 400w,
-               /event/240926/fig3_hu_2113ee73677d6416.webp 760w,
-               /event/240926/fig3_hu_e82c1bafc03d26fa.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig3_hu_c88a47565a114b48.webp&#34;
+               /media/240926/fig3_hu_c88a47565a114b48.webp 400w,
+               /media/240926/fig3_hu_2113ee73677d6416.webp 760w,
+               /media/240926/fig3_hu_e82c1bafc03d26fa.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/240926/fig3_hu_c88a47565a114b48.webp&#34;
                width=&#34;720&#34;
                height=&#34;467&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -356,10 +428,10 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig4&#34; srcset=&#34;
-               /event/240926/fig4_hu_11c505ddd1bb2d8d.webp 400w,
-               /event/240926/fig4_hu_261a7705ac96403b.webp 760w,
-               /event/240926/fig4_hu_76a403ca8c3bb0b.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig4_hu_11c505ddd1bb2d8d.webp&#34;
+               /media/240926/fig4_hu_11c505ddd1bb2d8d.webp 400w,
+               /media/240926/fig4_hu_261a7705ac96403b.webp 760w,
+               /media/240926/fig4_hu_76a403ca8c3bb0b.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/240926/fig4_hu_11c505ddd1bb2d8d.webp&#34;
                width=&#34;720&#34;
                height=&#34;525&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -390,10 +462,10 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig5&#34; srcset=&#34;
-               /event/240926/fig5_hu_1f3f69a49ecfcf8e.webp 400w,
-               /event/240926/fig5_hu_5c6c8cc97fd3b4ea.webp 760w,
-               /event/240926/fig5_hu_5d1639fa116c676b.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig5_hu_1f3f69a49ecfcf8e.webp&#34;
+               /media/240926/fig5_hu_1f3f69a49ecfcf8e.webp 400w,
+               /media/240926/fig5_hu_5c6c8cc97fd3b4ea.webp 760w,
+               /media/240926/fig5_hu_5d1639fa116c676b.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/240926/fig5_hu_1f3f69a49ecfcf8e.webp&#34;
                width=&#34;719&#34;
                height=&#34;487&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -425,10 +497,10 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig6&#34; srcset=&#34;
-               /event/240926/fig6_hu_4282cf69115099ab.webp 400w,
-               /event/240926/fig6_hu_f5e0b48e49b01f62.webp 760w,
-               /event/240926/fig6_hu_4476292bd804e7c6.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240926/fig6_hu_4282cf69115099ab.webp&#34;
+               /media/240926/fig6_hu_4282cf69115099ab.webp 400w,
+               /media/240926/fig6_hu_f5e0b48e49b01f62.webp 760w,
+               /media/240926/fig6_hu_4476292bd804e7c6.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/240926/fig6_hu_4282cf69115099ab.webp&#34;
                width=&#34;662&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -498,10 +570,58 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Announce my graduation with a Doctorate in Aerospace Engineering</title>
+      <link>https://hanjoon.com/milestone/240831-grad/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/240831-grad/</guid>
+      <description>&lt;p&gt;I am honored to announce my graduation with a Doctorate in Aerospace Engineering.
+With profound gratitude for the support and knowledge I have gained, I remain steadfast in my commitment to the principle of &amp;ldquo;learning and sharing with others.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;My doctoral dissertation, &amp;ldquo;Precise GPS Relative Navigation for CubeSat Rendezvous,&amp;rdquo; delves into the development of RTK-based relative navigation techniques, achieving centimeter-level accuracy for GPS in LEO. This work has successfully demonstrated the application of these advanced techniques to CubeSats. The algorithms, meticulously coded in C within a Real-Time Operating System environment, highlight my proficiency in embedded systems, ensuring rapid computation and reliable centimeter-level GPS-based relative navigation. These innovations will be demonstrated in the SNUGLITE-III CubeSat mission, scheduled for launch in November 2025. Currently, I am fully dedicated to finalizing the SNUGLITE-III project to ensure its successful execution.&lt;/p&gt;
+&lt;p&gt;As I look towards the future, I am actively seeking a postdoctoral position starting in mid-2025. I bring demonstrated expertise in the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS Applications in LEO&lt;/li&gt;
+&lt;li&gt;RTK Relative Navigation&lt;/li&gt;
+&lt;li&gt;CubeSat Technologies&lt;/li&gt;
+&lt;li&gt;Attitude and Orbit Control Systems (AOCS)&lt;/li&gt;
+&lt;li&gt;Hardware-in-the-loop Simulation (HILS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My CV is readily available upon request, and I am eager to explore opportunities where I can contribute my skills and knowledge to cutting-edge projects.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/240831-grad/fig1_hu_31308ac8d2d4150.webp 400w,
+               /milestone/240831-grad/fig1_hu_dac5d7e75dac043f.webp 760w,
+               /milestone/240831-grad/fig1_hu_7fac0d414189999a.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240831-grad/fig1_hu_31308ac8d2d4150.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>Research Blog on Jul 05, 2024</title>
-      <link>https://hanjoon.com/event/240705-research/</link>
+      <link>https://hanjoon.com/milestone/240705-research/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240705-research/</guid>
+      <guid>https://hanjoon.com/milestone/240705-research/</guid>
       <description>&lt;p&gt;For this project, an Engineering Model (EM) of the Interstage GSSB was developed. This design replicates all the functions of the Gomspace Interstage GSSB. Since our team only ordered a limited number of Flight Models (FM), an EM was necessary for testing purposes, as additional FM units were too costly. To facilitate rapid development, I designed the EM to be Arduino-compatible and implemented all protocols to match those of the Gomspace FM. Since this panel does not need to operate in space, it is ideal for flight software testing.&lt;/p&gt;
 &lt;/br&gt;
 &lt;p&gt;
@@ -523,10 +643,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig1&#34; srcset=&#34;
-               /event/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
-               /event/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
-               /event/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
+               /milestone/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
+               /milestone/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
+               /milestone/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
                width=&#34;760&#34;
                height=&#34;334&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -551,10 +671,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig2&#34; srcset=&#34;
-               /event/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
-               /event/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
-               /event/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
+               /milestone/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
+               /milestone/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
+               /milestone/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
                width=&#34;760&#34;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -700,9 +820,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Media Report on Mar 13, 2024</title>
-      <link>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <link>https://hanjoon.com/media/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <guid>https://hanjoon.com/media/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
       <description>&lt;h2 id=&#34;대한민국-우주산업-클러스터-출범행사&#34;&gt;대한민국 우주산업 클러스터 출범행사&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Launching Ceremony of the Republic of Korea Space Industry Cluster&lt;/li&gt;
@@ -721,6 +841,46 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>ION ITM 2024 (Long Beach)</title>
+      <link>https://hanjoon.com/milestone/240124-itm/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/240124-itm/</guid>
+      <description>&lt;p&gt;Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &amp;ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&amp;rdquo; This presentation extends the discussion from the paper presented at the ION GNSS+ conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&amp;rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver.&lt;/p&gt;
+&lt;p&gt;A definite highlight was the opportunity to connect with a diverse range of individuals at the conference, especially during the engaging Student Social Event at the ION conference. It provided a platform for insightful interviews with fellow students, enriching my overall experience.&lt;/p&gt;
+&lt;p&gt;Although my initial plan was to attend ION GNSS+ 2024, unforeseen circumstances led me to participate in IAC 2024 in October. Unfortunately, our team will be divided among labs, and other students will represent us in our meeting with the ION Society. To those attending IAC 2024, I eagerly anticipate connecting at the small satellite-related symposium, where I&amp;rsquo;ll be presenting my findings.&lt;/p&gt;
+&lt;p&gt;Great to have met everyone. I hope to see you again next time.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/240124-itm/fig1_hu_23f4e3d88a38d899.webp 400w,
+               /milestone/240124-itm/fig1_hu_d87906134ea89b9c.webp 760w,
+               /milestone/240124-itm/fig1_hu_75fd0f465769e500.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240124-itm/fig1_hu_23f4e3d88a38d899.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;508&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat</title>
       <link>https://hanjoon.com/publication/ic_202401/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
@@ -730,9 +890,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Research Blog on Dec 08, 2023</title>
-      <link>https://hanjoon.com/event/231208-research/</link>
+      <link>https://hanjoon.com/milestone/231208-research/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/231208-research/</guid>
+      <guid>https://hanjoon.com/milestone/231208-research/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Fit to Standard 3U Size CubeSats&lt;/li&gt;
@@ -760,10 +920,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;231208-fig1&#34; srcset=&#34;
-               /event/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
-               /event/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
-               /event/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
+               /milestone/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
+               /milestone/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
+               /milestone/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
                width=&#34;760&#34;
                height=&#34;212&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -859,6 +1019,45 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://hanjoon.com/publication/dj_202302/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ION GNSS&#43; 2023 (Denver, USA)</title>
+      <link>https://hanjoon.com/milestone/230915-iongnss/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/230915-iongnss/</guid>
+      <description>&lt;p&gt;A little late, but I&amp;rsquo;m excited to share the news that I received the Best Presentation Award at the ION GNSS+ 2023 conference in September.&lt;/p&gt;
+&lt;p&gt;This was my first time attending the ION GNSS+, and I was honored to be recognized for my work. My presentation was on a topic that I am passionate about, and I was glad to have the opportunity to share my research with a wider audience.&lt;/p&gt;
+&lt;p&gt;I received a lot of positive feedback from attendees, and I was able to connect with many people who are working in the same field. I am grateful for the opportunity to have attended this prestigious event, and I look forward to continuing my research in the field of GNSS.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp 400w,
+               /milestone/230915-iongnss/fig1_hu_cdf7b38adad2eb7b.webp 760w,
+               /milestone/230915-iongnss/fig1_hu_b1b5b4bf20949e14.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
     </item>
     
     <item>
@@ -1041,9 +1240,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Media Report on Feb 21, 2023</title>
-      <link>https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <link>https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <guid>https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
       <description>&lt;h2 id=&#34;뉴스페이스-시대-우주경제-개척자와의-대화&#34;&gt;뉴스페이스 시대 우주경제 개척자와의 대화&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: A conversation with a space economy pioneer in the Newspace era (Invited Event)&lt;/li&gt;
@@ -1070,10 +1269,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230221-kor-fig1&#34; srcset=&#34;
-               /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
-               /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
-               /event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
+               /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
+               /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
+               /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
                width=&#34;760&#34;
                height=&#34;481&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1208,9 +1407,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Media Report on Sep 23, 2022</title>
-      <link>https://hanjoon.com/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;작지만-강한-큐브위성-뜬다-세계시장-발맞춰-기술력-강화해야&#34;&gt;&lt;a href=&#34;https://www.donga.com/news/article/all/20220923/115590962/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;작지만 강한 ‘큐브위성’ 뜬다… “세계시장 발맞춰 기술력 강화해야”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Small but strong ‘cube satellite’ is emerging… “Technical capabilities must be strengthened to keep pace with the global market”&lt;/li&gt;
@@ -1222,9 +1421,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Media Report on Sep 4, 2022</title>
-      <link>https://hanjoon.com/event/220904-snu/</link>
+      <link>https://hanjoon.com/media/220904-snu/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220904-snu/</guid>
+      <guid>https://hanjoon.com/media/220904-snu/</guid>
       <description>&lt;h2 id=&#34;누리호에-쏘아-올린-그들의-열정&#34;&gt;&lt;a href=&#34;https://www.snunews.com/news/articleView.html?idxno=30937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호에 쏘아 올린 그들의 열정&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Their passion launched into Nuri&lt;/li&gt;
@@ -1287,11 +1486,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-III CubeSat was selected as a finalist in the &amp;ldquo;2022 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I&lt;/a&gt; and &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii/&#34;&gt;SNUGLITE-II&lt;/a&gt; missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University&amp;rsquo;s GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-III CubeSat was selected as a finalist in the &amp;ldquo;2022 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the 
+ and 
+ missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University&amp;rsquo;s GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.&lt;/p&gt;
 &lt;p&gt;This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes. I was responsible for the following tasks.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt; 
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;World&amp;rsquo;s first&lt;/em&gt; real-time kinematic (RTK) relative navigation system&lt;/li&gt;
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
@@ -1325,15 +1527,24 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/ul&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-iii-cubesat&#34;&gt;1. SNUGLITE-III CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-snuglite-team-2022&#34;&gt;1.1. SNUGLITE Team (2022)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-nagigation-rn-system&#34;&gt;2. GPS Relative Navigation System (RN)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#3-attitude-control-system-acs&#34;&gt;3. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#4-assembly-integration-and-test-ait&#34;&gt;4. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#5-operation-results&#34;&gt;5. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#51-launch-and-initial-operation&#34;&gt;5.1. Launch and Initial Operation&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-iii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-III CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -1368,12 +1579,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/changdon-kee/&#34;&gt;Changdon Kee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Supervisor&lt;/td&gt;
           &lt;td&gt;-&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hanjoon-shim/&#34;&gt;&lt;strong&gt;Hanjoon Shim&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;Technical Adviser (Former team leader, SNUGLITE-II)&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;~&amp;lsquo;25.9&lt;/strong&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -1383,7 +1596,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/yonghwan-bae&#34;&gt;Yonghwan Bae&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Team Leader&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
@@ -1393,27 +1607,32 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hojoon-jeong&#34;&gt;Hojoon Jeong&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;14&lt;/sup&gt;PAY1&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jaeuk-park&#34;&gt;Jaeuk Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;9&lt;/sup&gt;EPS, &lt;sup&gt;10&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;GND&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Jae Woong Hwang&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;OCS, &lt;sup&gt;11&lt;/sup&gt;PAY1&lt;/td&gt;
           &lt;td&gt;~Now&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Seongjin Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;11&lt;/sup&gt;PAY2&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jikang-lee&#34;&gt;Jikang Lee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;~&amp;lsquo;24.3&lt;/td&gt;
       &lt;/tr&gt;
@@ -1558,7 +1777,10 @@ Fig. Operation Scenario
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-gps-relative-nagigation-rn-system&#34;&gt;&lt;strong&gt;2. GPS Relative Nagigation (RN) System&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The GPS relative navigation (RN) system was developed based on the experience from the &lt;a href=&#34;https://hanjoon.com/project/kardsat&#34;&gt;KARDSAT&lt;/a&gt;.  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt; and the published representative paper &lt;a href=&#34;https://hanjoon.com/publication/ij_202401/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The GPS relative navigation (RN) system was developed based on the experience from the 
+.  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my 
+ and the published representative paper 
+.&lt;/p&gt;
 &lt;p&gt;The concept of the GPS RN system is shown in the figure below. Orbit propagation serves as a backup in case of inter-satellite link failures.&lt;/p&gt;
 &lt;p&gt;
 
@@ -1630,7 +1852,8 @@ Fig. Overall Block Diagram of RN
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;3-attitude-control-system-acs&#34;&gt;&lt;strong&gt;3. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii&#34;&gt;SNUGLITE-II&lt;/a&gt;. In SNUGLITE-III, an attitude control is utilized for orbital control.&lt;/p&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from 
+. In SNUGLITE-III, an attitude control is utilized for orbital control.&lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
@@ -1644,7 +1867,8 @@ Fig. Overall Block Diagram of RN
 &lt;ul&gt;
 &lt;li&gt;On Dec 21, 2022, at approximately 16:00 (UTC+9), the SNUGLITE-II CubeSat was launched from the Naro Space Center in Goheung, South Korea, aboard the KSLV-II (Nuri) launch vehicle along with a performance verification satellite. At approximately 12 mins after, the CubeSat was ejected from the POD of the KSLV-II and successfully reached a sun-synchronous orbit at an altitude of 600 km.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/kj-oIE3ABNk?si=jPNPDTD33C1cqYpm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/kj-oIE3ABNk?si=jPNPDTD33C1cqYpm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: KSLV-II Nuri Launch at Naro-Space Center in Korea
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
           &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kj-oIE3ABNk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -1665,9 +1889,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Sep 1, 2022</title>
-      <link>https://hanjoon.com/event/220901-snu/</link>
+      <link>https://hanjoon.com/media/220901-snu/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220901-snu/</guid>
+      <guid>https://hanjoon.com/media/220901-snu/</guid>
       <description>&lt;h2 id=&#34;a-small-dream-launched-into-space&#34;&gt;&lt;a href=&#34;https://people.snu.ac.kr/en/69/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Small Dream Launched Into Space&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Source: SNU People (Seoul National University Magazine), 2022 vol. 69&lt;/li&gt;
@@ -1683,9 +1907,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Aug 1, 2022</title>
-      <link>https://hanjoon.com/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
+      <link>https://hanjoon.com/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
+      <guid>https://hanjoon.com/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.sedaily.com/NewsView/269MMUHBFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;미완의 성공에도 우리 도전은 멈추지 않는다&amp;rsquo; 서울대 SNUGLITE 팀&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: &amp;lsquo;Our challenge does not stop despite unfinished success&amp;rsquo; Seoul National University SNUGLITE Team&lt;/li&gt;
@@ -1697,9 +1921,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Jul 27, 2022</title>
-      <link>https://hanjoon.com/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25089955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[교육이 미래다] &amp;ldquo;우리 세대가 만들어갈 우주 강국 대한민국 기대&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: [Education is the Future] &amp;ldquo;Expecting Korea to become a space powerhouse that our generation will create&amp;rdquo;&lt;/li&gt;
@@ -1710,10 +1934,24 @@ Fig. Overall Block Diagram of RN
     </item>
     
     <item>
+      <title>Media Report on Jul 10, 2022</title>
+      <link>https://hanjoon.com/media/220710-yna/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/media/220710-yna/</guid>
+      <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.yna.co.kr/view/AKR20220709041800004?input=1195m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;위성 안테나 전개 안될 땐 장례식인 듯…교신 순간 축제 됐죠&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Title: “It Felt Like a Funeral When the Antenna Wouldn’t Deploy—Then Came the Celebration as Contact Was Made.”&lt;/li&gt;
+&lt;li&gt;Source: 연합뉴스 (YNA)&lt;/li&gt;
+&lt;li&gt;Language: Korean&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Media Report on Jul 06, 2022</title>
-      <link>https://hanjoon.com/event/220706-hellodd/</link>
+      <link>https://hanjoon.com/media/220706-hellodd/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220706-hellodd/</guid>
+      <guid>https://hanjoon.com/media/220706-hellodd/</guid>
       <description>&lt;h2 id=&#34;윤석열-대통령&#34;&gt;&lt;a href=&#34;https://www.hellodd.com/news/articleView.html?idxno=97450&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;윤석열 대통령 &amp;ldquo;우주경제시대 열어가자&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: President Yoon, &amp;ldquo;Let&amp;rsquo;s Open the Space Economy Era (Invited Event)&lt;/li&gt;
@@ -1726,9 +1964,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Jul 3, 2022</title>
-      <link>https://hanjoon.com/event/220703-karitv/</link>
+      <link>https://hanjoon.com/media/220703-karitv/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220703-karitv/</guid>
+      <guid>https://hanjoon.com/media/220703-karitv/</guid>
       <description>&lt;h2 id=&#34;누리호-성능검증위성-세-번째-큐브위성-사출-성공서울대-snuglite-&#34;&gt;&lt;a href=&#34;https://youtu.be/dA4ncYvF6eM?si=RFTlMdCMqWO2LWbT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 성능검증위성, 세 번째 큐브위성 사출 성공(서울대 SNUGLITE-Ⅱ)&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: PVSAT Ejected SNUGLITE-II CubeSat Succesfully&lt;/li&gt;
@@ -1746,9 +1984,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Jun 23, 2022</title>
-      <link>https://hanjoon.com/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;3년-걸려-큐브위성-만든-학생들-우리-기술-누리호-성공-뿌듯&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25081263&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3년 걸려 큐브위성 만든 학생들 “우리 기술 누리호 성공 뿌듯”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Students who built CubeSat after 3 years: “We are proud of our technology’s success with Nuriho”&lt;/li&gt;
@@ -1760,9 +1998,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on May 27, 2022</title>
-      <link>https://hanjoon.com/event/220527-jtbc/</link>
+      <link>https://hanjoon.com/media/220527-jtbc/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220527-jtbc/</guid>
+      <guid>https://hanjoon.com/media/220527-jtbc/</guid>
       <description>&lt;h2 id=&#34;누리호-위성-속에는&#34;&gt;&lt;a href=&#34;https://news.jtbc.co.kr/article/NB12060503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 위성 속에는…&amp;lsquo;국과대표&amp;rsquo; 우주 총정리&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Inside the Nuriho satellite… &amp;lsquo;국과대표&amp;rsquo; space summary&lt;/li&gt;
@@ -1774,9 +2012,9 @@ Fig. Overall Block Diagram of RN
     
     <item>
       <title>Media Report on Apr 15, 2022</title>
-      <link>https://hanjoon.com/event/220415-karitv/</link>
+      <link>https://hanjoon.com/media/220415-karitv/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/220415-karitv/</guid>
+      <guid>https://hanjoon.com/media/220415-karitv/</guid>
       <description>&lt;h2 id=&#34;우리-위성을-우리-발사체로-우리-땅에서-쏜다-6월-누리호-2차-발사-탑재위성-공개&#34;&gt;&lt;a href=&#34;https://youtu.be/B8jkIAlyAAM?si=RXrpF18n3El7X6Nn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;우리 위성을 우리 발사체로 우리 땅에서 쏜다! 6월 누리호 2차 발사 탑재위성 공개&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Launching our satellite from our land with our own launch vehicle! The satellite on board the second launch of Nuri in June has been revealed!&lt;/li&gt;
@@ -2247,8 +2485,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 475 million KRW. The primary mission was to develop the second generation of the dual-frequency L1/L2C GPS receiver, which was originally developed in the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I CubeSat project&lt;/a&gt;. The project aimed to improve the quality of millimeter-level carrier phase measurements and to miniaturize the receiver. Using this advanced GPS receiver, the mission included conducting 3D Earth atmospheric observations through GPS Radio Occultation (RO). Technological objectives included the world&amp;rsquo;s first stand-alone GPS-based attitude determination system implemented in a 3U CubeSat, as well as the development of an indigenous reaction wheel-based attitude control system.
-SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s first indigenous orbital launch vehicle, the Nuri (KSLV-II), as part of the performance verification satellite payload in a P-POD, on June 21, 2022. After &lt;em&gt;approximately 11 days of nominal operation in commissioning mode and receiving partial mission data via UHF bi-directional communication, a sudden loss of communication occurred&lt;/em&gt;, leading to the official end of the mission. For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 475 million KRW. The primary mission was to develop the second generation of the dual-frequency L1/L2C GPS receiver, which was originally developed in the 
+. The project aimed to improve the quality of millimeter-level carrier phase measurements and to miniaturize the receiver. Using this advanced GPS receiver, the mission included conducting 3D Earth atmospheric observations through GPS Radio Occultation (RO). Technological objectives included the world&amp;rsquo;s first stand-alone GPS-based attitude determination system implemented in a 3U CubeSat, as well as the development of an indigenous reaction wheel-based attitude control system.
+SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s first indigenous orbital launch vehicle, the Nuri (KSLV-II), as part of the performance verification satellite payload in a P-POD, on June 21, 2022. After &lt;em&gt;approximately 11 days of nominal operation in commissioning mode and receiving partial mission data via UHF bi-directional communication, a sudden loss of communication occurred&lt;/em&gt;, leading to the official end of the mission. For more details, refer to the paper on in-orbit results (in Korean) 
+.&lt;/p&gt;
 &lt;p&gt;This project ran from 2019 to 2022, and I served as &lt;strong&gt;the team leader&lt;/strong&gt; of the SNUGLITE team, overseeing every stage from preliminary design during the 2019 CubeSat Competition to the satellite&amp;rsquo;s launch. In addition to my role as &lt;strong&gt;Project Manager&lt;/strong&gt;, I took on the responsibilities of &lt;strong&gt;Attitude Control System (ACS)&lt;/strong&gt; engineer, leading the development of the &lt;strong&gt;flight software&lt;/strong&gt;, &lt;strong&gt;hardware design&lt;/strong&gt;, and the &lt;strong&gt;assembly, integration, and test&lt;/strong&gt; processes. Through this CubeSat project, I gained hands-on experience in all stages of satellite development.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Manager&lt;/strong&gt;
@@ -2283,22 +2523,38 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-ii-cubesat&#34;&gt;1. SNUGLITE-II CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-snuglite-team-2019&#34;&gt;1.1. SNUGLITE Team (2019)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-control-system-acs&#34;&gt;2. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.3. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;3. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.1. Hardware Design (PCB)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.2. Assembly and Integration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.3. Environment Test&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#4-operation-results&#34;&gt;4. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#41-launch-and-initial-operation&#34;&gt;4.1. Launch and Initial Operation&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#42-cubesat-gps-l1l2c-receiver&#34;&gt;4.2. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#43-acs&#34;&gt;4.3. ACS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-ii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-II CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -2331,22 +2587,26 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/changdon-kee/&#34;&gt;Changdon Kee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Supervisor&lt;/td&gt;
           &lt;td&gt;-&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/o-jong-kim/&#34;&gt;O-Jong Kim&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Technical Adviser (Former team leader, SNUGLITE-I)&lt;/td&gt;
           &lt;td&gt;~&amp;lsquo;20.8&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/kybeon-kwon/&#34;&gt;Kybeom Kwon&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Adviser (Associate Professor)&lt;/td&gt;
           &lt;td&gt;&amp;lsquo;21.2~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hanjoon-shim/&#34;&gt;&lt;strong&gt;Hanjoon Shim&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;Team Leader&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;~EOP&lt;/strong&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -2356,22 +2616,26 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/yonghwan-bae&#34;&gt;Yonghwan Bae&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;7&lt;/sup&gt;COM, &lt;sup&gt;8&lt;/sup&gt;GND, &lt;sup&gt;12&lt;/sup&gt;PAY2&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hojoon-jeong&#34;&gt;Hojoon Jeong&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jaeuk-park&#34;&gt;Jaeuk Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;6&lt;/sup&gt;EPS, &lt;sup&gt;7&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;PAY3&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jikang-lee&#34;&gt;Jikang Lee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;&amp;lsquo;20.7~EOP&lt;/td&gt;
       &lt;/tr&gt;
@@ -2470,7 +2734,9 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;NORAD 52899, &lt;a href=&#34;https://db.satnogs.org/satellite/YFNZ-9504-4902-9033-1722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite-2.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;NORAD 52899, 
+, 
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -2708,7 +2974,8 @@ Fig. Operation Scenario
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-control-system-acs&#34;&gt;&lt;strong&gt;2. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-i&#34;&gt;SNUGLITE-I&lt;/a&gt;. In SNUGLITE-II, the addition of a reaction wheel required the design of a precise attitude controller, which I led throughout the entire process. The design of the overall attitude control system is illustrated in the following figure.&lt;/p&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from 
+. In SNUGLITE-II, the addition of a reaction wheel required the design of a precise attitude controller, which I led throughout the entire process. The design of the overall attitude control system is illustrated in the following figure.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2740,7 +3007,8 @@ Fig. Operation Scenario
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of ADCS
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
-&lt;p&gt;The development concept for creating the ACS is as follows. As the objective was demonstration, thorough validation was essential, which was achieved by systematically performing the traditional SILS-PILS-HILS verification stages. The programs utilized during this phase included MATLAB, Visual Studio, and Linux Eclipse. Related papers can be referenced &lt;a href=&#34;https://hanjoon.com/publication/dj_202301&#34;&gt;here&lt;/a&gt; (in Korean).&lt;/p&gt;
+&lt;p&gt;The development concept for creating the ACS is as follows. As the objective was demonstration, thorough validation was essential, which was achieved by systematically performing the traditional SILS-PILS-HILS verification stages. The programs utilized during this phase included MATLAB, Visual Studio, and Linux Eclipse. Related papers can be referenced 
+ (in Korean).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2786,7 +3054,8 @@ Fig. Design Philosophy of ADCS
 &lt;/br&gt;&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/h3&gt;
-&lt;h4 id=&#34;single-axis-attitude-control-system-verificaton-not-published-yet-limited-information&#34;&gt;Single-axis attitude control system verificaton &lt;a href=&#34;https://hanjoon.com/publication/ij_202502&#34;&gt;(Not Published Yet: Limited Information)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;single-axis-attitude-control-system-verificaton-not-published-yet-limited-information&#34;&gt;Single-axis attitude control system verificaton 
+&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;PILS: ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC)&lt;/li&gt;
 &lt;li&gt;Attitude determination: Extended Kalman filter (Sun+Magnetometer+Gyro)&lt;/li&gt;
@@ -3072,7 +3341,8 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
 Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results (in Korean) 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
@@ -3186,8 +3456,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available &lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;
 &lt;ul&gt;
@@ -3204,13 +3476,20 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-kardsat-cubesat&#34;&gt;1. KARDSAT CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-navigation-system&#34;&gt;2. GPS Relative Navigation System&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-overall-block-diagram&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-kardsat-cubesat&#34;&gt;&lt;strong&gt;1. KARDSAT CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -3259,7 +3538,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report on National R&amp;amp;D&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3476,7 +3756,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
@@ -3741,8 +4022,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Developed ADCS Algorithm&lt;/strong&gt;
 &lt;ul&gt;
@@ -3751,7 +4034,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;[Master&amp;rsquo;s Thesis]&lt;/a&gt;
+&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; 
+
 &lt;ul&gt;
 &lt;li&gt;Single-axis ADCS HILS Verification&lt;/li&gt;
 &lt;li&gt;Design and fabrication of the Helmholtz cage&lt;/li&gt;
@@ -3761,16 +4045,26 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;1. SNUGLITE-I CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-launch&#34;&gt;1.3. Launch&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-determination-and-control-system-adcs&#34;&gt;2. Attitude Determination and Control System (ADCS)&lt;/a&gt;&lt;/strong&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#3-operation-results&#34;&gt;3. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#31-cubesat-gps-l1l2c-receiver&#34;&gt;3.1. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#32-adcs&#34;&gt;3.2. ADCS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt; &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-i-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-I CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -3825,7 +4119,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, &lt;a href=&#34;https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, 
+, 
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3872,7 +4168,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-determination-and-control-system-adcs&#34;&gt;&lt;strong&gt;2. Attitude Determination and Control System (ADCS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Related to my Master’s thesis &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Related to my Master’s thesis 
+.&lt;/p&gt;
 &lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
 &lt;h4 id=&#34;algorithm-design-developed-based-on-work-inherited-from-previous-graduates&#34;&gt;Algorithm design: Developed based on work inherited from previous graduates&lt;/h4&gt;
 &lt;ul&gt;
@@ -3931,7 +4228,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;h4 id=&#34;single-axis-hils-verification-using-helmholtz-cage&#34;&gt;Single-axis HILS verification using Helmholtz cage&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results 
+.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -3976,7 +4274,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;h3 id=&#34;32-adcs&#34;&gt;3.2. ADCS&lt;/h3&gt;
 &lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below-&#34;&gt;For more information, refer to the related publications below. :)&lt;/h1&gt;

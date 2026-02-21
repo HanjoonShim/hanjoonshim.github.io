@@ -5,7 +5,7 @@
     <link>https://hanjoon.com/tag/blog/</link>
       <atom:link href="https://hanjoon.com/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>Blog</title>
@@ -13,10 +13,130 @@
     </image>
     
     <item>
+      <title>Environmental Testing Completed for SNUGLITE-III CubeSat!</title>
+      <link>https://hanjoon.com/milestone/250627-evt/</link>
+      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/250627-evt/</guid>
+      <description>&lt;p&gt;From June 18 to 27, 2025, launch vibration and thermal vacuum tests were completed at the KTL in Jinju, Korea, as part of final pre-launch preparations. SNUGLITE-III is scheduled to launch aboard the Nuri rocket from the Naro Space Center in late November.&lt;/p&gt;
+&lt;p&gt;The CubeSat features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first in-orbit demonstration of GPS RTK relative navigation&lt;/li&gt;
+&lt;li&gt;Autonomous rendezvous and docking without propulsion&lt;/li&gt;
+&lt;li&gt;A GPS-based attitude determination system designed for CubeSats&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Grateful to take part in this mission advancing the frontiers of CubeSat technology. Still a long road ahead, but each milestone brings us closer to space.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/250627-evt/fig1_hu_aa6ce0c0571274e2.webp 400w,
+               /milestone/250627-evt/fig1_hu_465fe3fa86b48fd9.webp 760w,
+               /milestone/250627-evt/fig1_hu_cc1bba463a904f45.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/250627-evt/fig1_hu_aa6ce0c0571274e2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig2&#34; srcset=&#34;
+               /milestone/250627-evt/fig2_hu_a7cc5feecda66dbd.webp 400w,
+               /milestone/250627-evt/fig2_hu_aeb149dd5284b89e.webp 760w,
+               /milestone/250627-evt/fig2_hu_534f0a335594cfd2.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/250627-evt/fig2_hu_a7cc5feecda66dbd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Announce my graduation with a Doctorate in Aerospace Engineering</title>
+      <link>https://hanjoon.com/milestone/240831-grad/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/240831-grad/</guid>
+      <description>&lt;p&gt;I am honored to announce my graduation with a Doctorate in Aerospace Engineering.
+With profound gratitude for the support and knowledge I have gained, I remain steadfast in my commitment to the principle of &amp;ldquo;learning and sharing with others.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;My doctoral dissertation, &amp;ldquo;Precise GPS Relative Navigation for CubeSat Rendezvous,&amp;rdquo; delves into the development of RTK-based relative navigation techniques, achieving centimeter-level accuracy for GPS in LEO. This work has successfully demonstrated the application of these advanced techniques to CubeSats. The algorithms, meticulously coded in C within a Real-Time Operating System environment, highlight my proficiency in embedded systems, ensuring rapid computation and reliable centimeter-level GPS-based relative navigation. These innovations will be demonstrated in the SNUGLITE-III CubeSat mission, scheduled for launch in November 2025. Currently, I am fully dedicated to finalizing the SNUGLITE-III project to ensure its successful execution.&lt;/p&gt;
+&lt;p&gt;As I look towards the future, I am actively seeking a postdoctoral position starting in mid-2025. I bring demonstrated expertise in the following areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GPS Applications in LEO&lt;/li&gt;
+&lt;li&gt;RTK Relative Navigation&lt;/li&gt;
+&lt;li&gt;CubeSat Technologies&lt;/li&gt;
+&lt;li&gt;Attitude and Orbit Control Systems (AOCS)&lt;/li&gt;
+&lt;li&gt;Hardware-in-the-loop Simulation (HILS)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;My CV is readily available upon request, and I am eager to explore opportunities where I can contribute my skills and knowledge to cutting-edge projects.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/240831-grad/fig1_hu_31308ac8d2d4150.webp 400w,
+               /milestone/240831-grad/fig1_hu_dac5d7e75dac043f.webp 760w,
+               /milestone/240831-grad/fig1_hu_7fac0d414189999a.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240831-grad/fig1_hu_31308ac8d2d4150.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>Research Blog on Jul 05, 2024</title>
-      <link>https://hanjoon.com/event/240705-research/</link>
+      <link>https://hanjoon.com/milestone/240705-research/</link>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/240705-research/</guid>
+      <guid>https://hanjoon.com/milestone/240705-research/</guid>
       <description>&lt;p&gt;For this project, an Engineering Model (EM) of the Interstage GSSB was developed. This design replicates all the functions of the Gomspace Interstage GSSB. Since our team only ordered a limited number of Flight Models (FM), an EM was necessary for testing purposes, as additional FM units were too costly. To facilitate rapid development, I designed the EM to be Arduino-compatible and implemented all protocols to match those of the Gomspace FM. Since this panel does not need to operate in space, it is ideal for flight software testing.&lt;/p&gt;
 &lt;/br&gt;
 &lt;p&gt;
@@ -38,10 +158,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig1&#34; srcset=&#34;
-               /event/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
-               /event/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
-               /event/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
+               /milestone/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
+               /milestone/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
+               /milestone/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
                width=&#34;760&#34;
                height=&#34;334&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -66,10 +186,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig2&#34; srcset=&#34;
-               /event/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
-               /event/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
-               /event/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
+               /milestone/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
+               /milestone/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
+               /milestone/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
                width=&#34;760&#34;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -79,10 +199,50 @@
     </item>
     
     <item>
+      <title>ION ITM 2024 (Long Beach)</title>
+      <link>https://hanjoon.com/milestone/240124-itm/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/240124-itm/</guid>
+      <description>&lt;p&gt;Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &amp;ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&amp;rdquo; This presentation extends the discussion from the paper presented at the ION GNSS+ conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&amp;rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver.&lt;/p&gt;
+&lt;p&gt;A definite highlight was the opportunity to connect with a diverse range of individuals at the conference, especially during the engaging Student Social Event at the ION conference. It provided a platform for insightful interviews with fellow students, enriching my overall experience.&lt;/p&gt;
+&lt;p&gt;Although my initial plan was to attend ION GNSS+ 2024, unforeseen circumstances led me to participate in IAC 2024 in October. Unfortunately, our team will be divided among labs, and other students will represent us in our meeting with the ION Society. To those attending IAC 2024, I eagerly anticipate connecting at the small satellite-related symposium, where I&amp;rsquo;ll be presenting my findings.&lt;/p&gt;
+&lt;p&gt;Great to have met everyone. I hope to see you again next time.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/240124-itm/fig1_hu_23f4e3d88a38d899.webp 400w,
+               /milestone/240124-itm/fig1_hu_d87906134ea89b9c.webp 760w,
+               /milestone/240124-itm/fig1_hu_75fd0f465769e500.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/240124-itm/fig1_hu_23f4e3d88a38d899.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;508&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>Research Blog on Dec 08, 2023</title>
-      <link>https://hanjoon.com/event/231208-research/</link>
+      <link>https://hanjoon.com/milestone/231208-research/</link>
       <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://hanjoon.com/event/231208-research/</guid>
+      <guid>https://hanjoon.com/milestone/231208-research/</guid>
       <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Fit to Standard 3U Size CubeSats&lt;/li&gt;
@@ -110,16 +270,55 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;231208-fig1&#34; srcset=&#34;
-               /event/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
-               /event/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
-               /event/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
-               src=&#34;https://hanjoon.com/event/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
+               /milestone/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
+               /milestone/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
+               /milestone/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
                width=&#34;760&#34;
                height=&#34;212&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ION GNSS&#43; 2023 (Denver, USA)</title>
+      <link>https://hanjoon.com/milestone/230915-iongnss/</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://hanjoon.com/milestone/230915-iongnss/</guid>
+      <description>&lt;p&gt;A little late, but I&amp;rsquo;m excited to share the news that I received the Best Presentation Award at the ION GNSS+ 2023 conference in September.&lt;/p&gt;
+&lt;p&gt;This was my first time attending the ION GNSS+, and I was honored to be recognized for my work. My presentation was on a topic that I am passionate about, and I was glad to have the opportunity to share my research with a wider audience.&lt;/p&gt;
+&lt;p&gt;I received a lot of positive feedback from attendees, and I was able to connect with many people who are working in the same field. I am grateful for the opportunity to have attended this prestigious event, and I look forward to continuing my research in the field of GNSS.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
+               /milestone/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp 400w,
+               /milestone/230915-iongnss/fig1_hu_cdf7b38adad2eb7b.webp 760w,
+               /milestone/230915-iongnss/fig1_hu_b1b5b4bf20949e14.webp 1200w&#34;
+               src=&#34;https://hanjoon.com/milestone/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![fig2](fig2.jpg) --&gt;</description>
     </item>
     
   </channel>

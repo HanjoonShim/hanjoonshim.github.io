@@ -154,8 +154,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available &lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;
 &lt;ul&gt;
@@ -172,13 +174,20 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-kardsat-cubesat&#34;&gt;1. KARDSAT CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-navigation-system&#34;&gt;2. GPS Relative Navigation System&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-overall-block-diagram&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-kardsat-cubesat&#34;&gt;&lt;strong&gt;1. KARDSAT CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -227,7 +236,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report on National R&amp;amp;D&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -444,7 +454,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;

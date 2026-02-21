@@ -92,11 +92,14 @@
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-III CubeSat was selected as a finalist in the &amp;ldquo;2022 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I&lt;/a&gt; and &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii/&#34;&gt;SNUGLITE-II&lt;/a&gt; missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University&amp;rsquo;s GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-III CubeSat was selected as a finalist in the &amp;ldquo;2022 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 750 million KRW (~$600,000 USD). This mission involves two 3U CubeSats designed to perform autonomous rendezvous and docking without thrusters while conducting GPS radio occultation (RO) measurements, which will be used for 3D atmospheric observations of the Earth. As the successor to the 
+ and 
+ missions, SNUGLITE-III is the final CubeSat project developed by Seoul National University&amp;rsquo;s GNSS Laboratory. The mission focuses on advancing autonomous rendezvous and formation flying technologies, particularly developing a world-first thrusterless orbit control system and a GPS-only real-time kinematic (RTK) relative navigation system. SNUGLITE-III is scheduled for launch aboard Nuri (KSLV-II) during its 4th mission in November 2025 from the Naro Space Center.&lt;/p&gt;
 &lt;p&gt;This project is set to run from 2022 to 2026. The development team includes members from the SNUGLITE-II project, with me serving as a postdoctoral researcher, leveraging all the experiences gained during the SNUGLITE-II development. As part of this project, I provide guidance to the Ph.D. students while contributing to the development of the attitude control system, flight software, GPS relative navigation system, orbit control system, and assembly, integration, and test (AIT) processes. I was responsible for the following tasks.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;GPS Relative Nagigation System (RN)&lt;/strong&gt; 
+&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;World&amp;rsquo;s first&lt;/em&gt; real-time kinematic (RTK) relative navigation system&lt;/li&gt;
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
@@ -130,15 +133,24 @@
 &lt;/ul&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-iii-cubesat&#34;&gt;1. SNUGLITE-III CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-snuglite-team-2022&#34;&gt;1.1. SNUGLITE Team (2022)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-nagigation-rn-system&#34;&gt;2. GPS Relative Navigation System (RN)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#3-attitude-control-system-acs&#34;&gt;3. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#4-assembly-integration-and-test-ait&#34;&gt;4. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#5-operation-results&#34;&gt;5. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#51-launch-and-initial-operation&#34;&gt;5.1. Launch and Initial Operation&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-iii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-III CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -173,12 +185,14 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/changdon-kee/&#34;&gt;Changdon Kee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Supervisor&lt;/td&gt;
           &lt;td&gt;-&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hanjoon-shim/&#34;&gt;&lt;strong&gt;Hanjoon Shim&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;Technical Adviser (Former team leader, SNUGLITE-II)&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;~&amp;lsquo;25.9&lt;/strong&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -188,7 +202,8 @@
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/yonghwan-bae&#34;&gt;Yonghwan Bae&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Team Leader&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
@@ -198,27 +213,32 @@
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hojoon-jeong&#34;&gt;Hojoon Jeong&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;14&lt;/sup&gt;PAY1&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jaeuk-park&#34;&gt;Jaeuk Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;9&lt;/sup&gt;EPS, &lt;sup&gt;10&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;GND&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Jae Woong Hwang&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;OCS, &lt;sup&gt;11&lt;/sup&gt;PAY1&lt;/td&gt;
           &lt;td&gt;~Now&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jae-woong-hwang&#34;&gt;Seongjin Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;11&lt;/sup&gt;PAY2&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jikang-lee&#34;&gt;Jikang Lee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;~&amp;lsquo;24.3&lt;/td&gt;
       &lt;/tr&gt;
@@ -363,7 +383,10 @@ Fig. Operation Scenario
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-gps-relative-nagigation-rn-system&#34;&gt;&lt;strong&gt;2. GPS Relative Nagigation (RN) System&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The GPS relative navigation (RN) system was developed based on the experience from the &lt;a href=&#34;https://hanjoon.com/project/kardsat&#34;&gt;KARDSAT&lt;/a&gt;.  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my &lt;a href=&#34;https://hanjoon.com/publication/thesis_phd/&#34;&gt;[Doctorial Dissertation]&lt;/a&gt; and the published representative paper &lt;a href=&#34;https://hanjoon.com/publication/ij_202401/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The GPS relative navigation (RN) system was developed based on the experience from the 
+.  In the KARDSAT project, a sub-meter level differential GPS (DGPS)-based relative navigation system was developed, while in the SNUGLITE-III CubeSat project, a centimeter-level high-precision real-time kinematic (RTK) relative navigation system was implemented. This system marked the first-ever application of an RTK system in low Earth orbit, with an extremely efficient algorithm designed specifically for on-board use. For more details, refer to my 
+ and the published representative paper 
+.&lt;/p&gt;
 &lt;p&gt;The concept of the GPS RN system is shown in the figure below. Orbit propagation serves as a backup in case of inter-satellite link failures.&lt;/p&gt;
 &lt;p&gt;
 
@@ -435,7 +458,8 @@ Fig. Overall Block Diagram of RN
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;3-attitude-control-system-acs&#34;&gt;&lt;strong&gt;3. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-ii&#34;&gt;SNUGLITE-II&lt;/a&gt;. In SNUGLITE-III, an attitude control is utilized for orbital control.&lt;/p&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from 
+. In SNUGLITE-III, an attitude control is utilized for orbital control.&lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
@@ -449,7 +473,8 @@ Fig. Overall Block Diagram of RN
 &lt;ul&gt;
 &lt;li&gt;On Dec 21, 2022, at approximately 16:00 (UTC+9), the SNUGLITE-II CubeSat was launched from the Naro Space Center in Goheung, South Korea, aboard the KSLV-II (Nuri) launch vehicle along with a performance verification satellite. At approximately 12 mins after, the CubeSat was ejected from the POD of the KSLV-II and successfully reached a sun-synchronous orbit at an altitude of 600 km.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://youtu.be/kj-oIE3ABNk?si=jPNPDTD33C1cqYpm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://youtu.be/kj-oIE3ABNk?si=jPNPDTD33C1cqYpm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;: KSLV-II Nuri Launch at Naro-Space Center in Korea
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
           &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kj-oIE3ABNk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
@@ -521,8 +546,10 @@ Fig. Overall Block Diagram of RN
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 475 million KRW. The primary mission was to develop the second generation of the dual-frequency L1/L2C GPS receiver, which was originally developed in the &lt;a href=&#34;https://hanjoon.com/project/snuglite-i/&#34;&gt;SNUGLITE-I CubeSat project&lt;/a&gt;. The project aimed to improve the quality of millimeter-level carrier phase measurements and to miniaturize the receiver. Using this advanced GPS receiver, the mission included conducting 3D Earth atmospheric observations through GPS Radio Occultation (RO). Technological objectives included the world&amp;rsquo;s first stand-alone GPS-based attitude determination system implemented in a 3U CubeSat, as well as the development of an indigenous reaction wheel-based attitude control system.
-SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s first indigenous orbital launch vehicle, the Nuri (KSLV-II), as part of the performance verification satellite payload in a P-POD, on June 21, 2022. After &lt;em&gt;approximately 11 days of nominal operation in commissioning mode and receiving partial mission data via UHF bi-directional communication, a sudden loss of communication occurred&lt;/em&gt;, leading to the official end of the mission. For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-II CubeSat was selected as a finalist in the &amp;ldquo;2019 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, receiving a total funding of 475 million KRW. The primary mission was to develop the second generation of the dual-frequency L1/L2C GPS receiver, which was originally developed in the 
+. The project aimed to improve the quality of millimeter-level carrier phase measurements and to miniaturize the receiver. Using this advanced GPS receiver, the mission included conducting 3D Earth atmospheric observations through GPS Radio Occultation (RO). Technological objectives included the world&amp;rsquo;s first stand-alone GPS-based attitude determination system implemented in a 3U CubeSat, as well as the development of an indigenous reaction wheel-based attitude control system.
+SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s first indigenous orbital launch vehicle, the Nuri (KSLV-II), as part of the performance verification satellite payload in a P-POD, on June 21, 2022. After &lt;em&gt;approximately 11 days of nominal operation in commissioning mode and receiving partial mission data via UHF bi-directional communication, a sudden loss of communication occurred&lt;/em&gt;, leading to the official end of the mission. For more details, refer to the paper on in-orbit results (in Korean) 
+.&lt;/p&gt;
 &lt;p&gt;This project ran from 2019 to 2022, and I served as &lt;strong&gt;the team leader&lt;/strong&gt; of the SNUGLITE team, overseeing every stage from preliminary design during the 2019 CubeSat Competition to the satellite&amp;rsquo;s launch. In addition to my role as &lt;strong&gt;Project Manager&lt;/strong&gt;, I took on the responsibilities of &lt;strong&gt;Attitude Control System (ACS)&lt;/strong&gt; engineer, leading the development of the &lt;strong&gt;flight software&lt;/strong&gt;, &lt;strong&gt;hardware design&lt;/strong&gt;, and the &lt;strong&gt;assembly, integration, and test&lt;/strong&gt; processes. Through this CubeSat project, I gained hands-on experience in all stages of satellite development.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Manager&lt;/strong&gt;
@@ -557,22 +584,38 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-ii-cubesat&#34;&gt;1. SNUGLITE-II CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-snuglite-team-2019&#34;&gt;1.1. SNUGLITE Team (2019)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-system-configuration&#34;&gt;1.2. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-control-system-acs&#34;&gt;2. Attitude Control System (ACS)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.3. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;3. Assembly, Integration, and Test (AIT)&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.1. Hardware Design (PCB)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.2. Assembly and Integration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;3.3. Environment Test&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#4-operation-results&#34;&gt;4. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#41-launch-and-initial-operation&#34;&gt;4.1. Launch and Initial Operation&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#42-cubesat-gps-l1l2c-receiver&#34;&gt;4.2. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#43-acs&#34;&gt;4.3. ACS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-ii-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-II CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -605,22 +648,26 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/changdon-kee/&#34;&gt;Changdon Kee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Supervisor&lt;/td&gt;
           &lt;td&gt;-&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/o-jong-kim/&#34;&gt;O-Jong Kim&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Technical Adviser (Former team leader, SNUGLITE-I)&lt;/td&gt;
           &lt;td&gt;~&amp;lsquo;20.8&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/kybeon-kwon/&#34;&gt;Kybeom Kwon&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;Adviser (Associate Professor)&lt;/td&gt;
           &lt;td&gt;&amp;lsquo;21.2~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hanjoon-shim/&#34;&gt;&lt;strong&gt;Hanjoon Shim&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;Team Leader&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;&lt;strong&gt;~EOP&lt;/strong&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -630,22 +677,26 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/yonghwan-bae&#34;&gt;Yonghwan Bae&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;7&lt;/sup&gt;COM, &lt;sup&gt;8&lt;/sup&gt;GND, &lt;sup&gt;12&lt;/sup&gt;PAY2&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/hojoon-jeong&#34;&gt;Hojoon Jeong&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jaeuk-park&#34;&gt;Jaeuk Park&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;6&lt;/sup&gt;EPS, &lt;sup&gt;7&lt;/sup&gt;COM, &lt;sup&gt;11&lt;/sup&gt;PAY3&lt;/td&gt;
           &lt;td&gt;~EOP&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;&lt;a href=&#34;https://hanjoon.com/author/jikang-lee&#34;&gt;Jikang Lee&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
           &lt;td&gt;&lt;sup&gt;5&lt;/sup&gt;AIT, &lt;sup&gt;9&lt;/sup&gt;STR, &lt;sup&gt;10&lt;/sup&gt;THR&lt;/td&gt;
           &lt;td&gt;&amp;lsquo;20.7~EOP&lt;/td&gt;
       &lt;/tr&gt;
@@ -744,7 +795,9 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;NORAD 52899, &lt;a href=&#34;https://db.satnogs.org/satellite/YFNZ-9504-4902-9033-1722&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite-2.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;NORAD 52899, 
+, 
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -982,7 +1035,8 @@ Fig. Operation Scenario
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-control-system-acs&#34;&gt;&lt;strong&gt;2. Attitude Control System (ACS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The attitude control system was developed based on the experience from &lt;a href=&#34;https://hanjoon.com/project/snuglite-i&#34;&gt;SNUGLITE-I&lt;/a&gt;. In SNUGLITE-II, the addition of a reaction wheel required the design of a precise attitude controller, which I led throughout the entire process. The design of the overall attitude control system is illustrated in the following figure.&lt;/p&gt;
+&lt;p&gt;The attitude control system was developed based on the experience from 
+. In SNUGLITE-II, the addition of a reaction wheel required the design of a precise attitude controller, which I led throughout the entire process. The design of the overall attitude control system is illustrated in the following figure.&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1014,7 +1068,8 @@ Fig. Operation Scenario
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of ADCS
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
-&lt;p&gt;The development concept for creating the ACS is as follows. As the objective was demonstration, thorough validation was essential, which was achieved by systematically performing the traditional SILS-PILS-HILS verification stages. The programs utilized during this phase included MATLAB, Visual Studio, and Linux Eclipse. Related papers can be referenced &lt;a href=&#34;https://hanjoon.com/publication/dj_202301&#34;&gt;here&lt;/a&gt; (in Korean).&lt;/p&gt;
+&lt;p&gt;The development concept for creating the ACS is as follows. As the objective was demonstration, thorough validation was essential, which was achieved by systematically performing the traditional SILS-PILS-HILS verification stages. The programs utilized during this phase included MATLAB, Visual Studio, and Linux Eclipse. Related papers can be referenced 
+ (in Korean).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1060,7 +1115,8 @@ Fig. Design Philosophy of ADCS
 &lt;/br&gt;&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/h3&gt;
-&lt;h4 id=&#34;single-axis-attitude-control-system-verificaton-not-published-yet-limited-information&#34;&gt;Single-axis attitude control system verificaton &lt;a href=&#34;https://hanjoon.com/publication/ij_202502&#34;&gt;(Not Published Yet: Limited Information)&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;single-axis-attitude-control-system-verificaton-not-published-yet-limited-information&#34;&gt;Single-axis attitude control system verificaton 
+&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;PILS: ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC)&lt;/li&gt;
 &lt;li&gt;Attitude determination: Extended Kalman filter (Sun+Magnetometer+Gyro)&lt;/li&gt;
@@ -1346,7 +1402,8 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
 Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/strong&gt;&lt;/p&gt;&lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results (in Korean) &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results (in Korean) 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
@@ -1406,8 +1463,10 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available &lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The KARDSAT CubeSat project consists of a 3U (Target) and a 6U (Chaser) CubeSat, aimed at developing and validating core technologies for rendezvous, docking, and proximity operations through a nano-satellite developed by the Korea Aerospace Research Institute (KARI). The primary objectives of this mission include the development of technologies for rendezvous and docking of nano-satellites, state estimation of space objects, recognition of target objects using deep learning techniques, the development of atmospheric drag augmentation devices for satellite disposal, a compact docking mechanism for microsatellites, precise relative navigation technology (electro-optcal and GPS based), and inter-satellite link technologies for close-proximity (km-level) satellite operations. The GPS-based relative navigation technology, which is essential for precise relative navigation, was entrusted to the GNSS Laboratory at Seoul National University. This CubeSat was intended to be launched on the Korean launch vehicle (KSLV-II, Nuri) in 2022; however, the satellite was &lt;strong&gt;not launched&lt;/strong&gt;, and &lt;strong&gt;only the technology development&lt;/strong&gt; was carried out. A national report on the relevant technology is available 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2019 to 2020. As the first doctoral student involved in this project, I served as the &lt;strong&gt;Project Manager&lt;/strong&gt;, handling all aspects from documentation to &lt;strong&gt;practical implementation&lt;/strong&gt;, with guidance from one postdoctoral researcher. I was responsible for the following tasks: &lt;em&gt;designing a decimeter-level GPS relative navigation system for KARDSAT, conducting MATLAB SILS simulations, and performing C-based PILS to deliver the flight code&lt;/em&gt;. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Project Management&lt;/strong&gt;
 &lt;ul&gt;
@@ -1424,13 +1483,20 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-kardsat-cubesat&#34;&gt;1. KARDSAT CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-gps-relative-navigation-system&#34;&gt;2. GPS Relative Navigation System&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#21-overall-block-diagram&#34;&gt;2.1. Overall Block Diagram&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-software-in-the-loop-simulation-sils&#34;&gt;2.2. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#23-processor-in-the-loop-simulation-pils&#34;&gt;2.3. Processor-In-the-Loop Simulation (PILS)&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-kardsat-cubesat&#34;&gt;&lt;strong&gt;1. KARDSAT CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -1479,7 +1545,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900001630#;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Report on National R&amp;amp;D&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1696,7 +1763,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/p&gt;
 &lt;/br&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation &lt;a href=&#34;https://hanjoon.com/publication/ij_202301/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on GPS-based relative navigation 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below&#34;&gt;For more information, refer to the related publications below.&lt;/h1&gt;
@@ -1756,8 +1824,10 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Developed ADCS Algorithm&lt;/strong&gt;
 &lt;ul&gt;
@@ -1766,7 +1836,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;[Master&amp;rsquo;s Thesis]&lt;/a&gt;
+&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; 
+
 &lt;ul&gt;
 &lt;li&gt;Single-axis ADCS HILS Verification&lt;/li&gt;
 &lt;li&gt;Design and fabrication of the Helmholtz cage&lt;/li&gt;
@@ -1776,16 +1847,26 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;1. SNUGLITE-I CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-launch&#34;&gt;1.3. Launch&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-determination-and-control-system-adcs&#34;&gt;2. Attitude Determination and Control System (ADCS)&lt;/a&gt;&lt;/strong&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#3-operation-results&#34;&gt;3. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#31-cubesat-gps-l1l2c-receiver&#34;&gt;3.1. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#32-adcs&#34;&gt;3.2. ADCS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt; &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-i-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-I CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -1840,7 +1921,9 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, &lt;a href=&#34;https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, 
+, 
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1887,7 +1970,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-determination-and-control-system-adcs&#34;&gt;&lt;strong&gt;2. Attitude Determination and Control System (ADCS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Related to my Master’s thesis &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Related to my Master’s thesis 
+.&lt;/p&gt;
 &lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
 &lt;h4 id=&#34;algorithm-design-developed-based-on-work-inherited-from-previous-graduates&#34;&gt;Algorithm design: Developed based on work inherited from previous graduates&lt;/h4&gt;
 &lt;ul&gt;
@@ -1946,7 +2030,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;/br&gt;
 &lt;h4 id=&#34;single-axis-hils-verification-using-helmholtz-cage&#34;&gt;Single-axis HILS verification using Helmholtz cage&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results 
+.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -1991,7 +2076,8 @@ Fig. SNUGLITE-II Angular Velocity in-Orbit
 &lt;h3 id=&#34;32-adcs&#34;&gt;3.2. ADCS&lt;/h3&gt;
 &lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below-&#34;&gt;For more information, refer to the related publications below. :)&lt;/h1&gt;

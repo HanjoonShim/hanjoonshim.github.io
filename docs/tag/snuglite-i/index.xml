@@ -421,8 +421,10 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;See related publication&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The SNUGLITE-I CubeSat was selected as a finalist in the &amp;ldquo;2015 CubeSat Competition&amp;rdquo; organized by the Korea Aerospace Research Institute, with a total funding of 275 million KRW. The main mission was to develop a dual-frequency L1/L2C GPS receiver for CubeSats and use GPS Radio Occultation (RO) to model the ionosphere. Launched in December 2018, SNUGLITE-I is still broadcasting beacons, but due to a failure in the communication module’s receiver, uplink functionality is currently unavailable. For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
+&lt;p&gt;This project was conducted from 2015 to 2019, and I joined the SNUGLITE team in 2017 as a master’s student. As an &lt;strong&gt;Attitude Determination and Control System (ADCS)&lt;/strong&gt; engineer, I was responsible for the following tasks. These were based on knowledge passed down from previous graduate students, and I implemented the algorithms developed in MATLAB into C and conducted the integration and testing. 
+.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Developed ADCS Algorithm&lt;/strong&gt;
 &lt;ul&gt;
@@ -431,7 +433,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;li&gt;Conducted SILS (Matlab), PILS (Linux-gcc, C), and HILS&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;[Master&amp;rsquo;s Thesis]&lt;/a&gt;
+&lt;li&gt;&lt;strong&gt;Developed a HILS platform for ADCS&lt;/strong&gt; 
+
 &lt;ul&gt;
 &lt;li&gt;Single-axis ADCS HILS Verification&lt;/li&gt;
 &lt;li&gt;Design and fabrication of the Helmholtz cage&lt;/li&gt;
@@ -441,16 +444,26 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;index&#34;&gt;&lt;strong&gt;Index&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;#1-snuglite-i-cubesat&#34;&gt;1. SNUGLITE-I CubeSat&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#11-system-configuration&#34;&gt;1.1. System Configuration&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#12-operation-scenario&#34;&gt;1.2. Operation Scenario&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#13-launch&#34;&gt;1.3. Launch&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#2-attitude-determination-and-control-system-adcs&#34;&gt;2. Attitude Determination and Control System (ADCS)&lt;/a&gt;&lt;/strong&gt; &lt;/br&gt;
-   &lt;a href=&#34;#21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#22-hardware-in-the-loop-simulation-hils&#34;&gt;2.2. Hardware-In-the-Loop Simulation (HILS)&lt;/a&gt; &lt;/br&gt;
-&lt;strong&gt;&lt;a href=&#34;#3-operation-results&#34;&gt;3. Operation Results&lt;/a&gt;&lt;/strong&gt;&lt;/br&gt;
-   &lt;a href=&#34;#31-cubesat-gps-l1l2c-receiver&#34;&gt;3.1. CubeSat GPS L1/L2C Receiver&lt;/a&gt; &lt;/br&gt;
-   &lt;a href=&#34;#32-adcs&#34;&gt;3.2. ADCS&lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt; &lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;
+&lt;strong&gt;
+&lt;/strong&gt;&lt;/br&gt;
+   
+ &lt;/br&gt;
+   
+ &lt;/br&gt;&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;1-snuglite-i-cubesat&#34;&gt;&lt;strong&gt;1. SNUGLITE-I CubeSat&lt;/strong&gt;&lt;/h2&gt;
@@ -505,7 +518,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;Reference&lt;/td&gt;
-          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, &lt;a href=&#34;https://db.satnogs.org/satellite/SVDW-0245-3507-2344-8404&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SatNOGS&lt;/a&gt;, &lt;a href=&#34;https://space.skyrocket.de/doc_sdat/snuglite.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gunter&amp;rsquo;s Space&lt;/a&gt;&lt;/td&gt;
+          &lt;td&gt;NORAD 43784, COSIPAR 2018-099AC, 
+, 
+&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -552,7 +567,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;2-attitude-determination-and-control-system-adcs&#34;&gt;&lt;strong&gt;2. Attitude Determination and Control System (ADCS)&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Related to my Master’s thesis &lt;a href=&#34;https://hanjoon.com/publication/thesis_master/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Related to my Master’s thesis 
+.&lt;/p&gt;
 &lt;h3 id=&#34;21-software-in-the-loop-simulation-sils&#34;&gt;2.1. Software-In-the-Loop Simulation (SILS)&lt;/h3&gt;
 &lt;h4 id=&#34;algorithm-design-developed-based-on-work-inherited-from-previous-graduates&#34;&gt;Algorithm design: Developed based on work inherited from previous graduates&lt;/h4&gt;
 &lt;ul&gt;
@@ -611,7 +627,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;/br&gt;
 &lt;h4 id=&#34;single-axis-hils-verification-using-helmholtz-cage&#34;&gt;Single-axis HILS verification using Helmholtz cage&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results &lt;a href=&#34;https://hanjoon.com/publication/ij_202302/&#34;&gt;here&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;ADCS implamentation based on C (linux-gcc, FreeRTOS, Gomspace A3200 OBC). For more details, refer to the paper on HILS verification results 
+.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -656,7 +673,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;h3 id=&#34;32-adcs&#34;&gt;3.2. ADCS&lt;/h3&gt;
 &lt;p&gt;After launch and ejection from P-POD, SNUGLITE-I successfully damped its angular velocity and entered standby mode. The satellite has been performing nadir-pointing control in standby mode. Using attitude data received via the beacon, the ADCS was indirectly evaluated, demonstrating approximately 15° accuracy in attitude determination and control, achieved solely using magnetorquers without reaction wheels.&lt;/p&gt;
 &lt;/br&gt;
-&lt;p&gt;For more details, refer to the paper on in-orbit results &lt;a href=&#34;https://hanjoon.com/publication/ij_202001/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;For more details, refer to the paper on in-orbit results 
+.&lt;/p&gt;
 &lt;/br&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;for-more-information-refer-to-the-related-publications-below-&#34;&gt;For more information, refer to the related publications below. :)&lt;/h1&gt;
