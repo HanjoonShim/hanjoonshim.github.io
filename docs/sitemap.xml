@@ -88,8 +88,6 @@
   <url>
     <loc>https://hanjoon.com/aboutme/</loc><lastmod>2024-09-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://hanjoon.com/publications/</loc><lastmod>2024-09-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://hanjoon.com/media/240926/</loc><lastmod>2024-09-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://hanjoon.com/publication/thesis_phd/</loc><lastmod>2024-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -320,6 +318,4 @@
   <url>
     <loc>https://hanjoon.com/author/yong-jin-kim/</loc><lastmod>2015-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://hanjoon.com/categories/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://hanjoon.com/projects/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://hanjoon.com/categories/</loc><changefreq>weekly</changefreq></url></urlset>
