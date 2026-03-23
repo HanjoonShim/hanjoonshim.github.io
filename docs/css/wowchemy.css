@@ -10208,10 +10208,8 @@ div.chart {
 .pub-summary-card .pub-summary-table th {
   vertical-align: middle; }
 
-.slider-arrow {
-  font-size: auto;
-  color: white;
-  opacity: 0.5; }
-
-.slider-arrow:hover {
-  opacity: 1; }
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  width: 20px;
+  height: 20px;
+  background-size: 100% 100%; }
