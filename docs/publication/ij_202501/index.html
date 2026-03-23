@@ -3,7 +3,7 @@
 <!-- Last Published: March 23, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=7102&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.e3aba93636de52403ae21c59fdf16c81.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:7102/publication/ij_202501/" />
-<link rel="canonical" href="http://localhost:7102/publication/ij_202501/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/publication/ij_202501/" />
+<link rel="canonical" href="https://hanjoon.com/publication/ij_202501/" />
 
 
 
@@ -314,7 +353,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:7102/publication/ij_202501/featured.jpg" />
+<meta property="twitter:image" content="https://hanjoon.com/publication/ij_202501/featured.jpg" />
 
 
 
@@ -322,9 +361,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:7102/publication/ij_202501/" />
+<meta property="og:url" content="https://hanjoon.com/publication/ij_202501/" />
 <meta property="og:title" content="Enhancing Real-Time Kinematic-Based Relative Navigation for CubeSat Rendezvous: Ambiguity Dilution of Precision Perspective on Integer Ambiguity Resolution | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="This study addresses the practical challenges of real-time kinematic (RTK)-based precise relative navigation and integer ambiguity resolution for CubeSat rendezvous missions. We propose a single-frequency, single-station RTK relative navigation system specifically designed for low Earth orbit (LEO) satellites and adapted from ground-based RTK systems. To achieve precise relative navigation, we analyze the statistical characteristics of integer ambiguity in carrier-phase measurements, starting with pseudorange-based differential GPS relative navigation. Instead of using the conventional extended Kalman filter, we introduce a recursive ambiguity filter based on weighted least squares, improving the float solution for ambiguity estimation without requiring complex filter designs. By deriving the statistical characteristics and the spatial metric known as ambiguity dilution of precision, we establish a strategy to achieve a 100 % success-fix rate in integer ambiguity resolution, utilizing the least-squares ambiguity decorrelation adjustment method for RTK relative navigation. The proposed algorithm&#39;s reliability is validated through software-based LEO simulators and ground-based experimental hardware that uses GPS receivers and patch antennas mounted on the SNUGLITE-III CubeSat. This approach enables centimeter-level relative navigation using only commercial off-the-shelf hardware and GPS receivers on CubeSat platforms. Furthermore, the proposed method improves success-fix rates for integer ambiguity resolution and significantly reduces computational complexity." /><meta property="og:image" content="http://localhost:7102/publication/ij_202501/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="This study addresses the practical challenges of real-time kinematic (RTK)-based precise relative navigation and integer ambiguity resolution for CubeSat rendezvous missions. We propose a single-frequency, single-station RTK relative navigation system specifically designed for low Earth orbit (LEO) satellites and adapted from ground-based RTK systems. To achieve precise relative navigation, we analyze the statistical characteristics of integer ambiguity in carrier-phase measurements, starting with pseudorange-based differential GPS relative navigation. Instead of using the conventional extended Kalman filter, we introduce a recursive ambiguity filter based on weighted least squares, improving the float solution for ambiguity estimation without requiring complex filter designs. By deriving the statistical characteristics and the spatial metric known as ambiguity dilution of precision, we establish a strategy to achieve a 100 % success-fix rate in integer ambiguity resolution, utilizing the least-squares ambiguity decorrelation adjustment method for RTK relative navigation. The proposed algorithm&#39;s reliability is validated through software-based LEO simulators and ground-based experimental hardware that uses GPS receivers and patch antennas mounted on the SNUGLITE-III CubeSat. This approach enables centimeter-level relative navigation using only commercial off-the-shelf hardware and GPS receivers on CubeSat platforms. Furthermore, the proposed method improves success-fix rates for integer ambiguity resolution and significantly reduces computational complexity." /><meta property="og:image" content="https://hanjoon.com/publication/ij_202501/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -357,12 +396,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:7102/publication/ij_202501/"
+    "@id": "https://hanjoon.com/publication/ij_202501/"
   },
   "headline": "Enhancing Real-Time Kinematic-Based Relative Navigation for CubeSat Rendezvous: Ambiguity Dilution of Precision Perspective on Integer Ambiguity Resolution",
   
   "image": [
-    "http://localhost:7102/publication/ij_202501/featured.jpg"
+    "https://hanjoon.com/publication/ij_202501/featured.jpg"
   ],
   
   "datePublished": "2025-08-01T00:00:00Z",
@@ -378,7 +417,7 @@
     "name": "Hanjoon Shim | 심한준",
     "logo": {
       "@type": "ImageObject",
-      "url": "http://localhost:7102/media/icon_hu_da16a18a98dd07de.png"
+      "url": "https://hanjoon.com/media/icon_hu_da16a18a98dd07de.png"
     }
   },
   "description": "This study addresses the practical challenges of real-time kinematic (RTK)-based precise relative navigation and integer ambiguity resolution for CubeSat rendezvous missions. We propose a single-frequency, single-station RTK relative navigation system specifically designed for low Earth orbit (LEO) satellites and adapted from ground-based RTK systems. To achieve precise relative navigation, we analyze the statistical characteristics of integer ambiguity in carrier-phase measurements, starting with pseudorange-based differential GPS relative navigation. Instead of using the conventional extended Kalman filter, we introduce a recursive ambiguity filter based on weighted least squares, improving the float solution for ambiguity estimation without requiring complex filter designs. By deriving the statistical characteristics and the spatial metric known as ambiguity dilution of precision, we establish a strategy to achieve a 100 % success-fix rate in integer ambiguity resolution, utilizing the least-squares ambiguity decorrelation adjustment method for RTK relative navigation. The proposed algorithm's reliability is validated through software-based LEO simulators and ground-based experimental hardware that uses GPS receivers and patch antennas mounted on the SNUGLITE-III CubeSat. This approach enables centimeter-level relative navigation using only commercial off-the-shelf hardware and GPS receivers on CubeSat platforms. Furthermore, the proposed method improves success-fix rates for integer ambiguity resolution and significantly reduces computational complexity."
@@ -434,7 +473,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -906,7 +945,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A7102%2Fpublication%2Fij_202501%2F&amp;t=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fij_202501%2F&amp;t=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -925,7 +964,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
         
       
       <li>
-        <a href="mailto:?subject=Enhancing%20Real-Time%20Kinematic-Based%20Relative%20Navigation%20for%20CubeSat%20Rendezvous%3A%20Ambiguity%20Dilution%20of%20Precision%20Perspective%20on%20Integer%20Ambiguity%20Resolution&amp;body=http%3A%2F%2Flocalhost%3A7102%2Fpublication%2Fij_202501%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Enhancing%20Real-Time%20Kinematic-Based%20Relative%20Navigation%20for%20CubeSat%20Rendezvous%3A%20Ambiguity%20Dilution%20of%20Precision%20Perspective%20on%20Integer%20Ambiguity%20Resolution&amp;body=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fij_202501%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -942,7 +981,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A7102%2Fpublication%2Fij_202501%2F&amp;title=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fpublication%2Fij_202501%2F&amp;title=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -959,7 +998,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
       
       
       <li>
-        <a href="whatsapp://send?text=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution%20http%3A%2F%2Flocalhost%3A7102%2Fpublication%2Fij_202501%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Enhancing&#43;Real-Time&#43;Kinematic-Based&#43;Relative&#43;Navigation&#43;for&#43;CubeSat&#43;Rendezvous%3A&#43;Ambiguity&#43;Dilution&#43;of&#43;Precision&#43;Perspective&#43;on&#43;Integer&#43;Ambiguity&#43;Resolution%20https%3A%2F%2Fhanjoon.com%2Fpublication%2Fij_202501%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1205,7 +1244,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1286,7 +1325,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1300,11 +1339,11 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1337,7 +1376,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 

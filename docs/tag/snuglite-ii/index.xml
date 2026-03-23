@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-II | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:7102/tag/snuglite-ii/</link>
-      <atom:link href="http://localhost:7102/tag/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hanjoon.com/tag/snuglite-ii/</link>
+      <atom:link href="https://hanjoon.com/tag/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-II</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:7102/media/icon_hu_3138c5b4585f7732.png</url>
+      <url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url>
       <title>SNUGLITE-II</title>
-      <link>http://localhost:7102/tag/snuglite-ii/</link>
+      <link>https://hanjoon.com/tag/snuglite-ii/</link>
     </image>
     
     <item>
       <title>Media Report on Oct 31, 2025</title>
-      <link>http://localhost:7102/media/251031-kari/</link>
+      <link>https://hanjoon.com/media/251031-kari/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/251031-kari/</guid>
+      <guid>https://hanjoon.com/media/251031-kari/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://blog.naver.com/karipr/224059745567&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[KARI 누리호 4차 발사 탑재위성 참여기관 시리즈 - 서울대학교]&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Introducing SNUGLITE-III CubeSat&lt;/li&gt;
@@ -34,33 +34,33 @@
     
     <item>
       <title>Operation Results of SNUGLITE-II CubeSat: Convective 3D Observation and Precise Attitude Determination Using GPS Carrier Measurements</title>
-      <link>http://localhost:7102/publication/dj_202302/</link>
+      <link>https://hanjoon.com/publication/dj_202302/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dj_202302/</guid>
+      <guid>https://hanjoon.com/publication/dj_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Frequency RTK Relative Navigation for Autonomous Formation Flying Mission of SNUGLITE-III CubeSat</title>
-      <link>http://localhost:7102/publication/ic_202302/</link>
+      <link>https://hanjoon.com/publication/ic_202302/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/ic_202302/</guid>
+      <guid>https://hanjoon.com/publication/ic_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time Software Verification Technique of Attitude Determination and Control System for CubeSat</title>
-      <link>http://localhost:7102/publication/dj_202301/</link>
+      <link>https://hanjoon.com/publication/dj_202301/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dj_202301/</guid>
+      <guid>https://hanjoon.com/publication/dj_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media Report on Feb 21, 2023</title>
-      <link>http://localhost:7102/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
+      <link>https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</link>
       <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
+      <guid>https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/</guid>
       <description>&lt;h2 id=&#34;뉴스페이스-시대-우주경제-개척자와의-대화&#34;&gt;뉴스페이스 시대 우주경제 개척자와의 대화&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: A conversation with a space economy pioneer in the Newspace era (Invited Event)&lt;/li&gt;
@@ -90,7 +90,7 @@
                /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
                /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
                /media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w&#34;
-               src=&#34;http://localhost:7102/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
+               src=&#34;https://hanjoon.com/media/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
                width=&#34;760&#34;
                height=&#34;481&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,17 +136,17 @@
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-Orbit Navigation Solutions of CubeSat</title>
-      <link>http://localhost:7102/publication/ic_202301/</link>
+      <link>https://hanjoon.com/publication/ic_202301/</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/ic_202301/</guid>
+      <guid>https://hanjoon.com/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Media Report on Sep 23, 2022</title>
-      <link>http://localhost:7102/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220923-%EB%8F%99%EC%95%84%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;작지만-강한-큐브위성-뜬다-세계시장-발맞춰-기술력-강화해야&#34;&gt;&lt;a href=&#34;https://www.donga.com/news/article/all/20220923/115590962/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;작지만 강한 ‘큐브위성’ 뜬다… “세계시장 발맞춰 기술력 강화해야”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Small but strong ‘cube satellite’ is emerging… “Technical capabilities must be strengthened to keep pace with the global market”&lt;/li&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>Media Report on Sep 4, 2022</title>
-      <link>http://localhost:7102/media/220904-snu/</link>
+      <link>https://hanjoon.com/media/220904-snu/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220904-snu/</guid>
+      <guid>https://hanjoon.com/media/220904-snu/</guid>
       <description>&lt;h2 id=&#34;누리호에-쏘아-올린-그들의-열정&#34;&gt;&lt;a href=&#34;https://www.snunews.com/news/articleView.html?idxno=30937&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호에 쏘아 올린 그들의 열정&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Their passion launched into Nuri&lt;/li&gt;
@@ -172,9 +172,9 @@
     
     <item>
       <title>Media Report on Sep 1, 2022</title>
-      <link>http://localhost:7102/media/220901-snu/</link>
+      <link>https://hanjoon.com/media/220901-snu/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220901-snu/</guid>
+      <guid>https://hanjoon.com/media/220901-snu/</guid>
       <description>&lt;h2 id=&#34;a-small-dream-launched-into-space&#34;&gt;&lt;a href=&#34;https://people.snu.ac.kr/en/69/3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Small Dream Launched Into Space&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Source: SNU People (Seoul National University Magazine), 2022 vol. 69&lt;/li&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>Media Report on Aug 1, 2022</title>
-      <link>http://localhost:7102/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
+      <link>https://hanjoon.com/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
+      <guid>https://hanjoon.com/media/220801-%EC%84%9C%EC%9A%B8%EA%B2%BD%EC%A0%9C/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.sedaily.com/NewsView/269MMUHBFM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;미완의 성공에도 우리 도전은 멈추지 않는다&amp;rsquo; 서울대 SNUGLITE 팀&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: &amp;lsquo;Our challenge does not stop despite unfinished success&amp;rsquo; Seoul National University SNUGLITE Team&lt;/li&gt;
@@ -204,9 +204,9 @@
     
     <item>
       <title>Media Report on Jul 27, 2022</title>
-      <link>http://localhost:7102/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220727-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25089955&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[교육이 미래다] &amp;ldquo;우리 세대가 만들어갈 우주 강국 대한민국 기대&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: [Education is the Future] &amp;ldquo;Expecting Korea to become a space powerhouse that our generation will create&amp;rdquo;&lt;/li&gt;
@@ -218,9 +218,9 @@
     
     <item>
       <title>Media Report on Jul 10, 2022</title>
-      <link>http://localhost:7102/media/220710-yna/</link>
+      <link>https://hanjoon.com/media/220710-yna/</link>
       <pubDate>Sun, 10 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220710-yna/</guid>
+      <guid>https://hanjoon.com/media/220710-yna/</guid>
       <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;a href=&#34;https://www.yna.co.kr/view/AKR20220709041800004?input=1195m&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;위성 안테나 전개 안될 땐 장례식인 듯…교신 순간 축제 됐죠&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: “It Felt Like a Funeral When the Antenna Wouldn’t Deploy—Then Came the Celebration as Contact Was Made.”&lt;/li&gt;
@@ -232,9 +232,9 @@
     
     <item>
       <title>Media Report on Jul 06, 2022</title>
-      <link>http://localhost:7102/media/220706-hellodd/</link>
+      <link>https://hanjoon.com/media/220706-hellodd/</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220706-hellodd/</guid>
+      <guid>https://hanjoon.com/media/220706-hellodd/</guid>
       <description>&lt;h2 id=&#34;윤석열-대통령&#34;&gt;&lt;a href=&#34;https://www.hellodd.com/news/articleView.html?idxno=97450&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;윤석열 대통령 &amp;ldquo;우주경제시대 열어가자&amp;rdquo;&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: President Yoon, &amp;ldquo;Let&amp;rsquo;s Open the Space Economy Era (Invited Event)&lt;/li&gt;
@@ -247,9 +247,9 @@
     
     <item>
       <title>Media Report on Jul 3, 2022</title>
-      <link>http://localhost:7102/media/220703-karitv/</link>
+      <link>https://hanjoon.com/media/220703-karitv/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220703-karitv/</guid>
+      <guid>https://hanjoon.com/media/220703-karitv/</guid>
       <description>&lt;h2 id=&#34;누리호-성능검증위성-세-번째-큐브위성-사출-성공서울대-snuglite-&#34;&gt;&lt;a href=&#34;https://youtu.be/dA4ncYvF6eM?si=RFTlMdCMqWO2LWbT&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 성능검증위성, 세 번째 큐브위성 사출 성공(서울대 SNUGLITE-Ⅱ)&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: PVSAT Ejected SNUGLITE-II CubeSat Succesfully&lt;/li&gt;
@@ -267,9 +267,9 @@
     
     <item>
       <title>Media Report on Jun 23, 2022</title>
-      <link>http://localhost:7102/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
+      <link>https://hanjoon.com/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
+      <guid>https://hanjoon.com/media/220623-%EC%A4%91%EC%95%99%EC%9D%BC%EB%B3%B4/</guid>
       <description>&lt;h2 id=&#34;3년-걸려-큐브위성-만든-학생들-우리-기술-누리호-성공-뿌듯&#34;&gt;&lt;a href=&#34;https://www.joongang.co.kr/article/25081263&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3년 걸려 큐브위성 만든 학생들 “우리 기술 누리호 성공 뿌듯”&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Students who built CubeSat after 3 years: “We are proud of our technology’s success with Nuriho”&lt;/li&gt;
@@ -281,9 +281,9 @@
     
     <item>
       <title>Media Report on May 27, 2022</title>
-      <link>http://localhost:7102/media/220527-jtbc/</link>
+      <link>https://hanjoon.com/media/220527-jtbc/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220527-jtbc/</guid>
+      <guid>https://hanjoon.com/media/220527-jtbc/</guid>
       <description>&lt;h2 id=&#34;누리호-위성-속에는&#34;&gt;&lt;a href=&#34;https://news.jtbc.co.kr/article/NB12060503&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 위성 속에는…&amp;lsquo;국과대표&amp;rsquo; 우주 총정리&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Inside the Nuriho satellite… &amp;lsquo;국과대표&amp;rsquo; space summary&lt;/li&gt;
@@ -295,9 +295,9 @@
     
     <item>
       <title>Media Report on Apr 15, 2022</title>
-      <link>http://localhost:7102/media/220415-karitv/</link>
+      <link>https://hanjoon.com/media/220415-karitv/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/media/220415-karitv/</guid>
+      <guid>https://hanjoon.com/media/220415-karitv/</guid>
       <description>&lt;h2 id=&#34;우리-위성을-우리-발사체로-우리-땅에서-쏜다-6월-누리호-2차-발사-탑재위성-공개&#34;&gt;&lt;a href=&#34;https://youtu.be/B8jkIAlyAAM?si=RXrpF18n3El7X6Nn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;우리 위성을 우리 발사체로 우리 땅에서 쏜다! 6월 누리호 2차 발사 탑재위성 공개&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Launching our satellite from our land with our own launch vehicle! The satellite on board the second launch of Nuri in June has been revealed!&lt;/li&gt;
@@ -315,9 +315,9 @@
     
     <item>
       <title>HILS Verification of SNUGLITE-II Cube-Satellite Attitude Control System Equipped with Reaction Wheel and Magnetorquer</title>
-      <link>http://localhost:7102/publication/dc_202102/</link>
+      <link>https://hanjoon.com/publication/dc_202102/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202102/</guid>
+      <guid>https://hanjoon.com/publication/dc_202102/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -342,9 +342,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>SNUGLITE-II 큐브위성의 전력계 분석</title>
-      <link>http://localhost:7102/publication/dc_202101/</link>
+      <link>https://hanjoon.com/publication/dc_202101/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202101/</guid>
+      <guid>https://hanjoon.com/publication/dc_202101/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -369,9 +369,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Integer Ambiguity Estimation for SNUGLITE-II Cube Satellite GNSS-based Attitude Determination</title>
-      <link>http://localhost:7102/publication/dc_202006/</link>
+      <link>https://hanjoon.com/publication/dc_202006/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202006/</guid>
+      <guid>https://hanjoon.com/publication/dc_202006/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -396,9 +396,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Quaternion-based Optimal Controller Design for SNUGLITE-II Cube Satellite Attitude Control System</title>
-      <link>http://localhost:7102/publication/dc_202007/</link>
+      <link>https://hanjoon.com/publication/dc_202007/</link>
       <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202007/</guid>
+      <guid>https://hanjoon.com/publication/dc_202007/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -423,9 +423,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Performance Analysis of GPS/GALLILEO-Based Attitude Determination for CubeSatellite</title>
-      <link>http://localhost:7102/publication/dc_202003/</link>
+      <link>https://hanjoon.com/publication/dc_202003/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202003/</guid>
+      <guid>https://hanjoon.com/publication/dc_202003/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -450,9 +450,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>A Preliminary Design of SNUGLITE-II Cube-Satellite for 3D Atmospheric Remote Sensing with GPS Radio Occultation</title>
-      <link>http://localhost:7102/publication/dc_202001/</link>
+      <link>https://hanjoon.com/publication/dc_202001/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_202001/</guid>
+      <guid>https://hanjoon.com/publication/dc_202001/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -477,9 +477,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Attitude Determination of Cube-Satellite using Multiple GPS Antennas</title>
-      <link>http://localhost:7102/publication/dc_201903/</link>
+      <link>https://hanjoon.com/publication/dc_201903/</link>
       <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/publication/dc_201903/</guid>
+      <guid>https://hanjoon.com/publication/dc_201903/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -504,9 +504,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>(2019-2022) SNUGLITE-II</title>
-      <link>http://localhost:7102/project/snuglite-ii/</link>
+      <link>https://hanjoon.com/project/snuglite-ii/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:7102/project/snuglite-ii/</guid>
+      <guid>https://hanjoon.com/project/snuglite-ii/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;summery&#34;&gt;&lt;strong&gt;Summery&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;
@@ -531,7 +531,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
                /project/snuglite-ii/title_hu_ca292a264babd492.webp 400w,
                /project/snuglite-ii/title_hu_d3a5a2366b743f12.webp 760w,
                /project/snuglite-ii/title_hu_60464b7afa7c23e1.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/title_hu_ca292a264babd492.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/title_hu_ca292a264babd492.webp&#34;
                width=&#34;442&#34;
                height=&#34;500&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -736,7 +736,7 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
                /project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp 400w,
                /project/snuglite-ii/fig2_hu_9ac49416a9641189.webp 760w,
                /project/snuglite-ii/fig2_hu_12f50f07fcabc184.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp&#34;
                width=&#34;760&#34;
                height=&#34;382&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -967,7 +967,7 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
                /project/snuglite-ii/fig3_hu_fd7728796f157244.webp 400w,
                /project/snuglite-ii/fig3_hu_5cdbcee79e769790.webp 760w,
                /project/snuglite-ii/fig3_hu_692966fa26f264e1.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig3_hu_fd7728796f157244.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig3_hu_fd7728796f157244.webp&#34;
                width=&#34;760&#34;
                height=&#34;430&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -997,7 +997,7 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
                /project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp 400w,
                /project/snuglite-ii/fig1_hu_98c422273ac083b8.webp 760w,
                /project/snuglite-ii/fig1_hu_e9605023f2603cfe.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp&#34;
                width=&#34;633&#34;
                height=&#34;400&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1068,7 +1068,7 @@ Fig. Operation Scenario
                /project/snuglite-ii/fig4_hu_80b715a226ca9194.webp 400w,
                /project/snuglite-ii/fig4_hu_fed3f0af19fb6e09.webp 760w,
                /project/snuglite-ii/fig4_hu_aed9c522c5b1e446.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig4_hu_80b715a226ca9194.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig4_hu_80b715a226ca9194.webp&#34;
                width=&#34;760&#34;
                height=&#34;598&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1101,7 +1101,7 @@ Fig. Overall Block Diagram of ADCS
                /project/snuglite-ii/fig5_hu_45dc5de101be6866.webp 400w,
                /project/snuglite-ii/fig5_hu_60f65a41360c6d7c.webp 760w,
                /project/snuglite-ii/fig5_hu_27f2fcfb32ef7b44.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig5_hu_45dc5de101be6866.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig5_hu_45dc5de101be6866.webp&#34;
                width=&#34;603&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1165,7 +1165,7 @@ Fig. Design Philosophy of ADCS
                /project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp 400w,
                /project/snuglite-ii/fig6_hu_c754914ff4199489.webp 760w,
                /project/snuglite-ii/fig6_hu_b77d5b6ff9b43482.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp&#34;
                width=&#34;760&#34;
                height=&#34;395&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1214,7 +1214,7 @@ Fig. Components of SNUGLITE-II
                /project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp 400w,
                /project/snuglite-ii/fig7_hu_fcfc282b3f20ccfd.webp 760w,
                /project/snuglite-ii/fig7_hu_ab8e14db504a789f.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp&#34;
                width=&#34;450&#34;
                height=&#34;600&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1250,7 +1250,7 @@ Fig. Far-field Test
                /project/snuglite-ii/fig8_hu_3cc28176b520acf.webp 400w,
                /project/snuglite-ii/fig8_hu_1b96cdb328df4c3d.webp 760w,
                /project/snuglite-ii/fig8_hu_ec6fa5e0ae38845.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig8_hu_3cc28176b520acf.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig8_hu_3cc28176b520acf.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1332,7 +1332,7 @@ Fig. SNUGLITE-II Thermal Vaccum Test
                /project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp 400w,
                /project/snuglite-ii/fig9_hu_b69da2d9b95243be.webp 760w,
                /project/snuglite-ii/fig9_hu_1c39244bfe0c492f.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp&#34;
                width=&#34;512&#34;
                height=&#34;288&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1363,7 +1363,7 @@ Fig. SNUGLITE-II GPS Receiver Position
                /project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp 400w,
                /project/snuglite-ii/fig10_hu_92db0c16352a6776.webp 760w,
                /project/snuglite-ii/fig10_hu_794a60f0c613ea81.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp&#34;
                width=&#34;385&#34;
                height=&#34;308&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1401,7 +1401,7 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
                /project/snuglite-ii/fig11_hu_10ed05676ababab4.webp 400w,
                /project/snuglite-ii/fig11_hu_772d331ea574da8b.webp 760w,
                /project/snuglite-ii/fig11_hu_572521c5a1a24502.webp 1200w&#34;
-               src=&#34;http://localhost:7102/project/snuglite-ii/fig11_hu_10ed05676ababab4.webp&#34;
+               src=&#34;https://hanjoon.com/project/snuglite-ii/fig11_hu_10ed05676ababab4.webp&#34;
                width=&#34;525&#34;
                height=&#34;400&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

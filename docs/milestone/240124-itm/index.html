@@ -3,7 +3,7 @@
 <!-- Last Published: March 23, 2026 --><html lang="en-us" >
 
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=7102&amp;path=livereload" data-no-instant defer></script>
+<head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.css" />
+  <link rel="stylesheet" href="/css/wowchemy.e3aba93636de52403ae21c59fdf16c81.css" />
 
   
   
@@ -238,6 +238,45 @@
 
 
 
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-76WK5FKD0F', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
@@ -283,8 +322,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="http://localhost:7102/milestone/240124-itm/" />
-<link rel="canonical" href="http://localhost:7102/milestone/240124-itm/" />
+<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/milestone/240124-itm/" />
+<link rel="canonical" href="https://hanjoon.com/milestone/240124-itm/" />
 
 
 
@@ -314,7 +353,7 @@
 
 
 <meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:image" content="http://localhost:7102/milestone/240124-itm/featured.jpg" />
+<meta property="twitter:image" content="https://hanjoon.com/milestone/240124-itm/featured.jpg" />
 
 
 
@@ -322,9 +361,9 @@
 
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="http://localhost:7102/milestone/240124-itm/" />
+<meta property="og:url" content="https://hanjoon.com/milestone/240124-itm/" />
 <meta property="og:title" content="ION ITM 2024 (Long Beach) | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&rdquo; This presentation extends the discussion from the paper presented at the ION GNSS&#43; conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver." /><meta property="og:image" content="http://localhost:7102/milestone/240124-itm/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&rdquo; This presentation extends the discussion from the paper presented at the ION GNSS&#43; conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver." /><meta property="og:image" content="https://hanjoon.com/milestone/240124-itm/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -389,7 +428,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.js"></script>
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
 
   
 
@@ -797,7 +836,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A7102%2Fmilestone%2F240124-itm%2F&amp;t=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fhanjoon.com%2Fmilestone%2F240124-itm%2F&amp;t=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -816,7 +855,7 @@
         
       
       <li>
-        <a href="mailto:?subject=ION%20ITM%202024%20%28Long%20Beach%29&amp;body=http%3A%2F%2Flocalhost%3A7102%2Fmilestone%2F240124-itm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=ION%20ITM%202024%20%28Long%20Beach%29&amp;body=https%3A%2F%2Fhanjoon.com%2Fmilestone%2F240124-itm%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -833,7 +872,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A7102%2Fmilestone%2F240124-itm%2F&amp;title=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fhanjoon.com%2Fmilestone%2F240124-itm%2F&amp;title=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -850,7 +889,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29%20http%3A%2F%2Flocalhost%3A7102%2Fmilestone%2F240124-itm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=ION&#43;ITM&#43;2024&#43;%28Long&#43;Beach%29%20https%3A%2F%2Fhanjoon.com%2Fmilestone%2F240124-itm%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1066,7 +1105,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.js"></script>
+<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
 
 
 
@@ -1147,7 +1186,7 @@
 <script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
-  <script src="/js/wowchemy-headroom.js" type="module"></script>
+  <script src="/js/wowchemy-headroom.b95a7e109243f29d04930ae8cb49a756.js" type="module"></script>
 
 
 
@@ -1161,11 +1200,11 @@
   
 
 
-<script src="/en/js/wowchemy.min.js"></script>
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.js" type="module"></script>
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
 
 
 
@@ -1198,7 +1237,7 @@
 </div>
 
 
-  <script src="/js/wowchemy-publication.js" type="module"></script>
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
 
 
 
