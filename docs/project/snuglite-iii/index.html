@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: March 23, 2026 --><html lang="en-us" >
+<!-- Last Published: August 29, 2026 --><html lang="en-us" >
 
 
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -70,7 +70,7 @@
 
   
 
-  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
 
   
   
@@ -214,7 +214,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.e3aba93636de52403ae21c59fdf16c81.css" />
+  <link rel="stylesheet" href="/css/wowchemy.css" />
 
   
   
@@ -238,45 +238,6 @@
 
 
 
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-76WK5FKD0F"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'G-76WK5FKD0F', {});
-  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
 
 
 
@@ -322,8 +283,8 @@
 
 
 
-<link rel="alternate" hreflang="en-us" href="https://hanjoon.com/project/snuglite-iii/" />
-<link rel="canonical" href="https://hanjoon.com/project/snuglite-iii/" />
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/project/snuglite-iii/" />
+<link rel="canonical" href="http://localhost:1313/project/snuglite-iii/" />
 
 
 
@@ -354,7 +315,7 @@
 
 
 <meta property="twitter:card" content="summary" />
-<meta property="twitter:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_3138c5b4585f7732.png" />
 
 
 
@@ -362,9 +323,9 @@
 
 <meta property="og:type" content="article" />
 <meta property="og:site_name" content="Hanjoon Shim | 심한준" />
-<meta property="og:url" content="https://hanjoon.com/project/snuglite-iii/" />
+<meta property="og:url" content="http://localhost:1313/project/snuglite-iii/" />
 <meta property="og:title" content="(2022-2025) SNUGLITE-III | Hanjoon Shim | 심한준" />
-<meta property="og:description" content="- 6U(3U&#43;3U) CubeSat mission (Launch: Nov 2025)" /><meta property="og:image" content="https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
+<meta property="og:description" content="- 6U(3U&#43;3U) CubeSat mission (Launch: Nov 2025)" /><meta property="og:image" content="http://localhost:1313/media/icon_hu_3138c5b4585f7732.png" /><meta property="og:locale" content="en-us" />
 
   
     <meta
@@ -381,6 +342,47 @@
 
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/project/snuglite-iii/"
+  },
+  "headline": "(2022-2025) SNUGLITE-III",
+  
+  "datePublished": "2022-09-01T00:00:00Z",
+  "dateModified": "2022-09-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Hanjoon Shim"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hanjoon Shim | 심한준",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/media/icon_hu_da16a18a98dd07de.png"
+    }
+  },
+  "description": "- 6U(3U+3U) CubeSat mission (Launch: Nov 2025)"
+}
+</script>
+
+  
 
   
 
@@ -429,7 +431,7 @@
   
   
   
-  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+  <script src="/js/wowchemy-init.min.js"></script>
 
   
 
@@ -523,32 +525,30 @@
           
 
           
-          <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>About Me</span><span class="caret"></span>
-            </a>
-            <div class="dropdown-menu">
-              
-                <a class="dropdown-item" href="/aboutme/"><span>Biography</span></a>
-              
-                <a class="dropdown-item" href="/milestone/"><span>Milestone</span></a>
-              
-            </div>
-          </li>
 
           
           
+          
+            
+          
 
           
-          <li class="nav-item dropdown">
-            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Research</span><span class="caret"></span>
-            </a>
-            <div class="dropdown-menu">
+
+          
+          
+          
+          
+
+          
+            
               
-                <a class="dropdown-item" href="/project/"><span>Project</span></a>
               
-                <a class="dropdown-item" href="/media/"><span>Media</span></a>
-              
-            </div>
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/aboutme/"><span>About</span></a>
           </li>
 
           
@@ -578,7 +578,67 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="/publication/"><span>Publication</span></a>
+            <a class="nav-link " href="/research/"><span>Research</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication/"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/updates/"><span>Updates</span></a>
           </li>
 
           
@@ -635,10 +695,6 @@
         
         
         
-        <li class="nav-item">
-          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
 
         
         
@@ -666,114 +722,64 @@
 
 
 
-<div class="container-fluid docs">
-  <div class="docs-layout">
 
-    <aside class="docs-sidebar">
-      <form class="docs-search d-flex align-items-center">
-  <button class="btn docs-toggle d-md-none p-0 mr-md-3 w-100" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
-    <div class="d-flex">
-      <span class="d-md-none pl-1 flex-grow-1 text-left overflow-hidden">
-        
-        
-          Project List
-        
-      </span>
-      <span><i class="fas fa-chevron-down"></i></span>
-    </div>
-  </button>
 
-  
-  <button class="form-control sidebar-search js-search d-none d-md-flex">
-    <i class="fas fa-search pr-2"></i>
-    <span class="sidebar-search-text">Search...</span>
-    <span class="sidebar-search-shortcut">/</span>
-  </button>
-  
-</form>
 
-<nav class="collapse docs-links" id="docs-nav">
-  
-  
-  
-  
-  
-  
-
-  
-  
-    
-
-    
-      
-
-      
 
 
   
-    
-    
-    
-    
-      
-    
-    
-
-    
-      <ul class="nav docs-sidenav">
-        <li class=""><a href="/project/">Project List</a></li>
-    
-      
-
-
-  <li class=""><a href="/project/remora/">(2025-now) REMORA</a></li>
-
-
-
-  <li class="active"><a href="/project/snuglite-iii/">(2022-2025) SNUGLITE-III</a></li>
-
-
-
-  <li class=""><a href="/project/snuglite-ii/">(2019-2022) SNUGLITE-II</a></li>
-
-
-
-  <li class=""><a href="/project/kardsat/">(2019-2020) KARDSAT</a></li>
-
-
-
-  <li class=""><a href="/project/snuglite-i/">(2017-2019) SNUGLITE-I</a></li>
-
-      
-    
-
-    
-      </ul>
-    
-
   
-</nav>
 
-    </aside>
 
-    <main class="docs-content" role="main">
-      <div class="docs-article-container">
-        
+<main class="update-detail project-detail">
+  <div class="update-detail__shell">
+    <a class="update-detail__back" href="/research/">
+      <span aria-hidden="true">←</span> Research
+    </a>
+
+    <header class="update-detail__header project-detail__header">
+      <div class="update-detail__kicker">
+        <span>Project</span>
+        <time>2022-2025</time>
       </div>
+      <h1>SNUGLITE-III</h1>
+      <p class="update-detail__dek"> 6U(3U+3U) CubeSat mission (Launch: Nov 2025) </p>
+    </header>
 
-      
-      
-      
+    
+      <figure class="update-detail__hero project-detail__hero">
+        <img src="/project/snuglite-iii/title_hu_e5154836d3c8e182.webp" width="755" height="800" alt="SNUGLITE-III" loading="eager">
+      </figure>
+    
 
-      <div class="docs-article-container">
-        
-        <h1 class="text-center">(2022-2025) SNUGLITE-III</h1>
+    <div class="project-detail__body">
+      <aside class="project-detail__toc" aria-label="Table of contents">
+        <p>Contents</p>
+        <nav id="TableOfContents">
+  <ul>
+    
+    
+    <li><a href="#1-snuglite-iii-cubesat"><strong>1. SNUGLITE-III CubeSat</strong></a>
+      <ul>
+        <li><a href="#11-snuglite-team-2022">1.1. SNUGLITE Team (2022)</a></li>
+        <li><a href="#12-system-configuration">1.2. System Configuration</a></li>
+        <li><a href="#13-operation-scenario">1.3. Operation Scenario</a></li>
+      </ul>
+    </li>
+    <li><a href="#2-gps-relative-nagigation-rn-system"><strong>2. GPS Relative Nagigation (RN) System</strong></a></li>
+    <li><a href="#3-attitude-control-system-acs"><strong>3. Attitude Control System (ACS)</strong></a></li>
+    <li><a href="#4-assembly-integration-and-test-ait"><strong>4. Assembly, Integration, and Test (AIT)</strong></a></li>
+    <li><a href="#5-operation-results"><strong>5. Operation Results</strong></a>
+      <ul>
+        <li><a href="#51-launch-and-initial-operation">5.1. Launch and Initial Operation</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+      </aside>
 
-        <article class="article-style">
-
-          
-          
-
+      <div class="update-detail__article project-detail__article">
+        <article class="update-detail__content project-detail__content article-style">
           <h1 id="-under-construction-">! Under Construction !</h1>
 <h2 id="summery"><strong>Summery</strong></h2>
 <p>
@@ -1196,51 +1202,17 @@ Fig. Overall Block Diagram of RN
 <!-------------------------------------------------------------------------------------->
 <h1 id="for-more-information-refer-to-the-related-publications-below">For more information, refer to the related publications below.</h1>
 
-
         </article>
-
-        
-
-        
-        
-        <div class="article-widget">
-          
-<div class="post-nav">
-  
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Previous</div>
-    <a href="/project/remora/" rel="next">(2025-now) REMORA</a>
-  </div>
-  
-  
-  
-  <div class="post-nav-item">
-    <div class="meta-nav">Next</div>
-    <a href="/project/snuglite-ii/" rel="prev">(2019-2022) SNUGLITE-II</a>
-  </div>
-  
-</div>
-
-        </div>
-        
       </div>
+    </div>
+  </div>
+</main>
+  </div>
 
-      <div class="body-footer">
-        
-
-
-
-        
-
-
-
-        
-
-
-      </div>
-
+  <div class="page-footer">
+    
+    
+    <div class="container">
       <footer class="site-footer">
 
   
@@ -1260,55 +1232,9 @@ Fig. Overall Block Diagram of RN
   
   
   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-  
-  
-    
-  
-  
-    
-  
-
-  
-
-  
-  <p class="powered-by copyright-license-text">
-    © 2026 Hanjoon. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
-  </p>
-  
-
-  <p class="powered-by footer-license-icons">
-    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
-      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
-      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
-      
-        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
-      
-      
-        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
-      
-    </a>
-  </p>
-
-
-
+  <div class="site-footer__inner container-xl">
+  <p>© 2026 Hanjoon Shim</p>
+</div>
 
 
   <p class="powered-by">
@@ -1318,74 +1244,14 @@ Fig. Overall Block Diagram of RN
   </p>
 </footer>
 
-    </main>
-
-    
-    
-    <aside class="docs-toc d-none d-xl-block">
-      
-
-
-
-
-
-
-
-
-
-
-
-
-      <nav id="TableOfContents">
-  <ul>
-    <li><a href="#summery"><strong>Summery</strong></a></li>
-    <li><a href="#index"><strong>Index</strong></a></li>
-    <li><a href="#1-snuglite-iii-cubesat"><strong>1. SNUGLITE-III CubeSat</strong></a>
-      <ul>
-        <li><a href="#11-snuglite-team-2022">1.1. SNUGLITE Team (2022)</a></li>
-        <li><a href="#12-system-configuration">1.2. System Configuration</a></li>
-        <li><a href="#13-operation-scenario">1.3. Operation Scenario</a></li>
-      </ul>
-    </li>
-    <li><a href="#2-gps-relative-nagigation-rn-system"><strong>2. GPS Relative Nagigation (RN) System</strong></a></li>
-    <li><a href="#3-attitude-control-system-acs"><strong>3. Attitude Control System (ACS)</strong></a></li>
-    <li><a href="#4-assembly-integration-and-test-ait"><strong>4. Assembly, Integration, and Test (AIT)</strong></a></li>
-    <li><a href="#5-operation-results"><strong>5. Operation Results</strong></a>
-      <ul>
-        <li><a href="#51-launch-and-initial-operation">5.1. Launch and Initial Operation</a></li>
-      </ul>
-    </li>
-  </ul>
-</nav>
-
-      
-
-
-
-
-
-
-
-
-
-
-
-    </aside>
-    
-
-  </div>
-</div>
-  </div>
-
-  <div class="page-footer">
-    
+    </div>
     
   </div>
 
   
 
 
-<script src="/js/vendor-bundle.min.6782e3f6a4f06ea4766df038c45ecf40.js"></script>
+<script src="/js/vendor-bundle.min.js"></script>
 
 
 
@@ -1406,11 +1272,6 @@ Fig. Overall Block Diagram of RN
 
 
 
-
-<script src="https://cdn.jsdelivr.net/npm/anchor-js@5.0.0/anchor.min.js" integrity="sha256-aQmOEF2ZD4NM/xt4hthzREIo/2PFkOX/g01WjxEV7Ys=" crossorigin="anonymous"></script>
-<script>
-  anchors.add();
-</script>
 
 
 
@@ -1468,9 +1329,10 @@ Fig. Overall Block Diagram of RN
 
 
 
-<script id="page-data" type="application/json">{"use_headroom":false}</script>
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
 
 
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
 
 
 
@@ -1484,11 +1346,11 @@ Fig. Overall Block Diagram of RN
   
 
 
-<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+<script src="/en/js/wowchemy.min.js"></script>
 
 
 
-  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+  <script src="/js/wowchemy-map.js" type="module"></script>
 
 
 
@@ -1521,7 +1383,7 @@ Fig. Overall Block Diagram of RN
 </div>
 
 
-  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+  <script src="/js/wowchemy-publication.js" type="module"></script>
 
 
 

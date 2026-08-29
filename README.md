@@ -1,2 +1,0 @@
-# HANJOON SHIM
-Personal Website
