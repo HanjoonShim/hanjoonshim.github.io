@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -366,6 +366,33 @@
 
 
 
+
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
 
 
 
@@ -3479,6 +3506,11 @@
               
             
           </select>
+        </div>
+
+        <div class="pub-filter-search" role="search" aria-label="Search publication archive">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+          <input id="pub-search" type="search" placeholder="Search publications" aria-label="Search by title, author, or journal" autocomplete="off" spellcheck="false">
         </div>
 
         <p class="pub-page-updated">Last updated — 2026-04-01</p>
@@ -9483,6 +9515,8 @@
       
       
 
+      <p id="pub-search-status" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+
       
       <script>
       (function () {
@@ -9519,13 +9553,19 @@
 
         const selType = document.getElementById('pubtype-select');
         const selYear = document.getElementById('year-select');
-        if (!selType || !selYear) return;
+        const search = document.getElementById('pub-search');
+        const status = document.getElementById('pub-search-status');
+        if (!selType || !selYear || !search) return;
 
         const items = Array.from(document.querySelectorAll('.pub-cv-item'));
+        const normalize = text => text.normalize('NFKC').toLowerCase().replace(/\s+/g, ' ').trim();
+        const searchText = new Map(items.map(item => [item, normalize(item.textContent)]));
 
         function update() {
           const vType = selType.value;
           const vYear = selYear.value;
+          const words = normalize(search.value).split(' ').filter(Boolean);
+          let matchCount = 0;
 
           items.forEach(el => {
             const t = el.getAttribute('data-pubtype') || '';
@@ -9533,19 +9573,31 @@
 
             const okType = (vType === '*') || (t === vType);
             const okYear = (vYear === '*') || (y === vYear);
+            const okSearch = words.every(word => searchText.get(el).includes(word));
+            const matches = okType && okYear && okSearch;
 
-            el.style.display = (okType && okYear) ? '' : 'none';
+            el.style.display = matches ? '' : 'none';
+            if (matches) matchCount++;
           });
 
           document.querySelectorAll('.pub-group').forEach(group => {
             const visibleItems = Array.from(group.querySelectorAll('.pub-cv-item'))
-              .some(item => item.style.display !== 'none');
-            group.hidden = !visibleItems;
+              .filter(item => item.style.display !== 'none').length;
+            group.hidden = visibleItems === 0;
+            const count = group.querySelector('.pub-section-count');
+            if (count) count.textContent = `${visibleItems} ${visibleItems === 1 ? 'work' : 'works'}`;
           });
+
+          status.className = matchCount ? 'sr-only' : 'pub-search-empty';
+          status.textContent = matchCount
+            ? `${matchCount} ${matchCount === 1 ? 'publication' : 'publications'} found.`
+            : 'No publications found. Try another search or change the filters.';
         }
 
         selType.addEventListener('change', update);
         selYear.addEventListener('change', update);
+        search.addEventListener('input', update);
+        search.addEventListener('search', update);
         update();
       })();
       </script>

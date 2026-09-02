@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -378,6 +378,33 @@
 
 
 
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
+
 
 
 
@@ -708,7 +735,7 @@
   
 
 
-<main class="update-detail">
+<main class="update-detail update-detail--protected">
   <div class="update-detail__shell">
     <a class="update-detail__back" href="/updates/">
       <span aria-hidden="true">←</span> Updates
@@ -726,7 +753,7 @@
 
     
       <figure class="update-detail__hero">
-        <img src="/updates/press/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/featured_hu_382ed54be5122abc.webp" width="1004" height="1200" alt="Media Report on Mar 13, 2024" loading="eager">
+        <img src="/updates/press/240313-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/featured_hu_382ed54be5122abc.webp" width="1004" height="1200" alt="Media Report on Mar 13, 2024" loading="eager" draggable="false">
       </figure>
     
 
@@ -751,6 +778,28 @@
     </div>
   </div>
 </main>
+
+<script>
+  (() => {
+    const article = document.querySelector('.update-detail--protected');
+    if (!article) return;
+    
+    article.querySelectorAll('img').forEach(image => {
+      image.removeAttribute('data-zoomable');
+      image.removeAttribute('data-fancybox');
+      image.setAttribute('draggable', 'false');
+    });
+    
+    ['contextmenu', 'dragstart', 'click', 'auxclick'].forEach(type => {
+      article.addEventListener(type, event => {
+        if (!(event.target instanceof Element) || !event.target.closest('img')) return;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+      }, true);
+    });
+  })();
+</script>
+
 
 <div class="container">
   <footer class="site-footer">

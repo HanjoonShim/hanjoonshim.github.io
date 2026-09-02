@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -378,6 +378,33 @@
 
 
 
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
+
 
 
 
@@ -708,7 +735,7 @@
   
 
 
-<main class="update-detail">
+<main class="update-detail update-detail--protected">
   <div class="update-detail__shell">
     <a class="update-detail__back" href="/updates/">
       <span aria-hidden="true">←</span> Updates
@@ -726,7 +753,7 @@
 
     
       <figure class="update-detail__hero">
-        <img src="/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/featured_hu_3220e20318fb95d5.webp" width="899" height="600" alt="Media Report on Feb 21, 2023" loading="eager">
+        <img src="/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/featured_hu_3220e20318fb95d5.webp" width="899" height="600" alt="Media Report on Feb 21, 2023" loading="eager" draggable="false">
       </figure>
     
 
@@ -742,30 +769,21 @@
 <p>
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+<figure class="update-detail__photo">
+  <img src="/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_ebff06f842dccd79.webp" alt="230221-kor-fig1" loading="lazy" draggable="false" width="1800" height="1138">
+  
+</figure>
 
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="230221-kor-fig1" srcset="
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w"
-               src="/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp"
-               width="760"
-               height="481"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
 </p>
 <br>
 <h1 id="releted-media-report-selected">Releted Media Report (Selected)</h1>
@@ -807,6 +825,28 @@
     </div>
   </div>
 </main>
+
+<script>
+  (() => {
+    const article = document.querySelector('.update-detail--protected');
+    if (!article) return;
+    
+    article.querySelectorAll('img').forEach(image => {
+      image.removeAttribute('data-zoomable');
+      image.removeAttribute('data-fancybox');
+      image.setAttribute('draggable', 'false');
+    });
+    
+    ['contextmenu', 'dragstart', 'click', 'auxclick'].forEach(type => {
+      article.addEventListener(type, event => {
+        if (!(event.target instanceof Element) || !event.target.closest('img')) return;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+      }, true);
+    });
+  })();
+</script>
+
 
 <div class="container">
   <footer class="site-footer">

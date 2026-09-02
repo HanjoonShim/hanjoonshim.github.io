@@ -234,58 +234,40 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig1_hu_f6bbae42dc4c617f.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig2_hu_d03eac72d23170e6.webp&#34; alt=&#34;fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp 400w,
-               /updates/news/250627-evt/fig1_hu_465fe3fa86b48fd9.webp 760w,
-               /updates/news/250627-evt/fig1_hu_cc1bba463a904f45.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig2&#34; srcset=&#34;
-               /updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp 400w,
-               /updates/news/250627-evt/fig2_hu_aeb149dd5284b89e.webp 760w,
-               /updates/news/250627-evt/fig2_hu_534f0a335594cfd2.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -402,34 +384,26 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <guid>http://localhost:1313/updates/news/250306-ieee/</guid>
       <description>&lt;p&gt;I attended the 2025 IEEE Aerospace Conference held in Big Sky, Montana. It was an excellent conference with many insightful discussions and presentations.&lt;/p&gt;
 &lt;p&gt;I presented the following paper:
-&lt;a href=&#34;http://localhost:1313/publication/ic_202501/&#34;&gt;Onboard Implementation and Validation of RTK-Based Relative Navigation System for CubeSats&lt;/a&gt;&lt;/p&gt;
+
+&lt;/p&gt;
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250306-ieee/fig1_hu_66ff78068414e4f8.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/250306-ieee/fig1_hu_74d816acedc19def.webp 400w,
-               /updates/news/250306-ieee/fig1_hu_bda361c9c1aced1d.webp 760w,
-               /updates/news/250306-ieee/fig1_hu_2b7d355499d2ae75.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250306-ieee/fig1_hu_74d816acedc19def.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -565,7 +539,8 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
       <link>http://localhost:1313/updates/press/240926/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/updates/press/240926/</guid>
-      <description>&lt;h2 id=&#34;1-큐브위성-스누그라이트-3-소개하는-심한준-연구원&#34;&gt;1) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;큐브위성 스누그라이트-3 소개하는 심한준 연구원&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;1-큐브위성-스누그라이트-3-소개하는-심한준-연구원&#34;&gt;1) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Researcher Hanjoon Shim introduces SNUGLITE-III CubeSat&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -573,7 +548,8 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 (featured figure)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;2-큐브위성-스누그라이트-3-소개하는-심한준-연구원&#34;&gt;2) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534521&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;큐브위성 스누그라이트-3 소개하는 심한준 연구원&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-큐브위성-스누그라이트-3-소개하는-심한준-연구원&#34;&gt;2) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Researcher Hanjoon Shim introduces SNUGLITE-III CubeSat&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -581,34 +557,26 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/240926/fig2_hu_678a9e82ec2eb14b.webp&#34; alt=&#34;240926-newsis-fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;720&#34; height=&#34;480&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig2&#34; srcset=&#34;
-               /updates/press/240926/fig2_hu_396741471beaea0d.webp 400w,
-               /updates/press/240926/fig2_hu_1b2f25571be9fa67.webp 760w,
-               /updates/press/240926/fig2_hu_d1f00c22c6fe6502.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/240926/fig2_hu_396741471beaea0d.webp&#34;
-               width=&#34;720&#34;
-               height=&#34;480&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;3-누리호-4호기에-탑재될-큐브위성-스누그라이트-3&#34;&gt;3) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534522&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 4호기에 탑재될 큐브위성 스누그라이트-3&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;3-누리호-4호기에-탑재될-큐브위성-스누그라이트-3&#34;&gt;3) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNUGLITE-III CubeSat to be loaded on Nuriho 4th launch&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -616,34 +584,26 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/240926/fig3_hu_66335b446dd9d631.webp&#34; alt=&#34;240926-newsis-fig3&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;720&#34; height=&#34;467&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig3&#34; srcset=&#34;
-               /updates/press/240926/fig3_hu_c88a47565a114b48.webp 400w,
-               /updates/press/240926/fig3_hu_2113ee73677d6416.webp 760w,
-               /updates/press/240926/fig3_hu_e82c1bafc03d26fa.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/240926/fig3_hu_c88a47565a114b48.webp&#34;
-               width=&#34;720&#34;
-               height=&#34;467&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;4-큐브위성-스누그라이트-3&#34;&gt;4) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534527&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;큐브위성 스누그라이트-3&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;4-큐브위성-스누그라이트-3&#34;&gt;4) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNUGLITE-III CubeSat&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -651,33 +611,25 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/240926/fig4_hu_354a6c9f4f33af5b.webp&#34; alt=&#34;240926-newsis-fig4&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;720&#34; height=&#34;525&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig4&#34; srcset=&#34;
-               /updates/press/240926/fig4_hu_11c505ddd1bb2d8d.webp 400w,
-               /updates/press/240926/fig4_hu_261a7705ac96403b.webp 760w,
-               /updates/press/240926/fig4_hu_76a403ca8c3bb0b.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/240926/fig4_hu_11c505ddd1bb2d8d.webp&#34;
-               width=&#34;720&#34;
-               height=&#34;525&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;5-누리호-4호기와-함께-우주로-향할&#34;&gt;5) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534528&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;누리호 4호기와 함께 우주로 향할 &amp;lsquo;스누그라이트-3&amp;rsquo;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;5-누리호-4호기와-함께-우주로-향할&#34;&gt;5) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: &amp;lsquo;SNUGLITE-III&amp;rsquo; to Head to Space with Nuri 4th&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -685,34 +637,26 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/240926/fig5_hu_f4911b417d8ea38d.webp&#34; alt=&#34;240926-newsis-fig5&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;719&#34; height=&#34;487&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig5&#34; srcset=&#34;
-               /updates/press/240926/fig5_hu_1f3f69a49ecfcf8e.webp 400w,
-               /updates/press/240926/fig5_hu_5c6c8cc97fd3b4ea.webp 760w,
-               /updates/press/240926/fig5_hu_5d1639fa116c676b.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/240926/fig5_hu_1f3f69a49ecfcf8e.webp&#34;
-               width=&#34;719&#34;
-               height=&#34;487&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;6-&#34;&gt;6) &lt;a href=&#34;https://www.newsis.com/view/NISI20240926_0020534524&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;lsquo;스누그라이트-3, 우주로 향하다&amp;rsquo;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;6-&#34;&gt;6) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNUGLITE-III, Heading to Space&lt;/li&gt;
 &lt;li&gt;Source: Newsis&lt;/li&gt;
@@ -720,44 +664,37 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/240926/fig6_hu_7163aeef982ff40d.webp&#34; alt=&#34;240926-newsis-fig6&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;720&#34; height=&#34;826&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240926-newsis-fig6&#34; srcset=&#34;
-               /updates/press/240926/fig6_hu_4282cf69115099ab.webp 400w,
-               /updates/press/240926/fig6_hu_f5e0b48e49b01f62.webp 760w,
-               /updates/press/240926/fig6_hu_4476292bd804e7c6.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/240926/fig6_hu_4282cf69115099ab.webp&#34;
-               width=&#34;662&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;h1 id=&#34;releted-media-report&#34;&gt;Releted Media Report&lt;/h1&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;7-서울대-세계최초-기술&#34;&gt;7) &lt;a href=&#34;https://news.mt.co.kr/mtview.php?no=2024092618395630853&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;서울대, 세계최초 기술 &amp;lsquo;저비용-고효율 위성 SNUGLITE-Ⅲ&amp;rsquo; 우주로&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;7-서울대-세계최초-기술&#34;&gt;7) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNU, The world&amp;rsquo;s first technology &amp;rsquo;low-cost, high-efficiency satellite SNUGLITE-II&amp;rsquo; into space&lt;/li&gt;
 &lt;li&gt;Source: 머니투데이&lt;/li&gt;
 &lt;li&gt;Language: Korean&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;8-서울대-4차-누리호에-3차원-대기-관측-큐브위성-태운다&#34;&gt;8) &lt;a href=&#34;https://www.segye.com/newsView/20240926521515?OutUrl=naver&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;서울대, 4차 누리호에 ‘3차원 대기 관측’ 큐브위성 태운다&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;8-서울대-4차-누리호에-3차원-대기-관측-큐브위성-태운다&#34;&gt;8) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNU to Launch CubeSat for ‘3D Atmospheric Observation’ on 4th Nuri&lt;/li&gt;
 &lt;li&gt;Source: 세계일보&lt;/li&gt;
@@ -765,14 +702,16 @@ Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
 &lt;li&gt;Tag: SNUGLITE-III&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;9-4차-발사-누리호에&#34;&gt;9) &lt;a href=&#34;https://www.edaily.co.kr/News/Read?newsId=03906486639024056&amp;amp;mediaCodeNo=257&amp;amp;OutLnkChk=Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4차 발사 누리호에 &amp;lsquo;3차원 대기 관측&amp;rsquo; 쌍둥이 미니위성 태운다&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;9-4차-발사-누리호에&#34;&gt;9) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: 4th Launch Nuri to Carry Twin CubeSats for &amp;lsquo;3D Atmosphere Observation&amp;rsquo;&lt;/li&gt;
 &lt;li&gt;Source: 연합뉴스&lt;/li&gt;
 &lt;li&gt;Language: Korean&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;10-서울대-3차원-대기-관측용-쌍둥이-위성-개발세계-최초-기술-사용&#34;&gt;10) &lt;a href=&#34;https://www.edaily.co.kr/News/Read?newsId=03906486639024056&amp;amp;mediaCodeNo=257&amp;amp;OutLnkChk=Y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;서울대, 3차원 대기 관측용 쌍둥이 위성 개발…“세계 최초 기술 사용”&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;10-서울대-3차원-대기-관측용-쌍둥이-위성-개발세계-최초-기술-사용&#34;&gt;10) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: SNU Develops Twin CubeSats for 3D Atmosphere Observation… “World’s First Technology Used”&lt;/li&gt;
 &lt;li&gt;Source: 이데일리&lt;/li&gt;
@@ -828,30 +767,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240831-grad/fig1_hu_90a3363aed1657a4.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;933&#34; height=&#34;1400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp 400w,
-               /updates/news/240831-grad/fig1_hu_dac5d7e75dac043f.webp 760w,
-               /updates/news/240831-grad/fig1_hu_7fac0d414189999a.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp&#34;
-               width=&#34;507&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -867,58 +797,40 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig1_hu_231f1bb20a404ba5.webp&#34; alt=&#34;240705-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;790&#34;&gt;
+  
+&lt;/figure&gt;
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig2_hu_781c56577dcd48e7.webp&#34; alt=&#34;240705-fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;955&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig1&#34; srcset=&#34;
-               /updates/news/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
-               /updates/news/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
-               /updates/news/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;334&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig2&#34; srcset=&#34;
-               /updates/news/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
-               /updates/news/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
-               /updates/news/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;403&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -1092,30 +1004,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240124-itm/fig1_hu_a8e8fbeb05c108c0.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/240124-itm/fig1_hu_23f4e3d88a38d899.webp 400w,
-               /updates/news/240124-itm/fig1_hu_d87906134ea89b9c.webp 760w,
-               /updates/news/240124-itm/fig1_hu_75fd0f465769e500.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240124-itm/fig1_hu_23f4e3d88a38d899.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;508&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -1145,30 +1048,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/231208-research/fig1_hu_2a331dce4609f4d3.webp&#34; alt=&#34;231208-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;335&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;231208-fig1&#34; srcset=&#34;
-               /updates/news/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
-               /updates/news/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
-               /updates/news/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;212&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -1273,30 +1167,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/230915-iongnss/fig1_hu_3f27cca0b30285ff.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1350&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp 400w,
-               /updates/news/230915-iongnss/fig1_hu_cdf7b38adad2eb7b.webp 760w,
-               /updates/news/230915-iongnss/fig1_hu_b1b5b4bf20949e14.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -1495,35 +1380,27 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_ebff06f842dccd79.webp&#34; alt=&#34;230221-kor-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1138&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230221-kor-fig1&#34; srcset=&#34;
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;481&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h1 id=&#34;releted-media-report-selected&#34;&gt;Releted Media Report (Selected)&lt;/h1&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;1-대한민국-우주경제-시대-우주항공청을-최고의-연구개발-플랫폼으로-&#34;&gt;1) &lt;a href=&#34;https://www.youtube.com/watch?v=C-zUniIu5pw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;대한민국 우주경제 시대, 우주항공청을 최고의 연구개발 플랫폼으로! [뉴스페이스 시대 우주경제 개척자와의 대화]&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;1-대한민국-우주경제-시대-우주항공청을-최고의-연구개발-플랫폼으로-&#34;&gt;1) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: A conversation with a space economy pioneer in the Newspace era&lt;/li&gt;
 &lt;li&gt;Source: 대한민국 대통령실 (Office of the President of the Republic of Korea)&lt;/li&gt;
@@ -1536,7 +1413,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 &lt;/br&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;2-이과인들의-간담회에-윤하의-등장이라대통령실이-그를-초대한-이유는-무엇이었을까&#34;&gt;2) &lt;a href=&#34;https://www.youtube.com/watch?v=V_hGZgiFsls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;이과인들의 간담회에 윤하의 등장이라…대통령실이 그를 초대한 이유는 무엇이었을까?&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-이과인들의-간담회에-윤하의-등장이라대통령실이-그를-초대한-이유는-무엇이었을까&#34;&gt;2) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Yoon Ha appeared at a meeting of science students… Why did the Blue House invite him?&lt;/li&gt;
 &lt;li&gt;Source: 비디오머그&lt;/li&gt;
@@ -1548,7 +1426,8 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
         &lt;/div&gt;
 
 &lt;/br&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3-우주개척자-만난-尹-우주산업-국가가-관리하고-키워나가갈것&#34;&gt;3) &lt;a href=&#34;https://www.donga.com/news/Politics/article/all/20230221/118011142/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘우주개척자’ 만난 尹 “우주산업 국가가 관리하고 키워나가갈것”&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;3-우주개척자-만난-尹-우주산업-국가가-관리하고-키워나가갈것&#34;&gt;3) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: President Yoon met with ‘space pioneers’, “The space industry will be managed and developed by the state”&lt;/li&gt;
 &lt;li&gt;Source: 동아일보&lt;/li&gt;
@@ -1685,30 +1564,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-iii/title_hu_e263bce208227164.webp&#34; alt=&#34;KARDSAT CubeSat&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;755&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;KARDSAT CubeSat&#34; srcset=&#34;
-               /project/snuglite-iii/title_hu_845d0fd450d236b1.webp 400w,
-               /project/snuglite-iii/title_hu_b94476b23eda709f.webp 760w,
-               /project/snuglite-iii/title_hu_af17be37d908e4fd.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-iii/title_hu_845d0fd450d236b1.webp&#34;
-               width=&#34;717&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
   &lt;div class=&#34;card-body&#34;&gt;
@@ -1886,30 +1756,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-iii/fig1_hu_ac1b7d25c27cbfca.webp&#34; alt=&#34;SNUGLITE-III CubeSat: Before and after seperation&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;943&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-III CubeSat: Before and after seperation&#34; srcset=&#34;
-               /project/snuglite-iii/fig1_hu_62eb5cbcced78d5b.webp 400w,
-               /project/snuglite-iii/fig1_hu_f5245de67d5dcc00.webp 760w,
-               /project/snuglite-iii/fig1_hu_717c09ed7c2c9232.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-iii/fig1_hu_62eb5cbcced78d5b.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;322&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-III CubeSat: Before and after seperation
@@ -1987,30 +1848,21 @@ Fig. SNUGLITE-III CubeSat: Before and after seperation
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-iii/fig2_hu_f0b8c7fcd3c00716.webp&#34; alt=&#34;Operation Scenario&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;798&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario&#34; srcset=&#34;
-               /project/snuglite-iii/fig2_hu_1c14ab25a573f06.webp 400w,
-               /project/snuglite-iii/fig2_hu_2528f85253a88915.webp 760w,
-               /project/snuglite-iii/fig2_hu_b1ca1a6741e558c8.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-iii/fig2_hu_1c14ab25a573f06.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;381&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Operation Scenario
@@ -2027,30 +1879,21 @@ Fig. Operation Scenario
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-iii/fig3_hu_9b2b7defa2c6c6a4.webp&#34; alt=&#34;Concept of GPS Relative Navigation System&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;569&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Concept of GPS Relative Navigation System&#34; srcset=&#34;
-               /project/snuglite-iii/fig3_hu_f8303660df652962.webp 400w,
-               /project/snuglite-iii/fig3_hu_d45e1fc749e0263e.webp 760w,
-               /project/snuglite-iii/fig3_hu_5366906891bbe1b6.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-iii/fig3_hu_f8303660df652962.webp&#34;
-               width=&#34;569&#34;
-               height=&#34;400&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Concept of GPS Relative Navigation System
@@ -2063,30 +1906,21 @@ Fig. Concept of GPS Relative Navigation System
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-iii/fig4_hu_5398e4380494a4f4.webp&#34; alt=&#34;Overall Block Diagram of RN&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;791&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram of RN&#34; srcset=&#34;
-               /project/snuglite-iii/fig4_hu_b85027b4c7f5f966.webp 400w,
-               /project/snuglite-iii/fig4_hu_d088edbed39769e6.webp 760w,
-               /project/snuglite-iii/fig4_hu_47ceaa96aae116a5.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-iii/fig4_hu_b85027b4c7f5f966.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;384&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of RN
@@ -2684,30 +2518,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/title_hu_1f70d0c2549f1a2.webp&#34; alt=&#34;SNUGLITE-II CubeSat&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;442&#34; height=&#34;500&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II CubeSat&#34; srcset=&#34;
-               /project/snuglite-ii/title_hu_ca292a264babd492.webp 400w,
-               /project/snuglite-ii/title_hu_d3a5a2366b743f12.webp 760w,
-               /project/snuglite-ii/title_hu_60464b7afa7c23e1.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/title_hu_ca292a264babd492.webp&#34;
-               width=&#34;442&#34;
-               height=&#34;500&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
   &lt;div class=&#34;card-body&#34;&gt;
@@ -2889,30 +2714,21 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig2_hu_f6e4510519fdf867.webp&#34; alt=&#34;SNUGLITE-II CubeSat: Before and after deployment&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;795&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II CubeSat: Before and after deployment&#34; srcset=&#34;
-               /project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp 400w,
-               /project/snuglite-ii/fig2_hu_9ac49416a9641189.webp 760w,
-               /project/snuglite-ii/fig2_hu_12f50f07fcabc184.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;382&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II CubeSat: Before and after deployment
@@ -3120,60 +2936,42 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig3_hu_14fa325be260993d.webp&#34; alt=&#34;Electrical Interface Diagram&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;679&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Electrical Interface Diagram&#34; srcset=&#34;
-               /project/snuglite-ii/fig3_hu_fd7728796f157244.webp 400w,
-               /project/snuglite-ii/fig3_hu_5cdbcee79e769790.webp 760w,
-               /project/snuglite-ii/fig3_hu_692966fa26f264e1.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig3_hu_fd7728796f157244.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;430&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/h3&gt;
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig1_hu_41da829ff66edcf9.webp&#34; alt=&#34;Operation Scenario&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;633&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario&#34; srcset=&#34;
-               /project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp 400w,
-               /project/snuglite-ii/fig1_hu_98c422273ac083b8.webp 760w,
-               /project/snuglite-ii/fig1_hu_e9605023f2603cfe.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp&#34;
-               width=&#34;633&#34;
-               height=&#34;400&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Operation Scenario
@@ -3221,30 +3019,21 @@ Fig. Operation Scenario
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig4_hu_a1884b82f9b0a339.webp&#34; alt=&#34;Overall Block Diagram of ADCS&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;800&#34; height=&#34;629&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram of ADCS&#34; srcset=&#34;
-               /project/snuglite-ii/fig4_hu_80b715a226ca9194.webp 400w,
-               /project/snuglite-ii/fig4_hu_fed3f0af19fb6e09.webp 760w,
-               /project/snuglite-ii/fig4_hu_aed9c522c5b1e446.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig4_hu_80b715a226ca9194.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;598&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of ADCS
@@ -3254,30 +3043,21 @@ Fig. Overall Block Diagram of ADCS
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig5_hu_412af405d3e1263b.webp&#34; alt=&#34;Design Concept of ADCS&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;635&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Design Concept of ADCS&#34; srcset=&#34;
-               /project/snuglite-ii/fig5_hu_45dc5de101be6866.webp 400w,
-               /project/snuglite-ii/fig5_hu_60f65a41360c6d7c.webp 760w,
-               /project/snuglite-ii/fig5_hu_27f2fcfb32ef7b44.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig5_hu_45dc5de101be6866.webp&#34;
-               width=&#34;603&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Design Philosophy of ADCS
@@ -3318,30 +3098,21 @@ Fig. Design Philosophy of ADCS
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig6_hu_59bd2a5b0bd41631.webp&#34; alt=&#34;Components of SNUGLITE-II&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1155&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Components of SNUGLITE-II&#34; srcset=&#34;
-               /project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp 400w,
-               /project/snuglite-ii/fig6_hu_c754914ff4199489.webp 760w,
-               /project/snuglite-ii/fig6_hu_b77d5b6ff9b43482.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;395&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Components of SNUGLITE-II
@@ -3367,30 +3138,21 @@ Fig. Components of SNUGLITE-II
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig7_hu_6a3fac95955c349b.webp&#34; alt=&#34;Far-field Test&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;450&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Far-field Test&#34; srcset=&#34;
-               /project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp 400w,
-               /project/snuglite-ii/fig7_hu_fcfc282b3f20ccfd.webp 760w,
-               /project/snuglite-ii/fig7_hu_ab8e14db504a789f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp&#34;
-               width=&#34;450&#34;
-               height=&#34;600&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Far-field Test
@@ -3403,30 +3165,21 @@ Fig. Far-field Test
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig8_hu_8bdd5b4b7c4e8c6d.webp&#34; alt=&#34;SNUGLITE-II EVT&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;900&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II EVT&#34; srcset=&#34;
-               /project/snuglite-ii/fig8_hu_3cc28176b520acf.webp 400w,
-               /project/snuglite-ii/fig8_hu_1b96cdb328df4c3d.webp 760w,
-               /project/snuglite-ii/fig8_hu_ec6fa5e0ae38845.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig8_hu_3cc28176b520acf.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II Thermal Vaccum Test
@@ -3485,30 +3238,21 @@ Fig. SNUGLITE-II Thermal Vaccum Test
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig9_hu_16205755e782f8ef.webp&#34; alt=&#34;SNUGLITE-II Position1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;512&#34; height=&#34;288&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position1&#34; srcset=&#34;
-               /project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp 400w,
-               /project/snuglite-ii/fig9_hu_b69da2d9b95243be.webp 760w,
-               /project/snuglite-ii/fig9_hu_1c39244bfe0c492f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp&#34;
-               width=&#34;512&#34;
-               height=&#34;288&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II GPS Receiver Position 
@@ -3516,30 +3260,21 @@ Fig. SNUGLITE-II GPS Receiver Position
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig10_hu_cfdbe62ba603be4b.webp&#34; alt=&#34;SNUGLITE-II Position2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;385&#34; height=&#34;308&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position2&#34; srcset=&#34;
-               /project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp 400w,
-               /project/snuglite-ii/fig10_hu_92db0c16352a6776.webp 760w,
-               /project/snuglite-ii/fig10_hu_794a60f0c613ea81.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp&#34;
-               width=&#34;385&#34;
-               height=&#34;308&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II GPS Receiver Position vs TLE
@@ -3554,30 +3289,21 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig11_hu_521c7c3c27da1997.webp&#34; alt=&#34;SNUGLITE-II Angular Velocity&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;525&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Angular Velocity&#34; srcset=&#34;
-               /project/snuglite-ii/fig11_hu_10ed05676ababab4.webp 400w,
-               /project/snuglite-ii/fig11_hu_772d331ea574da8b.webp 760w,
-               /project/snuglite-ii/fig11_hu_572521c5a1a24502.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig11_hu_10ed05676ababab4.webp&#34;
-               width=&#34;525&#34;
-               height=&#34;400&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II Angular Velocity in-Orbit
@@ -3655,30 +3381,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/title_hu_bb80087f2fa494be.webp&#34; alt=&#34;KARDSAT CubeSat&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;670&#34; height=&#34;502&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;KARDSAT CubeSat&#34; srcset=&#34;
-               /project/kardsat/title_hu_f9c1fc6bcb24e2cb.webp 400w,
-               /project/kardsat/title_hu_ee219408ad66995e.webp 760w,
-               /project/kardsat/title_hu_e4d143cf5a7c97a0.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/title_hu_f9c1fc6bcb24e2cb.webp&#34;
-               width=&#34;670&#34;
-               height=&#34;502&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
   &lt;div class=&#34;card-body&#34;&gt;
@@ -3790,58 +3507,40 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig1_hu_a515394c50a94cd4.webp&#34; alt=&#34;Operation Scenario of KARDSAT&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;960&#34;&gt;
+  
+&lt;/figure&gt;
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig2_hu_b76d0050f6f27c5f.webp&#34; alt=&#34;Test Schedule&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1281&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario of KARDSAT&#34; srcset=&#34;
-               /project/kardsat/fig1_hu_654b8f05aa7828be.webp 400w,
-               /project/kardsat/fig1_hu_39482d7a698e9e00.webp 760w,
-               /project/kardsat/fig1_hu_f7def5c203a9bc53.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig1_hu_654b8f05aa7828be.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;405&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Test Schedule&#34; srcset=&#34;
-               /project/kardsat/fig2_hu_2acfee3cb5d7f06e.webp 400w,
-               /project/kardsat/fig2_hu_3dd59b636e24d218.webp 760w,
-               /project/kardsat/fig2_hu_c2ab1f63b6fc5d53.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig2_hu_2acfee3cb5d7f06e.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;541&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The Chaser is equipped with thrusters for orbital control, visual sensors for shape recognition and attitude estimation of the Target, and a docking device for demonstration purposes. The Target features an LED marker to facilitate the Chaser&amp;rsquo;s attitude estimation and a drag device for deorbiting after mission completion. Upon deployment from the P-POD, the two satellites will gradually drift apart due to orbital perturbations, estimated to reach a distance of approximately 500 km within three days until they establish communication for orbital control. After the first contact, the Chaser will perform orbital maneuvers to approach the Target, controlled by commands from the ground station until they are about 2 km apart. Within this range, relative navigation and control will bring them closer to within approximately 10 meters. The Target will transmit its orbital information to the Chaser, which will estimate the relative distance and execute the necessary maneuvers. Once within 10 meters, the Chaser will use its visual sensors for shape recognition and state estimation before initiating docking control. After successful docking, the Chaser will immediately detach and use its remaining fuel to lower its altitude, while the Target will deploy its drag device.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;This research project&lt;/strong&gt; aims to develop a &lt;strong&gt;relative GPS system for KARDSAT&lt;/strong&gt;, utilized during Tests #1 to #5 as shown in the diagrams, with a requirement to &lt;em&gt;achieve sub-meter real-time GPS relative navigation and deliver flight code as the project&amp;rsquo;s goal&lt;/em&gt;.&lt;/p&gt;
@@ -3853,30 +3552,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig3_hu_295dc53d6200c67a.webp&#34; alt=&#34;Overall Block Diagram&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;588&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram&#34; srcset=&#34;
-               /project/kardsat/fig3_hu_2cdf289783982a6e.webp 400w,
-               /project/kardsat/fig3_hu_870dfc4ec3704c06.webp 760w,
-               /project/kardsat/fig3_hu_465b03647aeba221.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig3_hu_2cdf289783982a6e.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;248&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Pseudorange-based relative navigation system (sub-meter level accuracy)&lt;/li&gt;
@@ -3886,30 +3576,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig4_hu_f541210651fbf5f9.webp&#34; alt=&#34;System Scheduling&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;486&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;System Scheduling&#34; srcset=&#34;
-               /project/kardsat/fig4_hu_412eabf5a27e1a63.webp 400w,
-               /project/kardsat/fig4_hu_7efccc24c4d7f7e.webp 760w,
-               /project/kardsat/fig4_hu_44abf4d2d0936ce8.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig4_hu_412eabf5a27e1a63.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;205&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;As shown in the figure, GPS measurements are transmitted from KARDSAT(Target) at 10-second intervals, triggering the use of the DGPS and orbital propagation modules.&lt;/p&gt;
 &lt;/br&gt;
@@ -3918,30 +3599,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig5_hu_237a09905c4b0206.webp&#34; alt=&#34;SILS Concept&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;688&#34; height=&#34;180&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SILS Concept&#34; srcset=&#34;
-               /project/kardsat/fig5_hu_79f4c5a5e05fc585.webp 400w,
-               /project/kardsat/fig5_hu_9b70dac64c2f59a1.webp 760w,
-               /project/kardsat/fig5_hu_64b9705778a0c869.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig5_hu_79f4c5a5e05fc585.webp&#34;
-               width=&#34;688&#34;
-               height=&#34;180&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SILS developed on MATLAB (Module seperated)&lt;/li&gt;
@@ -3960,30 +3632,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/kardsat/fig6_hu_2861e304430129bb.webp&#34; alt=&#34;PILS Concept&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;688&#34; height=&#34;182&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;PILS Concept&#34; srcset=&#34;
-               /project/kardsat/fig6_hu_712a2a0e7a4aded7.webp 400w,
-               /project/kardsat/fig6_hu_de9a120b1e7ec305.webp 760w,
-               /project/kardsat/fig6_hu_bbc47530a6b5dd16.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/kardsat/fig6_hu_712a2a0e7a4aded7.webp&#34;
-               width=&#34;688&#34;
-               height=&#34;182&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;MATLAB-based relative navigation module was implemented identically on the On-Board Computer (OBC)&lt;/li&gt;
@@ -4241,30 +3904,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-i/title_hu_3a9135fb28af9de0.webp&#34; alt=&#34;SNUGLITE-I CubeSat&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;961&#34; height=&#34;641&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-I CubeSat&#34; srcset=&#34;
-               /project/snuglite-i/title_hu_4ef826c37fe577a6.webp 400w,
-               /project/snuglite-i/title_hu_209b73cec4270fa8.webp 760w,
-               /project/snuglite-i/title_hu_e6f2d93347dfdf16.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-i/title_hu_4ef826c37fe577a6.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
   &lt;div class=&#34;card-body&#34;&gt;
@@ -4392,30 +4046,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-i/fig1_hu_ee37e5439f035f8.webp&#34; alt=&#34;Operation Scenario of ADCS&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;995&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario of ADCS&#34; srcset=&#34;
-               /project/snuglite-i/fig1_hu_ba8e92a4f14b91ae.webp 400w,
-               /project/snuglite-i/fig1_hu_bd1723954fd5c200.webp 760w,
-               /project/snuglite-i/fig1_hu_3305210625de66b4.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-i/fig1_hu_ba8e92a4f14b91ae.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;420&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The mission consists of three modes: Detumbling mode, Mission mode (GPS data collection), and Mission mode (Magnetometer boom data collection). Upon ejection from the P-POD, the satellite enters the initial mode, damping angular velocity. Depending on the deployment of the boom, the Mission Mode varies. The ADCS aims to control the satellite&amp;rsquo;s nadir-pointing to collect data.&lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
@@ -4442,30 +4087,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-i/fig2_hu_b765e6806a309d80.webp&#34; alt=&#34;Overall Block Diagram&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1701&#34; height=&#34;1193&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram&#34; srcset=&#34;
-               /project/snuglite-i/fig2_hu_f0d96502689f8aa.webp 400w,
-               /project/snuglite-i/fig2_hu_678a5346d8813b22.webp 760w,
-               /project/snuglite-i/fig2_hu_a4270030c145f71a.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-i/fig2_hu_f0d96502689f8aa.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;533&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video&lt;/strong&gt;:
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -4496,30 +4132,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-i/fig3_hu_5e45a49b1c480416.webp&#34; alt=&#34;HILS Verification&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1212&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;HILS Verification&#34; srcset=&#34;
-               /project/snuglite-i/fig3_hu_9285e74cce3f3a69.webp 400w,
-               /project/snuglite-i/fig3_hu_ff278509a40b0e17.webp 760w,
-               /project/snuglite-i/fig3_hu_cdfffeb66e5f70a7.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-i/fig3_hu_9285e74cce3f3a69.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;512&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video (50x Fast)&lt;/strong&gt;:
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

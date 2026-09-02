@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -404,6 +404,38 @@
 
 
 
+
+  
+    
+      
+      
+  
+  <script src="/js/home-entrance.min.adf5f5dabe87d0dc9340b0cba28d2ffb7da2058fc804de18b5ef33d708ca29c9.js"></script>
+  
+  <script src="/js/home-story-reveal.min.86721bbec8527018b3b713c84194b90100ea4204aedd593bc77b0b91900efcff.js"></script>
+
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
 
 
 
@@ -1004,89 +1036,8 @@
   </div>
 </section>
 
-<script>
-  (() => {
-    const panels = [...document.querySelectorAll('.home-panel')];
-    if (panels.length < 2) return;
-    const latestUpdates = document.querySelector('#latest-updates');
-    const collaborations = document.querySelector('#collaborations');
-    const snapSections = [...panels, latestUpdates, collaborations].filter(Boolean);
 
-    let wheelLocked = false;
-
-    const animateScroll = (targetY, duration = 850) => {
-      const startY = window.scrollY;
-      const distance = targetY - startY;
-      const startTime = performance.now();
-
-      const easeInOutCubic = (progress) => progress < .5
-        ? 4 * progress * progress * progress
-        : 1 - Math.pow(-2 * progress + 2, 3) / 2;
-
-      const step = (time) => {
-        const progress = Math.min((time - startTime) / duration, 1);
-        window.scrollTo(0, startY + distance * easeInOutCubic(progress));
-
-        if (progress < 1) {
-          window.requestAnimationFrame(step);
-        } else {
-          window.setTimeout(() => { wheelLocked = false; }, 250);
-        }
-      };
-
-      window.requestAnimationFrame(step);
-    };
-
-    document.querySelectorAll('.home-panel__scroll, .home-hero__news-shortcut').forEach((control) => {
-      control.addEventListener('click', (event) => {
-        event.preventDefault();
-        if (wheelLocked) return;
-
-        const target = document.querySelector(control.getAttribute('href'));
-        if (!target) return;
-
-        wheelLocked = true;
-        const navbarHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--navbar-height')) || 0;
-        const targetY = window.scrollY + target.getBoundingClientRect().top - navbarHeight;
-        animateScroll(targetY);
-      });
-    });
-
-    const closestPanelIndex = () => {
-      let closest = 0;
-      let distance = Infinity;
-
-      snapSections.forEach((section, index) => {
-        const sectionDistance = Math.abs(section.getBoundingClientRect().top);
-        if (sectionDistance < distance) {
-          closest = index;
-          distance = sectionDistance;
-        }
-      });
-
-      return closest;
-    };
-
-    window.addEventListener('wheel', (event) => {
-      if (wheelLocked) {
-        event.preventDefault();
-        return;
-      }
-
-      if (Math.abs(event.deltaY) < 8) return;
-
-      const current = closestPanelIndex();
-      const target = current + (event.deltaY > 0 ? 1 : -1);
-      if (target < 0 || target >= snapSections.length) return;
-
-      event.preventDefault();
-      wheelLocked = true;
-      const navbarHeight = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--navbar-height')) || 0;
-      const targetY = window.scrollY + snapSections[target].getBoundingClientRect().top - navbarHeight;
-      animateScroll(targetY);
-    }, { passive: false });
-  })();
-</script>
+<script src="/js/home-scroll.min.b7b969bc7735a4fc21d60412475baba2ea118b8379bf9d5b514bf2b3c345a69c.js"></script>
 
 
   

@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -374,6 +374,33 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 
 
 
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
+
 
 
 
@@ -693,7 +720,7 @@ With profound gratitude for the support and knowledge I have gained, I remain st
   
 
 
-<main class="update-detail">
+<main class="update-detail update-detail--protected">
   <div class="update-detail__shell">
     <a class="update-detail__back" href="/updates/">
       <span aria-hidden="true">←</span> Updates
@@ -711,7 +738,7 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 
     
       <figure class="update-detail__hero">
-        <img src="/updates/news/240831-grad/featured_hu_a7fe38a49fcf167f.webp" width="933" height="1400" alt="Announce my graduation with a Doctorate in Aerospace Engineering" loading="eager">
+        <img src="/updates/news/240831-grad/featured_hu_a7fe38a49fcf167f.webp" width="933" height="1400" alt="Announce my graduation with a Doctorate in Aerospace Engineering" loading="eager" draggable="false">
       </figure>
     
 
@@ -732,30 +759,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 <p>
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+<figure class="update-detail__photo">
+  <img src="/updates/news/240831-grad/fig1_hu_90a3363aed1657a4.webp" alt="fig1" loading="lazy" draggable="false" width="933" height="1400">
+  
+</figure>
 
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="fig1" srcset="
-               /updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp 400w,
-               /updates/news/240831-grad/fig1_hu_dac5d7e75dac043f.webp 760w,
-               /updates/news/240831-grad/fig1_hu_7fac0d414189999a.webp 1200w"
-               src="/updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp"
-               width="507"
-               height="760"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
 </p>
  <!-- ![fig2](fig2.jpg) -->
 
@@ -763,6 +781,28 @@ With profound gratitude for the support and knowledge I have gained, I remain st
     </div>
   </div>
 </main>
+
+<script>
+  (() => {
+    const article = document.querySelector('.update-detail--protected');
+    if (!article) return;
+    
+    article.querySelectorAll('img').forEach(image => {
+      image.removeAttribute('data-zoomable');
+      image.removeAttribute('data-fancybox');
+      image.setAttribute('draggable', 'false');
+    });
+    
+    ['contextmenu', 'dragstart', 'click', 'auxclick'].forEach(type => {
+      article.addEventListener(type, event => {
+        if (!(event.target instanceof Element) || !event.target.closest('img')) return;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+      }, true);
+    });
+  })();
+</script>
+
 
 <div class="container">
   <footer class="site-footer">

@@ -51,58 +51,40 @@
 &lt;p&gt;
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig1_hu_f6bbae42dc4c617f.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig2_hu_d03eac72d23170e6.webp&#34; alt=&#34;fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp 400w,
-               /updates/news/250627-evt/fig1_hu_465fe3fa86b48fd9.webp 760w,
-               /updates/news/250627-evt/fig1_hu_cc1bba463a904f45.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig2&#34; srcset=&#34;
-               /updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp 400w,
-               /updates/news/250627-evt/fig2_hu_aeb149dd5284b89e.webp 760w,
-               /updates/news/250627-evt/fig2_hu_534f0a335594cfd2.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -114,34 +96,26 @@
       <guid>http://localhost:1313/updates/news/250306-ieee/</guid>
       <description>&lt;p&gt;I attended the 2025 IEEE Aerospace Conference held in Big Sky, Montana. It was an excellent conference with many insightful discussions and presentations.&lt;/p&gt;
 &lt;p&gt;I presented the following paper:
-&lt;a href=&#34;http://localhost:1313/publication/ic_202501/&#34;&gt;Onboard Implementation and Validation of RTK-Based Relative Navigation System for CubeSats&lt;/a&gt;&lt;/p&gt;
+
+&lt;/p&gt;
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/250306-ieee/fig1_hu_66ff78068414e4f8.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/250306-ieee/fig1_hu_74d816acedc19def.webp 400w,
-               /updates/news/250306-ieee/fig1_hu_bda361c9c1aced1d.webp 760w,
-               /updates/news/250306-ieee/fig1_hu_2b7d355499d2ae75.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/250306-ieee/fig1_hu_74d816acedc19def.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -179,30 +153,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240831-grad/fig1_hu_90a3363aed1657a4.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;933&#34; height=&#34;1400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp 400w,
-               /updates/news/240831-grad/fig1_hu_dac5d7e75dac043f.webp 760w,
-               /updates/news/240831-grad/fig1_hu_7fac0d414189999a.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240831-grad/fig1_hu_31308ac8d2d4150.webp&#34;
-               width=&#34;507&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -218,58 +183,40 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig1_hu_231f1bb20a404ba5.webp&#34; alt=&#34;240705-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;790&#34;&gt;
+  
+&lt;/figure&gt;
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig2_hu_781c56577dcd48e7.webp&#34; alt=&#34;240705-fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;955&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig1&#34; srcset=&#34;
-               /updates/news/240705-research/fig1_hu_e09ddbb0290f5350.webp 400w,
-               /updates/news/240705-research/fig1_hu_d77b9d515727080b.webp 760w,
-               /updates/news/240705-research/fig1_hu_2383ed23095e0af7.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240705-research/fig1_hu_e09ddbb0290f5350.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;334&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240705-fig2&#34; srcset=&#34;
-               /updates/news/240705-research/fig2_hu_989ba255e9e0c3de.webp 400w,
-               /updates/news/240705-research/fig2_hu_be70fafde5806cb7.webp 760w,
-               /updates/news/240705-research/fig2_hu_e033f85a6e01372c.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240705-research/fig2_hu_989ba255e9e0c3de.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;403&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -286,30 +233,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/240124-itm/fig1_hu_a8e8fbeb05c108c0.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/240124-itm/fig1_hu_23f4e3d88a38d899.webp 400w,
-               /updates/news/240124-itm/fig1_hu_d87906134ea89b9c.webp 760w,
-               /updates/news/240124-itm/fig1_hu_75fd0f465769e500.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/240124-itm/fig1_hu_23f4e3d88a38d899.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;508&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>
@@ -331,30 +269,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/231208-research/fig1_hu_2a331dce4609f4d3.webp&#34; alt=&#34;231208-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;335&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;231208-fig1&#34; srcset=&#34;
-               /updates/news/231208-research/fig1_hu_6a9e56a050390b62.webp 400w,
-               /updates/news/231208-research/fig1_hu_f268795eb920e0c2.webp 760w,
-               /updates/news/231208-research/fig1_hu_75157feee48d57c.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/231208-research/fig1_hu_6a9e56a050390b62.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;212&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>
@@ -370,30 +299,21 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/news/230915-iongnss/fig1_hu_3f27cca0b30285ff.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1350&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;fig1&#34; srcset=&#34;
-               /updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp 400w,
-               /updates/news/230915-iongnss/fig1_hu_cdf7b38adad2eb7b.webp 760w,
-               /updates/news/230915-iongnss/fig1_hu_b1b5b4bf20949e14.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
  &lt;!-- ![fig2](fig2.jpg) --&gt;
 </description>

@@ -71,35 +71,27 @@
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_ebff06f842dccd79.webp&#34; alt=&#34;230221-kor-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1138&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230221-kor-fig1&#34; srcset=&#34;
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp 400w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_13fe3e16e8710af6.webp 760w,
-               /updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_88a3aba4821c299f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/updates/press/230221-%EB%8C%80%ED%86%B5%EB%A0%B9%EC%8B%A4/fig1_hu_6f101f922d90a106.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;481&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;br&gt;
 &lt;h1 id=&#34;releted-media-report-selected&#34;&gt;Releted Media Report (Selected)&lt;/h1&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;1-대한민국-우주경제-시대-우주항공청을-최고의-연구개발-플랫폼으로-&#34;&gt;1) &lt;a href=&#34;https://www.youtube.com/watch?v=C-zUniIu5pw&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;대한민국 우주경제 시대, 우주항공청을 최고의 연구개발 플랫폼으로! [뉴스페이스 시대 우주경제 개척자와의 대화]&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;1-대한민국-우주경제-시대-우주항공청을-최고의-연구개발-플랫폼으로-&#34;&gt;1) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: A conversation with a space economy pioneer in the Newspace era&lt;/li&gt;
 &lt;li&gt;Source: 대한민국 대통령실 (Office of the President of the Republic of Korea)&lt;/li&gt;
@@ -112,7 +104,8 @@
 
 &lt;/br&gt;&lt;/p&gt;
 &lt;br&gt;
-&lt;h2 id=&#34;2-이과인들의-간담회에-윤하의-등장이라대통령실이-그를-초대한-이유는-무엇이었을까&#34;&gt;2) &lt;a href=&#34;https://www.youtube.com/watch?v=V_hGZgiFsls&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;이과인들의 간담회에 윤하의 등장이라…대통령실이 그를 초대한 이유는 무엇이었을까?&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;2-이과인들의-간담회에-윤하의-등장이라대통령실이-그를-초대한-이유는-무엇이었을까&#34;&gt;2) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: Yoon Ha appeared at a meeting of science students… Why did the Blue House invite him?&lt;/li&gt;
 &lt;li&gt;Source: 비디오머그&lt;/li&gt;
@@ -124,7 +117,8 @@
         &lt;/div&gt;
 
 &lt;/br&gt;&lt;/p&gt;
-&lt;h2 id=&#34;3-우주개척자-만난-尹-우주산업-국가가-관리하고-키워나가갈것&#34;&gt;3) &lt;a href=&#34;https://www.donga.com/news/Politics/article/all/20230221/118011142/1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;‘우주개척자’ 만난 尹 “우주산업 국가가 관리하고 키워나가갈것”&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;3-우주개척자-만난-尹-우주산업-국가가-관리하고-키워나가갈것&#34;&gt;3) 
+&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Title: President Yoon met with ‘space pioneers’, “The space industry will be managed and developed by the state”&lt;/li&gt;
 &lt;li&gt;Source: 동아일보&lt;/li&gt;
@@ -512,30 +506,21 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/title_hu_1f70d0c2549f1a2.webp&#34; alt=&#34;SNUGLITE-II CubeSat&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;442&#34; height=&#34;500&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II CubeSat&#34; srcset=&#34;
-               /project/snuglite-ii/title_hu_ca292a264babd492.webp 400w,
-               /project/snuglite-ii/title_hu_d3a5a2366b743f12.webp 760w,
-               /project/snuglite-ii/title_hu_60464b7afa7c23e1.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/title_hu_ca292a264babd492.webp&#34;
-               width=&#34;442&#34;
-               height=&#34;500&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div class=&#34;card my-4 shadow-sm&#34;&gt;
   &lt;div class=&#34;card-body&#34;&gt;
@@ -717,30 +702,21 @@ SNUGLITE-II was a standard 3U CubeSat, launched aboard South Korea&amp;rsquo;s f
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig2_hu_f6e4510519fdf867.webp&#34; alt=&#34;SNUGLITE-II CubeSat: Before and after deployment&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;795&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II CubeSat: Before and after deployment&#34; srcset=&#34;
-               /project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp 400w,
-               /project/snuglite-ii/fig2_hu_9ac49416a9641189.webp 760w,
-               /project/snuglite-ii/fig2_hu_12f50f07fcabc184.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig2_hu_5a18116d3d5f5504.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;382&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II CubeSat: Before and after deployment
@@ -948,60 +924,42 @@ Fig. SNUGLITE-II CubeSat: Before and after deployment
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig3_hu_14fa325be260993d.webp&#34; alt=&#34;Electrical Interface Diagram&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;679&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Electrical Interface Diagram&#34; srcset=&#34;
-               /project/snuglite-ii/fig3_hu_fd7728796f157244.webp 400w,
-               /project/snuglite-ii/fig3_hu_5cdbcee79e769790.webp 760w,
-               /project/snuglite-ii/fig3_hu_692966fa26f264e1.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig3_hu_fd7728796f157244.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;430&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;13-operation-scenario&#34;&gt;1.3. Operation Scenario&lt;/h3&gt;
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig1_hu_41da829ff66edcf9.webp&#34; alt=&#34;Operation Scenario&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;633&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Operation Scenario&#34; srcset=&#34;
-               /project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp 400w,
-               /project/snuglite-ii/fig1_hu_98c422273ac083b8.webp 760w,
-               /project/snuglite-ii/fig1_hu_e9605023f2603cfe.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig1_hu_996363f193c0c7a8.webp&#34;
-               width=&#34;633&#34;
-               height=&#34;400&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Operation Scenario
@@ -1049,30 +1007,21 @@ Fig. Operation Scenario
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig4_hu_a1884b82f9b0a339.webp&#34; alt=&#34;Overall Block Diagram of ADCS&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;800&#34; height=&#34;629&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Overall Block Diagram of ADCS&#34; srcset=&#34;
-               /project/snuglite-ii/fig4_hu_80b715a226ca9194.webp 400w,
-               /project/snuglite-ii/fig4_hu_fed3f0af19fb6e09.webp 760w,
-               /project/snuglite-ii/fig4_hu_aed9c522c5b1e446.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig4_hu_80b715a226ca9194.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;598&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Overall Block Diagram of ADCS
@@ -1082,30 +1031,21 @@ Fig. Overall Block Diagram of ADCS
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig5_hu_412af405d3e1263b.webp&#34; alt=&#34;Design Concept of ADCS&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;635&#34; height=&#34;800&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Design Concept of ADCS&#34; srcset=&#34;
-               /project/snuglite-ii/fig5_hu_45dc5de101be6866.webp 400w,
-               /project/snuglite-ii/fig5_hu_60f65a41360c6d7c.webp 760w,
-               /project/snuglite-ii/fig5_hu_27f2fcfb32ef7b44.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig5_hu_45dc5de101be6866.webp&#34;
-               width=&#34;603&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Design Philosophy of ADCS
@@ -1146,30 +1086,21 @@ Fig. Design Philosophy of ADCS
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig6_hu_59bd2a5b0bd41631.webp&#34; alt=&#34;Components of SNUGLITE-II&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1155&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Components of SNUGLITE-II&#34; srcset=&#34;
-               /project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp 400w,
-               /project/snuglite-ii/fig6_hu_c754914ff4199489.webp 760w,
-               /project/snuglite-ii/fig6_hu_b77d5b6ff9b43482.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig6_hu_a7ea0360d6b58ad7.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;395&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Components of SNUGLITE-II
@@ -1195,30 +1126,21 @@ Fig. Components of SNUGLITE-II
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig7_hu_6a3fac95955c349b.webp&#34; alt=&#34;Far-field Test&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;450&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Far-field Test&#34; srcset=&#34;
-               /project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp 400w,
-               /project/snuglite-ii/fig7_hu_fcfc282b3f20ccfd.webp 760w,
-               /project/snuglite-ii/fig7_hu_ab8e14db504a789f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig7_hu_4ee52e726171dd86.webp&#34;
-               width=&#34;450&#34;
-               height=&#34;600&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. Far-field Test
@@ -1231,30 +1153,21 @@ Fig. Far-field Test
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig8_hu_8bdd5b4b7c4e8c6d.webp&#34; alt=&#34;SNUGLITE-II EVT&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;900&#34; height=&#34;600&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II EVT&#34; srcset=&#34;
-               /project/snuglite-ii/fig8_hu_3cc28176b520acf.webp 400w,
-               /project/snuglite-ii/fig8_hu_1b96cdb328df4c3d.webp 760w,
-               /project/snuglite-ii/fig8_hu_ec6fa5e0ae38845.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig8_hu_3cc28176b520acf.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II Thermal Vaccum Test
@@ -1313,30 +1226,21 @@ Fig. SNUGLITE-II Thermal Vaccum Test
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig9_hu_16205755e782f8ef.webp&#34; alt=&#34;SNUGLITE-II Position1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;512&#34; height=&#34;288&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position1&#34; srcset=&#34;
-               /project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp 400w,
-               /project/snuglite-ii/fig9_hu_b69da2d9b95243be.webp 760w,
-               /project/snuglite-ii/fig9_hu_1c39244bfe0c492f.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig9_hu_8592b0d38d17e2d.webp&#34;
-               width=&#34;512&#34;
-               height=&#34;288&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II GPS Receiver Position 
@@ -1344,30 +1248,21 @@ Fig. SNUGLITE-II GPS Receiver Position
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig10_hu_cfdbe62ba603be4b.webp&#34; alt=&#34;SNUGLITE-II Position2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;385&#34; height=&#34;308&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Position2&#34; srcset=&#34;
-               /project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp 400w,
-               /project/snuglite-ii/fig10_hu_92db0c16352a6776.webp 760w,
-               /project/snuglite-ii/fig10_hu_794a60f0c613ea81.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig10_hu_a4433c2febbbe73d.webp&#34;
-               width=&#34;385&#34;
-               height=&#34;308&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II GPS Receiver Position vs TLE
@@ -1382,30 +1277,21 @@ Fig. SNUGLITE-II GPS Receiver Position vs TLE
 &lt;p&gt;
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+&lt;figure class=&#34;update-detail__photo&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig11_hu_521c7c3c27da1997.webp&#34; alt=&#34;SNUGLITE-II Angular Velocity&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;525&#34; height=&#34;400&#34;&gt;
+  
+&lt;/figure&gt;
 
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;SNUGLITE-II Angular Velocity&#34; srcset=&#34;
-               /project/snuglite-ii/fig11_hu_10ed05676ababab4.webp 400w,
-               /project/snuglite-ii/fig11_hu_772d331ea574da8b.webp 760w,
-               /project/snuglite-ii/fig11_hu_572521c5a1a24502.webp 1200w&#34;
-               src=&#34;http://localhost:1313/project/snuglite-ii/fig11_hu_10ed05676ababab4.webp&#34;
-               width=&#34;525&#34;
-               height=&#34;400&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p style=&#34;text-align: center;&#34;&gt;&lt;strong&gt;
 Fig. SNUGLITE-II Angular Velocity in-Orbit

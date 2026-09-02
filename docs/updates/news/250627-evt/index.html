@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -372,6 +372,33 @@
 
 
 
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
+
 
 
 
@@ -691,7 +718,7 @@
   
 
 
-<main class="update-detail">
+<main class="update-detail update-detail--protected">
   <div class="update-detail__shell">
     <a class="update-detail__back" href="/updates/">
       <span aria-hidden="true">←</span> Updates
@@ -709,7 +736,7 @@
 
     
       <figure class="update-detail__hero">
-        <img src="/updates/news/250627-evt/featured_hu_b9912c8fd9d18b96.webp" width="1200" height="800" alt="Environmental Testing Completed for SNUGLITE-III CubeSat!" loading="eager">
+        <img src="/updates/news/250627-evt/featured_hu_b9912c8fd9d18b96.webp" width="1200" height="800" alt="Environmental Testing Completed for SNUGLITE-III CubeSat!" loading="eager" draggable="false">
       </figure>
     
 
@@ -726,64 +753,68 @@
 <p>
 
 
+  
+  
+
+
+
+  
+    
+  
+  
+
+<figure class="update-detail__photo">
+  <img src="/updates/news/250627-evt/fig1_hu_f6bbae42dc4c617f.webp" alt="fig1" loading="lazy" draggable="false" width="1200" height="800">
+  
+</figure>
 
 
 
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+<figure class="update-detail__photo">
+  <img src="/updates/news/250627-evt/fig2_hu_d03eac72d23170e6.webp" alt="fig2" loading="lazy" draggable="false" width="1200" height="800">
+  
+</figure>
 
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="fig1" srcset="
-               /updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp 400w,
-               /updates/news/250627-evt/fig1_hu_465fe3fa86b48fd9.webp 760w,
-               /updates/news/250627-evt/fig1_hu_cc1bba463a904f45.webp 1200w"
-               src="/updates/news/250627-evt/fig1_hu_aa6ce0c0571274e2.webp"
-               width="760"
-               height="507"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="fig2" srcset="
-               /updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp 400w,
-               /updates/news/250627-evt/fig2_hu_aeb149dd5284b89e.webp 760w,
-               /updates/news/250627-evt/fig2_hu_534f0a335594cfd2.webp 1200w"
-               src="/updates/news/250627-evt/fig2_hu_a7cc5feecda66dbd.webp"
-               width="760"
-               height="507"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
 </p>
 
       </article>
     </div>
   </div>
 </main>
+
+<script>
+  (() => {
+    const article = document.querySelector('.update-detail--protected');
+    if (!article) return;
+    
+    article.querySelectorAll('img').forEach(image => {
+      image.removeAttribute('data-zoomable');
+      image.removeAttribute('data-fancybox');
+      image.setAttribute('draggable', 'false');
+    });
+    
+    ['contextmenu', 'dragstart', 'click', 'auxclick'].forEach(type => {
+      article.addEventListener(type, event => {
+        if (!(event.target instanceof Element) || !event.target.closest('img')) return;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+      }, true);
+    });
+  })();
+</script>
+
 
 <div class="container">
   <footer class="site-footer">

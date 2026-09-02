@@ -1,3 +1,4 @@
 User-agent: *
+# Allow crawlers to read the noindex directive in page headers.
+Disallow:
 
-Sitemap: http://localhost:1313/sitemap.xml

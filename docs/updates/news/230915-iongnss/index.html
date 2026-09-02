@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: August 29, 2026 --><html lang="en-us" >
+<!-- Last Published: September 2, 2026 --><html lang="en-us" >
 
 
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -374,6 +374,33 @@ This was my first time attending the ION GNSS&#43;, and I was honored to be reco
 
 
 
+  
+    
+      
+      
+
+      
+    
+  
+    
+      
+      
+<script src="/js/menu-transition.min.7d2c050a4815c52d9e2c63e23693b8c04499e3712e9e4f82caf65c5de9daa51e.js"></script>
+
+      
+    
+  
+    
+      
+      
+
+  <meta name="robots" content="noindex, follow">
+
+
+      
+    
+  
+
 
 
 
@@ -693,7 +720,7 @@ This was my first time attending the ION GNSS&#43;, and I was honored to be reco
   
 
 
-<main class="update-detail">
+<main class="update-detail update-detail--protected">
   <div class="update-detail__shell">
     <a class="update-detail__back" href="/updates/">
       <span aria-hidden="true">←</span> Updates
@@ -711,7 +738,7 @@ This was my first time attending the ION GNSS&#43;, and I was honored to be reco
 
     
       <figure class="update-detail__hero">
-        <img src="/updates/news/230915-iongnss/featured_hu_651cb165e96ecc37.webp" width="1800" height="1200" alt="ION GNSS&#43; 2023 (Denver, USA)" loading="eager">
+        <img src="/updates/news/230915-iongnss/featured_hu_651cb165e96ecc37.webp" width="1800" height="1200" alt="ION GNSS&#43; 2023 (Denver, USA)" loading="eager" draggable="false">
       </figure>
     
 
@@ -723,30 +750,21 @@ This was my first time attending the ION GNSS&#43;, and I was honored to be reco
 <p>
 
 
+  
+  
 
 
 
+  
+    
+  
+  
 
+<figure class="update-detail__photo">
+  <img src="/updates/news/230915-iongnss/fig1_hu_3f27cca0b30285ff.webp" alt="fig1" loading="lazy" draggable="false" width="1800" height="1350">
+  
+</figure>
 
-
-
-
-
-
-
-
-
-<figure  >
-  <div class="d-flex justify-content-center">
-    <div class="w-100" ><img alt="fig1" srcset="
-               /updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp 400w,
-               /updates/news/230915-iongnss/fig1_hu_cdf7b38adad2eb7b.webp 760w,
-               /updates/news/230915-iongnss/fig1_hu_b1b5b4bf20949e14.webp 1200w"
-               src="/updates/news/230915-iongnss/fig1_hu_d9e82967ce3028ac.webp"
-               width="760"
-               height="570"
-               loading="lazy" data-zoomable /></div>
-  </div></figure>
 </p>
  <!-- ![fig2](fig2.jpg) -->
 
@@ -754,6 +772,28 @@ This was my first time attending the ION GNSS&#43;, and I was honored to be reco
     </div>
   </div>
 </main>
+
+<script>
+  (() => {
+    const article = document.querySelector('.update-detail--protected');
+    if (!article) return;
+    
+    article.querySelectorAll('img').forEach(image => {
+      image.removeAttribute('data-zoomable');
+      image.removeAttribute('data-fancybox');
+      image.setAttribute('draggable', 'false');
+    });
+    
+    ['contextmenu', 'dragstart', 'click', 'auxclick'].forEach(type => {
+      article.addEventListener(type, event => {
+        if (!(event.target instanceof Element) || !event.target.closest('img')) return;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+      }, true);
+    });
+  })();
+</script>
+
 
 <div class="container">
   <footer class="site-footer">
