@@ -1,70 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ho Namgung | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/author/ho-namgung/</link>
-      <atom:link href="http://localhost:1313/author/ho-namgung/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ho Namgung</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_3138c5b4585f7732.png</url>
-      <title>Ho Namgung</title>
-      <link>http://localhost:1313/author/ho-namgung/</link>
-    </image>
-    
-    <item>
-      <title>Design and Ground Testing of an Electromagnetic Docking Mechanism for the SNUGLITE-III CubeSat</title>
-      <link>http://localhost:1313/publication/dc_202601/</link>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202601/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ho Namgung | Hanjoon Shim | 심한준</title><link>https://hanjoon.com/author/ho-namgung/</link><atom:link href="https://hanjoon.com/author/ho-namgung/index.xml" rel="self" type="application/rss+xml"/><description>Ho Namgung</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate><image><url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url><title>Ho Namgung</title><link>https://hanjoon.com/author/ho-namgung/</link></image><item><title>Design and Ground Testing of an Electromagnetic Docking Mechanism for the SNUGLITE-III CubeSat</title><link>https://hanjoon.com/publication/dc_202601/</link><pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate><guid>https://hanjoon.com/publication/dc_202601/</guid><description>&lt;!--
+&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
 &lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Development and Launch Preparation of SNUGLITE-III CubeSat Flight Model</title>
-      <link>http://localhost:1313/publication/dc_202505/</link>
-      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202505/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
+&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
 &lt;/div&gt;
-
-
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
 &lt;/div&gt;
-
-
-Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;</description></item><item><title>Development and Launch Preparation of SNUGLITE-III CubeSat Flight Model</title><link>https://hanjoon.com/publication/dc_202505/</link><pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate><guid>https://hanjoon.com/publication/dc_202505/</guid><description>&lt;!--
+&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="alert alert-note"&gt;
+&lt;div&gt;
+Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+&lt;/div&gt;
+&lt;/div&gt;
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;</description></item></channel></rss>

@@ -1,51 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>News | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tag/news/</link>
-      <atom:link href="http://localhost:1313/tag/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Aug 2026 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_3138c5b4585f7732.png</url>
-      <title>News</title>
-      <link>http://localhost:1313/tag/news/</link>
-    </image>
-    
-    <item>
-      <title>A New Look for My Website</title>
-      <link>http://localhost:1313/updates/news/260829-release/</link>
-      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/260829-release/</guid>
-      <description>&lt;p&gt;I have refreshed my personal website with a new design and a clearer structure for sharing my research, publications, projects, and updates.&lt;/p&gt;
-&lt;p&gt;The site will continue to grow alongside my work, future collaborations, and lab activities. I hope you enjoy exploring the new version.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Farewell and New Beginning</title>
-      <link>http://localhost:1313/updates/news/251001-uol/</link>
-      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/251001-uol/</guid>
-      <description>&lt;p&gt;From March 2017 to September 2025, I have been part of the GNSS Laboratory at Seoul National University, completing my graduate studies and concluding my journey as a postdoctoral researcher.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>News | Hanjoon Shim | 심한준</title><link>https://hanjoon.com/tag/news/</link><atom:link href="https://hanjoon.com/tag/news/index.xml" rel="self" type="application/rss+xml"/><description>News</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2026 00:00:00 +0000</lastBuildDate><image><url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url><title>News</title><link>https://hanjoon.com/tag/news/</link></image><item><title>Attending ION GNSS+ 2026</title><link>https://hanjoon.com/updates/news/260905-iongnss/</link><pubDate>Sat, 05 Sep 2026 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/260905-iongnss/</guid><description>&lt;p&gt;Just a few days to go until ION GNSS+ 2026!&lt;/p&gt;
+&lt;p&gt;I’m excited to attend ION GNSS+ 2026 in Orlando, which will be my first ION conference since completing my Ph.D.&lt;/p&gt;
+&lt;p&gt;I’ll be presenting my postdoctoral research:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“Toward an Asteroid-Based Autonomous Navigation Framework for Deep Space CubeSats”&lt;/strong&gt; in the &lt;strong&gt;E2b: Novel Paradigms in Navigation&lt;/strong&gt; session.&lt;/p&gt;
+&lt;p&gt;This work explores an autonomous absolute navigation framework using asteroids as natural navigation references, with the aim of investigating the future feasibility of asteroid-based navigation for deep-space missions.&lt;/p&gt;
+&lt;p&gt;I’m looking forward to meeting colleagues in the ION community and discussing current topics in LEO PNT, RTK, autonomous navigation, deep-space PNT, and small-spacecraft missions.&lt;/p&gt;
+&lt;p&gt;See you in Orlando!&lt;/p&gt;</description></item><item><title>A New Look for My Website</title><link>https://hanjoon.com/updates/news/260829-release/</link><pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/260829-release/</guid><description>&lt;p&gt;I have refreshed my personal website with a new design and a clearer structure for sharing my research, publications, projects, and updates.&lt;/p&gt;
+&lt;p&gt;The site will continue to grow alongside my work, future collaborations, and lab activities. I hope you enjoy exploring the new version.&lt;/p&gt;</description></item><item><title>Farewell and New Beginning</title><link>https://hanjoon.com/updates/news/251001-uol/</link><pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/251001-uol/</guid><description>&lt;p&gt;From March 2017 to September 2025, I have been part of the GNSS Laboratory at Seoul National University, completing my graduate studies and concluding my journey as a postdoctoral researcher.&lt;/p&gt;
 &lt;p&gt;I am deeply grateful to Prof. Changdon Kee, whose pioneering Ph.D. work on Wide-Area DGPS (WADGPS) laid the groundwork for what became today’s Satellite-Based Augmentation Systems (SBAS). His invaluable guidance has shaped my growth as a researcher, and I also extend my sincere thanks to all my colleagues for their companionship and support throughout these years.&lt;/p&gt;
 &lt;p&gt;In particular, I wish for the successful launch of SNUGLITE-III CubeSat scheduled on November 27, 2025. 🚀&lt;/p&gt;
 &lt;p&gt;This October, I begin my new chapter as a Postdoctoral Researcher in Mechanical and Aerospace Engineering at the University of Liverpool, joining Dr Stefania Soldini’s research group. My research will focus on Guidance, Navigation, and Control (GNC) for asteroid missions under the #REMORA project.&lt;/p&gt;
-&lt;p&gt;I look forward to this new stage of life, and I hope to continue building meaningful collaborations at future conferences and beyond.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Personal Homepage Released</title>
-      <link>http://localhost:1313/updates/news/241015-release/</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/241015-release/</guid>
-      <description>&lt;p&gt;I’m excited to announce that my research website is now live!&lt;/p&gt;
+&lt;p&gt;I look forward to this new stage of life, and I hope to continue building meaningful collaborations at future conferences and beyond.&lt;/p&gt;</description></item><item><title>Personal Homepage Released</title><link>https://hanjoon.com/updates/news/241015-release/</link><pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/241015-release/</guid><description>&lt;p&gt;I’m excited to announce that my research website is now live!&lt;/p&gt;
 &lt;p&gt;The site serves as a hub for sharing updates on my projects, publications, and other academic activities.
 This platform is designed to showcase my work in spacecraft navigation and CubeSat technologies, with the goal of connecting with fellow researchers and enthusiasts in the field.
-Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Feel free to explore, and I’d love to hear your feedback!&lt;/p&gt;</description></item></channel></rss>

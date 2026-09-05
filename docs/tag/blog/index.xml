@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Blog | Hanjoon Shim | 심한준</title>
-    <link>http://localhost:1313/tag/blog/</link>
-      <atom:link href="http://localhost:1313/tag/blog/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>http://localhost:1313/media/icon_hu_3138c5b4585f7732.png</url>
-      <title>Blog</title>
-      <link>http://localhost:1313/tag/blog/</link>
-    </image>
-    
-    <item>
-      <title>Environmental Testing Completed for SNUGLITE-III CubeSat!</title>
-      <link>http://localhost:1313/updates/news/250627-evt/</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/250627-evt/</guid>
-      <description>&lt;p&gt;From June 18 to 27, 2025, launch vibration and thermal vacuum tests were completed at the KTL in Jinju, Korea, as part of final pre-launch preparations. SNUGLITE-III is scheduled to launch aboard the Nuri rocket from the Naro Space Center in late November.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog | Hanjoon Shim | 심한준</title><link>https://hanjoon.com/tag/blog/</link><atom:link href="https://hanjoon.com/tag/blog/index.xml" rel="self" type="application/rss+xml"/><description>Blog</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><image><url>https://hanjoon.com/media/icon_hu_3138c5b4585f7732.png</url><title>Blog</title><link>https://hanjoon.com/tag/blog/</link></image><item><title>Environmental Testing Completed for SNUGLITE-III CubeSat!</title><link>https://hanjoon.com/updates/news/250627-evt/</link><pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/250627-evt/</guid><description>&lt;p&gt;From June 18 to 27, 2025, launch vibration and thermal vacuum tests were completed at the KTL in Jinju, Korea, as part of final pre-launch preparations. SNUGLITE-III is scheduled to launch aboard the Nuri rocket from the Naro Space Center in late November.&lt;/p&gt;
 &lt;p&gt;The CubeSat features:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The first in-orbit demonstration of GPS RTK relative navigation&lt;/li&gt;
@@ -26,84 +7,21 @@
 &lt;/ul&gt;
 &lt;p&gt;Grateful to take part in this mission advancing the frontiers of CubeSat technology. Still a long road ahead, but each milestone brings us closer to space.&lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig1_hu_f6bbae42dc4c617f.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/250627-evt/fig1_hu_f6bbae42dc4c617f.webp" alt="fig1" loading="lazy" draggable="false" width="1200" height="800"&gt;
 &lt;/figure&gt;
-
-
-
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/250627-evt/fig2_hu_d03eac72d23170e6.webp&#34; alt=&#34;fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/250627-evt/fig2_hu_d03eac72d23170e6.webp" alt="fig2" loading="lazy" draggable="false" width="1200" height="800"&gt;
 &lt;/figure&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>IEEE Aerospace Conference 2025 (Big Sky)</title>
-      <link>http://localhost:1313/updates/news/250306-ieee/</link>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/250306-ieee/</guid>
-      <description>&lt;p&gt;I attended the 2025 IEEE Aerospace Conference held in Big Sky, Montana. It was an excellent conference with many insightful discussions and presentations.&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>IEEE Aerospace Conference 2025 (Big Sky)</title><link>https://hanjoon.com/updates/news/250306-ieee/</link><pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/250306-ieee/</guid><description>&lt;p&gt;I attended the 2025 IEEE Aerospace Conference held in Big Sky, Montana. It was an excellent conference with many insightful discussions and presentations.&lt;/p&gt;
 &lt;p&gt;I presented the following paper:
-
 &lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/250306-ieee/fig1_hu_66ff78068414e4f8.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;800&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/250306-ieee/fig1_hu_66ff78068414e4f8.webp" alt="fig1" loading="lazy" draggable="false" width="1200" height="800"&gt;
 &lt;/figure&gt;
-
 &lt;/p&gt;
-&lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announce my graduation with a Doctorate in Aerospace Engineering</title>
-      <link>http://localhost:1313/updates/news/240831-grad/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/240831-grad/</guid>
-      <description>&lt;p&gt;I am honored to announce my graduation with a Doctorate in Aerospace Engineering.
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>Announce my graduation with a Doctorate in Aerospace Engineering</title><link>https://hanjoon.com/updates/news/240831-grad/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/240831-grad/</guid><description>&lt;p&gt;I am honored to announce my graduation with a Doctorate in Aerospace Engineering.
 With profound gratitude for the support and knowledge I have gained, I remain steadfast in my commitment to the principle of &amp;ldquo;learning and sharing with others.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;My doctoral dissertation, &amp;ldquo;Precise GPS Relative Navigation for CubeSat Rendezvous,&amp;rdquo; delves into the development of RTK-based relative navigation techniques, achieving centimeter-level accuracy for GPS in LEO. This work has successfully demonstrated the application of these advanced techniques to CubeSats. The algorithms, meticulously coded in C within a Real-Time Operating System environment, highlight my proficiency in embedded systems, ensuring rapid computation and reliable centimeter-level GPS-based relative navigation. These innovations will be demonstrated in the SNUGLITE-III CubeSat mission, scheduled for launch in November 2025. Currently, I am fully dedicated to finalizing the SNUGLITE-III project to ensure its successful execution.&lt;/p&gt;
 &lt;p&gt;As I look towards the future, I am actively seeking a postdoctoral position starting in mid-2025. I bring demonstrated expertise in the following areas:&lt;/p&gt;
@@ -116,114 +34,29 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;/ul&gt;
 &lt;p&gt;My CV is readily available upon request, and I am eager to explore opportunities where I can contribute my skills and knowledge to cutting-edge projects.&lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/240831-grad/fig1_hu_90a3363aed1657a4.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;933&#34; height=&#34;1400&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/240831-grad/fig1_hu_90a3363aed1657a4.webp" alt="fig1" loading="lazy" draggable="false" width="933" height="1400"&gt;
 &lt;/figure&gt;
-
 &lt;/p&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research Blog on Jul 05, 2024</title>
-      <link>http://localhost:1313/updates/news/240705-research/</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/240705-research/</guid>
-      <description>&lt;p&gt;For this project, an Engineering Model (EM) of the Interstage GSSB was developed. This design replicates all the functions of the Gomspace Interstage GSSB. Since our team only ordered a limited number of Flight Models (FM), an EM was necessary for testing purposes, as additional FM units were too costly. To facilitate rapid development, I designed the EM to be Arduino-compatible and implemented all protocols to match those of the Gomspace FM. Since this panel does not need to operate in space, it is ideal for flight software testing.&lt;/p&gt;
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>Research Blog on Jul 05, 2024</title><link>https://hanjoon.com/updates/news/240705-research/</link><pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/240705-research/</guid><description>&lt;p&gt;For this project, an Engineering Model (EM) of the Interstage GSSB was developed. This design replicates all the functions of the Gomspace Interstage GSSB. Since our team only ordered a limited number of Flight Models (FM), an EM was necessary for testing purposes, as additional FM units were too costly. To facilitate rapid development, I designed the EM to be Arduino-compatible and implemented all protocols to match those of the Gomspace FM. Since this panel does not need to operate in space, it is ideal for flight software testing.&lt;/p&gt;
 &lt;/br&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig1_hu_231f1bb20a404ba5.webp&#34; alt=&#34;240705-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;790&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/240705-research/fig1_hu_231f1bb20a404ba5.webp" alt="240705-fig1" loading="lazy" draggable="false" width="1800" height="790"&gt;
 &lt;/figure&gt;
-
-
-
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/240705-research/fig2_hu_781c56577dcd48e7.webp&#34; alt=&#34;240705-fig2&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;955&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/240705-research/fig2_hu_781c56577dcd48e7.webp" alt="240705-fig2" loading="lazy" draggable="false" width="1800" height="955"&gt;
 &lt;/figure&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ION ITM 2024 (Long Beach)</title>
-      <link>http://localhost:1313/updates/news/240124-itm/</link>
-      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/240124-itm/</guid>
-      <description>&lt;p&gt;Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &amp;ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&amp;rdquo; This presentation extends the discussion from the paper presented at the ION GNSS+ conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&amp;rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver.&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>ION ITM 2024 (Long Beach)</title><link>https://hanjoon.com/updates/news/240124-itm/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/240124-itm/</guid><description>&lt;p&gt;Thrilled to share my experiences from the ION ITM 2024 conference! I had the honor of presenting on the topic &amp;ldquo;Verification and Hardware Implementation of Single-Frequency RTK-Based Precise Relative Navigation for SNUGLITE-III CubeSat.&amp;rdquo; This presentation extends the discussion from the paper presented at the ION GNSS+ conference last September, focusing on performance verification using real-world data. Excitingly, our research team submitted the results to ION Navigation, and it&amp;rsquo;s currently under review, showcasing the potential for cm-level relative navigation using a cube satellite with a single-frequency GPS receiver.&lt;/p&gt;
 &lt;p&gt;A definite highlight was the opportunity to connect with a diverse range of individuals at the conference, especially during the engaging Student Social Event at the ION conference. It provided a platform for insightful interviews with fellow students, enriching my overall experience.&lt;/p&gt;
 &lt;p&gt;Although my initial plan was to attend ION GNSS+ 2024, unforeseen circumstances led me to participate in IAC 2024 in October. Unfortunately, our team will be divided among labs, and other students will represent us in our meeting with the ION Society. To those attending IAC 2024, I eagerly anticipate connecting at the small satellite-related symposium, where I&amp;rsquo;ll be presenting my findings.&lt;/p&gt;
 &lt;p&gt;Great to have met everyone. I hope to see you again next time.&lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/240124-itm/fig1_hu_a8e8fbeb05c108c0.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1616&#34; height=&#34;1080&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/240124-itm/fig1_hu_a8e8fbeb05c108c0.webp" alt="fig1" loading="lazy" draggable="false" width="1616" height="1080"&gt;
 &lt;/figure&gt;
-
 &lt;/p&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research Blog on Dec 08, 2023</title>
-      <link>http://localhost:1313/updates/news/231208-research/</link>
-      <pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/231208-research/</guid>
-      <description>&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>Research Blog on Dec 08, 2023</title><link>https://hanjoon.com/updates/news/231208-research/</link><pubDate>Fri, 08 Dec 2023 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/231208-research/</guid><description>&lt;h3 id="overview"&gt;Overview&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;Fit to Standard 3U Size CubeSats&lt;/li&gt;
 &lt;li&gt;Two series-connected AzurSpace 3G30A solar cells&lt;/li&gt;
@@ -232,87 +65,18 @@ With profound gratitude for the support and knowledge I have gained, I remain st
 &lt;/br&gt;
 &lt;p&gt;In the SNUGLITE-III project, one of the main focus (to reduce budget) was on the fabrication of the solar panels for the CubeSat. I was solely responsible for the entire process, from PCB design to fabrication. Using Gomspace products as a benchmark, I ensured that all the solar panels were compatible and could integrate seamlessly with the system. Additionally, I verified the functionality of the panels through vacuum testing and solar simulator experiments, confirming that they performed as expected.&lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/231208-research/fig1_hu_2a331dce4609f4d3.webp&#34; alt=&#34;231208-fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1200&#34; height=&#34;335&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/231208-research/fig1_hu_2a331dce4609f4d3.webp" alt="231208-fig1" loading="lazy" draggable="false" width="1200" height="335"&gt;
 &lt;/figure&gt;
-
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ION GNSS&#43; 2023 (Denver, USA)</title>
-      <link>http://localhost:1313/updates/news/230915-iongnss/</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/230915-iongnss/</guid>
-      <description>&lt;p&gt;A little late, but I&amp;rsquo;m excited to share the news that I received the Best Presentation Award at the ION GNSS+ 2023 conference in September.&lt;/p&gt;
+&lt;/p&gt;</description></item><item><title>ION GNSS+ 2023 (Denver, USA)</title><link>https://hanjoon.com/updates/news/230915-iongnss/</link><pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/230915-iongnss/</guid><description>&lt;p&gt;A little late, but I&amp;rsquo;m excited to share the news that I received the Best Presentation Award at the ION GNSS+ 2023 conference in September.&lt;/p&gt;
 &lt;p&gt;This was my first time attending the ION GNSS+, and I was honored to be recognized for my work. My presentation was on a topic that I am passionate about, and I was glad to have the opportunity to share my research with a wider audience.&lt;/p&gt;
 &lt;p&gt;I received a lot of positive feedback from attendees, and I was able to connect with many people who are working in the same field. I am grateful for the opportunity to have attended this prestigious event, and I look forward to continuing my research in the field of GNSS.&lt;/p&gt;
 &lt;p&gt;
-
-
-  
-  
-
-
-
-  
-    
-  
-  
-
-&lt;figure class=&#34;update-detail__photo&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/updates/news/230915-iongnss/fig1_hu_3f27cca0b30285ff.webp&#34; alt=&#34;fig1&#34; loading=&#34;lazy&#34; draggable=&#34;false&#34; width=&#34;1800&#34; height=&#34;1350&#34;&gt;
-  
+&lt;figure class="update-detail__photo"&gt;
+&lt;img src="https://hanjoon.com/updates/news/230915-iongnss/fig1_hu_3f27cca0b30285ff.webp" alt="fig1" loading="lazy" draggable="false" width="1800" height="1350"&gt;
 &lt;/figure&gt;
-
 &lt;/p&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announce my graduation with a Master in Aerospace Engineering</title>
-      <link>http://localhost:1313/updates/news/190226-grad/</link>
-      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/190226-grad/</guid>
-      <description> &lt;!-- ![fig1](fig1.jpg) --&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ION ITM/PTTI 2018 (Reston, Virginia)</title>
-      <link>http://localhost:1313/updates/news/180130-itm/</link>
-      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/180130-itm/</guid>
-      <description> &lt;!-- ![fig1](fig1.jpg) --&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Announce my graduation with a Bachelor in Mechanical and Control Engineering</title>
-      <link>http://localhost:1313/updates/news/170217-grad/</link>
-      <pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/updates/news/170217-grad/</guid>
-      <description> &lt;!-- ![fig1](fig1.jpg) --&gt;
- &lt;!-- ![fig2](fig2.jpg) --&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>Announce my graduation with a Master in Aerospace Engineering</title><link>https://hanjoon.com/updates/news/190226-grad/</link><pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/190226-grad/</guid><description> &lt;!-- ![fig1](fig1.jpg) --&gt;
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>ION ITM/PTTI 2018 (Reston, Virginia)</title><link>https://hanjoon.com/updates/news/180130-itm/</link><pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/180130-itm/</guid><description> &lt;!-- ![fig1](fig1.jpg) --&gt;
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item><item><title>Announce my graduation with a Bachelor in Mechanical and Control Engineering</title><link>https://hanjoon.com/updates/news/170217-grad/</link><pubDate>Fri, 17 Feb 2017 00:00:00 +0000</pubDate><guid>https://hanjoon.com/updates/news/170217-grad/</guid><description> &lt;!-- ![fig1](fig1.jpg) --&gt;
+&lt;!-- ![fig2](fig2.jpg) --&gt;</description></item></channel></rss>
