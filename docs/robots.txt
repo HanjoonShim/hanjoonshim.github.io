@@ -2,3 +2,5 @@ User-agent: *
 # Allow crawlers to read the noindex directive in page headers.
 Disallow:
 
+Sitemap: https://hanjoon.com/sitemap.xml
+
